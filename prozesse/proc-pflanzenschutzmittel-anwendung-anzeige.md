@@ -1,0 +1,44 @@
+---
+id: proc-pflanzenschutzmittel-anwendung-anzeige
+titel: 'Pflanzenschutzmittel: Anwendung – Anzeige'
+status: aktiv
+zustaendigeEinheit: oe-amt-60
+zustaendigeRolle: ''
+beteiligte:
+- einheit: oe-amt-32
+  aufgabe: ''
+daten:
+  input: []
+  output: []
+  datenspeicher:
+  - id: dstore-unternehmens-und-registerdaten
+regelungen:
+  - '§§ 12-14 Pflanzenschutzgesetz (PflSchG) (Anwendung)'
+  - '§ 12 PflSchG (Anwendungsverbote und -beschränkungen)'
+  - 'EU-Verordnung (EG) Nr. 1107/2009 (Pflanzenschutzmittel)'
+letzte-aktualisierung: 2026-04-06
+---
+# Pflanzenschutzmittel: Anwendung – Anzeige
+
+## Prozessschritte
+
+**01 Anzeigepflicht prüfen**  
+*Prüfen ob und in welchem Umfang eine Anzeigepflicht besteht*
+
+**02 Unterlagen zusammenstellen**  
+*Erforderliche Dokumente und Nachweise für die Anzeige vorbereiten*
+
+**03 Anzeige einreichen**  
+*Anzeige fristgerecht mit allen Unterlagen bei der zuständigen Behörde einreichen*
+
+**04 Eingangsbestätigung**  
+*Zuständige Stelle bestätigt den Eingang der Anzeige*
+
+**05 Prüfung durch Behörde**  
+*Behörde prüft die Anzeige auf formelle und inhaltliche Richtigkeit*
+
+**06 Abschluss / Freigabe**  
+*Bestätigung des Verfahrensabschlusses oder Mitteilung von Auflagen/Beanstandungen*
+
+
+*Quelle: Allgemeine Verwaltungspraxis*

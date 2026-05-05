@@ -1,0 +1,47 @@
+---
+id: proc-standesamt-allgemeine-leistungen-informationen
+titel: Standesamt (allgemeine Leistungen/Informationen)
+status: aktiv
+zustaendigeEinheit: oe-amt-31
+zustaendigeRolle: ''
+beteiligte:
+- einheit: oe-amt-33
+  aufgabe: ''
+- einheit: oe-amt-15
+  aufgabe: ''
+daten:
+  input: []
+  output: []
+  datenspeicher:
+  - id: dstore-personenstammdaten
+  - id: dstore-personenstand
+  - id: dstore-kontaktdaten
+regelungen:
+  - '§§ 1-5 Personenstandsgesetz (PStG) (Allgemeine Vorschriften)'
+  - 'Nds. AVO-PStG'
+letzte-aktualisierung: 2026-04-06
+---
+# Standesamt (allgemeine Leistungen/Informationen)
+
+## Prozessschritte
+
+**01 Anfrage / Antrag aufnehmen**  
+*Anliegen zum Thema 'Standesamt (allgemeine Leistungen/Informationen)' entgegennehmen und Zuständigkeit klären*
+
+**02 Unterlagen prüfen**  
+*Vollständigkeit und Richtigkeit der eingereichten Unterlagen und Angaben prüfen*
+
+**03 Sachbearbeitung**  
+*Fachliche Bearbeitung gemäß geltenden Rechtsgrundlagen und Verwaltungsvorschriften*
+
+**04 Abstimmung**  
+*Ggf. interne oder externe Abstimmung mit beteiligten Stellen*
+
+**05 Ergebnis / Bescheid**  
+*Abschließende Entscheidung treffen und Ergebnis schriftlich mitteilen*
+
+**06 Dokumentation**  
+*Vorgang vollständig in der Akte dokumentieren und Fristen nachhalten*
+
+
+*Quelle: Allgemeine Verwaltungspraxis*

@@ -1,0 +1,46 @@
+---
+id: proc-sachverstaendige-r-gewerbe-oeffentliche-bestellung-verfahren
+titel: 'Sachverständige/r Gewerbe: öffentliche Bestellung (Verfahren)'
+status: aktiv
+zustaendigeEinheit: oe-amt-32
+zustaendigeRolle: ''
+beteiligte:
+- einheit: oe-amt-30
+  aufgabe: ''
+daten:
+  input: []
+  output: []
+  datenspeicher:
+  - id: dstore-lebenslauf-qualifikationsnachweis
+  - id: dstore-unternehmens-und-registerdaten
+  - id: dstore-personenstammdaten
+  - id: dstore-identitaetsnachweis
+regelungen:
+  - '§ 36 GewO (Öffentliche Bestellung von Sachverständigen)'
+  - '§ 36a GewO (Anerkannte Prüfstellen)'
+letzte-aktualisierung: 2026-04-06
+---
+# Sachverständige/r Gewerbe: öffentliche Bestellung (Verfahren)
+
+## Prozessschritte
+
+**01 Anfrage / Antrag aufnehmen**  
+*Anliegen zum Thema 'Sachverständige/r Gewerbe: öffentliche Bestellung (Verfahren)' entgegennehmen und Zuständigkeit klären*
+
+**02 Unterlagen prüfen**  
+*Vollständigkeit und Richtigkeit der eingereichten Unterlagen und Angaben prüfen*
+
+**03 Sachbearbeitung**  
+*Fachliche Bearbeitung gemäß geltenden Rechtsgrundlagen und Verwaltungsvorschriften*
+
+**04 Abstimmung**  
+*Ggf. interne oder externe Abstimmung mit beteiligten Stellen*
+
+**05 Ergebnis / Bescheid**  
+*Abschließende Entscheidung treffen und Ergebnis schriftlich mitteilen*
+
+**06 Dokumentation**  
+*Vorgang vollständig in der Akte dokumentieren und Fristen nachhalten*
+
+
+*Quelle: Allgemeine Verwaltungspraxis*

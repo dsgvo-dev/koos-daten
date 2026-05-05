@@ -1,0 +1,125 @@
+# koos.yaml — KOOS Root-Konfiguration
+# Vorlage für eine neue KOOS-Installation
+#
+# Ausfüllanleitung:
+#   1. Alle Felder mit <PLATZHALTER> ersetzen
+#   2. Optionale Felder (~) können leer bleiben oder ausgefüllt werden
+#   3. id-praefixe NIEMALS nachträglich ändern
+#   4. stand aktuell halten (JJJJ-MM-TT)
+#
+# Nach dem Ausfüllen:
+#   - orga.yaml anlegen (Organisationsstruktur)
+#   - prozesse/ und daten/ befüllen
+#   - preview.html öffnen → System ist betriebsbereit
+
+# ---------------------------------------------------------------------------
+# 1. ORGANISATION
+# ---------------------------------------------------------------------------
+
+organisation:
+  id: <gemeinde-kurzname>              # Beispiel: gemeinde-musterstadt
+  name: <Vollständiger Name>           # Beispiel: Gemeindeverwaltung Musterstadt
+  kurzname: <Kurzname>                 # Beispiel: Musterstadt
+  rechtsform: <Rechtsform>             # Gemeinde | Stadt | Samtgemeinde | Verbandsgemeinde | Landkreis | ...
+  rechtsgrundlage: ~                   # Beispiel: NKomVG §10
+  gemeindeschluessel: "<8-stellig>"   # Amtlicher Gemeindeschlüssel, in Anführungszeichen
+  bundesland: <Bundesland>             # Beispiel: Niedersachsen
+
+  ansprechpartner:
+    name: <Name der Stelle>
+    oe-id: ~                           # ID aus orga.yaml, nach Anlage eintragen
+    email: <email@verwaltung.de>
+
+# ---------------------------------------------------------------------------
+# 2. MODULE
+# ---------------------------------------------------------------------------
+
+module:
+  oe:
+    pfad: orga.yaml
+    beschreibung: Organisationsstruktur — Einheiten, Rollen, Hierarchie
+    status: aktiv
+
+  prozesse:
+    pfad: prozesse/
+    muster: "*.md"
+    beschreibung: Verwaltungsprozesse mit Zuständigkeiten und Datenarten
+    status: aktiv
+
+  daten:
+    pfad: daten/
+    muster: "dstore-*.md"
+    beschreibung: Datenarten mit Aufbewahrungsfristen und Rechtsgrundlagen
+    status: aktiv
+
+  regelungen:
+    pfad: regelungen/
+    muster: "reg-*.md"
+    beschreibung: Dienstanweisungen, Richtlinien, Gesetze
+    status: geplant                    # auf "aktiv" setzen sobald Ordner befüllt
+
+# ---------------------------------------------------------------------------
+# 3. ID-PRÄFIXE
+#    ACHTUNG: Diese Werte NIEMALS nach Inbetriebnahme ändern.
+#    Alle referenzierten IDs würden brechen.
+# ---------------------------------------------------------------------------
+
+id-praefixe:
+  oe:        "oe-"
+  prozess:   "proc-"
+  datenart:  "dstore-"
+  regelung:  "reg-"
+
+# ID-Bildungsregel:
+#   Dateiname (ohne .md) = ID der Entität
+#   Neue IDs: präfix + kebab-case (ä→ae, ö→oe, ü→ue, ß→ss, Leerzeichen→-)
+
+# ---------------------------------------------------------------------------
+# 4. VORSCHAU
+# ---------------------------------------------------------------------------
+
+vorschau:
+  datei: index.html
+  variante: server
+  resolver: laufzeit
+
+  tabs:
+    - id: oe
+      bezeichnung: Organisationseinheiten
+      status: aktiv
+    - id: prozesse
+      bezeichnung: Prozesse
+      status: aktiv
+    - id: daten
+      bezeichnung: Datenarten
+      status: aktiv
+    - id: regelungen
+      bezeichnung: Regelungen
+      status: geplant
+
+# ---------------------------------------------------------------------------
+# 5. VARIANTE
+# ---------------------------------------------------------------------------
+
+variante:
+  modus: vereinfacht                  # vereinfacht | vollstaendig
+  beschreibung: >
+    Vereinfachter Betrieb ohne Schema-Validierung.
+    Alle Dateien sind direkt im Texteditor pflegbar.
+
+# ---------------------------------------------------------------------------
+# 6. VERSIONIERUNG
+# ---------------------------------------------------------------------------
+
+versionierung:
+  system: git
+  tag-schema: "v{JJJJ}-{Q}"          # Beispiel: v2026-Q1
+  letzter-tag: ~
+
+# ---------------------------------------------------------------------------
+# METADATEN
+# ---------------------------------------------------------------------------
+
+koos-version: "0.1"
+stand: <JJJJ-MM-TT>
+erstellt-von: <Name oder Stelle>

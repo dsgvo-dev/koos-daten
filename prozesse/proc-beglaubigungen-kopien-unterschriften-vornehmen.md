@@ -1,0 +1,48 @@
+---
+id: proc-beglaubigungen-kopien-unterschriften-vornehmen
+titel: Beglaubigungen (Kopien/Unterschriften) vornehmen
+status: aktiv
+zustaendigeEinheit: oe-amt-33
+zustaendigeRolle: ''
+beteiligte:
+- einheit: oe-amt-20
+  aufgabe: ''
+daten:
+  input: []
+  output: []
+  datenspeicher:
+  - id: dstore-ausweiskopie-beglaubigt
+  - id: dstore-uebersetzung-apostille-legalisation
+  - id: dstore-personenstammdaten
+  - id: dstore-identitaetsnachweis
+  - id: dstore-meldeadresse-wohnsitz
+regelungen:
+  - '§ 33 Beurkundungsgesetz (BeurkG) (Beglaubigung)'
+  - '§ 33 VwVfG (Beglaubigung von Urkunden)'
+  - '§ 1 Nds. VwVfG i.V.m. § 33 VwVfG'
+letzte-aktualisierung: 2026-04-06
+---
+# Beglaubigungen (Kopien/Unterschriften) vornehmen
+
+## Prozessschritte
+
+**01 Anfrage / Antrag aufnehmen**  
+*Anliegen zum Thema 'Beglaubigungen (Kopien/Unterschriften) vornehmen' entgegennehmen und Zuständigkeit klären*
+
+**02 Unterlagen prüfen**  
+*Vollständigkeit und Richtigkeit der eingereichten Unterlagen und Angaben prüfen*
+
+**03 Sachbearbeitung**  
+*Fachliche Bearbeitung gemäß geltenden Rechtsgrundlagen und Verwaltungsvorschriften*
+
+**04 Abstimmung**  
+*Ggf. interne oder externe Abstimmung mit beteiligten Stellen*
+
+**05 Ergebnis / Bescheid**  
+*Abschließende Entscheidung treffen und Ergebnis schriftlich mitteilen*
+
+**06 Dokumentation**  
+*Vorgang vollständig in der Akte dokumentieren und Fristen nachhalten*
+
+
+*Quelle: Allgemeine Verwaltungspraxis*

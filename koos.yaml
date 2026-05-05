@@ -1,0 +1,290 @@
+# koos.yaml — Root-Konfiguration der KOOS-Instanz
+#
+# Dieses Dokument ist das Äquivalent zu configuration.nix in NixOS:
+# Es beschreibt deklarativ, WAS diese Instanz ist, WELCHE Module aktiv sind
+# und WELCHE Konventionen gelten.
+#
+# Der Resolver liest koos.yaml beim Start und leitet daraus den Systemzustand ab.
+# Änderungen hier wirken sich auf die gesamte Instanz aus.
+#
+# Felder:
+#   organisation.*   → Identität der Verwaltung (unveränderlich nach Inbetriebnahme)
+#   module.*         → Pfade zu den vier Informationsdimensionen
+#   id-praefixe.*    → Konvention für stabile IDs (NIEMALS nachträglich ändern)
+#   vorschau.*       → Konfiguration der eingebetteten Vorschau
+#   stand            → Datum der letzten Änderung an dieser Datei
+
+# ---------------------------------------------------------------------------
+# 1. ORGANISATION
+#    Wer betreibt diese KOOS-Instanz?
+# ---------------------------------------------------------------------------
+
+organisation:
+  id: gemeinde-musterstadt
+  name: Gemeindeverwaltung Musterstadt
+  kurzname: Musterstadt
+  rechtsform: Gemeinde
+  rechtsgrundlage: NKomVG §10
+  gemeindeschluessel: "03000000"       # Amtlicher Gemeindeschlüssel (8-stellig)
+  bundesland: Niedersachsen
+  kreis: Musterkreis
+
+  # Kontaktdaten der pflegenden Stelle
+  ansprechpartner:
+    name: Stabsstelle Organisation und Digitalisierung
+    oe-id: oe-stabsstelle              # → orga.yaml
+    email: organisation@musterstadt.de
+
+# ---------------------------------------------------------------------------
+# 2. MODULE
+#    Wo leben die vier Informationsdimensionen?
+#    Pfade relativ zu koos.yaml (= diesem Ordner).
+# ---------------------------------------------------------------------------
+
+module:
+  oe:
+    pfad: orga.yaml
+    beschreibung: Organisationsstruktur — Einheiten, Rollen, Hierarchie
+    status: aktiv
+
+  prozesse:
+    pfad: prozesse/
+    muster: "proc-*.md"
+    beschreibung: Verwaltungsprozesse mit Zuständigkeiten und Datenarten
+    status: aktiv
+
+  daten:
+    pfad: daten/
+    muster: "dstore-*.md"
+    beschreibung: Datenarten mit Aufbewahrungsfristen und Rechtsgrundlagen
+    status: aktiv
+
+  regelungen:
+    pfad: regelungen/
+    muster: "reg-*.md"
+    beschreibung: Dienstanweisungen, Richtlinien, Gesetze (in Vorbereitung)
+    status: geplant
+
+# ---------------------------------------------------------------------------
+# 3. ID-PRÄFIXE
+#    Stabile Präfix-Konvention für alle Entitäts-IDs.
+#    NIEMALS nachträglich ändern — alle bestehenden IDs würden brechen.
+# ---------------------------------------------------------------------------
+
+id-praefixe:
+  oe:        "oe-"       # Organisationseinheit, z. B. oe-fb1-personal
+  prozess:   "proc-"     # Prozess,              z. B. proc-onboarding
+  datenart:  "dstore-"    # Datenart,             z. B. dstore-personalakte
+  regelung:  "reg-"      # Regelung,             z. B. reg-da-personal-001
+
+# ID-Bildungsregel:
+#   Dateiname (ohne .md) = ID der Entität
+#   Beispiel: daten/dstore-personalakte.md → ID: dstore-personalakte
+#
+#   Neue IDs: präfix + kebab-case des Anzeigenamens (Umlaute ausschreiben)
+#   ä → ae, ö → oe, ü → ue, ß → ss, Leerzeichen → -
+
+# ---------------------------------------------------------------------------
+# 4. VORSCHAU
+#    Konfiguration der eingebetteten preview.html
+# ---------------------------------------------------------------------------
+
+vorschau:
+  datei: index.html
+  variante: eingebettet               # "eingebettet" = Daten im JS-Block der HTML-Datei
+                                      # "extern"      = Daten via fetch() aus YAML/MD (folgt)
+  resolver: laufzeit                  # Resolver baut ID→Name-Tabelle beim Seitenlade
+
+  tabs:
+    - id: oe
+      bezeichnung: Organisationseinheiten
+      status: aktiv
+    - id: prozesse
+      bezeichnung: Prozesse
+      status: aktiv
+    - id: daten
+      bezeichnung: Datenarten
+      status: aktiv
+    - id: regelungen
+      bezeichnung: Regelungen
+      status: geplant
+
+# ---------------------------------------------------------------------------
+# 5. VARIANTE
+#    Diese Instanz läuft im vereinfachten Modus.
+#    Für den Übergang zur vollständigen Variante (BASIS) muss nur
+#    der Resolver und das Vorschau-System ausgetauscht werden —
+#    Dateistruktur und IDs bleiben identisch.
+# ---------------------------------------------------------------------------
+
+variante:
+  modus: vereinfacht                  # "vereinfacht" | "vollstaendig"
+  beschreibung: >
+    Vereinfachter Betrieb ohne Schema-Validierung und Build-Skripte.
+    Alle Dateien sind direkt im Texteditor pflegbar.
+    Vorschau und YAML/MD müssen manuell synchron gehalten werden.
+
+# ---------------------------------------------------------------------------
+# 6. VERSIONIERUNG
+#    Git übernimmt die Rolle des Nix Stores.
+#    Generationen werden als Git-Tags markiert.
+# ---------------------------------------------------------------------------
+
+versionierung:
+  system: git
+  tag-schema: "v{JJJJ}-{Q}"          # Beispiel: v2026-Q1
+  letzter-tag: ~                      # noch kein Tag gesetzt
+
+# ---------------------------------------------------------------------------
+# 7. VOKABULAR
+#    Kontrollierte Wertelisten für strukturierte Felder in daten/*.md.
+#    Jeder Wert außerhalb dieser Listen ist ein Pflegefehler.
+#    Erweiterungen hier eintragen — nie direkt in den Inhaltsdateien erfinden.
+# ---------------------------------------------------------------------------
+
+vokabular:
+
+  # Datenschutz-Schutzstufen (Klassifizierung personenbezogener und sonstiger Daten)
+  schutzstufe:
+    A: öffentlich            # Keine Schutzmaßnahmen erforderlich; Veröffentlichung unproblematisch
+    B: intern                # Nur für interne Nutzung; kein personenbezogener Schutzbedarf
+    C: vertraulich           # Personenbezogene Daten ohne besondere Kategorien (Art. 9 DSGVO)
+    D: streng vertraulich    # Besondere Kategorien (Art. 9 DSGVO); erhöhte Zugriffsrestriktionen
+    E: geheim                # Höchster Schutz; Zugang nur namentlich benannten Personen
+
+  # BSI-Schutzbedarf (Informationssicherheit nach IT-Grundschutz)
+  schutzbedarf:
+    normal:    Beeinträchtigungen sind begrenzt und überschaubar
+    hoch:      Beeinträchtigungen können erheblich sein
+    sehr hoch: Beeinträchtigungen können existenzbedrohend sein
+
+  # Vertraulichkeitsstufe (Zugangskontrolle / Informationsklassifizierung)
+  # Unabhängig von Schutzstufe und Schutzbedarf — beschreibt, wer Zugang
+  # zu diesem Dokument / dieser Datenart haben darf.
+  # Orientierung: ISO 27001 / klassische Informationsklassifizierung.
+  vertraulichkeit:
+    öffentlich:          Zur Veröffentlichung freigegeben; kein Zugangsschutz erforderlich
+    intern:              Nur für Mitarbeitende der Verwaltung; nicht zur Weitergabe nach außen
+    vertraulich:         Eingeschränkter Personenkreis innerhalb der Verwaltung
+    streng vertraulich:  Zugang auf namentlich benannte Personen beschränkt
+
+  # Datenkategorien (Klassifizierung des Dateninhalts)
+  datenkategorie:
+    - Personaldaten
+    - Sozialdaten
+    - Gesundheitsdaten
+    - Finanzdaten
+    - Meldedaten
+    - Ausweisdokument
+    - Verwaltungsformular
+    - Bescheid / Nachweis
+    - Compliance-Dokument
+    - Ordnungswidrigkeiten
+    - Besondere Kategorien Art. 9 DSGVO
+
+  # Generische Rollen (implizit in jeder OE vorhanden; kein Eintrag in orga.yaml nötig)
+  # Verwendung: Prozesse und Regelungen referenzieren diese Rollen, wenn keine
+  # OE-spezifische Rolle passt.
+  generische-rollen:
+    - Leitung          # Formal verantwortliche Person der OE; Entscheidungs- und Zeichnungsbefugnis
+    - Sachbearbeitung  # Operativ tätig; führt Verwaltungsverfahren durch
+    - Mitarbeitende    # Alle übrigen Personen der OE ohne benannte Funktion
+
+# ---------------------------------------------------------------------------
+# METADATEN
+# ---------------------------------------------------------------------------
+
+# ---------------------------------------------------------------------------
+# 8. BEARBEITUNG
+#    Konfiguration des eingebetteten Edit-Modus in preview.html.
+#    Das formular-schema steuert, welche Felder in den Eingabemasken
+#    erscheinen. Felder hier hinzufügen oder entfernen → preview.html
+#    übernimmt die Änderungen automatisch beim nächsten Laden.
+#
+#    Superadmin-Aufgaben:
+#      - Passwort-Hash ändern (SHA-256 des gewünschten Passworts)
+#      - Felder ergänzen oder entfernen
+#      - Neue Feldtypen: text | textarea | select | oe-select | list-text |
+#                        list-oe-aufgabe | multi-daten
+# ---------------------------------------------------------------------------
+
+bearbeitung:
+  # SHA-256-Hash erzeugen (Browser-Konsole):
+  #   crypto.subtle.digest('SHA-256', new TextEncoder().encode('PASSWORT'))
+  #     .then(b => console.log(Array.from(new Uint8Array(b))
+  #       .map(x=>x.toString(16).padStart(2,'0')).join('')))
+
+  # ── Superadmin ─────────────────────────────────────────────────────────────
+  # Vollzugriff: alle OE, Schemapflege, Subadmin-Verwaltung
+  superadmin:
+    passwort-hash: e34f4b940d9e21f0ef7e0ac647704ad01d964c00b0148fbeb19995be6d80e123
+    # Standardpasswort: koos2026 — vor Produktiveinsatz ändern!
+
+  # ── Subadmins ──────────────────────────────────────────────────────────────
+  # Dezentrale Bearbeiter: dürfen Prozesse und Datenarten anlegen/bearbeiten,
+  # aber nur in den OE, die unter zustaendig-fuer aufgeführt sind.
+  # OE-Struktur (orga.yaml) und Schema können nur Superadmins ändern.
+  #
+  # Nach Änderungen hier: den Block "subadmins" in preview.html › CONFIG
+  # entsprechend aktualisieren (gleiche Struktur, Hash bleibt identisch).
+  subadmins:
+    - id: sub-fb1
+      name: Fachbereich 1 – Personal & IT
+      passwort-hash: 2e09c6dc151c08685424617d46848a44a6ee5f053a0d18f8defd0616501151e5
+      # Passwort: fb1-2026 — vor Produktiveinsatz ändern!
+      zustaendig-fuer:
+        - oe-fb1-personal
+        - oe-fb1-it
+        - oe-fb1-buerger
+        - oe-fb1               # Fachbereichsebene einschließen
+
+    - id: sub-hvb
+      name: Hauptverwaltungsbereich
+      passwort-hash: a1d25b71e601b052c656eb488ec650d5b78723e0bbf1515771bf2e1b8baf7a1c
+      # Passwort: hvb-2026 — vor Produktiveinsatz ändern!
+      zustaendig-fuer:
+        - oe-hvb
+        - oe-stabsstelle
+        - oe-personalrat
+
+  formular-schema:
+
+    prozess:
+      id-praefix: proc-
+      datei-pfad: prozesse/
+      felder:
+        - {id: titel,              label: Titel,                    typ: text,            pflicht: true}
+        - {id: status,             label: Status,                   typ: select,          vokabular: prozessStatus, pflicht: true}
+        - {id: zustaendigeEinheit, label: "Zuständige OE",          typ: oe-select,       pflicht: true}
+        - {id: zustaendigeRolle,   label: "Zuständige Rolle",       typ: text}
+        - {id: beteiligte,         label: Beteiligte Einheiten,     typ: list-oe-aufgabe}
+        - {id: datenarten,         label: Verarbeitete Datenarten,  typ: multi-daten}
+        - {id: regelungen,         label: Rechtsgrundlagen,         typ: list-text}
+
+    daten:
+      id-praefix: dstore-
+      datei-pfad: daten/
+      felder:
+        - {id: name,               label: Bezeichnung,              typ: text,            pflicht: true}
+        - {id: datenkategorie,     label: Datenkategorie,           typ: select,          vokabular: datenkategorie, pflicht: true}
+        - {id: zustaendigeEinheit, label: "Zuständige OE",          typ: oe-select}
+        - {id: schutzstufe,        label: Schutzstufe,              typ: select,          vokabular: schutzstufe,     pflicht: true}
+        - {id: schutzbedarf,       label: Schutzbedarf,             typ: select,          vokabular: schutzbedarf,    pflicht: true}
+        - {id: vertraulichkeit,    label: Vertraulichkeit,          typ: select,          vokabular: vertraulichkeit, pflicht: true}
+        - {id: rechtsgrundlagen,   label: Rechtsgrundlagen,         typ: list-text}
+        - {id: aufbewahrungFrist,  label: Aufbewahrungsfrist,       typ: text}
+        - {id: aufbewahrungBeginn, label: Fristbeginn,              typ: text}
+
+    oe:
+      id-praefix: oe-
+      datei-pfad: orga.yaml   # Eintrag wird in orga.yaml eingefügt
+      felder:
+        - {id: name,             label: Bezeichnung,              typ: text,            pflicht: true}
+        - {id: parent,           label: "Übergeordnete OE",       typ: oe-select-null}
+        - {id: rollen,           label: OE-spezifische Rollen,    typ: list-text}
+        - {id: sonderfunktionen, label: Sonderfunktionen,         typ: list-text}
+        - {id: hinweis,          label: Hinweis,                  typ: textarea}
+
+koos-version: "0.1"                   # KOOS-Spezifikationsversion
+stand: 2026-04-01
+erstellt-von: Stabsstelle Organisation und Digitalisierung

@@ -1,0 +1,77 @@
+---
+id: dstore-bildungs-und-teilhabebedarf
+typ: datenspeicher
+system: null
+name: Bildungs- und Teilhabebedarf
+datenkategorie: Bildung & Betreuung
+zuständige-einheit: oe-amt-51
+bpmn:
+  typ: datenobjekt
+klassifizierung:
+  schutzstufe: C
+  schutzbedarf: normal
+  vertraulichkeit: intern
+  rechtsgrundlagen:
+  - gesetz: SGB II
+  - gesetz: WoGG
+  - gesetz: BKGG
+  aufbewahrung:
+    frist: prozessabhängig
+    beginn: prozessabhängig
+    hinweis: Aus kommunalen Serviceportaltexten abgeleiteter Datentyp; Frist und Beginn
+      fachlich zu validieren.
+letzte-aktualisierung: '2026-04-09'
+tags:
+- Bildung
+- Teilhabe
+- Förderbedarf
+---
+
+# Bildungs- und Teilhabebedarf
+
+## Definition
+
+Antrags- und Bedarfsdaten zu Leistungen des Bildungs- und Teilhabepakets.
+
+## Felder
+
+- Leistungsbereich
+- Kind oder junger Mensch
+- Bedarfszeitraum
+- beantragte Leistung
+- Einrichtung
+- Nachweis
+
+## Klassifizierung
+
+- Schutzstufe: C
+- Schutzbedarf: normal
+- Vertraulichkeit: intern
+- BPMN-Typ: datenobjekt
+
+## Rechtsgrundlagen
+
+- SGB II
+- WoGG
+- BKGG
+
+## Aufbewahrung
+
+- Frist: prozessabhängig
+- Beginn: prozessabhängig
+- Hinweis: Aus kommunalen Serviceportaltexten abgeleiteter Datentyp; fachlich zu validieren.
+
+## Verwendung in Prozessen
+
+- Bildung und Teilhabe beantragen
+- Förderung für Bildung und Teilhabe von Kindern und jungen Erwachsenen beantragen
+
+*(In KOOS sollte dieser Abschnitt perspektivisch durch Resolver-Rückverweise aus `prozesse/*.md` berechnet werden.)*
+
+## Hinweise
+
+Abgeleiteter Datentyp aus kommunalen Serviceportal-Texten in Niedersachsen; keine offizielle FIM/XDatenfelder-Originaldatei.
+
+KOOS-konforme Konvertierung aus einer älteren Markdown-Sammlung.
+
+Zuständige OE, Klassifizierung und BPMN-Typ sind heuristisch vorbelegt und sollten fachlich überprüft werden.

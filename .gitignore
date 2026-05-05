@@ -1,0 +1,18 @@
+# macOS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+.AppleDouble
+.LSOverride
+
+# Editoren
+*.swp
+*.bak
+*~
+.idea/
+.vscode/
+
+# Interne Werkzeuge (nicht Teil des öffentlichen Repos)
+_tools/

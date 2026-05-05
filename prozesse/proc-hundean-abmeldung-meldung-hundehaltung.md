@@ -1,0 +1,49 @@
+---
+id: proc-hundean-abmeldung-meldung-hundehaltung
+titel: Hundean- / -abmeldung (Meldung Hundehaltung)
+status: aktiv
+zustaendigeEinheit: oe-amt-22
+zustaendigeRolle: ''
+beteiligte:
+- einheit: oe-amt-33
+  aufgabe: ''
+- einheit: oe-amt-20
+  aufgabe: ''
+daten:
+  input: []
+  output: []
+  datenspeicher:
+  - id: dstore-hundehaltung
+  - id: dstore-hunderegisterdaten
+  - id: dstore-hunderasse-gefaehrlichkeit
+  - id: dstore-haftpflichtversicherung-hund
+regelungen:
+  - '§§ 17-19 Bundesmeldegesetz (BMG) (An-/Ab-/Ummeldung)'
+  - '§ 34 BMG (Melderegisterauskunft)'
+  - '§ 51 BMG (Auskunftssperre)'
+letzte-aktualisierung: 2026-04-06
+---
+# Hundean- / -abmeldung (Meldung Hundehaltung)
+
+## Prozessschritte
+
+**01 Anzeigepflicht prüfen**  
+*Prüfen ob und in welchem Umfang eine Anzeigepflicht besteht*
+
+**02 Unterlagen zusammenstellen**  
+*Erforderliche Dokumente und Nachweise für die Anzeige vorbereiten*
+
+**03 Anzeige einreichen**  
+*Anzeige fristgerecht mit allen Unterlagen bei der zuständigen Behörde einreichen*
+
+**04 Eingangsbestätigung**  
+*Zuständige Stelle bestätigt den Eingang der Anzeige*
+
+**05 Prüfung durch Behörde**  
+*Behörde prüft die Anzeige auf formelle und inhaltliche Richtigkeit*
+
+**06 Abschluss / Freigabe**  
+*Bestätigung des Verfahrensabschlusses oder Mitteilung von Auflagen/Beanstandungen*
+
+
+*Quelle: Allgemeine Verwaltungspraxis*

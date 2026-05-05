@@ -1,0 +1,406 @@
+# Organisationsstruktur
+# Gemeindeverwaltung, angelehnt an NKomVG
+# Ämterstruktur nach Celle/Springe-Katalog (April 2026)
+#
+# id:              stabile Kennung — NIEMALS ändern.
+# name:            Anzeigename — kann jederzeit geändert werden (nur hier).
+# parent:          ID der übergeordneten Einheit (~ = Wurzel).
+# rollen:          OE-spezifische Rollen (Freitext).
+# sonderfunktionen: Organisationsweit wirksame Funktionen dieser OE.
+#
+# Rollenmodell:
+#   Generisch  → in koos.yaml vokabular.generische-rollen
+#   OE-spezif. → rollen:
+#   Sonderfkt. → sonderfunktionen:
+#
+# Reorganisation: parent: einer Einheit ändern — alle Prozessverknüpfungen bleiben unberührt.
+
+name: Gemeindeverwaltung
+
+einheiten:
+
+  # ══════════════════════════════════════════════════════════════════════════
+  #  VERWALTUNGSLEITUNG
+  # ══════════════════════════════════════════════════════════════════════════
+
+  - id: oe-hvb
+    name: Bürgermeister/in (HVB)
+    parent: ~
+    rollen:
+      - Bürgermeister/in (HVB)
+
+  - id: oe-personalrat
+    name: Personalrat
+    parent: oe-hvb
+    rollen:
+      - Vorsitzende/r Personalrat
+      - Mitglied Personalrat
+    hinweis: >
+      Eigenständiges Gremium nach NPersVG. Keine Weisungsgebundenheit gegenüber
+      der Verwaltungsleitung. Beteiligungsrechte nach §§ 64–66 NPersVG.
+
+  # ── 1.x – Stabsbereiche der Verwaltungsleitung ────────────────────────────
+
+  - id: oe-amt-1-1
+    name: 1.1 – Zentrale Steuerung
+    parent: oe-hvb
+    rollen:
+      - Leitung Zentrale Steuerung
+
+  - id: oe-amt-1-2
+    name: 1.2 – Gleichstellung
+    parent: oe-hvb
+    rollen:
+      - Gleichstellungsbeauftragte/r
+    sonderfunktionen:
+      - Gleichstellungsbeauftragte/r              # NGG §3
+
+  - id: oe-amt-1-3
+    name: 1.3 – Controlling
+    parent: oe-hvb
+    rollen:
+      - Controller/in
+
+  - id: oe-amt-1-4
+    name: 1.4 – Datenschutz
+    parent: oe-hvb
+    rollen:
+      - Datenschutzbeauftragte/r
+    sonderfunktionen:
+      - Datenschutzbeauftragte/r                  # DSGVO Art. 37, BDSG §38
+
+  - id: oe-amt-1-5
+    name: 1.5 – Informationssicherheit
+    parent: oe-hvb
+    rollen:
+      - Informationssicherheitsbeauftragte/r
+    sonderfunktionen:
+      - Informationssicherheitsbeauftragte/r      # BSI IT-Grundschutz
+
+  - id: oe-amt-1-6
+    name: 1.6 – Digitalisierung
+    parent: oe-hvb
+    rollen:
+      - Digitalisierungsbeauftragte/r
+
+  # ── 80 – Wirtschaftsförderung (direkt der Verwaltungsleitung zugeordnet) ──
+
+  - id: oe-amt-80
+    name: 80 – Wirtschaftsförderung
+    parent: oe-hvb
+    rollen:
+      - Leitung Wirtschaftsförderung
+
+  # ══════════════════════════════════════════════════════════════════════════
+  #  FACHBEREICH 1 – Hauptverwaltung und Steuerung
+  #  Ämter: 10 · 11 · 12 · 13 · 14 · 15
+  # ══════════════════════════════════════════════════════════════════════════
+
+  - id: oe-fb1
+    name: 1 – Hauptverwaltung und Steuerung
+    parent: oe-hvb
+    rollen:
+      - Fachbereichsleitung FB 1
+
+  - id: oe-amt-10
+    name: 10 – Hauptamt
+    parent: oe-fb1
+    rollen:
+      - Leitung Hauptamt
+      - Sachbearbeitung Hauptamt
+
+  - id: oe-amt-11
+    name: 11 – Personalamt
+    parent: oe-fb1
+    rollen:
+      - Leitung Personalamt
+      - Personalverwaltung / Sachbearbeitung
+
+  - id: oe-amt-12
+    name: 12 – Statistikamt
+    parent: oe-fb1
+    rollen:
+      - Leitung Statistikamt
+      - Sachbearbeitung Statistik
+
+  - id: oe-amt-13
+    name: 13 – Presseamt
+    parent: oe-fb1
+    rollen:
+      - Pressesprecher/in
+      - Sachbearbeitung Presse und Öffentlichkeitsarbeit
+
+  - id: oe-amt-14
+    name: 14 – Rechnungsprüfungsamt
+    parent: oe-fb1
+    rollen:
+      - Leitende/r Rechnungsprüfer/in
+    sonderfunktionen:
+      - Rechnungsprüfung                          # NKomVG §§ 154 ff.
+
+  - id: oe-amt-15
+    name: 15 – IT
+    parent: oe-fb1
+    rollen:
+      - Leitung IT
+      - IT-Administrator/in
+
+  # ══════════════════════════════════════════════════════════════════════════
+  #  FACHBEREICH 2 – Finanzen und Steuern
+  #  Ämter: 20 · 21 · 22 · 23
+  # ══════════════════════════════════════════════════════════════════════════
+
+  - id: oe-fb2
+    name: 2 – Finanzen und Steuern
+    parent: oe-hvb
+    rollen:
+      - Fachbereichsleitung FB 2 (Kämmerei)
+
+  - id: oe-amt-20
+    name: 20 – Kasse
+    parent: oe-fb2
+    rollen:
+      - Leitung Kasse (Kassenverwalter/in)
+      - Kassensachbearbeitung
+
+  - id: oe-amt-21
+    name: 21 – Zwangsvollstreckung
+    parent: oe-fb2
+    rollen:
+      - Leitung Vollstreckung
+      - Vollstreckungsbeamte/r
+
+  - id: oe-amt-22
+    name: 22 – Steuern und Abgaben
+    parent: oe-fb2
+    rollen:
+      - Leitung Steuern und Abgaben
+      - Sachbearbeitung Steuern und Gebühren
+
+  - id: oe-amt-23
+    name: 23 – Liegenschaftswesen
+    parent: oe-fb2
+    rollen:
+      - Leitung Liegenschaftswesen
+      - Sachbearbeitung Grundstücke und Pachtverträge
+
+  # ══════════════════════════════════════════════════════════════════════════
+  #  FACHBEREICH 3 – Recht, Ordnung und Bürgerservice
+  #  Ämter: 30 · 31 · 32 · 33 · 34 · 37 · 38
+  # ══════════════════════════════════════════════════════════════════════════
+
+  - id: oe-fb3
+    name: 3 – Recht, Ordnung und Bürgerservice
+    parent: oe-hvb
+    rollen:
+      - Fachbereichsleitung FB 3
+
+  - id: oe-amt-30
+    name: 30 – Rechtsamt
+    parent: oe-fb3
+    rollen:
+      - Leitung Rechtsamt
+      - Jurist/in / Sachbearbeitung Recht
+    sonderfunktionen:
+      - Datenschutz-Rechtsberatung
+
+  - id: oe-amt-31
+    name: 31 – Standesamt
+    parent: oe-fb3
+    rollen:
+      - Standesbeamte/r
+      - Sachbearbeitung Personenstandswesen
+
+  - id: oe-amt-32
+    name: 32 – Ordnungsamt
+    parent: oe-fb3
+    rollen:
+      - Leitung Ordnungsamt
+      - Ordnungsbeamte/r (Vollzugsdienst)
+
+  - id: oe-amt-33
+    name: 33 – Bürgerservice
+    parent: oe-fb3
+    rollen:
+      - Leitung Bürgerservice
+      - Sachbearbeitung Bürgerbüro
+
+  - id: oe-amt-34
+    name: 34 – Straßenverkehrsamt
+    parent: oe-fb3
+    rollen:
+      - Leitung Straßenverkehrsamt
+      - Sachbearbeitung Fahrerlaubnis und Zulassung
+
+  - id: oe-amt-37
+    name: 37 – Feuerwehr
+    parent: oe-fb3
+    rollen:
+      - Leitung Feuerwehrverwaltung
+      - Sachbearbeitung Feuerwehrverwaltung
+    sonderfunktionen:
+      - Brandschutzbeauftragte/r                  # ArbStättV §4
+
+  - id: oe-amt-38
+    name: 38 – Marktwesen
+    parent: oe-fb3
+    rollen:
+      - Sachbearbeitung Marktwesen
+
+  # ══════════════════════════════════════════════════════════════════════════
+  #  FACHBEREICH 4 – Soziales, Jugend, Schule und Gesundheit
+  #  Ämter: 40 · 41 · 47 · 50 · 51 · 52 · 53 · 54 · 71
+  # ══════════════════════════════════════════════════════════════════════════
+
+  - id: oe-fb4
+    name: 4 – Soziales, Jugend, Schule und Gesundheit
+    parent: oe-hvb
+    rollen:
+      - Fachbereichsleitung FB 4
+
+  - id: oe-amt-40
+    name: 40 – Schulamt
+    parent: oe-fb4
+    rollen:
+      - Leitung Schulamt
+      - Sachbearbeitung Schulverwaltung
+
+  - id: oe-amt-41
+    name: 41 – Kulturamt
+    parent: oe-fb4
+    rollen:
+      - Leitung Kulturamt
+      - Sachbearbeitung Kultur und Veranstaltungen
+
+  - id: oe-amt-47
+    name: 47 – Zuwanderung
+    parent: oe-fb4
+    rollen:
+      - Leitung Ausländerbehörde / Zuwanderung
+      - Sachbearbeitung Aufenthaltsrecht
+
+  - id: oe-amt-50
+    name: 50 – Sozialamt
+    parent: oe-fb4
+    rollen:
+      - Leitung Sozialamt
+      - Sachbearbeitung Sozialleistungen
+
+  - id: oe-amt-51
+    name: 51 – Jugendamt
+    parent: oe-fb4
+    rollen:
+      - Leitung Jugendamt
+      - Sozialpädagog/in / Sachbearbeitung Jugendhilfe
+
+  - id: oe-amt-52
+    name: 52 – Eingliederungshilfe
+    parent: oe-fb4
+    rollen:
+      - Leitung Eingliederungshilfe
+      - Sachbearbeitung Eingliederungshilfe (SGB IX)
+
+  - id: oe-amt-53
+    name: 53 – Gesundheitsamt
+    parent: oe-fb4
+    rollen:
+      - Leitung Gesundheitsamt (Amtsärztin/Amtsarzt)
+      - Sachbearbeitung Gesundheitsschutz
+
+  - id: oe-amt-54
+    name: 54 – Sozialpsychiatrischer Dienst
+    parent: oe-fb4
+    rollen:
+      - Leitung Sozialpsychiatrischer Dienst
+      - Fachkraft Sozialpsychiatrie
+
+  - id: oe-amt-71
+    name: 71 – Veterinäramt und Lebensmittelüberwachung
+    parent: oe-fb4
+    rollen:
+      - Leitende/r Veterinär/in
+      - Lebensmittelkontrolleur/in
+
+  # ══════════════════════════════════════════════════════════════════════════
+  #  FACHBEREICH 5 – Bauen, Planen, Umwelt und Betrieb
+  #  Ämter: 60 · 61 · 62 · 63 · 64 · 65 · 66 · 67 · 82 · 86
+  # ══════════════════════════════════════════════════════════════════════════
+
+  - id: oe-fb5
+    name: 5 – Bauen, Planen, Umwelt und Betrieb
+    parent: oe-hvb
+    rollen:
+      - Fachbereichsleitung FB 5
+
+  - id: oe-amt-60
+    name: 60 – Umweltamt und Klimaschutz
+    parent: oe-fb5
+    rollen:
+      - Leitung Umweltamt
+      - Sachbearbeitung Umweltschutz und Klimaschutz
+    sonderfunktionen:
+      - Umwelt- und Klimaschutzbeauftragte/r
+
+  - id: oe-amt-61
+    name: 61 – Stadtplanungsamt
+    parent: oe-fb5
+    rollen:
+      - Leitung Stadtplanung
+      - Stadtplaner/in
+      - Sachbearbeitung Bauleitplanung
+
+  - id: oe-amt-62
+    name: 62 – Vermessungswesen und Kataster
+    parent: oe-fb5
+    rollen:
+      - Leitung Vermessung
+      - Vermessungsingenieur/in
+
+  - id: oe-amt-63
+    name: 63 – Bauamt
+    parent: oe-fb5
+    rollen:
+      - Leitung Bauamt
+      - Sachbearbeitung Baugenehmigungen
+
+  - id: oe-amt-64
+    name: 64 – Wohnungsamt
+    parent: oe-fb5
+    rollen:
+      - Leitung Wohnungsamt
+      - Sachbearbeitung Wohnungswesen
+
+  - id: oe-amt-65
+    name: 65 – Gebäudewirtschaft
+    parent: oe-fb5
+    rollen:
+      - Leitung Gebäudewirtschaft
+      - Facility Manager/in
+
+  - id: oe-amt-66
+    name: 66 – Tiefbau
+    parent: oe-fb5
+    rollen:
+      - Leitung Tiefbau
+      - Tiefbauingenieur/in
+
+  - id: oe-amt-67
+    name: 67 – Stadtentwässerung
+    parent: oe-fb5
+    rollen:
+      - Leitung Stadtentwässerung
+      - Sachbearbeitung Kanalwesen
+
+  - id: oe-amt-82
+    name: 82 – Forstamt
+    parent: oe-fb5
+    rollen:
+      - Leitung Forstamt
+      - Forstwirt/in / Revierförster/in
+
+  - id: oe-amt-86
+    name: 86 – Verkehr
+    parent: oe-fb5
+    rollen:
+      - Leitung Verkehrsplanung
+      - Sachbearbeitung Verkehr und ÖPNV
