@@ -14,10 +14,13 @@ daten:
   - id: dstore-abfallentsorgungsrhythmus
   - id: dstore-abfallbehaelter-gebuehrenobjekt
 regelungen:
-  - Kreislaufwirtschaftsgesetz (KrWG)
-  - Niedersächsisches Abfallgesetz (NAbfG)
-letzte-aktualisierung: 2026-04-06
+- Kreislaufwirtschaftsgesetz (KrWG)
+- Niedersächsisches Abfallgesetz (NAbfG)
+leika_id: '99001005004000'
+ozg_id: null
+letzte-aktualisierung: '2026-07-10'
 ---
+
 # Gartenabfall Entsorgung
 
 ## Prozessschritte

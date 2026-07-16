@@ -13,11 +13,14 @@ daten:
   - id: dstore-verstorbenenhinweis-melderegister
   - id: dstore-registerbezug-personenstand
 regelungen:
-  - '§§ 28-35 Personenstandsgesetz (PStG) (Sterbefälle)'
-  - '§§ 47-49 PStG (Sterberegister)'
-  - 'Nds. AVO-PStG'
-letzte-aktualisierung: 2026-04-06
+- §§ 28-35 Personenstandsgesetz (PStG) (Sterbefälle)
+- §§ 47-49 PStG (Sterberegister)
+- Nds. AVO-PStG
+leika_id: '99101006000000'
+ozg_id: null
+letzte-aktualisierung: '2026-07-10'
 ---
+
 # Sterbefall im Ausland anzeigen
 
 ## Prozessschritte

@@ -14,11 +14,14 @@ daten:
   - id: dstore-unternehmens-und-registerdaten
   - id: dstore-identitaetsnachweis
 regelungen:
-  - '§§ 13-18 Bundesnaturschutzgesetz (BNatSchG) (Eingriffsregelung)'
-  - '§ 12 Nds. Naturschutzgesetz (NNatSchG) (Kompensation)'
-  - '§ 15 BNatSchG (Verursacherpflichten)'
-letzte-aktualisierung: 2026-04-06
+- §§ 13-18 Bundesnaturschutzgesetz (BNatSchG) (Eingriffsregelung)
+- § 12 Nds. Naturschutzgesetz (NNatSchG) (Kompensation)
+- § 15 BNatSchG (Verursacherpflichten)
+leika_id: '99090003006000'
+ozg_id: null
+letzte-aktualisierung: '2026-07-10'
 ---
+
 # Eingriff in Natur und Landschaft: Genehmigung
 
 ## Prozessschritte

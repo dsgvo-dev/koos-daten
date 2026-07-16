@@ -15,11 +15,14 @@ daten:
   - id: dstore-identitaetsnachweis
   - id: dstore-termin-und-vorsprachedaten
 regelungen:
-  - '§§ 11-17 Personenstandsgesetz (PStG) (Anmeldung der Eheschließung)'
-  - '§§ 28-30 PStG (Eheschließung)'
-  - 'Nds. AVO-PStG'
-letzte-aktualisierung: 2026-04-29
+- §§ 11-17 Personenstandsgesetz (PStG) (Anmeldung der Eheschließung)
+- §§ 28-30 PStG (Eheschließung)
+- Nds. AVO-PStG
+leika_id: '99059001000000'
+ozg_id: '10026'
+letzte-aktualisierung: '2026-07-10'
 ---
+
 # Eheschließung vorbereiten
 
 ## Prozessschritte
@@ -44,5 +47,3 @@ letzte-aktualisierung: 2026-04-29
 
 **07 Eheurkunde ausstellen**  
 *Mit Unterschriften*
-
-

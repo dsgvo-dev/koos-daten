@@ -16,11 +16,14 @@ daten:
   - id: dstore-pflegegrad-pflegeleistungen
   - id: dstore-einkommens-und-leistungsdaten
 regelungen:
-  - '§ 71 SGB XII (Altenhilfe)'
-  - '§§ 28 ff. SGB XI (Pflegeleistungen)'
-  - '§ 37 SGB XI (Pflegegeld)'
-letzte-aktualisierung: 2026-04-06
+- § 71 SGB XII (Altenhilfe)
+- §§ 28 ff. SGB XI (Pflegeleistungen)
+- § 37 SGB XI (Pflegegeld)
+leika_id: null
+ozg_id: '10624'
+letzte-aktualisierung: '2026-07-10'
 ---
+
 # Seniorenberatung durchführen
 
 ## Prozessschritte
@@ -45,5 +48,3 @@ letzte-aktualisierung: 2026-04-06
 
 **07 Netzwerkpflege**  
 *Kontakte zu Partnern pflegen*
-
-

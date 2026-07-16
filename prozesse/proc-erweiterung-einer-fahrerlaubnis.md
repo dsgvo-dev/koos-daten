@@ -19,14 +19,21 @@ daten:
   - § 2 StVG
   - FS-VwV
   - § 2 BMG
-letzte-aktualisierung: 2026-04-06
 regelungen:
-  - '§ 21 Verordnung über die Zulassung von Personen zum Straßenverkehr (Fahrerlaubnis-Verordnung - FeV)'
-  - '§ 25 Verordnung über die Zulassung von Personen zum Straßenverkehr (Fahrerlaubnis-Verordnung - FeV)'
-  - '§ 2 Straßenverkehrsgesetz (StVG)'
-  - '§ 6 Absatz 1 Verordnung über die Zulassung von Personen zum Straßenverkehr (Fahrerlaubnis-Verordnung - FeV)'
-  - '§ 10 Verordnung über die Zulassung von Personen zum Straßenverkehr (Fahrerlaubnis-Verordnung - FeV)'
+- § 21 Verordnung über die Zulassung von Personen zum Straßenverkehr (Fahrerlaubnis-Verordnung
+  - FeV)
+- § 25 Verordnung über die Zulassung von Personen zum Straßenverkehr (Fahrerlaubnis-Verordnung
+  - FeV)
+- § 2 Straßenverkehrsgesetz (StVG)
+- § 6 Absatz 1 Verordnung über die Zulassung von Personen zum Straßenverkehr (Fahrerlaubnis-Verordnung
+  - FeV)
+- § 10 Verordnung über die Zulassung von Personen zum Straßenverkehr (Fahrerlaubnis-Verordnung
+  - FeV)
+leika_id: '99108047049000'
+ozg_id: null
+letzte-aktualisierung: '2026-07-10'
 ---
+
 # Erweiterung einer Fahrerlaubnis
 
 ## Prozessschritte

@@ -14,10 +14,13 @@ daten:
   - id: dstore-personenstammdaten
   - id: dstore-identitaetsnachweis
 regelungen:
-  - '§ 60a Abs. 3 Gewerbeordnung (GewO)'
-  - '§ 33c Gewerbeordnung (GewO)'
-letzte-aktualisierung: 2026-04-06
+- § 60a Abs. 3 Gewerbeordnung (GewO)
+- § 33c Gewerbeordnung (GewO)
+leika_id: '99050028005000'
+ozg_id: null
+letzte-aktualisierung: '2026-07-10'
 ---
+
 # Spielhallen: Erlaubnis
 
 ## Prozessschritte

@@ -16,10 +16,13 @@ daten:
   - id: dstore-personenstammdaten
   - id: dstore-identitaetsnachweis
   - § 34a Gewerbeordnung (GewO)
-letzte-aktualisierung: 2026-04-06
 regelungen:
-  - '§ 34a Abs. 1 Gewerbeordnung (GewO)'
+- § 34a Abs. 1 Gewerbeordnung (GewO)
+leika_id: '99050004005000'
+ozg_id: null
+letzte-aktualisierung: '2026-07-10'
 ---
+
 # Bewachungsgewerbe Erlaubnis beantragen
 
 ## Prozessschritte

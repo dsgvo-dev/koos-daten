@@ -17,11 +17,14 @@ daten:
   - id: dstore-personenstammdaten
   - id: dstore-identitaetsnachweis
 regelungen:
-  - '§ 46 StVO (Ausnahmegenehmigungen/Erlaubnisse)'
-  - '§ 70 StVZO (Ausnahmegenehmigungen)'
-  - 'Nds. Erlasserlass Großraum-/Schwerverkehr'
-letzte-aktualisierung: 2026-04-06
+- § 46 StVO (Ausnahmegenehmigungen/Erlaubnisse)
+- § 70 StVZO (Ausnahmegenehmigungen)
+- Nds. Erlasserlass Großraum-/Schwerverkehr
+leika_id: '99036003000000'
+ozg_id: '10421'
+letzte-aktualisierung: '2026-07-10'
 ---
+
 # Großraum- und Schwerverkehr: Ausnahmegenehmigung
 
 ## Prozessschritte

@@ -17,9 +17,12 @@ daten:
   - id: dstore-bankverbindung
   - id: dstore-meldeadresse-wohnsitz
 regelungen:
-  - § 15 Nr. 3 Paßgesetz (PaßG)
-letzte-aktualisierung: 2026-04-06
+- § 15 Nr. 3 Paßgesetz (PaßG)
+leika_id: '99085001014001'
+ozg_id: null
+letzte-aktualisierung: '2026-07-10'
 ---
+
 # Reisepass Meldung wegen Diebstahl
 
 ## Prozessschritte

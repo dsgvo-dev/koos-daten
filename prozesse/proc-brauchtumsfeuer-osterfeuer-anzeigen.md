@@ -13,11 +13,14 @@ daten:
   - id: dstore-personenstammdaten
   - id: dstore-identitaetsnachweis
 regelungen:
-  - 'Nds. Brandschutzgesetz (NBrandSchG) i.V.m. kommunaler Satzung'
-  - '§ 4 Kreislaufwirtschaftsgesetz (KrWG) (Abfallvermeidung)'
-  - 'Nds. Immissionsschutzgesetz (NImSchG)'
-letzte-aktualisierung: 2026-04-06
+- Nds. Brandschutzgesetz (NBrandSchG) i.V.m. kommunaler Satzung
+- § 4 Kreislaufwirtschaftsgesetz (KrWG) (Abfallvermeidung)
+- Nds. Immissionsschutzgesetz (NImSchG)
+leika_id: '99077025169000'
+ozg_id: '10147'
+letzte-aktualisierung: '2026-07-10'
 ---
+
 # Brandverhütungsschau durchführen
 
 ## Prozessschritte
@@ -42,5 +45,3 @@ letzte-aktualisierung: 2026-04-06
 
 **07 Bericht erstellen**  
 *Für Akten und Statistik*
-
-

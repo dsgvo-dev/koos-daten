@@ -14,10 +14,13 @@ daten:
   - id: dstore-veranstalterdaten
   - id: dstore-veranstaltungssicherheitskonzept
 regelungen:
-  - '§ 25 VwVfG (Beratungspflicht der Behörde)'
-  - '§ 11 NKomVG (Kommunale Daseinsvorsorge)'
-letzte-aktualisierung: 2026-04-06
+- § 25 VwVfG (Beratungspflicht der Behörde)
+- § 11 NKomVG (Kommunale Daseinsvorsorge)
+leika_id: '99050032000000'
+ozg_id: null
+letzte-aktualisierung: '2026-07-10'
 ---
+
 # Veranstaltung eintragen
 
 ## Prozessschritte

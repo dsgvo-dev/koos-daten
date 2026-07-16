@@ -22,11 +22,14 @@ daten:
   - id: dstore-staatsangehoerigkeit
   - id: dstore-gesundheitsdaten
 regelungen:
-  - '§§ 1-5 Personalausweisgesetz (PAuswG)'
-  - '§§ 1-4 Passgesetz (PassG)'
-  - '§ 6 PAuswG (Ausweispflicht)'
-letzte-aktualisierung: 2026-04-06
+- §§ 1-5 Personalausweisgesetz (PAuswG)
+- §§ 1-4 Passgesetz (PassG)
+- § 6 PAuswG (Ausweispflicht)
+leika_id: null
+ozg_id: '10119'
+letzte-aktualisierung: '2026-07-10'
 ---
+
 # Erteilung von Informationen zum Personalausweis
 
 ## Prozessschritte

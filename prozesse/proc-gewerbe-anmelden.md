@@ -14,12 +14,15 @@ daten:
   - id: dstore-personenstammdaten
   - id: dstore-identitaetsnachweis
 regelungen:
-  - § 14 Absatz 1 Gewerbeordnung (GewO)
-  - § 15 Absatz 1 Gewerbeordnung (GewO)
-  - § 11 Gewerbeordnung (GewO)
-  - Gewerbeanzeigeverordnung (GewAnzV)
-letzte-aktualisierung: 2026-04-06
+- § 14 Absatz 1 Gewerbeordnung (GewO)
+- § 15 Absatz 1 Gewerbeordnung (GewO)
+- § 11 Gewerbeordnung (GewO)
+- Gewerbeanzeigeverordnung (GewAnzV)
+leika_id: '99050012104000'
+ozg_id: null
+letzte-aktualisierung: '2026-07-10'
 ---
+
 # Gewerbe anmelden
 
 ## Prozessschritte
@@ -44,5 +47,3 @@ letzte-aktualisierung: 2026-04-06
 
 **07 Gewerberegister aktualisieren**  
 *Eintrag vornehmen*
-
-

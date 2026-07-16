@@ -14,11 +14,14 @@ daten:
   - id: dstore-personenstammdaten
   - id: dstore-registerbezug-personenstand
 regelungen:
-  - '§§ 1-5 Personenstandsgesetz (PStG) (Allgemeine Vorschriften)'
-  - 'Nds. AVO-PStG'
-  - '§ 1 Nds. Kirchenaustrittsgesetz (NKiAustrG)'
-letzte-aktualisierung: 2026-04-06
+- §§ 1-5 Personenstandsgesetz (PStG) (Allgemeine Vorschriften)
+- Nds. AVO-PStG
+- § 1 Nds. Kirchenaustrittsgesetz (NKiAustrG)
+leika_id: '99073001000000'
+ozg_id: '10135'
+letzte-aktualisierung: '2026-07-10'
 ---
+
 # Kirchenaustritt erklären
 
 ## Prozessschritte

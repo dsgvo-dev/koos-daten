@@ -16,14 +16,17 @@ daten:
   - id: dstore-personenstammdaten
   - id: dstore-identitaetsnachweis
 regelungen:
-  - '§ 17 Absatz 1 und 3 Bundesmeldegesetz (BMG)'
-  - 'https://www.gesetze-im-internet.de/bmg/__17.html'
-  - '§ 21 Absatz 4 Bundesmeldegesetz (BMG)'
-  - 'https://www.gesetze-im-internet.de/bmg/__21.html'
-  - '§ 23 Bundesmeldegesetz (BMG)'
-  - 'https://www.gesetze-im-internet.de/bmg/__23.html'
-letzte-aktualisierung: 2026-04-06
+- § 17 Absatz 1 und 3 Bundesmeldegesetz (BMG)
+- https://www.gesetze-im-internet.de/bmg/__17.html
+- § 21 Absatz 4 Bundesmeldegesetz (BMG)
+- https://www.gesetze-im-internet.de/bmg/__21.html
+- § 23 Bundesmeldegesetz (BMG)
+- https://www.gesetze-im-internet.de/bmg/__23.html
+leika_id: '99115005104000'
+ozg_id: null
+letzte-aktualisierung: '2026-07-10'
 ---
+
 # Wohnsitz Anmeldung (Meldewesen)
 
 ## Prozessschritte
@@ -48,5 +51,3 @@ letzte-aktualisierung: 2026-04-06
 
 **07 Datenübermittlung**  
 *An Bundesmeldedienst*
-
-

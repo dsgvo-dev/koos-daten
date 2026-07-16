@@ -16,10 +16,13 @@ daten:
   - id: dstore-personenstammdaten
   - id: dstore-registerbezug-personenstand
 regelungen:
-  - '§ 44 Personenstandsgesetz (PStG)'
-  - '§§ 1594 bis 1599 Bürgerliches Gesetzbuch (BGB)'
-letzte-aktualisierung: 2026-04-06
+- § 44 Personenstandsgesetz (PStG)
+- §§ 1594 bis 1599 Bürgerliches Gesetzbuch (BGB)
+leika_id: '99133001026000'
+ozg_id: null
+letzte-aktualisierung: '2026-07-10'
 ---
+
 # Vaterschaftsanerkennung beurkunden
 
 ## Prozessschritte
@@ -44,5 +47,3 @@ letzte-aktualisierung: 2026-04-06
 
 **07 Registereintrag**  
 *Im Geburtenregister vermerken*
-
-

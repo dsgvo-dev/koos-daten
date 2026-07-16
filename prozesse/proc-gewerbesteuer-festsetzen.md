@@ -11,12 +11,15 @@ daten:
   datenspeicher:
   - id: dstore-verwaltungsakte
 regelungen:
-  - '§§ 7 bis 9 Gewerbesteuergesetz (GewStG)'
-  - '§ 11 Gewerbesteuergesetz (GewStG)'
-  - '§ 16 Gewerbesteuergesetz (GewStG)'
-  - '§ 25 Gewerbesteuer-Durchführungsverordnung (GewStDV)'
-letzte-aktualisierung: 2026-04-29
+- §§ 7 bis 9 Gewerbesteuergesetz (GewStG)
+- § 11 Gewerbesteuergesetz (GewStG)
+- § 16 Gewerbesteuergesetz (GewStG)
+- § 25 Gewerbesteuer-Durchführungsverordnung (GewStDV)
+leika_id: '99102010000000'
+ozg_id: '10364'
+letzte-aktualisierung: '2026-07-10'
 ---
+
 # Gewerbesteuer festsetzen
 
 ## Prozessschritte
@@ -41,5 +44,3 @@ letzte-aktualisierung: 2026-04-29
 
 **07 Vollziehung**  
 *Einziehung überwachen*
-
-

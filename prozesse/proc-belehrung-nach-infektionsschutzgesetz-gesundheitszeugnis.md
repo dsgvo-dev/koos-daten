@@ -19,9 +19,12 @@ daten:
   - id: dstore-heilpraktikererlaubnisverfahren
   - id: dstore-pruefungsnachweis-physiotherapie
 regelungen:
-  - '§ 43 Absatz 1 Infektionsschutzgesetz (IfSG)'
-letzte-aktualisierung: 2026-04-06
+- § 43 Absatz 1 Infektionsschutzgesetz (IfSG)
+leika_id: '99003002000000'
+ozg_id: null
+letzte-aktualisierung: '2026-07-10'
 ---
+
 # Belehrung nach Infektionsschutzgesetz (Gesundheitszeugnis)
 
 ## Prozessschritte

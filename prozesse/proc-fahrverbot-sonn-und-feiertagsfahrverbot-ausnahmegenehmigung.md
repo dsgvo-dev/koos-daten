@@ -14,10 +14,13 @@ daten:
   - id: dstore-personenstammdaten
   - id: dstore-identitaetsnachweis
 regelungen:
-  - '§ 30 Absatz 3 und 4 Straßenverkehrs-Ordnung (StVO)'
-  - '§ 46 Absatz 2 Satz 1 Straßenverkehrs-Ordnung (StVO)'
-letzte-aktualisierung: 2026-04-06
+- § 30 Absatz 3 und 4 Straßenverkehrs-Ordnung (StVO)
+- § 46 Absatz 2 Satz 1 Straßenverkehrs-Ordnung (StVO)
+leika_id: '99108058006000'
+ozg_id: null
+letzte-aktualisierung: '2026-07-10'
 ---
+
 # Fahrverbot (Sonn- und Feiertagsfahrverbot): Ausnahmegenehmigung
 
 ## Prozessschritte

@@ -13,10 +13,14 @@ daten:
   - id: dstore-identitaetsnachweis
   - id: dstore-personenstammdaten
 regelungen:
-  - '§ 6e Straßenverkehrsgesetz (StVG)'
-  - '§ 48a Verordnung über die Zulassung von Personen zum Straßenverkehr (Fahrerlaubnis-Verordnung - FeV)'
-letzte-aktualisierung: 2026-04-06
+- § 6e Straßenverkehrsgesetz (StVG)
+- § 48a Verordnung über die Zulassung von Personen zum Straßenverkehr (Fahrerlaubnis-Verordnung
+  - FeV)
+leika_id: '99108047001002'
+ozg_id: null
+letzte-aktualisierung: '2026-07-10'
 ---
+
 # Erteilung: Begleitetes Fahren ab 17 Jahre
 
 ## Prozessschritte

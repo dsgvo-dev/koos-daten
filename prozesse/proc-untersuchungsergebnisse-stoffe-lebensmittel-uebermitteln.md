@@ -17,11 +17,14 @@ daten:
   - id: dstore-tierhalterbestand-nutztiere
   - id: dstore-personenstammdaten
 regelungen:
-  - '§§ 38-40 Lebensmittel- und Futtermittelgesetzbuch (LFGB)'
-  - '§ 40 LFGB (Öffentliche Warnung)'
-  - 'EU-Verordnung (EG) Nr. 178/2002 (Basisverordnung Lebensmittel)'
-letzte-aktualisierung: 2026-04-06
+- §§ 38-40 Lebensmittel- und Futtermittelgesetzbuch (LFGB)
+- § 40 LFGB (Öffentliche Warnung)
+- EU-Verordnung (EG) Nr. 178/2002 (Basisverordnung Lebensmittel)
+leika_id: '99118013000000'
+ozg_id: null
+letzte-aktualisierung: '2026-07-10'
 ---
+
 # Untersuchungsergebnisse: gesundheitlich nicht erwünschte Stoffe in/auf Lebensmitteln
 
 ## Prozessschritte

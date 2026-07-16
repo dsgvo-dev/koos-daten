@@ -16,9 +16,12 @@ daten:
   - id: dstore-identitaetsnachweis
   - id: dstore-personenstammdaten
 regelungen:
-  - '§ 6 Chemikalien-Verbotsordnung (ChemVerbotsV)'
-letzte-aktualisierung: 2026-04-06
+- § 6 Chemikalien-Verbotsordnung (ChemVerbotsV)
+leika_id: '99050046005000'
+ozg_id: null
+letzte-aktualisierung: '2026-07-10'
 ---
+
 # Sprengstoff: gewerbsmäßiger Umgang – Erlaubnis
 
 ## Prozessschritte

@@ -11,13 +11,17 @@ daten:
   datenspeicher:
   - id: dstore-verwaltungsakte
 regelungen:
-  - '§ 26 Sozialgesetzbuch (SGB) Erstes Buch (I) - Allgemeiner Teil'
-  - '§ 1 Wohngeldgesetz (WoGG)'
-  - '§ 22 Absatz 1 Wohngeldgesetz (WoGG)'
-  - 'Wohngeldverordnung (WoGV)'
-  - 'Allgemeine Verwaltungsvorschrift zur Durchführung des Wohngeldgesetzes (Wohngeld-Verwaltungsvorschrift - WoGVwV)'
-letzte-aktualisierung: 2026-04-29
+- § 26 Sozialgesetzbuch (SGB) Erstes Buch (I) - Allgemeiner Teil
+- § 1 Wohngeldgesetz (WoGG)
+- § 22 Absatz 1 Wohngeldgesetz (WoGG)
+- Wohngeldverordnung (WoGV)
+- Allgemeine Verwaltungsvorschrift zur Durchführung des Wohngeldgesetzes (Wohngeld-Verwaltungsvorschrift
+  - WoGVwV)
+leika_id: '99107023000000'
+ozg_id: '10092'
+letzte-aktualisierung: '2026-07-10'
 ---
+
 # Wohngeld bewilligen
 
 ## Prozessschritte
@@ -42,5 +46,3 @@ letzte-aktualisierung: 2026-04-29
 
 **07 Änderungsmitteilungen bearbeiten**  
 *Aktualisierungen*
-
-

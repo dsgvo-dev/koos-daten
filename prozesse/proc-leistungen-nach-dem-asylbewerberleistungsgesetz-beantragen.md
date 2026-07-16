@@ -19,9 +19,11 @@ daten:
   - id: dstore-personenstammdaten
   - id: dstore-einkommens-und-leistungsdaten
   - §§ 3 ff. Asylbewerberleistungsgesetz
-letzte-aktualisierung: 2026-04-06
 regelungen:
-  - '§§ 3 ff. Asylbewerberleistungsgesetz'
+- §§ 3 ff. Asylbewerberleistungsgesetz
+leika_id: '99107029000000'
+ozg_id: '10606'
+letzte-aktualisierung: '2026-07-10'
 ---
 
 # Leistungen nach dem Asylbewerberleistungsgesetz beantragen

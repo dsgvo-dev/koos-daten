@@ -13,11 +13,14 @@ daten:
   datenspeicher:
   - id: dstore-unternehmens-und-registerdaten
 regelungen:
-  - '§§ 12-14 Pflanzenschutzgesetz (PflSchG) (Anwendung)'
-  - '§ 12 PflSchG (Anwendungsverbote und -beschränkungen)'
-  - 'EU-Verordnung (EG) Nr. 1107/2009 (Pflanzenschutzmittel)'
-letzte-aktualisierung: 2026-04-06
+- §§ 12-14 Pflanzenschutzgesetz (PflSchG) (Anwendung)
+- § 12 PflSchG (Anwendungsverbote und -beschränkungen)
+- EU-Verordnung (EG) Nr. 1107/2009 (Pflanzenschutzmittel)
+leika_id: '99093015000000'
+ozg_id: null
+letzte-aktualisierung: '2026-07-10'
 ---
+
 # Pflanzenschutzmittel: Anwendung – Anzeige
 
 ## Prozessschritte

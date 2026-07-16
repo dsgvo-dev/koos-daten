@@ -15,11 +15,16 @@ daten:
   - id: dstore-fingerabdruckdaten
   - id: dstore-identitaetsnachweis
 regelungen:
-  - '§ 1 Absatz 4 Nummer 1 Gesetz über Personalausweise und den elektronischen Identitätsnachweis (Personalausweisgesetz - PAuswG)'
-  - '§ 9 Absatz 2 Gesetz über Personalausweise und den elektronischen Identitätsnachweis (Personalausweisgesetz - PAuswG)'
-  - 'Personalausweis- und eID-Karten-Gebührenverordnung'
-letzte-aktualisierung: 2026-04-29
+- § 1 Absatz 4 Nummer 1 Gesetz über Personalausweise und den elektronischen Identitätsnachweis
+  (Personalausweisgesetz - PAuswG)
+- § 9 Absatz 2 Gesetz über Personalausweise und den elektronischen Identitätsnachweis
+  (Personalausweisgesetz - PAuswG)
+- Personalausweis- und eID-Karten-Gebührenverordnung
+leika_id: '99008001000000'
+ozg_id: '10119'
+letzte-aktualisierung: '2026-07-10'
 ---
+
 # Personalausweis ausstellen
 
 ## Prozessschritte
@@ -44,5 +49,3 @@ letzte-aktualisierung: 2026-04-29
 
 **07 Signaturzertifikat aktivieren**  
 *Bei Bedarf*
-
-

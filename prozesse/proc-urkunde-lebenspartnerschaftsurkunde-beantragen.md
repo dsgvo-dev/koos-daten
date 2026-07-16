@@ -13,13 +13,16 @@ daten:
   - id: dstore-personenstammdaten
   - id: dstore-registerbezug-personenstand
 regelungen:
-  - '§ 58 Personenstandsgesetz (PStG)'
-  - '§ 61-66 Personenstandsgesetz (PStG)'
-  - '§ 5 Absatz 5 Personenstandsgesetz (PStG)'
-  - '§ 48 Absatz 1 Personenstandsverordnung (PStV)'
-  - '§ 50 Absatz 1 Personenstandsverordnung (PStV)'
-letzte-aktualisierung: 2026-04-06
+- § 58 Personenstandsgesetz (PStG)
+- § 61-66 Personenstandsgesetz (PStG)
+- § 5 Absatz 5 Personenstandsgesetz (PStG)
+- § 48 Absatz 1 Personenstandsverordnung (PStV)
+- § 50 Absatz 1 Personenstandsverordnung (PStV)
+leika_id: '99079003000000'
+ozg_id: '10028'
+letzte-aktualisierung: '2026-07-10'
 ---
+
 # Urkunde: Lebenspartnerschaftsurkunde beantragen
 
 ## Prozessschritte

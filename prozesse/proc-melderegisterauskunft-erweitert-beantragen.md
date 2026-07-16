@@ -15,10 +15,13 @@ daten:
   - id: dstore-personenstammdaten
   - id: dstore-identitaetsnachweis
 regelungen:
-  - '§ 45 Bundesmeldegesetz (BMG)'
-  - '45 Allgemeine Verwaltungsvorschriften zur Durchführung des Bundesmeldegesetzes (BMGVwV)'
-letzte-aktualisierung: 2026-04-06
+- § 45 Bundesmeldegesetz (BMG)
+- 45 Allgemeine Verwaltungsvorschriften zur Durchführung des Bundesmeldegesetzes (BMGVwV)
+leika_id: '99115004001002'
+ozg_id: null
+letzte-aktualisierung: '2026-07-10'
 ---
+
 # Melderegisterauskunft: erweitert beantragen
 
 ## Prozessschritte

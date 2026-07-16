@@ -14,11 +14,14 @@ daten:
   - id: dstore-personenstammdaten
   - id: dstore-polizeiliche-verlustmeldung
 regelungen:
-  - '§§ 1-5 Personalausweisgesetz (PAuswG)'
-  - '§§ 1-4 Passgesetz (PassG)'
-  - '§ 6 PAuswG (Ausweispflicht)'
-letzte-aktualisierung: 2026-04-29
+- §§ 1-5 Personalausweisgesetz (PAuswG)
+- §§ 1-4 Passgesetz (PassG)
+- § 6 PAuswG (Ausweispflicht)
+leika_id: '99008001000000'
+ozg_id: '10119'
+letzte-aktualisierung: '2026-07-10'
 ---
+
 # Personalausweis sperren
 
 ## Prozessschritte
@@ -43,5 +46,3 @@ letzte-aktualisierung: 2026-04-29
 
 **07 Dokumentation**  
 *Für Statistik*
-
-

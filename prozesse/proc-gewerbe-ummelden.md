@@ -15,13 +15,17 @@ daten:
   - id: dstore-identitaetsnachweis
   - § 14 Abs. 1 Gewerbeordnung (GewO)
   - § 15 Abs. 1 Gewerbeordnung (GewO)
-letzte-aktualisierung: 2026-04-06
 regelungen:
-  - '§ 11 Gewerbeordnung (GewO)'
-  - '§ 14 Gewerbeordnung (GewO)'
-  - '§ 15 Gewerbeordnung (GewO)'
-  - 'Verordnung zur Ausgestaltung des Gewerbeanzeigeverfahrens (Gewerbeanzeigeverordnung - GewAnzV)'
+- § 11 Gewerbeordnung (GewO)
+- § 14 Gewerbeordnung (GewO)
+- § 15 Gewerbeordnung (GewO)
+- Verordnung zur Ausgestaltung des Gewerbeanzeigeverfahrens (Gewerbeanzeigeverordnung
+  - GewAnzV)
+leika_id: '99050012071000'
+ozg_id: null
+letzte-aktualisierung: '2026-07-10'
 ---
+
 # Gewerbe ummelden
 
 ## Prozessschritte
@@ -46,5 +50,3 @@ regelungen:
 
 **07 Gewerberegister aktualisieren**  
 *Eintrag vornehmen*
-
-

@@ -17,10 +17,13 @@ daten:
   - id: dstore-kfz-daten
   - id: dstore-identitaetsnachweis
 regelungen:
-  - '§ 4 Gesetz über das Fahrlehrerwesen (Fahrlehrergesetz - FahrlG)'
-  - '§ 2 Gesetz über das Fahrlehrerwesen (Fahrlehrergesetz - FahrlG)'
-letzte-aktualisierung: 2026-04-06
+- § 4 Gesetz über das Fahrlehrerwesen (Fahrlehrergesetz - FahrlG)
+- § 2 Gesetz über das Fahrlehrerwesen (Fahrlehrergesetz - FahrlG)
+leika_id: '99150005000000'
+ozg_id: null
+letzte-aktualisierung: '2026-07-10'
 ---
+
 # Fahrlehrerlaubnis beantragen
 
 ## Prozessschritte

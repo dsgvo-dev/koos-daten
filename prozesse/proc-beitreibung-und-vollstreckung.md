@@ -17,11 +17,14 @@ daten:
   - id: dstore-mahn-vollstreckungsstatus
   - id: dstore-pfaendung-drittschuldnerdaten
 regelungen:
-  - '§§ 1 ff. Nds. Verwaltungsvollstreckungsgesetz (NVwVG)'
-  - '§§ 249 ff. Abgabenordnung (AO) (Vollstreckung)'
-  - '§§ 6-7 NKAG (Beitreib von Kommunalabgaben)'
-letzte-aktualisierung: 2026-04-06
+- §§ 1 ff. Nds. Verwaltungsvollstreckungsgesetz (NVwVG)
+- §§ 249 ff. Abgabenordnung (AO) (Vollstreckung)
+- §§ 6-7 NKAG (Beitreib von Kommunalabgaben)
+leika_id: '99122059000000'
+ozg_id: null
+letzte-aktualisierung: '2026-07-10'
 ---
+
 # Beitreibung und Vollstreckung
 
 ## Prozessschritte

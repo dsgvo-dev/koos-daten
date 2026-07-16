@@ -17,14 +17,17 @@ daten:
   - § 55 Personenstandsgesetz (PStG)
   - § 60 Personenstandsgesetz (PStG)
   - § 62 Personenstandsgesetz (PStG)
-letzte-aktualisierung: 2026-04-06
 regelungen:
-  - '§ 55 Absatz 1 Nummer 4 Personenstandsgesetz (PStG)'
-  - '§ 60 Personenstandsgesetz (PStG)'
-  - '§ 55 Civil Status Act (PStG)'
-  - '§ 60 Civil Status Act (PStG)'
-  - '§ 62 Personenstandsgesetz (PStG)'
+- § 55 Absatz 1 Nummer 4 Personenstandsgesetz (PStG)
+- § 60 Personenstandsgesetz (PStG)
+- § 55 Civil Status Act (PStG)
+- § 60 Civil Status Act (PStG)
+- § 62 Personenstandsgesetz (PStG)
+leika_id: '99101004000000'
+ozg_id: '10237'
+letzte-aktualisierung: '2026-07-10'
 ---
+
 # Sterbeurkunde beantragen
 
 ## Prozessschritte
@@ -49,5 +52,3 @@ regelungen:
 
 **07 Statistiken aktualisieren**  
 *Landes-/Bundesstatistik*
-
-

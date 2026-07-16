@@ -20,9 +20,12 @@ daten:
   - id: dstore-haushaltshilfe-unterstuetzungsbedarf
   - id: dstore-pflegeversicherungsbeitraege
 regelungen:
-  - §§ 61 bis 66a Zwölftes Buch Sozialgesetzbuch (SGB XII)
-letzte-aktualisierung: 2026-04-06
+- §§ 61 bis 66a Zwölftes Buch Sozialgesetzbuch (SGB XII)
+leika_id: '99107014000000'
+ozg_id: '10218'
+letzte-aktualisierung: '2026-07-10'
 ---
+
 # Hilfe zur Pflege beantragen
 
 ## Prozessschritte

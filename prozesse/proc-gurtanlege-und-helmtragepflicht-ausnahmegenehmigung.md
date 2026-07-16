@@ -14,10 +14,13 @@ daten:
   - id: dstore-personenstammdaten
   - id: dstore-identitaetsnachweis
 regelungen:
-  - '§ 21a StVO (Sicherheitsgurt- und Schutzhelmpflicht)'
-  - '§ 46 StVO (Ausnahmegenehmigungen)'
-letzte-aktualisierung: 2026-04-06
+- § 21a StVO (Sicherheitsgurt- und Schutzhelmpflicht)
+- § 46 StVO (Ausnahmegenehmigungen)
+leika_id: '99108025000000'
+ozg_id: null
+letzte-aktualisierung: '2026-07-10'
 ---
+
 # Gurtanlege- und Helmtragepflicht: Ausnahmegenehmigung
 
 ## Prozessschritte

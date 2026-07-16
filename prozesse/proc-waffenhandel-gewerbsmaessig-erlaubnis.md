@@ -16,10 +16,13 @@ daten:
   - id: dstore-register-und-zuverlaessigkeitsauskuenfte
   - id: dstore-unternehmens-und-registerdaten
 regelungen:
-  - '§§ 21-22 Waffengesetz (WaffG) (Waffenhandel)'
-  - '§ 4 WaffG (Erlaubnispflicht)'
-letzte-aktualisierung: 2026-04-06
+- §§ 21-22 Waffengesetz (WaffG) (Waffenhandel)
+- § 4 WaffG (Erlaubnispflicht)
+leika_id: '99089019000000'
+ozg_id: null
+letzte-aktualisierung: '2026-07-10'
 ---
+
 # Waffenhandel gewerbsmäßig – Erlaubnis
 
 ## Prozessschritte

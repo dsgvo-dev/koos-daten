@@ -14,10 +14,13 @@ daten:
   - id: dstore-identitaetsnachweis
   - id: dstore-personenstammdaten
 regelungen:
-  - '§§ 14-15 GewO (Gewerbeanzeige/-abmeldung)'
-  - '§ 38 GewO (Überwachungsbedürftige Gewerbe)'
-letzte-aktualisierung: 2026-04-29
+- §§ 14-15 GewO (Gewerbeanzeige/-abmeldung)
+- § 38 GewO (Überwachungsbedürftige Gewerbe)
+leika_id: '99050023000000'
+ozg_id: null
+letzte-aktualisierung: '2026-07-10'
 ---
+
 # Reisegewerbe anmelden
 
 ## Prozessschritte
@@ -42,5 +45,3 @@ letzte-aktualisierung: 2026-04-29
 
 **07 Kontrollen**  
 *Auf Messen, Märkten*
-
-

@@ -12,11 +12,14 @@ daten:
   - id: dstore-amtsaerztliches-zeugnis
   - id: dstore-personenstammdaten
 regelungen:
-  - '§§ 1-3 Nds. Gesetz über den öffentlichen Gesundheitsdienst (NGöGD)'
-  - '§§ 28-31 Infektionsschutzgesetz (IfSG)'
-  - '§ 5 NGöGD (Aufgaben der Gesundheitsämter)'
-letzte-aktualisierung: 2026-04-06
+- §§ 1-3 Nds. Gesetz über den öffentlichen Gesundheitsdienst (NGöGD)
+- §§ 28-31 Infektionsschutzgesetz (IfSG)
+- § 5 NGöGD (Aufgaben der Gesundheitsämter)
+leika_id: '99003001000000'
+ozg_id: null
+letzte-aktualisierung: '2026-07-10'
 ---
+
 # Impfbescheinigung ausstellen
 
 ## Prozessschritte
@@ -41,5 +44,3 @@ letzte-aktualisierung: 2026-04-06
 
 **07 Datenschutz wahren**  
 *Gesundheitsdaten schützen*
-
-

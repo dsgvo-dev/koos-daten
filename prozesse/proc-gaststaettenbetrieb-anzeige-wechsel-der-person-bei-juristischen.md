@@ -16,9 +16,12 @@ daten:
   - id: dstore-personenstammdaten
   - id: dstore-identitaetsnachweis
 regelungen:
-  - §§ 2 Absatz 4 Niedersächsisches Gaststättengesetz (NGastG)
-letzte-aktualisierung: 2026-04-06
+- §§ 2 Absatz 4 Niedersächsisches Gaststättengesetz (NGastG)
+leika_id: '99050150169000'
+ozg_id: null
+letzte-aktualisierung: '2026-07-10'
 ---
+
 # Gaststättenbetrieb Anzeige Wechsel der Person bei juristischen Personen
 
 ## Prozessschritte

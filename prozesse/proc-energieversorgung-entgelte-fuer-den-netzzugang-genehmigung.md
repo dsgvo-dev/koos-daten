@@ -14,11 +14,14 @@ daten:
   - id: dstore-unternehmens-und-registerdaten
   - id: dstore-identitaetsnachweis
 regelungen:
-  - '§§ 20-21 Energiewirtschaftsgesetz (EnWG) (Netzzugang)'
-  - '§ 23a EnWG (Entgeltgenehmigung)'
-  - 'Strom-/GasNEV'
-letzte-aktualisierung: 2026-04-06
+- §§ 20-21 Energiewirtschaftsgesetz (EnWG) (Netzzugang)
+- § 23a EnWG (Entgeltgenehmigung)
+- Strom-/GasNEV
+leika_id: '99050069000000'
+ozg_id: null
+letzte-aktualisierung: '2026-07-10'
 ---
+
 # Energieversorgung: Entgelte für den Netzzugang – Genehmigung
 
 ## Prozessschritte

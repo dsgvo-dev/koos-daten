@@ -14,11 +14,14 @@ daten:
   - id: dstore-abfallentsorgungsrhythmus
   - id: dstore-abfallbehaelter-gebuehrenobjekt
 regelungen:
-  - '§§ 17-21 Kreislaufwirtschaftsgesetz (KrWG) (Überlassungspflichten)'
-  - '§ 20 KrWG (Pflichten der öffentlich-rechtlichen Entsorgungsträger)'
-  - '§§ 11-12 Nds. Abfallgesetz (NAbfG)'
-letzte-aktualisierung: 2026-04-06
+- §§ 17-21 Kreislaufwirtschaftsgesetz (KrWG) (Überlassungspflichten)
+- § 20 KrWG (Pflichten der öffentlich-rechtlichen Entsorgungsträger)
+- §§ 11-12 Nds. Abfallgesetz (NAbfG)
+leika_id: '99001009004002'
+ozg_id: null
+letzte-aktualisierung: '2026-07-10'
 ---
+
 # Sperrmüll abholen
 
 ## Prozessschritte
@@ -43,5 +46,3 @@ letzte-aktualisierung: 2026-04-06
 
 **07 Statistik**  
 *Mengenerfassung*
-
-

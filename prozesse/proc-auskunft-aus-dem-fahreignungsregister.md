@@ -12,11 +12,14 @@ daten:
   - id: dstore-fuehrerscheindaten
   - id: dstore-personenstammdaten
 regelungen:
-  - '§§ 2-6 Straßenverkehrsgesetz (StVG) (Fahrerlaubnis)'
-  - '§§ 7 ff. Fahrerlaubnis-Verordnung (FeV)'
-  - '§ 4 StVG (Fahreignungs-Bewertungssystem)'
-letzte-aktualisierung: 2026-04-06
+- §§ 2-6 Straßenverkehrsgesetz (StVG) (Fahrerlaubnis)
+- §§ 7 ff. Fahrerlaubnis-Verordnung (FeV)
+- § 4 StVG (Fahreignungs-Bewertungssystem)
+leika_id: '99029005000000'
+ozg_id: '10168'
+letzte-aktualisierung: '2026-07-10'
 ---
+
 # Auskunft aus dem Fahreignungsregister
 
 ## Prozessschritte
@@ -41,5 +44,3 @@ letzte-aktualisierung: 2026-04-06
 
 **07 Auskunft erteilen**  
 *An Berechtigten*
-
-

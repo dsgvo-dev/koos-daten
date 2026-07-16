@@ -13,10 +13,13 @@ daten:
   - id: dstore-abrechnungsdaten
   - id: dstore-verwaltungsakte
 regelungen:
-  - '§§ 23-44 LHO Nds. (Zuwendungen)'
-  - 'EFRE/ESF EU-Verordnungen (Strukturfondsprogramm)'
-letzte-aktualisierung: 2026-04-29
+- §§ 23-44 LHO Nds. (Zuwendungen)
+- EFRE/ESF EU-Verordnungen (Strukturfondsprogramm)
+leika_id: '99144013000000'
+ozg_id: null
+letzte-aktualisierung: '2026-07-10'
 ---
+
 # EU-Projektmanagement
 
 ## Prozessschritte
@@ -41,5 +44,3 @@ letzte-aktualisierung: 2026-04-29
 
 **07 Verbreitung**  
 *Projektergebnisse*
-
-

@@ -13,10 +13,13 @@ daten:
   - id: dstore-identitaetsnachweis
   - id: dstore-bescheinigung
 regelungen:
-  - '§ 1 Nds. Bibliotheksgesetz (NBibG)'
-  - '§ 11 NKomVG (Kommunale Einrichtungen)'
-letzte-aktualisierung: 2026-04-29
+- § 1 Nds. Bibliotheksgesetz (NBibG)
+- § 11 NKomVG (Kommunale Einrichtungen)
+leika_id: '99077020000000'
+ozg_id: '10014'
+letzte-aktualisierung: '2026-07-10'
 ---
+
 # Bibliotheksausweis ausstellen
 
 ## Prozessschritte
@@ -41,5 +44,3 @@ letzte-aktualisierung: 2026-04-29
 
 **07 Datenbankeintrag**  
 *In Bibliothekssystem*
-
-

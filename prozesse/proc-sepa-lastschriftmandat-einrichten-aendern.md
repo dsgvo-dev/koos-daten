@@ -14,10 +14,13 @@ daten:
   - id: dstore-sepa-lastschriftmandat
   - id: dstore-bankverbindung
 regelungen:
-  - '§§ 110-127 NKomVG (Haushaltswirtschaft)'
-  - '§§ 1 ff. GemHKVO Nds. (Gemeindehaushalts- und -kassenverordnung)'
-letzte-aktualisierung: 2026-04-06
+- §§ 110-127 NKomVG (Haushaltswirtschaft)
+- §§ 1 ff. GemHKVO Nds. (Gemeindehaushalts- und -kassenverordnung)
+leika_id: '99142055000000'
+ozg_id: null
+letzte-aktualisierung: '2026-07-10'
 ---
+
 # SEPA-Lastschriftmandat einrichten/ändern
 
 ## Prozessschritte

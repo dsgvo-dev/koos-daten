@@ -11,9 +11,12 @@ daten:
   datenspeicher:
   - id: dstore-abfallentsorgungsrhythmus
 regelungen:
-  - '§ 20 Kreislaufwirtschaftsgesetz (KrWG)'
-letzte-aktualisierung: 2026-04-06
+- § 20 Kreislaufwirtschaftsgesetz (KrWG)
+leika_id: '99001009000000'
+ozg_id: null
+letzte-aktualisierung: '2026-07-10'
 ---
+
 # Sperrmüll anmelden
 
 ## Prozessschritte
@@ -38,5 +41,3 @@ letzte-aktualisierung: 2026-04-06
 
 **07 Statistik**  
 *Mengenerfassung*
-
-

@@ -15,11 +15,14 @@ daten:
   - id: dstore-identitaetsnachweis
   - id: dstore-bescheinigung
 regelungen:
-  - '§ 45 Abs. 1b StVO (Parkerleichterungen für Behinderte)'
-  - '§§ 228-231 SGB IX (Nachteilsausgleiche/Merkzeichen)'
-  - '§§ 45-46 StVO'
-letzte-aktualisierung: 2026-04-29
+- § 45 Abs. 1b StVO (Parkerleichterungen für Behinderte)
+- §§ 228-231 SGB IX (Nachteilsausgleiche/Merkzeichen)
+- §§ 45-46 StVO
+leika_id: '99108001000000'
+ozg_id: '10722'
+letzte-aktualisierung: '2026-07-10'
 ---
+
 # Bewohnerparkausweis
 
 ## Prozessschritte
@@ -44,5 +47,3 @@ letzte-aktualisierung: 2026-04-29
 
 **07 Kontrollen**  
 *Missbrauch verhindern*
-
-

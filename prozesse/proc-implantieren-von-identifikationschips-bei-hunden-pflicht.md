@@ -16,10 +16,13 @@ daten:
   - id: dstore-hunderegisterdaten
   - id: dstore-personenstammdaten
 regelungen:
-  - '§ 3 Nds. Polizei- und Ordnungsbehördengesetz (Nds. SOG) i.V.m. Hundesteuersatzung'
-  - '§§ 11 ff. TierSchG (Tierschutz bei Kennzeichnung)'
-letzte-aktualisierung: 2026-04-06
+- § 3 Nds. Polizei- und Ordnungsbehördengesetz (Nds. SOG) i.V.m. Hundesteuersatzung
+- §§ 11 ff. TierSchG (Tierschutz bei Kennzeichnung)
+leika_id: '99110044000000'
+ozg_id: null
+letzte-aktualisierung: '2026-07-10'
 ---
+
 # Implantieren von Identifikationschips bei Hunden (Pflicht/Information)
 
 ## Prozessschritte

@@ -18,11 +18,14 @@ daten:
   - id: dstore-personenstammdaten
   - id: dstore-registerbezug-personenstand
 regelungen:
-  - '§§ 11-17 Personenstandsgesetz (PStG) (Anmeldung der Eheschließung)'
-  - '§§ 28-30 PStG (Eheschließung)'
-  - 'Nds. AVO-PStG'
-letzte-aktualisierung: 2026-04-06
+- §§ 11-17 Personenstandsgesetz (PStG) (Anmeldung der Eheschließung)
+- §§ 28-30 PStG (Eheschließung)
+- Nds. AVO-PStG
+leika_id: '99059001104000'
+ozg_id: null
+letzte-aktualisierung: '2026-07-10'
 ---
+
 # Eheschließung (allgemein) – Anmeldung/Bearbeitung
 
 ## Prozessschritte

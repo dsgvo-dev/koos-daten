@@ -14,8 +14,10 @@ daten:
   - id: dstore-personenstammdaten
   - id: dstore-einkommens-und-leistungsdaten
 regelungen:
-  - '§§ 71 bis 77. Einkommensteuergesetz (EStG)'
-letzte-aktualisierung: 2026-04-06
+- §§ 71 bis 77. Einkommensteuergesetz (EStG)
+leika_id: '99041008000000'
+ozg_id: '10005'
+letzte-aktualisierung: '2026-07-10'
 ---
 
 # Kindergeld

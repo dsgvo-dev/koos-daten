@@ -4,15 +4,15 @@ titel: Wohngeld beantragen
 status: aktiv
 zustaendigeEinheit: oe-amt-64
 zustaendigeRolle: Sachbearbeitung Wohngeld
-
+beteiligte: []
 daten:
   input:
-    - Wohngeldantrag
-    - Einkommens- und Mietnachweise
-    - Haushaltsbescheinigung
+  - Wohngeldantrag
+  - Einkommens- und Mietnachweise
+  - Haushaltsbescheinigung
   output:
-    - Wohngeldbescheid
-    - Bewilligungsschreiben
+  - Wohngeldbescheid
+  - Bewilligungsschreiben
   datenspeicher:
   - id: dstore-wohngeld
   - id: dstore-wohngeldbewilligungszeitraum
@@ -21,20 +21,22 @@ daten:
   - id: dstore-wohnungszuordnungsmerkmal
   - id: dstore-mietvertrag-miethoehe
   - id: dstore-miete-und-belastung
-
   - WoGG (Wohngeldgesetz)
   - WoGV (Wohngeldverordnung)
   - SGB I §60 (Mitwirkungspflichten)
   - VwVfG (Verwaltungsverfahrensgesetz)
-
-letzte-aktualisierung: 2026-04-23
 regelungen:
-  - '§ 26 Sozialgesetzbuch (SGB) Erstes Buch (I) - Allgemeiner Teil'
-  - '§ 1 Wohngeldgesetz (WoGG)'
-  - '§ 22 Absatz 1 Wohngeldgesetz (WoGG)'
-  - 'Wohngeldverordnung (WoGV)'
-  - 'Allgemeine Verwaltungsvorschrift zur Durchführung des Wohngeldgesetzes (Wohngeld-Verwaltungsvorschrift - WoGVwV)'
+- § 26 Sozialgesetzbuch (SGB) Erstes Buch (I) - Allgemeiner Teil
+- § 1 Wohngeldgesetz (WoGG)
+- § 22 Absatz 1 Wohngeldgesetz (WoGG)
+- Wohngeldverordnung (WoGV)
+- Allgemeine Verwaltungsvorschrift zur Durchführung des Wohngeldgesetzes (Wohngeld-Verwaltungsvorschrift
+  - WoGVwV)
+leika_id: '99107023000000'
+ozg_id: '10092'
+letzte-aktualisierung: '2026-07-10'
 ---
+
 # Wohngeld beantragen
 
 ## Prozessschritte
@@ -59,5 +61,3 @@ regelungen:
 
 **07 Änderungsmitteilungen bearbeiten**  
 *Aktualisierungen*
-
-

@@ -21,13 +21,16 @@ daten:
   - § 59 Personenstandsgesetz (PStG)
   - § 62 Personenstandsgesetz (PStG)
   - § 50 Personenstandsverordnung (PStV)
-letzte-aktualisierung: 2026-04-06
 regelungen:
-  - '§ 55 Absatz 1 Nummer 3 Personenstandsgesetz (PStG)'
-  - '§ 59 Personenstandsgesetz (PStG)'
-  - '§ 62 Personenstandsgesetz (PStG)'
-  - '§ 50 Personenstandsverordnung (PStV)'
+- § 55 Absatz 1 Nummer 3 Personenstandsgesetz (PStG)
+- § 59 Personenstandsgesetz (PStG)
+- § 62 Personenstandsgesetz (PStG)
+- § 50 Personenstandsverordnung (PStV)
+leika_id: '99027002000000'
+ozg_id: '10557'
+letzte-aktualisierung: '2026-07-10'
 ---
+
 # Geburtsurkunde beantragen
 
 ## Prozessschritte
@@ -52,5 +55,3 @@ regelungen:
 
 **07 Buchführung**  
 *Vermerk in Akte, Statistik*
-
-

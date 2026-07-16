@@ -13,10 +13,13 @@ daten:
   - id: dstore-identitaetsnachweis
   - id: dstore-personenstammdaten
 regelungen:
-  - '§ 27 Absatz 1 Waffengesetz (WaffG)'
-  - '§ 27a Waffengesetz (WaffG)'
-letzte-aktualisierung: 2026-04-06
+- § 27 Absatz 1 Waffengesetz (WaffG)
+- § 27a Waffengesetz (WaffG)
+leika_id: '99089056000000'
+ozg_id: null
+letzte-aktualisierung: '2026-07-10'
 ---
+
 # Erlaubnis zum Betrieb einer Schießstätte
 
 ## Prozessschritte

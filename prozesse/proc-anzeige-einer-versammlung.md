@@ -13,9 +13,12 @@ daten:
   - id: dstore-personenstammdaten
   - id: dstore-identitaetsnachweis
 regelungen:
-  - '§ 14 Versammlungsgesetz (VersammlG)'
-letzte-aktualisierung: 2026-04-06
+- § 14 Versammlungsgesetz (VersammlG)
+leika_id: '99089016000000'
+ozg_id: '10142'
+letzte-aktualisierung: '2026-07-10'
 ---
+
 # Anzeige einer Versammlung
 
 ## Prozessschritte

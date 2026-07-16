@@ -12,10 +12,13 @@ daten:
   - id: dstore-sitzungsprotokoll
   - id: dstore-verwaltungsakte
 regelungen:
-  - '§§ 1-14 Nds. Versammlungsgesetz (NVersG)'
-  - 'Art. 8 GG (Versammlungsfreiheit)'
-letzte-aktualisierung: 2026-04-29
+- §§ 1-14 Nds. Versammlungsgesetz (NVersG)
+- Art. 8 GG (Versammlungsfreiheit)
+leika_id: '99030006000000'
+ozg_id: null
+letzte-aktualisierung: '2026-07-10'
 ---
+
 # Einwohnerversammlung
 
 ## Prozessschritte
@@ -40,5 +43,3 @@ letzte-aktualisierung: 2026-04-29
 
 **07 Rückmeldung**  
 *An Bürger über Ergebnisse*
-
-

@@ -15,9 +15,11 @@ daten:
   - id: dstore-unterkunftskosten
   - id: dstore-personenstammdaten
   - Viertes Kapitel Zwölftes Buch Sozialgesetzbuch (SGB XII)
-letzte-aktualisierung: 2026-04-06
 regelungen:
-  - 'Viertes Kapitel Zwölftes Buch Sozialgesetzbuch (SGB XII)'
+- Viertes Kapitel Zwölftes Buch Sozialgesetzbuch (SGB XII)
+leika_id: '99107009000000'
+ozg_id: '10084'
+letzte-aktualisierung: '2026-07-10'
 ---
 
 # Grundsicherung im Alter und bei Erwerbsminderung (Sozialhilfe)

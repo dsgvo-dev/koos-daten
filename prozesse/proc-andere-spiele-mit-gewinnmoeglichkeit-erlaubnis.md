@@ -14,9 +14,12 @@ daten:
   - id: dstore-gewerbedaten
   - id: dstore-register-und-zuverlaessigkeitsauskuenfte
 regelungen:
-  - '§ 33c Absatz 1 Gewerbeordnung (GewO)'
-letzte-aktualisierung: 2026-04-06
+- § 33c Absatz 1 Gewerbeordnung (GewO)
+leika_id: '99050001005000'
+ozg_id: null
+letzte-aktualisierung: '2026-07-10'
 ---
+
 # Andere Spiele mit Gewinnmöglichkeit: Erlaubnis
 
 ## Prozessschritte

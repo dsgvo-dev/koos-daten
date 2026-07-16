@@ -11,11 +11,14 @@ daten:
   datenspeicher:
   - id: dstore-ausnahmegenehmigung-schwerverkehr
 regelungen:
-  - '§§ 44-45 Bundesnaturschutzgesetz (BNatSchG) (Artenschutz)'
-  - '§ 45 BNatSchG (Ausnahmen/Befreiungen)'
-  - '§ 67 BNatSchG (Befreiungen)'
-letzte-aktualisierung: 2026-04-06
+- §§ 44-45 Bundesnaturschutzgesetz (BNatSchG) (Artenschutz)
+- § 45 BNatSchG (Ausnahmen/Befreiungen)
+- § 67 BNatSchG (Befreiungen)
+leika_id: '99093001000000'
+ozg_id: '10487'
+letzte-aktualisierung: '2026-07-10'
 ---
+
 # Artenschutzrechtliche Ausnahmegenehmigung/Befreiung
 
 ## Prozessschritte

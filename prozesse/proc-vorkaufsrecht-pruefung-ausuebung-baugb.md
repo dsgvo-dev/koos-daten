@@ -16,13 +16,16 @@ daten:
   - id: dstore-grundstuecksbezug
   - id: dstore-kaufvertragsdaten-immobilie
 regelungen:
-  - '§ 24 Baugesetzbuch (BauGB)'
-  - '§ 25 Baugesetzbuch (BauGB)'
-  - '§ 26 Baugesetzbuch (BauGB)'
-  - '§ 27 Baugesetzbuch (BauGB)'
-  - '§ 28 Baugesetzbuch (BauGB)'
-letzte-aktualisierung: 2026-04-06
+- § 24 Baugesetzbuch (BauGB)
+- § 25 Baugesetzbuch (BauGB)
+- § 26 Baugesetzbuch (BauGB)
+- § 27 Baugesetzbuch (BauGB)
+- § 28 Baugesetzbuch (BauGB)
+leika_id: '99012038234000'
+ozg_id: null
+letzte-aktualisierung: '2026-07-10'
 ---
+
 # Vorkaufsrecht: Prüfung/Ausübung (BauGB)
 
 ## Prozessschritte

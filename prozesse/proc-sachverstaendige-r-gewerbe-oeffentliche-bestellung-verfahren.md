@@ -16,10 +16,13 @@ daten:
   - id: dstore-personenstammdaten
   - id: dstore-identitaetsnachweis
 regelungen:
-  - '§ 36 GewO (Öffentliche Bestellung von Sachverständigen)'
-  - '§ 36a GewO (Anerkannte Prüfstellen)'
-letzte-aktualisierung: 2026-04-06
+- § 36 GewO (Öffentliche Bestellung von Sachverständigen)
+- § 36a GewO (Anerkannte Prüfstellen)
+leika_id: '99050024108000'
+ozg_id: null
+letzte-aktualisierung: '2026-07-10'
 ---
+
 # Sachverständige/r Gewerbe: öffentliche Bestellung (Verfahren)
 
 ## Prozessschritte

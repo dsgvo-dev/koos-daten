@@ -13,10 +13,13 @@ daten:
   datenspeicher:
   - id: dstore-foerderantrag
 regelungen:
-  - '§ 1 Nds. Kulturförderungsgesetz (NKulturFöG)'
-  - '§ 11 NKomVG (Kommunale Kultureinrichtungen)'
-letzte-aktualisierung: 2026-04-06
+- § 1 Nds. Kulturförderungsgesetz (NKulturFöG)
+- § 11 NKomVG (Kommunale Kultureinrichtungen)
+leika_id: '99077021000000'
+ozg_id: null
+letzte-aktualisierung: '2026-07-10'
 ---
+
 # Kulturförderung bewilligen
 
 ## Prozessschritte
@@ -41,5 +44,3 @@ letzte-aktualisierung: 2026-04-06
 
 **07 Verwendungsnachweis prüfen**  
 *Erfolgskontrolle nach Projekt*
-
-

@@ -14,12 +14,15 @@ daten:
   - id: dstore-personenstammdaten
   - id: dstore-identitaetsnachweis
 regelungen:
-  - '§ 34b Absatz 1 Gewerbeordnung (GewO)'
-  - '§ 34b Absatz 1 Satz 1 Gewerbeordnung (GewO)'
-  - '§ 71b Absatz 2 Satz 2 Gewerbeordnung (GewO)'
-  - '§ 68 Gewerbeordnung (GewO)'
-letzte-aktualisierung: 2026-04-06
+- § 34b Absatz 1 Gewerbeordnung (GewO)
+- § 34b Absatz 1 Satz 1 Gewerbeordnung (GewO)
+- § 71b Absatz 2 Satz 2 Gewerbeordnung (GewO)
+- § 68 Gewerbeordnung (GewO)
+leika_id: '99050102000000'
+ozg_id: null
+letzte-aktualisierung: '2026-07-10'
 ---
+
 # Ausnahmen Versteigerung leicht verderblicher Waren auf Spezial- und Jahrmärkten
 
 ## Prozessschritte

@@ -13,9 +13,12 @@ daten:
   - id: dstore-verstorbenenhinweis-melderegister
   - id: dstore-registerbezug-personenstand
 regelungen:
-  - '§7 Abs. 2 PStV'
-letzte-aktualisierung: 2026-04-06
+- §7 Abs. 2 PStV
+leika_id: '99101016000000'
+ozg_id: null
+letzte-aktualisierung: '2026-07-10'
 ---
+
 # Bescheinigung über Anzeige eines Todesfalles ausstellen
 
 ## Prozessschritte

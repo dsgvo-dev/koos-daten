@@ -14,10 +14,13 @@ daten:
   - id: dstore-unternehmens-und-registerdaten
   - id: dstore-identitaetsnachweis
 regelungen:
-  - 'Verordnung (EG) 338/97 (Grundverordnung)'
-  - 'Council Regulation (EC) No 338/97 (basic regulation)'
-letzte-aktualisierung: 2026-04-06
+- Verordnung (EG) 338/97 (Grundverordnung)
+- Council Regulation (EC) No 338/97 (basic regulation)
+leika_id: '99093005006000'
+ozg_id: '10382'
+letzte-aktualisierung: '2026-07-10'
 ---
+
 # Ein- und Ausfuhr geschützter Pflanzen- und Tierarten: Genehmigung
 
 ## Prozessschritte

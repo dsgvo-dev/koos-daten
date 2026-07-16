@@ -11,11 +11,14 @@ daten:
   datenspeicher:
   - id: dstore-entwaesserungsantrag-kanalanschluss
 regelungen:
-  - '§§ 8-13 Wasserhaushaltsgesetz (WHG) (Erlaubnis/Bewilligung)'
-  - '§§ 57-61 WHG (Abwassereinleitung)'
-  - 'Nds. Wassergesetz (NWG) § 46 ff.'
-letzte-aktualisierung: 2026-04-06
+- §§ 8-13 Wasserhaushaltsgesetz (WHG) (Erlaubnis/Bewilligung)
+- §§ 57-61 WHG (Abwassereinleitung)
+- Nds. Wassergesetz (NWG) § 46 ff.
+leika_id: '99129081005000'
+ozg_id: null
+letzte-aktualisierung: '2026-07-10'
 ---
+
 # Direkteinleitung von Niederschlagswasser: Erlaubnis
 
 ## Prozessschritte

@@ -16,11 +16,14 @@ daten:
   - id: dstore-identitaetsnachweis
   - id: dstore-personenstammdaten
 regelungen:
-  - '§§ 3-6 Fahrzeug-Zulassungsverordnung (FZV) (Zulassung)'
-  - '§ 6 Straßenverkehrsgesetz (StVG) (Fahrzeugregister)'
-  - '§§ 11-14 FZV (Kennzeichen)'
-letzte-aktualisierung: 2026-04-06
+- §§ 3-6 Fahrzeug-Zulassungsverordnung (FZV) (Zulassung)
+- § 6 Straßenverkehrsgesetz (StVG) (Fahrzeugregister)
+- §§ 11-14 FZV (Kennzeichen)
+leika_id: '99036011036000'
+ozg_id: '10459'
+letzte-aktualisierung: '2026-07-10'
 ---
+
 # Zulassungsbescheinigung Teil I/II Ersatz beantragen
 
 ## Prozessschritte

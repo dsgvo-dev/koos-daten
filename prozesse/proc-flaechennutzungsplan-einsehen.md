@@ -14,11 +14,14 @@ daten:
   - id: dstore-bebauungsplan
   - id: dstore-grundstuecksdaten
 regelungen:
-  - '§§ 1-13b BauGB (Bauleitplanung)'
-  - '§ 5 BauGB (Flächennutzungsplan)'
-  - '§§ 8-10 BauGB (Bebauungsplan)'
-letzte-aktualisierung: 2026-04-06
+- §§ 1-13b BauGB (Bauleitplanung)
+- § 5 BauGB (Flächennutzungsplan)
+- §§ 8-10 BauGB (Bebauungsplan)
+leika_id: '99012012000000'
+ozg_id: null
+letzte-aktualisierung: '2026-07-10'
 ---
+
 # Flächennutzungsplan einsehen
 
 ## Prozessschritte

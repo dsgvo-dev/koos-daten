@@ -13,11 +13,14 @@ daten:
   - id: dstore-verwaltungsakte
   - id: dstore-kontaktdaten
 regelungen:
-  - '§§ 1 ff. Gebäudeenergiegesetz (GEG)'
-  - '§ 48 GEG (Energieausweis)'
-  - '§ 11 NKomVG (Kommunale Einrichtungen)'
-letzte-aktualisierung: 2026-04-29
+- §§ 1 ff. Gebäudeenergiegesetz (GEG)
+- § 48 GEG (Energieausweis)
+- § 11 NKomVG (Kommunale Einrichtungen)
+leika_id: '99138005000000'
+ozg_id: null
+letzte-aktualisierung: '2026-07-10'
 ---
+
 # Energieberatung durchführen
 
 ## Prozessschritte
@@ -42,5 +45,3 @@ letzte-aktualisierung: 2026-04-29
 
 **07 Erfolgskontrolle**  
 *Energieeinsparung messen*
-
-

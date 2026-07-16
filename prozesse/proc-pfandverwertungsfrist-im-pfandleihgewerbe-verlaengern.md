@@ -13,10 +13,13 @@ daten:
   - id: dstore-personenstammdaten
   - id: dstore-identitaetsnachweis
 regelungen:
-  - '§ 34 GewO (Pfandleihgewerbe)'
-  - '§§ 1-11 Pfandleihverordnung (PfandlV)'
-letzte-aktualisierung: 2026-04-06
+- § 34 GewO (Pfandleihgewerbe)
+- §§ 1-11 Pfandleihverordnung (PfandlV)
+leika_id: '99050093000000'
+ozg_id: null
+letzte-aktualisierung: '2026-07-10'
 ---
+
 # Pfandverwertungsfrist im Pfandleihgewerbe verlängern
 
 ## Prozessschritte

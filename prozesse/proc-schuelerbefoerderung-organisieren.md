@@ -13,11 +13,14 @@ daten:
   datenspeicher:
   - id: dstore-schuelerbefoerderungskosten
 regelungen:
-  - '§§ 63-65 Nds. Schulgesetz (NSchG) (Schulträger)'
-  - '§ 56 NSchG (Schulpflicht)'
-  - '§ 114 NSchG (Schulverwaltung)'
-letzte-aktualisierung: 2026-04-06
+- §§ 63-65 Nds. Schulgesetz (NSchG) (Schulträger)
+- § 56 NSchG (Schulpflicht)
+- § 114 NSchG (Schulverwaltung)
+leika_id: '99088011000000'
+ozg_id: '10042'
+letzte-aktualisierung: '2026-07-10'
 ---
+
 # Schülerbeförderung organisieren
 
 ## Prozessschritte
@@ -36,4 +39,3 @@ letzte-aktualisierung: 2026-04-06
 *Regelmäßige Überprüfung*
 **07 Aktenführung**  
 *Dokumentation*
-

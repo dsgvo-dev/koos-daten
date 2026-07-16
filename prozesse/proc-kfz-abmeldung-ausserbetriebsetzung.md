@@ -14,8 +14,10 @@ daten:
   - id: dstore-personenstammdaten
   - id: dstore-identitaetsnachweis
 regelungen:
-  - '§ 14 Abs. 1 FZV'
-letzte-aktualisierung: 2026-04-06
+- § 14 Abs. 1 FZV
+leika_id: '99036008070002'
+ozg_id: null
+letzte-aktualisierung: '2026-07-10'
 ---
 
 # KFZ: Abmeldung/Außerbetriebsetzung

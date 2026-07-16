@@ -18,9 +18,12 @@ daten:
   - id: dstore-personenstammdaten
   - id: dstore-amtsaerztliches-zeugnis
 regelungen:
-  - '§ 43 Absatz 1 Infektionsschutzgesetz (IfSG)'
-letzte-aktualisierung: 2026-04-06
+- § 43 Absatz 1 Infektionsschutzgesetz (IfSG)
+leika_id: '99003002000000'
+ozg_id: null
+letzte-aktualisierung: '2026-07-10'
 ---
+
 # Gesundheitszeugnis / Belehrung nach Infektionsschutzgesetz
 
 ## Prozessschritte

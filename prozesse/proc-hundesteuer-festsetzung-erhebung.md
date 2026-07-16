@@ -17,10 +17,13 @@ daten:
   - id: dstore-hundehaltung
   - id: dstore-hunderegisterdaten
 regelungen:
-  - '§§ 1-5 NKAG (Kommunalabgaben/Steuern)'
-  - 'Kommunale Hundesteuersatzung i.V.m. NKAG'
-letzte-aktualisierung: 2026-04-06
+- §§ 1-5 NKAG (Kommunalabgaben/Steuern)
+- Kommunale Hundesteuersatzung i.V.m. NKAG
+leika_id: '99102013002000'
+ozg_id: null
+letzte-aktualisierung: '2026-07-10'
 ---
+
 # Hundesteuer (Festsetzung/Erhebung)
 
 ## Prozessschritte
@@ -45,5 +48,3 @@ letzte-aktualisierung: 2026-04-06
 
 **07 Statistik**  
 *Hundebestand erfassen*
-
-

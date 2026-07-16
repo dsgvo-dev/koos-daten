@@ -14,10 +14,13 @@ daten:
   - id: dstore-ausweisdokument
   - id: dstore-lebenslauf-qualifikationsnachweis
 regelungen:
-  - '§§ 1-17 Nds. Berufsqualifikationsfeststellungsgesetz (NBQFG)'
-  - 'EU-Anerkennungsrichtlinie 2005/36/EG'
-letzte-aktualisierung: 2026-04-06
+- §§ 1-17 Nds. Berufsqualifikationsfeststellungsgesetz (NBQFG)
+- EU-Anerkennungsrichtlinie 2005/36/EG
+leika_id: '99105001016000'
+ozg_id: null
+letzte-aktualisierung: '2026-07-10'
 ---
+
 # Ausländische Berufsqualifikation: Anerkennung als Fahrlehrer/Fahrlehrerin
 
 ## Prozessschritte

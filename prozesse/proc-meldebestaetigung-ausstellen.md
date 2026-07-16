@@ -15,9 +15,12 @@ daten:
   - id: dstore-personenstammdaten
   - id: dstore-identitaetsnachweis
 regelungen:
-  - '§ 24 Absatz 2 Bundesmeldegesetz (BMG)'
-letzte-aktualisierung: 2026-04-06
+- § 24 Absatz 2 Bundesmeldegesetz (BMG)
+leika_id: '99115003012000'
+ozg_id: null
+letzte-aktualisierung: '2026-07-10'
 ---
+
 # Meldebestätigung ausstellen
 
 ## Prozessschritte
@@ -42,5 +45,3 @@ letzte-aktualisierung: 2026-04-06
 
 **07 Aushändigung**  
 *Persönlich oder per Post*
-
-

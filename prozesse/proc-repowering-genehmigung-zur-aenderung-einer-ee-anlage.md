@@ -12,12 +12,15 @@ daten:
   - id: dstore-unternehmens-und-registerdaten
   - id: dstore-identitaetsnachweis
 regelungen:
-  - § 59 LBauO M-V
-  - §§ 3a VwVfG M-V
-  - §§ 29 BauGB
-  - §§ 1 BauVorlVO M-V
-letzte-aktualisierung: 2026-04-06
+- § 59 LBauO M-V
+- §§ 3a VwVfG M-V
+- §§ 29 BauGB
+- §§ 1 BauVorlVO M-V
+leika_id: '99063001006000'
+ozg_id: null
+letzte-aktualisierung: '2026-07-10'
 ---
+
 # Repowering: Genehmigung zur Änderung einer EE-Anlage
 
 ## Prozessschritte

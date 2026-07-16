@@ -15,10 +15,13 @@ daten:
   - id: dstore-tierhalterbestand-nutztiere
   - id: dstore-personenstammdaten
 regelungen:
-  - '§§ 1-6 EU-Verordnung (EG) Nr. 1069/2009 (Tierische Nebenprodukte)'
-  - '§§ 1 ff. Nds. Ausführungsgesetz Tierische Nebenprodukte'
-letzte-aktualisierung: 2026-04-06
+- §§ 1-6 EU-Verordnung (EG) Nr. 1069/2009 (Tierische Nebenprodukte)
+- §§ 1 ff. Nds. Ausführungsgesetz Tierische Nebenprodukte
+leika_id: '99110040137000'
+ozg_id: null
+letzte-aktualisierung: '2026-07-10'
 ---
+
 # Tierische Nebenprodukte beseitigen (Tierkörperbeseitigung)
 
 ## Prozessschritte

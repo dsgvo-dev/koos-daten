@@ -11,10 +11,13 @@ daten:
   datenspeicher:
   - id: dstore-abfallentsorgungsrhythmus
   - id: dstore-abfallbehaelter-gebuehrenobjekt
-letzte-aktualisierung: 2026-04-06
 regelungen:
-  - '§ 20 Kreislaufwirtschaftsgesetz (KrWG)'
+- § 20 Kreislaufwirtschaftsgesetz (KrWG)
+leika_id: '99001003004000'
+ozg_id: null
+letzte-aktualisierung: '2026-07-10'
 ---
+
 # Abfall Entsorgung
 
 ## Prozessschritte

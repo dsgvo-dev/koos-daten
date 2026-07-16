@@ -17,11 +17,14 @@ daten:
   - id: dstore-ausweisdokument
   - id: dstore-meldeadresse-wohnsitz
 regelungen:
-  - '§§ 1-5 Personalausweisgesetz (PAuswG)'
-  - '§§ 1-4 Passgesetz (PassG)'
-  - '§ 6 PAuswG (Ausweispflicht)'
-letzte-aktualisierung: 2026-04-06
+- §§ 1-5 Personalausweisgesetz (PAuswG)
+- §§ 1-4 Passgesetz (PassG)
+- § 6 PAuswG (Ausweispflicht)
+leika_id: '99008001015000'
+ozg_id: '10119'
+letzte-aktualisierung: '2026-07-10'
 ---
+
 # Statusabfrage Pass/Personalausweis
 
 ## Prozessschritte

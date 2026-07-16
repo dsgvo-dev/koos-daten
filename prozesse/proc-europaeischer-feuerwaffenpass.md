@@ -15,11 +15,14 @@ daten:
   - id: dstore-personenstammdaten
   - id: dstore-register-und-zuverlaessigkeitsauskuenfte
 regelungen:
-  - '§ 32 Absatz 6 Waffengesetz (WaffG)'
-  - '§ 33 Allgemeine Waffengesetz-Verordnung (AWaffV)'
-  - 'Allgemeine Verwaltungsvorschrift zum Waffengesetz (WaffVwV)'
-letzte-aktualisierung: 2026-04-06
+- § 32 Absatz 6 Waffengesetz (WaffG)
+- § 33 Allgemeine Waffengesetz-Verordnung (AWaffV)
+- Allgemeine Verwaltungsvorschrift zum Waffengesetz (WaffVwV)
+leika_id: '99089010000000'
+ozg_id: null
+letzte-aktualisierung: '2026-07-10'
 ---
+
 # Europäischer Feuerwaffenpass
 
 ## Prozessschritte

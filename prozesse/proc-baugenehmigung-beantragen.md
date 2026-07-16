@@ -25,11 +25,14 @@ daten:
   - id: dstore-fachstellungnahme
   - id: dstore-bauzeiten-bauablaufplan
 regelungen:
-  - '§§ 59-80 Nds. Bauordnung (NBauO) (Baugenehmigungsverfahren)'
-  - '§§ 29-38 BauGB (Zulässigkeit von Vorhaben)'
-  - '§ 64 NBauO (Baugenehmigung Sonderbauten)'
-letzte-aktualisierung: 2026-04-06
+- §§ 59-80 Nds. Bauordnung (NBauO) (Baugenehmigungsverfahren)
+- §§ 29-38 BauGB (Zulässigkeit von Vorhaben)
+- § 64 NBauO (Baugenehmigung Sonderbauten)
+leika_id: null
+ozg_id: '10519'
+letzte-aktualisierung: '2026-07-10'
 ---
+
 # Baugenehmigung beantragen
 
 ## Prozessschritte
@@ -54,5 +57,3 @@ letzte-aktualisierung: 2026-04-06
 
 **07 Baubeginn überwachen**  
 *Genehmigungserfordernisse*
-
-

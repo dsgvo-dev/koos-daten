@@ -15,11 +15,14 @@ daten:
   - id: dstore-unternehmens-und-registerdaten
   - id: dstore-identitaetsnachweis
 regelungen:
-  - '§§ 8-13 Wasserhaushaltsgesetz (WHG) (Erlaubnis/Bewilligung)'
-  - '§§ 52-53 WHG (Wasserschutzgebiete)'
-  - 'Nds. Wassergesetz (NWG)'
-letzte-aktualisierung: 2026-04-06
+- §§ 8-13 Wasserhaushaltsgesetz (WHG) (Erlaubnis/Bewilligung)
+- §§ 52-53 WHG (Wasserschutzgebiete)
+- Nds. Wassergesetz (NWG)
+leika_id: '99012072006000'
+ozg_id: null
+letzte-aktualisierung: '2026-07-10'
 ---
+
 # Anlagen in oder an Gewässern: Genehmigung
 
 ## Prozessschritte

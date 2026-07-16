@@ -17,9 +17,12 @@ daten:
   - id: dstore-ausweisdokument
   - id: dstore-meldeadresse-wohnsitz
 regelungen:
-  - § 9 Personalausweisgesetz (PAuswG)
-letzte-aktualisierung: 2026-04-06
+- § 9 Personalausweisgesetz (PAuswG)
+leika_id: null
+ozg_id: '10119'
+letzte-aktualisierung: '2026-07-10'
 ---
+
 # Vorläufigen Personalausweis beantragen
 
 ## Prozessschritte

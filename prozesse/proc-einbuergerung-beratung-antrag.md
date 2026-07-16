@@ -21,10 +21,12 @@ daten:
   - id: dstore-identitaetsnachweis
   - id: dstore-rentenversicherungsverlauf
 regelungen:
-  - '§ 10 StAG'
-  - '§ 10 Abs. 1 StAG'
-  - '§ 16 StAG'
-letzte-aktualisierung: 2026-04-06
+- § 10 StAG
+- § 10 Abs. 1 StAG
+- § 16 StAG
+leika_id: null
+ozg_id: '10257'
+letzte-aktualisierung: '2026-07-10'
 ---
 
 # Einbürgerung: Beratung/Antrag

@@ -17,12 +17,15 @@ daten:
   - id: dstore-bankverbindung
   - id: dstore-meldeadresse-wohnsitz
 regelungen:
-  - '§ 1 Passgesetz (PassG)'
-  - '§ 5 Passgesetz (PassG)'
-  - '§ 15 Passgesetz (PassG)'
-  - '§ 15 Verordnung zur Durchführung des Passgesetzes (Passverordnung - PassV)'
-letzte-aktualisierung: 2026-04-06
+- § 1 Passgesetz (PassG)
+- § 5 Passgesetz (PassG)
+- § 15 Passgesetz (PassG)
+- § 15 Verordnung zur Durchführung des Passgesetzes (Passverordnung - PassV)
+leika_id: '99085001011001'
+ozg_id: null
+letzte-aktualisierung: '2026-07-10'
 ---
+
 # Reisepass Änderung wegen Änderung des Wohnortes
 
 ## Prozessschritte

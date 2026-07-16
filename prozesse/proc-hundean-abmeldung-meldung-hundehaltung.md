@@ -18,11 +18,14 @@ daten:
   - id: dstore-hunderasse-gefaehrlichkeit
   - id: dstore-haftpflichtversicherung-hund
 regelungen:
-  - '§§ 17-19 Bundesmeldegesetz (BMG) (An-/Ab-/Ummeldung)'
-  - '§ 34 BMG (Melderegisterauskunft)'
-  - '§ 51 BMG (Auskunftssperre)'
-letzte-aktualisierung: 2026-04-06
+- §§ 17-19 Bundesmeldegesetz (BMG) (An-/Ab-/Ummeldung)
+- § 34 BMG (Melderegisterauskunft)
+- § 51 BMG (Auskunftssperre)
+leika_id: '99110009014001'
+ozg_id: null
+letzte-aktualisierung: '2026-07-10'
 ---
+
 # Hundean- / -abmeldung (Meldung Hundehaltung)
 
 ## Prozessschritte

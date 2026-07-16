@@ -15,10 +15,13 @@ daten:
   - id: dstore-gebuehrenbescheid-zahlungsdaten
   - id: dstore-bescheid
 regelungen:
-  - '§§ 1-5 NKAG (Kommunalabgaben/Steuern)'
-  - 'Kommunale Hundesteuersatzung i.V.m. NKAG'
-letzte-aktualisierung: 2026-04-29
+- §§ 1-5 NKAG (Kommunalabgaben/Steuern)
+- Kommunale Hundesteuersatzung i.V.m. NKAG
+leika_id: '99102013002000'
+ozg_id: null
+letzte-aktualisierung: '2026-07-10'
 ---
+
 # Hundesteuer festsetzen
 
 ## Prozessschritte
@@ -43,5 +46,3 @@ letzte-aktualisierung: 2026-04-29
 
 **07 Statistik**  
 *Hundebestand erfassen*
-
-

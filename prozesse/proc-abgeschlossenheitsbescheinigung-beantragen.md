@@ -13,11 +13,15 @@ daten:
   - id: dstore-grundstuecksbezug
   - id: dstore-lageplan-geobasisdaten
 regelungen:
-  - '§ 7 Absatz 4 Satz 1 Nummer 2 Wohnungseigentumsgesetz (WEG)'
-  - '§ 32 Absatz 1, Absatz 2 Satz 2 Nummer 2 Wohnungseigentumsgesetz (WEG)'
-  - 'Allgemeine Verwaltungsvorschrift für die Ausstellung von Bescheinigungen nach dem Wohnungseigentumsgesetz (AVA)'
-letzte-aktualisierung: 2026-04-06
+- § 7 Absatz 4 Satz 1 Nummer 2 Wohnungseigentumsgesetz (WEG)
+- § 32 Absatz 1, Absatz 2 Satz 2 Nummer 2 Wohnungseigentumsgesetz (WEG)
+- Allgemeine Verwaltungsvorschrift für die Ausstellung von Bescheinigungen nach dem
+  Wohnungseigentumsgesetz (AVA)
+leika_id: '99012002000000'
+ozg_id: '10514'
+letzte-aktualisierung: '2026-07-10'
 ---
+
 # Abgeschlossenheitsbescheinigung beantragen
 
 ## Prozessschritte

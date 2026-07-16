@@ -13,9 +13,11 @@ daten:
   - id: dstore-personenstammdaten
   - id: dstore-einkommens-und-leistungsdaten
 regelungen:
-  - '§ 152 Sozialgesetzbuch Neuntes Buch (SGB IX)'
-  - 'Schwerbehindertenausweisverordnung (SchwbAwV)'
-letzte-aktualisierung: 2026-04-06
+- § 152 Sozialgesetzbuch Neuntes Buch (SGB IX)
+- Schwerbehindertenausweisverordnung (SchwbAwV)
+leika_id: '99015007000000'
+ozg_id: '10214'
+letzte-aktualisierung: '2026-07-10'
 ---
 
 # Schwerbehindertenausweis: Onlineportal (LS Online)

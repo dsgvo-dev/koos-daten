@@ -15,9 +15,12 @@ daten:
   - id: dstore-personenstammdaten
   - id: dstore-identitaetsnachweis
 regelungen:
-  - § 16a Fahrzeug-Zulassungsverordnung (FZV)
-letzte-aktualisierung: 2026-04-06
+- § 16a Fahrzeug-Zulassungsverordnung (FZV)
+leika_id: '99108042000000'
+ozg_id: null
+letzte-aktualisierung: '2026-07-10'
 ---
+
 # Kurzzeitkennzeichen beantragen
 
 ## Prozessschritte

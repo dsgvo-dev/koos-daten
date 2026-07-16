@@ -16,14 +16,18 @@ daten:
   - id: dstore-personenstammdaten
   - id: dstore-registerbezug-personenstand
 regelungen:
-  - '§ 10 - 13 Personenstandsgesetz (PStG)'
-  - '§ 28 Verordnung zur Ausführung des Personenstandsgesetzes (Personenstandsverordnung - PStV)'
-  - '§ 1309 - 1310 Bürgerliches Gesetzbuch (BGB)'
-  - '§ 1314 Bürgerliches Gesetzbuch (BGB)'
-  - '§ 1353 Bürgerliches Gesetzbuch (BGB)'
-  - '§ 104 Bürgerliches Gesetzbuch (BGB)'
-letzte-aktualisierung: 2026-04-06
+- § 10 - 13 Personenstandsgesetz (PStG)
+- § 28 Verordnung zur Ausführung des Personenstandsgesetzes (Personenstandsverordnung
+  - PStV)
+- § 1309 - 1310 Bürgerliches Gesetzbuch (BGB)
+- § 1314 Bürgerliches Gesetzbuch (BGB)
+- § 1353 Bürgerliches Gesetzbuch (BGB)
+- § 104 Bürgerliches Gesetzbuch (BGB)
+leika_id: '99059001000000'
+ozg_id: '10026'
+letzte-aktualisierung: '2026-07-10'
 ---
+
 # Eheschließung anmelden
 
 ## Prozessschritte
@@ -48,5 +52,3 @@ letzte-aktualisierung: 2026-04-06
 
 **07 Eheurkunde ausstellen**  
 *Mit Unterschriften*
-
-

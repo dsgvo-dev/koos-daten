@@ -15,10 +15,13 @@ daten:
   datenspeicher:
   - id: dstore-sondernutzung-oeffentlicher-raum
 regelungen:
-  - '§§ 97-100 NKomVG (Kommunale Gebäudewirtschaft)'
-  - 'TVöD BT-K (Kommunaler Bereich)'
-letzte-aktualisierung: 2026-04-06
+- §§ 97-100 NKomVG (Kommunale Gebäudewirtschaft)
+- TVöD BT-K (Kommunaler Bereich)
+leika_id: '99108028000000'
+ozg_id: null
+letzte-aktualisierung: '2026-07-10'
 ---
+
 # Straßenreinigung organisieren
 
 ## Prozessschritte

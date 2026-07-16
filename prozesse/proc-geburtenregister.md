@@ -15,11 +15,14 @@ daten:
   - id: dstore-geburtsurkunde-eltern
   - id: dstore-personenstammdaten
 regelungen:
-  - '§ 55 Absatz 1 Personenstandsgesetz (PStG)'
-  - '§ 62 Personenstandsgesetz (PStG)'
-  - '§ 50 Personenstandsverordnung (PStV)'
-letzte-aktualisierung: 2026-04-06
+- § 55 Absatz 1 Personenstandsgesetz (PStG)
+- § 62 Personenstandsgesetz (PStG)
+- § 50 Personenstandsverordnung (PStV)
+leika_id: '99027005000000'
+ozg_id: null
+letzte-aktualisierung: '2026-07-10'
 ---
+
 # Geburtenregister
 
 ## Prozessschritte

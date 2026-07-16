@@ -19,11 +19,15 @@ daten:
   - § 9 UVG
   - § 16 SGB I
   - § 58 VwGO
-letzte-aktualisierung: 2026-04-06
 regelungen:
-  - '§ 1 Gesetz zur Sicherung des Unterhalts von Kindern alleinstehender Mütter und Väter durch Unterhaltsvorschüsse oder -ausfallleistungen (Unterhaltsvorschussgesetz)'
-  - '§ 1612a Absatz 1 Satz 3 Nummer 1, 2 oder 3 Bürgerliches Gesetzbuch (BGB)'
+- § 1 Gesetz zur Sicherung des Unterhalts von Kindern alleinstehender Mütter und Väter
+  durch Unterhaltsvorschüsse oder -ausfallleistungen (Unterhaltsvorschussgesetz)
+- § 1612a Absatz 1 Satz 3 Nummer 1, 2 oder 3 Bürgerliches Gesetzbuch (BGB)
+leika_id: '99107021000000'
+ozg_id: '10035'
+letzte-aktualisierung: '2026-07-10'
 ---
+
 # Unterhaltsvorschuss (Antrag bearbeiten)
 
 ## Prozessschritte

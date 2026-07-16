@@ -13,9 +13,12 @@ daten:
   - id: dstore-personenstammdaten
   - id: dstore-identitaetsnachweis
 regelungen:
-  - § 55b Absatz 2 Gewerbeordnung (GewO)
-letzte-aktualisierung: 2026-04-06
+- § 55b Absatz 2 Gewerbeordnung (GewO)
+leika_id: '99050014012000'
+ozg_id: '10287'
+letzte-aktualisierung: '2026-07-10'
 ---
+
 # Gewerbelegitimationskarte Ausstellung
 
 ## Prozessschritte

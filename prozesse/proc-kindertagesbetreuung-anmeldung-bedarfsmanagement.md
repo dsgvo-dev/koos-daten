@@ -17,11 +17,14 @@ daten:
   - id: dstore-personenstammdaten
   - id: dstore-kitadaten
 regelungen:
-  - '§§ 17-19 Bundesmeldegesetz (BMG) (An-/Ab-/Ummeldung)'
-  - '§ 34 BMG (Melderegisterauskunft)'
-  - '§ 51 BMG (Auskunftssperre)'
-letzte-aktualisierung: 2026-04-06
+- §§ 17-19 Bundesmeldegesetz (BMG) (An-/Ab-/Ummeldung)
+- § 34 BMG (Melderegisterauskunft)
+- § 51 BMG (Auskunftssperre)
+leika_id: null
+ozg_id: '10019'
+letzte-aktualisierung: '2026-07-10'
 ---
+
 # Kindertagesbetreuung (Anmeldung/Bedarfsmanagement)
 
 ## Prozessschritte

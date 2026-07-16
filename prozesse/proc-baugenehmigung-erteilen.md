@@ -22,12 +22,15 @@ daten:
   - id: dstore-energieeffizienz-waermeschutznachweis
   - id: dstore-fachstellungnahme
 regelungen:
-  - § 59 LBauO M-V
-  - §§ 27a VwVfG M-V
-  - §§ 29 BauGB
-  - §§ 3 BauVorlV M-V
-letzte-aktualisierung: 2026-04-06
+- § 59 LBauO M-V
+- §§ 27a VwVfG M-V
+- §§ 29 BauGB
+- §§ 3 BauVorlV M-V
+leika_id: null
+ozg_id: '10519'
+letzte-aktualisierung: '2026-07-10'
 ---
+
 # Baugenehmigung erteilen
 
 ## Prozessschritte
@@ -52,5 +55,3 @@ letzte-aktualisierung: 2026-04-06
 
 **07 Baubeginn überwachen**  
 *Genehmigungserfordernisse*
-
-

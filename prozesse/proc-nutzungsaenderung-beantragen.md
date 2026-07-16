@@ -2,15 +2,11 @@
 id: proc-nutzungsaenderung-beantragen
 titel: Nutzungsänderung beantragen
 status: aktiv
-
-
 zustaendigeEinheit: oe-amt-63
-zustaendigeRolle: ""
-
+zustaendigeRolle: ''
 beteiligte:
-  - einheit: oe-amt-20
-    aufgabe: ""
-
+- einheit: oe-amt-20
+  aufgabe: ''
 daten:
   input: []
   output: []
@@ -20,11 +16,13 @@ daten:
   - id: dstore-baugenehmigung
   - id: dstore-bauakte
 regelungen:
-  - '§ 59 NBauO (Genehmigungspflicht)'
-  - '§ 29 BauGB (Vorhaben i.S.d. BauGB)'
-
-letzte-aktualisierung: 2026-04-06
+- § 59 NBauO (Genehmigungspflicht)
+- § 29 BauGB (Vorhaben i.S.d. BauGB)
+leika_id: '99012071000000'
+ozg_id: null
+letzte-aktualisierung: '2026-07-10'
 ---
+
 # Nutzungsänderung beantragen
 
 ## Prozessschritte

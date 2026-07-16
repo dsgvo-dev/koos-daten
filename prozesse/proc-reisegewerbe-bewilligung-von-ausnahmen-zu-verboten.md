@@ -16,9 +16,12 @@ daten:
   - id: dstore-personenstammdaten
   - id: dstore-identitaetsnachweis
 regelungen:
-  - '§ 56 Absatz 2 Satz 3 Gewerbeordnung (GewO)'
-letzte-aktualisierung: 2026-04-06
+- § 56 Absatz 2 Satz 3 Gewerbeordnung (GewO)
+leika_id: '99050023017001'
+ozg_id: null
+letzte-aktualisierung: '2026-07-10'
 ---
+
 # Reisegewerbe: Bewilligung von Ausnahmen zu Verboten
 
 ## Prozessschritte

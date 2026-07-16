@@ -15,10 +15,14 @@ daten:
   - id: dstore-bescheid
   - id: dstore-bankverbindung
 regelungen:
-  - '§§ 90 fortfolgende Sozialgesetzbuch Neuntes Buch (SGB IX) in Verbindung mit §§ 75 – 84 SGB IX'
-  - '§§ 75 – 84  Sozialgesetzbuch Neuntes Buch (SGB IX)'
-letzte-aktualisierung: 2026-04-29
+- §§ 90 fortfolgende Sozialgesetzbuch Neuntes Buch (SGB IX) in Verbindung mit §§ 75
+  – 84 SGB IX
+- §§ 75 – 84  Sozialgesetzbuch Neuntes Buch (SGB IX)
+leika_id: null
+ozg_id: '10206'
+letzte-aktualisierung: '2026-07-10'
 ---
+
 # Eingliederungshilfe gewähren
 
 ## Prozessschritte
@@ -43,5 +47,3 @@ letzte-aktualisierung: 2026-04-29
 
 **07 Nachsteuerung**  
 *Bei Veränderungen*
-
-

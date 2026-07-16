@@ -14,9 +14,12 @@ daten:
   - id: dstore-identitaetsnachweis
   - id: dstore-meldeadresse-wohnsitz
 regelungen:
-  - § 19 Bundesmeldegesetz (BMG)
-letzte-aktualisierung: 2026-04-06
+- § 19 Bundesmeldegesetz (BMG)
+leika_id: '99115008000000'
+ozg_id: null
+letzte-aktualisierung: '2026-07-10'
 ---
+
 # Wohnungsgeberbestätigung
 
 ## Prozessschritte

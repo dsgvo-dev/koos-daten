@@ -12,11 +12,14 @@ daten:
   - id: dstore-grundstuecksbezug
   - id: dstore-bodengutachten-gruendung
 regelungen:
-  - '§§ 4-12 Bundes-Bodenschutzgesetz (BBodSchG)'
-  - '§ 9 BBodSchG (Altlastenkataster)'
-  - 'Nds. Bodenschutzgesetz'
-letzte-aktualisierung: 2026-04-06
+- §§ 4-12 Bundes-Bodenschutzgesetz (BBodSchG)
+- § 9 BBodSchG (Altlastenkataster)
+- Nds. Bodenschutzgesetz
+leika_id: '99020001023000'
+ozg_id: null
+letzte-aktualisierung: '2026-07-10'
 ---
+
 # Altlasten-/Bodeninformationen Auskunft
 
 ## Prozessschritte

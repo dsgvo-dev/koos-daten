@@ -16,10 +16,13 @@ daten:
   - id: dstore-grundstuecksbezug
   - id: dstore-personenstammdaten
 regelungen:
-  - '§§ 123-135 Baugesetzbuch (BauGB)'
-  - '§ 25 Bundes-Bodenschutzgesetz (BBodSchG)'
-letzte-aktualisierung: 2026-04-06
+- §§ 123-135 Baugesetzbuch (BauGB)
+- § 25 Bundes-Bodenschutzgesetz (BBodSchG)
+leika_id: '99012003000000'
+ozg_id: '10515'
+letzte-aktualisierung: '2026-07-10'
 ---
+
 # Anliegerbescheinigung ausstellen
 
 ## Prozessschritte
@@ -44,5 +47,3 @@ letzte-aktualisierung: 2026-04-06
 
 **07 Aushändigung**  
 *Persönlich oder per Post*
-
-

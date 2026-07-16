@@ -11,11 +11,14 @@ daten:
   datenspeicher:
   - id: dstore-grundstuecksbezug
 regelungen:
-  - '§§ 8-13 Wasserhaushaltsgesetz (WHG) (Erlaubnis/Bewilligung)'
-  - '§§ 52-53 WHG (Wasserschutzgebiete)'
-  - 'Nds. Wassergesetz (NWG)'
-letzte-aktualisierung: 2026-04-06
+- §§ 8-13 Wasserhaushaltsgesetz (WHG) (Erlaubnis/Bewilligung)
+- §§ 52-53 WHG (Wasserschutzgebiete)
+- Nds. Wassergesetz (NWG)
+leika_id: '99129052000000'
+ozg_id: '10502'
+letzte-aktualisierung: '2026-07-10'
 ---
+
 # Erdaufschluss (Brunnen): Anzeige
 
 ## Prozessschritte

@@ -16,10 +16,13 @@ daten:
   - id: dstore-personenstammdaten
   - id: dstore-identitaetsnachweis
 regelungen:
-  - '§§ 1-5 Nds. Feiertagsgesetz (NFeiertagsG)'
-  - '§ 10 NFeiertagsG (Ausnahmegenehmigungen)'
-letzte-aktualisierung: 2026-04-06
+- §§ 1-5 Nds. Feiertagsgesetz (NFeiertagsG)
+- § 10 NFeiertagsG (Ausnahmegenehmigungen)
+leika_id: '99050026001001'
+ozg_id: null
+letzte-aktualisierung: '2026-07-10'
 ---
+
 # Sonn- und Feiertagsausnahmen im Reisegewerbe beantragen
 
 ## Prozessschritte

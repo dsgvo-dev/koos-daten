@@ -20,10 +20,13 @@ daten:
   - § 4 NatSchAG M-V
   - § 25 VwVfG M-V
   - § 24 VwVfG
-letzte-aktualisierung: 2026-04-06
 regelungen:
-  - '§ 43 Absatz 3 Bundesnaturschutzgesetz (BNatSchG)'
+- § 43 Absatz 3 Bundesnaturschutzgesetz (BNatSchG)
+leika_id: '99110056000000'
+ozg_id: '10544'
+letzte-aktualisierung: '2026-07-10'
 ---
+
 # Tiergehege: Anzeige (Errichtung/Änderung/Betrieb)
 
 ## Prozessschritte

@@ -4,25 +4,26 @@ titel: Prostituiertenschutzgesetz — Erlaubnis Betrieb und Stellvertretung
 status: aktiv
 zustaendigeEinheit: oe-amt-32
 zustaendigeRolle: Sachbearbeitung Ordnung und Gewerbe
-
+beteiligte: []
 daten:
   input:
-    - Erlaubnisantrag nach ProstSchG
-    - Angaben zur Betriebsstätte und Betreiberperson
+  - Erlaubnisantrag nach ProstSchG
+  - Angaben zur Betriebsstätte und Betreiberperson
   output:
-    - Erlaubnisurkunde nach § 12 ProstSchG
-    - Stellvertretungserlaubnis nach § 17 ProstSchG
+  - Erlaubnisurkunde nach § 12 ProstSchG
+  - Stellvertretungserlaubnis nach § 17 ProstSchG
   datenspeicher:
   - id: dstore-prostitutionsstaettenbetrieb
   - id: dstore-stellvertretungserlaubnis-prostitutionsstaette
-
 regelungen:
-  - ProstSchG (Prostituiertenschutzgesetz)
-  - GewO §35 (Gewerbeuntersagung)
-  - VwVfG (Verwaltungsverfahrensgesetz)
-
-letzte-aktualisierung: 2026-04-23
+- ProstSchG (Prostituiertenschutzgesetz)
+- GewO §35 (Gewerbeuntersagung)
+- VwVfG (Verwaltungsverfahrensgesetz)
+leika_id: '99050180005000'
+ozg_id: null
+letzte-aktualisierung: '2026-07-10'
 ---
+
 # Prostituiertenschutzgesetz — Erlaubnis Betrieb und Stellvertretung
 
 ## Prozessschritte

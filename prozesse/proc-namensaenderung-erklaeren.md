@@ -17,10 +17,13 @@ daten:
   - id: dstore-namensfuehrung-selbstbestimmung
   - id: dstore-geschlechtseintrag-erklaerung
 regelungen:
-  - '§§ 1-9 Nds. Namensänderungsgesetz (NNamÄndG) i.V.m. NamÄndG'
-  - '§ 3 NamÄndG (Wichtiger Grund)'
-letzte-aktualisierung: 2026-04-06
+- §§ 1-9 Nds. Namensänderungsgesetz (NNamÄndG) i.V.m. NamÄndG
+- § 3 NamÄndG (Wichtiger Grund)
+leika_id: null
+ozg_id: '10029'
+letzte-aktualisierung: '2026-07-10'
 ---
+
 # Namensänderung erklären
 
 ## Prozessschritte
@@ -45,5 +48,3 @@ letzte-aktualisierung: 2026-04-06
 
 **07 Weitermeldung**  
 *An alle beteiligten Stellen*
-
-

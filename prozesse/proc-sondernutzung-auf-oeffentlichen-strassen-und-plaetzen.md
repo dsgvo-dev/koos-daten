@@ -15,11 +15,14 @@ daten:
   - id: dstore-personenstammdaten
   - id: dstore-identitaetsnachweis
 regelungen:
-  - '§ 18 Nds. Straßengesetz (NStrG) (Sondernutzungserlaubnis)'
-  - '§§ 45-46 StVO (Anordnungen der Straßenverkehrsbehörde)'
-  - 'Kommunale Sondernutzungssatzung'
-letzte-aktualisierung: 2026-04-06
+- § 18 Nds. Straßengesetz (NStrG) (Sondernutzungserlaubnis)
+- §§ 45-46 StVO (Anordnungen der Straßenverkehrsbehörde)
+- Kommunale Sondernutzungssatzung
+leika_id: '99108012000000'
+ozg_id: '10348'
+letzte-aktualisierung: '2026-07-10'
 ---
+
 # Gehwegereinigung überwachen / Straßensondernutzung
 
 ## Prozessschritte
@@ -44,5 +47,3 @@ letzte-aktualisierung: 2026-04-06
 
 **07 Ordnungswidrigkeiten verfolgen**  
 *Bei Nichtbefolgung*
-
-

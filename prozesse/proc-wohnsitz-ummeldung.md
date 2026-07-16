@@ -18,9 +18,12 @@ daten:
   - id: dstore-personenstammdaten
   - id: dstore-identitaetsnachweis
 regelungen:
-  - Bundesmeldegesetz (BMG)
-letzte-aktualisierung: 2026-04-06
+- Bundesmeldegesetz (BMG)
+leika_id: '99115005070000'
+ozg_id: '10124'
+letzte-aktualisierung: '2026-07-10'
 ---
+
 # Wohnsitz Ummeldung
 
 ## Prozessschritte
@@ -45,5 +48,3 @@ letzte-aktualisierung: 2026-04-06
 
 **07 Datenübermittlung**  
 *An Bundesmeldedienst*
-
-

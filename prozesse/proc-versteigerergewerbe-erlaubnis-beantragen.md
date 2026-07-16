@@ -14,9 +14,12 @@ daten:
   - id: dstore-kontaktdaten
   - id: dstore-register-und-zuverlaessigkeitsauskuenfte
 regelungen:
-  - '§ 34b Gewerbeordnung (GewO)'
-letzte-aktualisierung: 2026-04-06
+- § 34b Gewerbeordnung (GewO)
+leika_id: '99050036005000'
+ozg_id: null
+letzte-aktualisierung: '2026-07-10'
 ---
+
 # Versteigerergewerbe: Erlaubnis beantragen
 
 ## Prozessschritte

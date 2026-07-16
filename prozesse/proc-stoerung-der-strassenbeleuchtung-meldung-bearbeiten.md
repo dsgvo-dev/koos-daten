@@ -17,10 +17,13 @@ daten:
   - id: dstore-kontaktdaten
   - id: dstore-sicherheitsmangelmeldung
 regelungen:
-  - '§§ 92-100 NKomVG (Kommunale Liegenschaften)'
-  - '§§ 1 ff. GEG (Gebäudeenergiegesetz)'
-letzte-aktualisierung: 2026-04-06
+- §§ 92-100 NKomVG (Kommunale Liegenschaften)
+- §§ 1 ff. GEG (Gebäudeenergiegesetz)
+leika_id: '99108020000000'
+ozg_id: null
+letzte-aktualisierung: '2026-07-10'
 ---
+
 # Störung der Straßenbeleuchtung: Meldung bearbeiten
 
 ## Prozessschritte

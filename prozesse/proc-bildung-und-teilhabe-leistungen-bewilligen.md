@@ -25,10 +25,13 @@ daten:
   - id: dstore-musikschul-kursanmeldung
   - id: dstore-kinderbetreuung-kosten
 regelungen:
-  - '§ 28 SGB II (Bildung und Teilhabe)'
-  - '§ 34 SGB XII (Bildung und Teilhabe)'
-letzte-aktualisierung: 2026-04-06
+- § 28 SGB II (Bildung und Teilhabe)
+- § 34 SGB XII (Bildung und Teilhabe)
+leika_id: null
+ozg_id: '10088'
+letzte-aktualisierung: '2026-07-10'
 ---
+
 # Kita-Beitrag berechnen und Bescheid erteilen
 
 ## Prozessschritte
@@ -53,5 +56,3 @@ letzte-aktualisierung: 2026-04-06
 
 **07 Mahnverfahren einleiten**  
 *Bei Zahlungsrückständen*
-
-

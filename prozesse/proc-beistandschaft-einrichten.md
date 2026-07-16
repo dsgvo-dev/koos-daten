@@ -15,10 +15,13 @@ daten:
   - id: dstore-personenstammdaten
   - id: dstore-elternbezug-abstammung
 regelungen:
-  - '§§ 1712-1717 BGB (Beistandschaft)'
-  - '§§ 52-59 SGB VIII (Mitwirkung in Verfahren)'
-letzte-aktualisierung: 2026-04-06
+- §§ 1712-1717 BGB (Beistandschaft)
+- §§ 52-59 SGB VIII (Mitwirkung in Verfahren)
+leika_id: '99016001000000'
+ozg_id: '10736'
+letzte-aktualisierung: '2026-07-10'
 ---
+
 # Beistandschaft einrichten
 
 ## Prozessschritte
@@ -43,5 +46,3 @@ letzte-aktualisierung: 2026-04-06
 
 **07 Beendigung**  
 *Bei Wegfall des Bedarfs*
-
-

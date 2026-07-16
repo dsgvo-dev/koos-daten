@@ -13,10 +13,13 @@ daten:
   - id: dstore-identitaetsnachweis
   - id: dstore-entwaesserungsantrag-kanalanschluss
 regelungen:
-  - '§ 59 Absatz 1 Wasserhaushaltsgesetz (WHG)'
-  - '§ 68 Verwaltungsgerichtsordnung (VwGO)'
-letzte-aktualisierung: 2026-04-06
+- § 59 Absatz 1 Wasserhaushaltsgesetz (WHG)
+- § 68 Verwaltungsgerichtsordnung (VwGO)
+leika_id: '99129015006000'
+ozg_id: null
+letzte-aktualisierung: '2026-07-10'
 ---
+
 # Wasseranschluss bewilligen
 
 ## Prozessschritte
@@ -41,5 +44,3 @@ letzte-aktualisierung: 2026-04-06
 
 **07 Inbetriebnahme**  
 *Wasserzähler einbauen, in Betrieb nehmen*
-
-

@@ -16,11 +16,14 @@ daten:
   - id: dstore-integrationskursnachweis
   - id: dstore-identitaetsnachweis
 regelungen:
-  - '§§ 4-9 Aufenthaltsgesetz (AufenthG) (Aufenthaltstitel)'
-  - '§ 18 ff. AufenthG (Aufenthalt zum Zweck der Erwerbstätigkeit)'
-  - '§§ 1 ff. AufenthV (Aufenthaltsverordnung)'
-letzte-aktualisierung: 2026-04-29
+- §§ 4-9 Aufenthaltsgesetz (AufenthG) (Aufenthaltstitel)
+- § 18 ff. AufenthG (Aufenthalt zum Zweck der Erwerbstätigkeit)
+- §§ 1 ff. AufenthV (Aufenthaltsverordnung)
+leika_id: null
+ozg_id: '10255'
+letzte-aktualisierung: '2026-07-10'
 ---
+
 # Aufenthaltstitel erteilen
 
 ## Prozessschritte
@@ -45,5 +48,3 @@ letzte-aktualisierung: 2026-04-29
 
 **07 Registereintrag**  
 *Ausländerzentralregister*
-
-

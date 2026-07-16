@@ -16,11 +16,14 @@ daten:
   - id: dstore-personenstammdaten
   - id: dstore-identitaetsnachweis
 regelungen:
-  - '§ 68 GewO (Jahrmärkte/Volksfeste)'
-  - '§ 69 GewO (Marktfestsetzung)'
-  - 'Nds. kommunale Marktsatzung'
-letzte-aktualisierung: 2026-04-06
+- § 68 GewO (Jahrmärkte/Volksfeste)
+- § 69 GewO (Marktfestsetzung)
+- Nds. kommunale Marktsatzung
+leika_id: '99050032002000'
+ozg_id: null
+letzte-aktualisierung: '2026-07-10'
 ---
+
 # Veranstaltung einer Messe/Ausstellung/Großmarkt: Festsetzung
 
 ## Prozessschritte

@@ -18,11 +18,14 @@ daten:
   - id: dstore-identitaetsnachweis
   - id: dstore-meldeadresse-wohnsitz
 regelungen:
-  - '§§ 58-85 NKomVG (Verwaltungsorganisation)'
-  - '§ 80 NKomVG (Hauptverwaltungsbeamter)'
-  - '§ 11 NKomVG (Kommunale Selbstverwaltung)'
-letzte-aktualisierung: 2026-04-06
+- §§ 58-85 NKomVG (Verwaltungsorganisation)
+- § 80 NKomVG (Hauptverwaltungsbeamter)
+- § 11 NKomVG (Kommunale Selbstverwaltung)
+leika_id: null
+ozg_id: '10145'
+letzte-aktualisierung: '2026-07-10'
 ---
+
 # Wahlen (Wahlorganisation inkl. Briefwahl/Wahlschein)
 
 ## Prozessschritte

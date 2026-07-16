@@ -13,10 +13,14 @@ daten:
   - id: dstore-personenstammdaten
   - id: dstore-identitaetsnachweis
 regelungen:
-  - '§ 34 Gewerbeordnung (GewO)'
-  - 'Verordnung über den Geschäftsbetrieb der gewerblichen Pfandleiher (Pfandleiherverordnung - PfandlV)'
-letzte-aktualisierung: 2026-04-06
+- § 34 Gewerbeordnung (GewO)
+- Verordnung über den Geschäftsbetrieb der gewerblichen Pfandleiher (Pfandleiherverordnung
+  - PfandlV)
+leika_id: '99050021005000'
+ozg_id: null
+letzte-aktualisierung: '2026-07-10'
 ---
+
 # Pfandleihgewerbe: Erlaubnis beantragen
 
 ## Prozessschritte

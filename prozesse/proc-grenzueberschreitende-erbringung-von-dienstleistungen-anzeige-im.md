@@ -14,12 +14,15 @@ daten:
   - id: dstore-personenstammdaten
   - id: dstore-identitaetsnachweis
 regelungen:
-  - § 34a Gewerbeordnung (GewO)
-  - § 13a Gewerbeordnung (GewO)
-  - § 13b Gewerbeordnung (GewO)
-  - § 3 Bewachungsverordnung (BewachV)
-letzte-aktualisierung: 2026-04-06
+- § 34a Gewerbeordnung (GewO)
+- § 13a Gewerbeordnung (GewO)
+- § 13b Gewerbeordnung (GewO)
+- § 3 Bewachungsverordnung (BewachV)
+leika_id: null
+ozg_id: '10378'
+letzte-aktualisierung: '2026-07-10'
 ---
+
 # Grenzüberschreitende Erbringung von Dienstleistungen Anzeige im Bewachungsgewerbe
 
 ## Prozessschritte

@@ -17,10 +17,13 @@ daten:
   - id: dstore-unternehmens-und-registerdaten
   - id: dstore-identitaetsnachweis
 regelungen:
-  - '§ 58 Wasserhaushaltsgesetz (WHG)'
-  - '§ 68 Verwaltungsgerichtsordnung (VwGO)'
-letzte-aktualisierung: 2026-04-06
+- § 58 Wasserhaushaltsgesetz (WHG)
+- § 68 Verwaltungsgerichtsordnung (VwGO)
+leika_id: '99129005006000'
+ozg_id: null
+letzte-aktualisierung: '2026-07-10'
 ---
+
 # Einleitung von Abwasser in öffentliche Abwasseranlagen: Genehmigung
 
 ## Prozessschritte

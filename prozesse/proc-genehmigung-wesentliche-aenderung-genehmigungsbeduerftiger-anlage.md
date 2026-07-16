@@ -12,10 +12,13 @@ daten:
   - id: dstore-unternehmens-und-registerdaten
   - id: dstore-identitaetsnachweis
 regelungen:
-  - '§ 16 Bundes-Immissionsschutzgesetz (BImSchG)'
-  - '4. Bundesimmissionsschutzverordnung (4. BImSchV)'
-letzte-aktualisierung: 2026-04-06
+- § 16 Bundes-Immissionsschutzgesetz (BImSchG)
+- 4. Bundesimmissionsschutzverordnung (4. BImSchV)
+leika_id: '99063001006001'
+ozg_id: null
+letzte-aktualisierung: '2026-07-10'
 ---
+
 # Genehmigung wesentliche Änderung genehmigungsbedürftiger Anlage
 
 ## Prozessschritte

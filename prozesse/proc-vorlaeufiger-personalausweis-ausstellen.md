@@ -19,10 +19,14 @@ daten:
   - id: dstore-ausweisdokument
   - id: dstore-meldeadresse-wohnsitz
 regelungen:
-  - '§ 9 Gesetz über Personalausweise und den elektronischen Identitätsnachweis (Personalausweisgesetz - PAuswG)'
-  - 'Personalausweis- und eID-Karten-Gebührenverordnung'
-letzte-aktualisierung: 2026-04-06
+- § 9 Gesetz über Personalausweise und den elektronischen Identitätsnachweis (Personalausweisgesetz
+  - PAuswG)
+- Personalausweis- und eID-Karten-Gebührenverordnung
+leika_id: '99008001012000'
+ozg_id: '10119'
+letzte-aktualisierung: '2026-07-10'
 ---
+
 # Vorläufiger Personalausweis ausstellen
 
 ## Prozessschritte
@@ -47,5 +51,3 @@ letzte-aktualisierung: 2026-04-06
 
 **07 Signaturzertifikat aktivieren**  
 *Bei Bedarf*
-
-

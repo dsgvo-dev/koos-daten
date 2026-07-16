@@ -16,10 +16,13 @@ daten:
   - id: dstore-identitaetsnachweis
   - id: dstore-personenstammdaten
 regelungen:
-  - § 45 Abs. 1b Nr. 2 Straßenverkehrs-Ordnung (StVO)
-  - § 46 Abs. 1 Nr. 11 Straßenverkehrs-Ordnung (StVO)
-letzte-aktualisierung: 2026-04-06
+- § 45 Abs. 1b Nr. 2 Straßenverkehrs-Ordnung (StVO)
+- § 46 Abs. 1 Nr. 11 Straßenverkehrs-Ordnung (StVO)
+leika_id: '99108001000000'
+ozg_id: '10722'
+letzte-aktualisierung: '2026-07-10'
 ---
+
 # Bewohnerparkausweis beantragen
 
 ## Prozessschritte
@@ -44,5 +47,3 @@ letzte-aktualisierung: 2026-04-06
 
 **07 Kontrollen**  
 *Missbrauch verhindern*
-
-

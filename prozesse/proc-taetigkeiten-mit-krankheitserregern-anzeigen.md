@@ -14,14 +14,21 @@ daten:
   - id: dstore-personenstammdaten
   - id: dstore-amtsaerztliches-zeugnis
 regelungen:
-  - 'DIN EN12740 - Leitfaden für die Behandlung, Inaktivierung und Prüfung von Abfällen'
-  - 'DIN 30739 - Behälter für ansteckungsgefährlichen Abfall mit einem Nennvolumen von 30 l bis 60 l'
-  - 'DIN 58956-10 - Medizinische Mikrobiologie; Medizinisch-mikrobiologische Laboratorien; Sicherheitskennzeichnung'
-  - 'DIN 58956-3 - Medizinische Mikrobiologie; Medizinisch-mikrobiologische Laboratorien; Anforderungen an den Organisationsplan'
-  - 'DIN 58956-5 - Medizinische Mikrobiologie; Medizinisch-mikrobiologische Laboratorien; Anforderungen an den Hygieneplan'
-  - '§ 44 Infektionsschutzgesetz (IfSG)'
-letzte-aktualisierung: 2026-04-06
+- DIN EN12740 - Leitfaden für die Behandlung, Inaktivierung und Prüfung von Abfällen
+- DIN 30739 - Behälter für ansteckungsgefährlichen Abfall mit einem Nennvolumen von
+  30 l bis 60 l
+- DIN 58956-10 - Medizinische Mikrobiologie; Medizinisch-mikrobiologische Laboratorien;
+  Sicherheitskennzeichnung
+- DIN 58956-3 - Medizinische Mikrobiologie; Medizinisch-mikrobiologische Laboratorien;
+  Anforderungen an den Organisationsplan
+- DIN 58956-5 - Medizinische Mikrobiologie; Medizinisch-mikrobiologische Laboratorien;
+  Anforderungen an den Hygieneplan
+- § 44 Infektionsschutzgesetz (IfSG)
+leika_id: '99003021000000'
+ozg_id: null
+letzte-aktualisierung: '2026-07-10'
 ---
+
 # Tätigkeiten mit Krankheitserregern anzeigen
 
 ## Prozessschritte

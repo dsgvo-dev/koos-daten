@@ -15,9 +15,12 @@ daten:
   - id: dstore-fachstellungnahme
   - id: dstore-grundstuecksdaten
 regelungen:
-  - '§ 10 Absatz 3 Satz 2 Baugesetzbuch (BauGB)'
-letzte-aktualisierung: 2026-04-29
+- § 10 Absatz 3 Satz 2 Baugesetzbuch (BauGB)
+leika_id: '99012011000000'
+ozg_id: null
+letzte-aktualisierung: '2026-07-10'
 ---
+
 # Bebauungsplan ändern
 
 ## Prozessschritte
@@ -42,5 +45,3 @@ letzte-aktualisierung: 2026-04-29
 
 **07 Satzung**  
 *Rechtskräftige Änderung*
-
-

@@ -16,11 +16,14 @@ daten:
   - id: dstore-personenstammdaten
   - id: dstore-identitaetsnachweis
 regelungen:
-  - '§§ 1-15 Nds. Glücksspielgesetz (NGlüSpG)'
-  - '§ 24 GlüStV (Spielhallen)'
-  - '§§ 33c-33i GewO (Spielgeräte)'
-letzte-aktualisierung: 2026-04-06
+- §§ 1-15 Nds. Glücksspielgesetz (NGlüSpG)
+- § 24 GlüStV (Spielhallen)
+- §§ 33c-33i GewO (Spielgeräte)
+leika_id: '99050028005000'
+ozg_id: null
+letzte-aktualisierung: '2026-07-10'
 ---
+
 # Spielhallen-Erlaubnis beantragen
 
 ## Prozessschritte

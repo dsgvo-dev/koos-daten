@@ -21,12 +21,15 @@ daten:
   - § 6 Absatz 1 Passgesetz (PassG)
   - § 15 Verordnung zur Durchführung des Passgesetzes (Passverordnung - PassV)
   - § 1 Verordnung zur Durchführung des Passgesetzes (Passverordnung - PassV)
-letzte-aktualisierung: 2026-04-06
 regelungen:
-  - '§ 6 Absatz 1 Passgesetz (PassG)'
-  - '§ 15 Verordnung zur Durchführung des Passgesetzes (Passverordnung - PassV)'
-  - '§ 1 Verordnung zur Durchführung des Passgesetzes (Passverordnung - PassV)'
+- § 6 Absatz 1 Passgesetz (PassG)
+- § 15 Verordnung zur Durchführung des Passgesetzes (Passverordnung - PassV)
+- § 1 Verordnung zur Durchführung des Passgesetzes (Passverordnung - PassV)
+leika_id: '99085001012002'
+ozg_id: null
+letzte-aktualisierung: '2026-07-10'
 ---
+
 # Reisepass Express beantragen
 
 ## Prozessschritte
@@ -51,5 +54,3 @@ regelungen:
 
 **07 Alten Pass entgegennehmen**  
 *Bei Verlängerung*
-
-

@@ -16,10 +16,13 @@ daten:
   - id: dstore-kfz-daten
   - id: dstore-personenstammdaten
 regelungen:
-  - '§ 25a der Fahrerlaubnis-Verordnung (FeV)'
-  - '§ 25 b Fahrerlaubnis-Verordnung (FeV)'
-letzte-aktualisierung: 2026-04-06
+- § 25a der Fahrerlaubnis-Verordnung (FeV)
+- § 25 b Fahrerlaubnis-Verordnung (FeV)
+leika_id: '99108062000000'
+ozg_id: null
+letzte-aktualisierung: '2026-07-10'
 ---
+
 # Internationalen Führerschein beantragen
 
 ## Prozessschritte

@@ -15,11 +15,14 @@ daten:
   - id: dstore-personenstammdaten
   - id: dstore-identitaetsnachweis
 regelungen:
-  - '§§ 44-47 BImSchG (Luftreinhaltepläne)'
-  - '§ 40 BImSchG (Verkehrsverbote)'
-  - '35. BImSchV (Kennzeichnungsverordnung)'
-letzte-aktualisierung: 2026-04-06
+- §§ 44-47 BImSchG (Luftreinhaltepläne)
+- § 40 BImSchG (Verkehrsverbote)
+- 35. BImSchV (Kennzeichnungsverordnung)
+leika_id: null
+ozg_id: '10427'
+letzte-aktualisierung: '2026-07-10'
 ---
+
 # Feinstaub-/Umweltplakette ausgeben
 
 ## Prozessschritte

@@ -2,14 +2,9 @@
 id: proc-bauvorbescheid-beantragen
 titel: Bauvorbescheid beantragen
 status: aktiv
-
-
 zustaendigeEinheit: oe-amt-63
-zustaendigeRolle: ""
-
-beteiligte:
-  []
-
+zustaendigeRolle: ''
+beteiligte: []
 daten:
   input: []
   output: []
@@ -17,13 +12,15 @@ daten:
   - id: dstore-bauantrag
   - id: dstore-bauakte
 regelungen:
-  - § 75 LBauO M-V
-  - §§ 27a VwVfG M-V
-  - §§ 13 BImSchG
-  - § 60 WHG
-
-letzte-aktualisierung: 2026-04-06
+- § 75 LBauO M-V
+- §§ 27a VwVfG M-V
+- §§ 13 BImSchG
+- § 60 WHG
+leika_id: null
+ozg_id: '10519'
+letzte-aktualisierung: '2026-07-10'
 ---
+
 # Bauvorbescheid beantragen
 
 ## Prozessschritte

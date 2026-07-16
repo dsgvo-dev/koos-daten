@@ -18,9 +18,12 @@ daten:
   - id: dstore-lebensmittelunternehmerdaten
   - id: dstore-personenstammdaten
 regelungen:
-  - §§ 2 ff. Niedersächsisches Gaststättengesetzes (NGastG)
-letzte-aktualisierung: 2026-04-06
+- §§ 2 ff. Niedersächsisches Gaststättengesetzes (NGastG)
+leika_id: '99025008007000'
+ozg_id: null
+letzte-aktualisierung: '2026-07-10'
 ---
+
 # Gaststättenbetrieb Zulassung vorzeitiger Betriebsbeginn
 
 ## Prozessschritte

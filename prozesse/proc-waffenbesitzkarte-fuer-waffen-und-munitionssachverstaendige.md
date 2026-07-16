@@ -17,12 +17,15 @@ daten:
   - id: dstore-lebenslauf-qualifikationsnachweis
   - id: dstore-unternehmens-und-registerdaten
 regelungen:
-  - '§ 18 Waffengesetz (WaffG)'
-  - '§ 4 Waffengesetz (WaffG)'
-  - '§ 36 Waffengesetz (WaffG)'
-  - '§ 13 Allgemeine Waffengesetz-Verordnung (AWaffV)'
-letzte-aktualisierung: 2026-04-06
+- § 18 Waffengesetz (WaffG)
+- § 4 Waffengesetz (WaffG)
+- § 36 Waffengesetz (WaffG)
+- § 13 Allgemeine Waffengesetz-Verordnung (AWaffV)
+leika_id: '99089018001002'
+ozg_id: null
+letzte-aktualisierung: '2026-07-10'
 ---
+
 # Waffenbesitzkarte für Waffen- und Munitionssachverständige
 
 ## Prozessschritte

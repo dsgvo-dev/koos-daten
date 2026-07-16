@@ -17,11 +17,15 @@ daten:
   - id: dstore-bankverbindung
   - id: dstore-meldeadresse-wohnsitz
   - § 15 Nr. 3 Passgesetz (PaßG)
-letzte-aktualisierung: 2026-04-06
 regelungen:
-  - '§ 6 Passgesetz (PassG) (Ausstellung eines Passes)'
-  - 'Gesetz zur Modernisierung des Pass-, des Ausweis- und des ausländerrechtlichen Dokumentenwesens (BGBl. I 2023 Nr. 271, vom 8. Oktober 2023)'
+- § 6 Passgesetz (PassG) (Ausstellung eines Passes)
+- Gesetz zur Modernisierung des Pass-, des Ausweis- und des ausländerrechtlichen Dokumentenwesens
+  (BGBl. I 2023 Nr. 271, vom 8. Oktober 2023)
+leika_id: '99085001014003'
+ozg_id: null
+letzte-aktualisierung: '2026-07-10'
 ---
+
 # Reisepass Meldung wegen Verlust
 
 ## Prozessschritte

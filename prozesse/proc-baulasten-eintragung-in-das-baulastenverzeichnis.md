@@ -15,10 +15,13 @@ daten:
   - id: dstore-grundstuecksbezug
   - id: dstore-lageplan-geobasisdaten
 regelungen:
-  - '§ 81 Nds. Bauordnung (NBauO) (Baulastenverzeichnis)'
-  - '§§ 29-38 BauGB (Zulässigkeit von Vorhaben)'
-letzte-aktualisierung: 2026-04-06
+- § 81 Nds. Bauordnung (NBauO) (Baulastenverzeichnis)
+- §§ 29-38 BauGB (Zulässigkeit von Vorhaben)
+leika_id: null
+ozg_id: '10517'
+letzte-aktualisierung: '2026-07-10'
 ---
+
 # Baulasten: Eintragung in das Baulastenverzeichnis
 
 ## Prozessschritte

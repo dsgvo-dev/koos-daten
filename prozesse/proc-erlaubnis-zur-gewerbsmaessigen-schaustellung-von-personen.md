@@ -13,10 +13,13 @@ daten:
   - id: dstore-personenstammdaten
   - id: dstore-identitaetsnachweis
 regelungen:
-  - '§ 33a Gewerbeordnung (GewO)'
-  - '§ 49 Gewerbeordnung (GewO)'
-letzte-aktualisierung: 2026-04-06
+- § 33a Gewerbeordnung (GewO)
+- § 49 Gewerbeordnung (GewO)
+leika_id: '99050053000000'
+ozg_id: null
+letzte-aktualisierung: '2026-07-10'
 ---
+
 # Erlaubnis zur gewerbsmäßigen Schaustellung von Personen
 
 ## Prozessschritte

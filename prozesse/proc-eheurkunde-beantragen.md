@@ -18,13 +18,16 @@ daten:
   - id: dstore-heiratsurkunde
   - id: dstore-scheidungsnachweis
 regelungen:
-  - '§ 5 Absatz 5 Personenstandsgesetz (PStG)'
-  - '§ 57 Personenstandsgesetz (PStG)'
-  - '§§ 61 bis 66 Personenstandsgesetz (PStG)'
-  - '§ 48 Absatz 1 Personenstandsverordnung (PStV)'
-  - '§ 50 Absatz 1 Personenstandsverordnung (PStV)'
-letzte-aktualisierung: 2026-04-06
+- § 5 Absatz 5 Personenstandsgesetz (PStG)
+- § 57 Personenstandsgesetz (PStG)
+- §§ 61 bis 66 Personenstandsgesetz (PStG)
+- § 48 Absatz 1 Personenstandsverordnung (PStV)
+- § 50 Absatz 1 Personenstandsverordnung (PStV)
+leika_id: '99059004000000'
+ozg_id: null
+letzte-aktualisierung: '2026-07-10'
 ---
+
 # Eheurkunde beantragen
 
 ## Prozessschritte

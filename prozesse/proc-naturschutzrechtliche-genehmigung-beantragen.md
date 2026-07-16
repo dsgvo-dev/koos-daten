@@ -15,11 +15,14 @@ daten:
   - id: dstore-identitaetsnachweis
   - id: dstore-grundstuecksbezug
 regelungen:
-  - '§§ 44-45 Bundesnaturschutzgesetz (BNatSchG) (Artenschutz)'
-  - '§ 45 BNatSchG (Ausnahmen/Befreiungen)'
-  - '§ 67 BNatSchG (Befreiungen)'
-letzte-aktualisierung: 2026-04-06
+- §§ 44-45 Bundesnaturschutzgesetz (BNatSchG) (Artenschutz)
+- § 45 BNatSchG (Ausnahmen/Befreiungen)
+- § 67 BNatSchG (Befreiungen)
+leika_id: null
+ozg_id: '10507'
+letzte-aktualisierung: '2026-07-10'
 ---
+
 # Naturschutzrechtliche Genehmigung beantragen
 
 ## Prozessschritte

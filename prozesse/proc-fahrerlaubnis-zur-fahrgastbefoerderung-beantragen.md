@@ -16,9 +16,12 @@ daten:
   - id: dstore-personenstammdaten
   - id: dstore-kfz-daten
 regelungen:
-  - '§ 48 Absatz 1 und 4 Fahrerlaubnisverordnung (FeV)'
-letzte-aktualisierung: 2026-04-06
+- § 48 Absatz 1 und 4 Fahrerlaubnisverordnung (FeV)
+leika_id: '99108053000000'
+ozg_id: '10424'
+letzte-aktualisierung: '2026-07-10'
 ---
+
 # Fahrerlaubnis zur Fahrgastbeförderung beantragen
 
 ## Prozessschritte

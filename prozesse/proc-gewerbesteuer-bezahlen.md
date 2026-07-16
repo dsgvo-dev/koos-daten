@@ -19,13 +19,16 @@ daten:
   - Gewerbesteuer-Durchführungsverordnung (GewStDV)
   - § 7 GewStG
   - § 16 GewStG
-letzte-aktualisierung: 2026-04-06
 regelungen:
-  - '§§ 7 bis 9 Gewerbesteuergesetz (GewStG)'
-  - '§ 11 Gewerbesteuergesetz (GewStG)'
-  - '§ 16 Gewerbesteuergesetz (GewStG)'
-  - '§ 25 Gewerbesteuer-Durchführungsverordnung (GewStDV)'
+- §§ 7 bis 9 Gewerbesteuergesetz (GewStG)
+- § 11 Gewerbesteuergesetz (GewStG)
+- § 16 Gewerbesteuergesetz (GewStG)
+- § 25 Gewerbesteuer-Durchführungsverordnung (GewStDV)
+leika_id: '99102010000000'
+ozg_id: '10364'
+letzte-aktualisierung: '2026-07-10'
 ---
+
 # Gewerbesteuer bezahlen
 
 ## Prozessschritte
@@ -50,5 +53,3 @@ regelungen:
 
 **07 Vollziehung**  
 *Einziehung überwachen*
-
-

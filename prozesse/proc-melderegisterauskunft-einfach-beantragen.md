@@ -20,9 +20,12 @@ daten:
   - id: dstore-elektronische-zustelladresse
   - id: dstore-postzustelladresse-korrespondenz
 regelungen:
-  - '§ 44 Bundesmeldegesetz (BMG)'
-  - 'Nummer 44 Allgemeine Verwaltungsvorschrift zur Durchführung des Bundesmeldegesetzes (BMGVwV)'
-letzte-aktualisierung: 2026-04-06
+- § 44 Bundesmeldegesetz (BMG)
+- Nummer 44 Allgemeine Verwaltungsvorschrift zur Durchführung des Bundesmeldegesetzes
+  (BMGVwV)
+leika_id: '99115004001001'
+ozg_id: null
+letzte-aktualisierung: '2026-07-10'
 ---
 
 # Melderegisterauskunft: einfach beantragen

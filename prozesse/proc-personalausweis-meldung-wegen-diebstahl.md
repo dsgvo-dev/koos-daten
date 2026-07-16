@@ -15,9 +15,12 @@ daten:
   - id: dstore-ausweisdokument
   - id: dstore-meldeadresse-wohnsitz
 regelungen:
-  - '§ 27 Absatz 1 Nummer 3 Personalausweisgesetz (PAuswG)'
-letzte-aktualisierung: 2026-04-06
+- § 27 Absatz 1 Nummer 3 Personalausweisgesetz (PAuswG)
+leika_id: '99008001014001'
+ozg_id: null
+letzte-aktualisierung: '2026-07-10'
 ---
+
 # Personalausweis Meldung wegen Diebstahl
 
 ## Prozessschritte

@@ -19,12 +19,15 @@ daten:
   - § 2 StVG
   - § 25 VwVfG
   - § 5 GebOSt
-letzte-aktualisierung: 2026-04-06
 regelungen:
-  - '§ 28 Fahrerlaubnis-Verordnung (FeV)'
-  - '§ 30 Fahrerlaubnis-Verordnung (FeV)'
-  - '§ 31 Fahrerlaubnis-Verordnung (FeV)'
+- § 28 Fahrerlaubnis-Verordnung (FeV)
+- § 30 Fahrerlaubnis-Verordnung (FeV)
+- § 31 Fahrerlaubnis-Verordnung (FeV)
+leika_id: '99108047050003'
+ozg_id: null
+letzte-aktualisierung: '2026-07-10'
 ---
+
 # Umschreibung einer ausländischen Fahrerlaubnis
 
 ## Prozessschritte

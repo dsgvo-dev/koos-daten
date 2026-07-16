@@ -12,13 +12,16 @@ daten:
   - id: dstore-personenstammdaten
   - id: dstore-registerbezug-personenstand
 regelungen:
-  - '§ 55 Absatz 1 Nummer 4 Personenstandsgesetz (PStG)'
-  - '§ 60 Personenstandsgesetz (PStG)'
-  - '§ 55 Civil Status Act (PStG)'
-  - '§ 60 Civil Status Act (PStG)'
-  - '§ 62 Personenstandsgesetz (PStG)'
-letzte-aktualisierung: 2026-04-06
+- § 55 Absatz 1 Nummer 4 Personenstandsgesetz (PStG)
+- § 60 Personenstandsgesetz (PStG)
+- § 55 Civil Status Act (PStG)
+- § 60 Civil Status Act (PStG)
+- § 62 Personenstandsgesetz (PStG)
+leika_id: null
+ozg_id: '10237'
+letzte-aktualisierung: '2026-07-10'
 ---
+
 # Urkunde: Sterbeurkunde beantragen
 
 ## Prozessschritte
@@ -43,5 +46,3 @@ letzte-aktualisierung: 2026-04-06
 
 **07 Statistiken aktualisieren**  
 *Landes-/Bundesstatistik*
-
-

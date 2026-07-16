@@ -14,10 +14,13 @@ daten:
   - id: dstore-abrechnungsdaten
   - id: dstore-bescheid
 regelungen:
-  - '§ 2 Nds. Sportförderungsgesetz (NSportFöG)'
-  - '§ 11 NKomVG (Kommunale Einrichtungen/Daseinsvorsorge)'
-letzte-aktualisierung: 2026-04-29
+- § 2 Nds. Sportförderungsgesetz (NSportFöG)
+- § 11 NKomVG (Kommunale Einrichtungen/Daseinsvorsorge)
+leika_id: null
+ozg_id: '10627'
+letzte-aktualisierung: '2026-07-10'
 ---
+
 # Sportförderung beantragen
 
 ## Prozessschritte
@@ -42,5 +45,3 @@ letzte-aktualisierung: 2026-04-29
 
 **07 Verwendungsnachweis**  
 *Prüfen nach Projektende*
-
-

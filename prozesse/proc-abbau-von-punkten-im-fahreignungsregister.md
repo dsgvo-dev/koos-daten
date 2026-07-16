@@ -15,10 +15,13 @@ daten:
   - id: dstore-fuehrerscheindaten
   - id: dstore-kontaktdaten
 regelungen:
-  - § 4 Straßenverkehrsgesetz (StVG)
-  - § 29 Straßenverkehrsgesetz (StVG)
-letzte-aktualisierung: 2026-04-06
+- § 4 Straßenverkehrsgesetz (StVG)
+- § 29 Straßenverkehrsgesetz (StVG)
+leika_id: null
+ozg_id: '10168'
+letzte-aktualisierung: '2026-07-10'
 ---
+
 # Abbau von Punkten im Fahreignungsregister
 
 ## Prozessschritte

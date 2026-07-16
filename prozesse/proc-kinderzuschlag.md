@@ -14,8 +14,10 @@ daten:
   - id: dstore-personenstammdaten
   - id: dstore-einkommens-und-leistungsdaten
 regelungen:
-  - '§ 6a Bundeskindergeldgesetz (BKGG)'
-letzte-aktualisierung: 2026-04-06
+- § 6a Bundeskindergeldgesetz (BKGG)
+leika_id: '99107016000000'
+ozg_id: '10020'
+letzte-aktualisierung: '2026-07-10'
 ---
 
 # Kinderzuschlag

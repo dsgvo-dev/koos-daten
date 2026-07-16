@@ -16,14 +16,17 @@ daten:
   - id: dstore-personenstammdaten
   - id: dstore-identitaetsnachweis
 regelungen:
-  - '§ 69 Gewerbeordnung (GewO)'
-  - '§ 69a Gewerbeordnung (GewO)'
-  - '§ 64 Gewerbeordnung (GewO)'
-  - '§ 65 Gewerbeordnung (GewO)'
-  - '§ 66 Gewerbeordnung (GewO)'
-  - '§ 67 Gewerbeordnung (GewO)'
-letzte-aktualisierung: 2026-04-06
+- § 69 Gewerbeordnung (GewO)
+- § 69a Gewerbeordnung (GewO)
+- § 64 Gewerbeordnung (GewO)
+- § 65 Gewerbeordnung (GewO)
+- § 66 Gewerbeordnung (GewO)
+- § 67 Gewerbeordnung (GewO)
+leika_id: '99050032002000'
+ozg_id: null
+letzte-aktualisierung: '2026-07-10'
 ---
+
 # Veranstaltung eines Jahr- oder Spezialmarktes: Festsetzung
 
 ## Prozessschritte

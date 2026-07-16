@@ -17,11 +17,14 @@ daten:
   - id: dstore-personenstammdaten
   - id: dstore-identitaetsnachweis
 regelungen:
-  - '§§ 17-20 Nds. Gesetz über die öffentliche Sicherheit (Nds. SOG)'
-  - '§ 117 OWiG (Unzulässiger Lärm)'
-  - 'ZustVO-SOG Nds.'
-letzte-aktualisierung: 2026-04-06
+- §§ 17-20 Nds. Gesetz über die öffentliche Sicherheit (Nds. SOG)
+- § 117 OWiG (Unzulässiger Lärm)
+- ZustVO-SOG Nds.
+leika_id: null
+ozg_id: '10243'
+letzte-aktualisierung: '2026-07-10'
 ---
+
 # Ordnungswidrigkeiten bearbeiten
 
 ## Prozessschritte

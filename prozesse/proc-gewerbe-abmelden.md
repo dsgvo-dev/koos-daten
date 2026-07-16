@@ -14,10 +14,13 @@ daten:
   - id: dstore-personenstammdaten
   - id: dstore-identitaetsnachweis
 regelungen:
-  - § 14 Gewerbeordnung (GewO)
-  - § 2 Absatz 1 Gewerbeanzeigeverordnung (GewAnzV)
-letzte-aktualisierung: 2026-04-06
+- § 14 Gewerbeordnung (GewO)
+- § 2 Absatz 1 Gewerbeanzeigeverordnung (GewAnzV)
+leika_id: '99050012070000'
+ozg_id: null
+letzte-aktualisierung: '2026-07-10'
 ---
+
 # Gewerbe abmelden
 
 ## Prozessschritte
@@ -42,5 +45,3 @@ letzte-aktualisierung: 2026-04-06
 
 **07 Gewerberegister aktualisieren**  
 *Eintrag vornehmen*
-
-

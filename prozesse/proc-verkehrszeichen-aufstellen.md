@@ -13,10 +13,13 @@ daten:
   - id: dstore-verwaltungsakte
   - id: dstore-bescheid
 regelungen:
-  - '§ 45 Straßenverkehrs-Ordnung (StVO)'
-  - '§ 39 Straßenverkehrs-Ordnung (StVO)'
-letzte-aktualisierung: 2026-04-29
+- § 45 Straßenverkehrs-Ordnung (StVO)
+- § 39 Straßenverkehrs-Ordnung (StVO)
+leika_id: '99108014000000'
+ozg_id: null
+letzte-aktualisierung: '2026-07-10'
 ---
+
 # Verkehrszeichen aufstellen
 
 ## Prozessschritte
@@ -41,5 +44,3 @@ letzte-aktualisierung: 2026-04-29
 
 **07 Wirksamkeitskontrolle**  
 *Nach Aufstellung*
-
-

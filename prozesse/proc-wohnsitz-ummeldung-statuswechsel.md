@@ -16,10 +16,12 @@ daten:
   - id: dstore-personenstammdaten
   - id: dstore-identitaetsnachweis
   - § 21 Bundesmeldegesetz (BMG)
-letzte-aktualisierung: 2026-04-06
 regelungen:
-  - '§ 21 Bundesmeldegesetz (BMG)'
-  - '§ 22 Bundesmeldegesetz (BMG)'
+- § 21 Bundesmeldegesetz (BMG)
+- § 22 Bundesmeldegesetz (BMG)
+leika_id: '99115005011002'
+ozg_id: null
+letzte-aktualisierung: '2026-07-10'
 ---
 
 # Wohnsitz Ummeldung Statuswechsel
