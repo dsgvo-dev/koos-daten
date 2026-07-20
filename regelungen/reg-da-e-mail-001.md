@@ -7,12 +7,12 @@ datum: '2023-03-15'
 zustaendigeEinheit: oe-amt-15
 entscheidendesGremium: Hauptverwaltungsbeamter
 kontext: Die Verwaltung benötigt verbindliche Regelungen für den Einsatz von E-Mail-Diensten.
-entscheidung: Die DA Cloud gilt für alle Mitarbeitenden der Gemeindeverwaltung. Sie
+entscheidung: Die DA E-Mail gilt für alle Mitarbeitenden der Gemeindeverwaltung. Sie
   regelt den Einsatz von E-Mail-Diensten. Insbesondere regelt sie, welche Daten mit
   welchem Schutzbedarf per E-Mail versendet werden dürfen.
 ---
 
-### **Dienstanweisung zur Nutzung von E-Mails in der [Name der Kommune] (DA E-MAil)**
+### **Dienstanweisung zur Nutzung von E-Mails in der [Name der Kommune] (DA E-Mail)**
 **Gültig ab:** [Datum]
 **Verantwortlich:** IT-Sicherheitsbeauftragter / Hauptamt
 **Ersetzt:** [ggf. vorherige Version]
