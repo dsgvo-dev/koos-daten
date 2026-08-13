@@ -81,3 +81,11 @@ eingesetzt worden, ohne ihn an die tatsächlichen Werte anzupassen — in 105 Da
 **Die Werte selbst wurden nicht geändert**; maßgeblich ist das Frontmatter, und die
 Kettenprüfung E3 rechnet mit ihm.
 
+## Schutzstufe geprüft 2026-08-13
+
+**C bestätigt.** Ist der Aussteller Einzelunternehmer oder Freiberufler, ist der
+Rechnungsbetrag eine Einkommensangabe; Aufbewahrung 10 Jahre.
+
+Geprüft im Rahmen der Schutzstufendurchsicht Los 3 (Amt 20). Vorschlag:
+`_output/vvt-datenspeicher-laeufe/VORSCHLAG-2026-08-13-los3-amt20-korrigiert.md`.
+

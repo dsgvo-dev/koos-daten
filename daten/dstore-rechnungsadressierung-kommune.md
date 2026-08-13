@@ -18,7 +18,9 @@ klassifizierung:
   bsi-verfuegbarkeit: normal
   bsi-schutzbedarf: hoch
   rechtsgrundlagen:
-  - gesetz: ERechV
+  - gesetz: NDIG
+    artikel: § 6 Abs. 3 i. V. m. § 3 Abs. 6
+  - gesetz: NERechVO
   aufbewahrung:
     frist: prozessabhängig
     beginn: nach Verfahrensabschluss

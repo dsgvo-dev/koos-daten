@@ -68,3 +68,12 @@ Angelegt am 2026-07-30 zusammen mit `proc-sichergestellte-gegenstaende-verwahren
 **Integrität hoch.** Auf die Richtigkeit dieses Datenbestands verlassen sich andere -- Behörden, Gerichte oder die betroffene Person selbst. Eine unbemerkte Verfälschung führt nicht zu einem Fehler im Einzelfall, sondern zu falschen Folgeentscheidungen, die auf dem Bestand aufbauen.
 
 Der Bestand begründet den Herausgabeanspruch nach § 29 NPOG. Ohne verlässlichen Nachweis ist nicht feststellbar, wem was gehört.
+
+## Schutzstufe geprüft 2026-08-13
+
+**C bestätigt.** Sicherstellung nach §§ 26–29 NPOG ist eine eingreifende ordnungsrechtliche
+Maßnahme — C. Die effektive Stufe D entsteht in vvt-20-003 über den Kontext
+(`personenstammdaten-vertraulich` D, ADR 010), nicht über diesen Speicher.
+
+Geprüft im Rahmen der Schutzstufendurchsicht Los 3 (Amt 20). Vorschlag:
+`_output/vvt-datenspeicher-laeufe/VORSCHLAG-2026-08-13-los3-amt20-korrigiert.md`.

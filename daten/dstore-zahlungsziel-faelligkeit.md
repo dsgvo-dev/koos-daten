@@ -66,3 +66,13 @@ eingesetzt worden, ohne ihn an die tatsächlichen Werte anzupassen — in 105 Da
 **Die Werte selbst wurden nicht geändert**; maßgeblich ist das Frontmatter, und die
 Kettenprüfung E3 rechnet mit ihm.
 
+## Schutzstufe geprüft 2026-08-13
+
+**C bestätigt.** Der Datensatz ist dem Rechnungssteller zuordenbar (kann natürliche Person
+sein); Betrag, Fälligkeit und Status berühren dessen wirtschaftliche Verhältnisse. Nicht B:
+Der Feldtest („kein Feld benennt eine Person") greift zu kurz — maßgeblich ist die
+Zuordenbarkeit des Datensatzes, nicht ein Namensfeld.
+
+Geprüft im Rahmen der Schutzstufendurchsicht Los 3 (Amt 20). Vorschlag:
+`_output/vvt-datenspeicher-laeufe/VORSCHLAG-2026-08-13-los3-amt20-korrigiert.md`.
+

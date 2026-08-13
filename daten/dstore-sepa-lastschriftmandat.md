@@ -90,3 +90,11 @@ Zuständige OE, Klassifizierung und BPMN-Typ sind heuristisch vorbelegt und soll
 **Die Vertraulichkeit richtet sich nach der Datenschutz-Schutzstufe** und ist dort begründet; der BSI-Wert ist die Vorbelegung daraus.
 
 *Sammelvermerk der Durchsicht vom 2026-08-04. In demselben Durchgang wurden 67 Speicher mit Register-, Entscheidungs- oder Gefahrenabwehrbezug angehoben; dieser gehört nicht dazu.*
+
+## Schutzstufe geprüft 2026-08-13
+
+**C bestätigt.** IBAN + Unterschrift ermöglichen Lastschriftmissbrauch; `dstore-bankverbindung`
+steht mit 21 Verwendungen auf C, das Mandat kann nicht darunter liegen.
+
+Geprüft im Rahmen der Schutzstufendurchsicht Los 3 (Amt 20). Vorschlag:
+`_output/vvt-datenspeicher-laeufe/VORSCHLAG-2026-08-13-los3-amt20-korrigiert.md`.

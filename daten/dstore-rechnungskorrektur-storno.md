@@ -18,7 +18,9 @@ klassifizierung:
   bsi-verfuegbarkeit: normal
   bsi-schutzbedarf: hoch
   rechtsgrundlagen:
-  - gesetz: ERechV
+  - gesetz: NDIG
+    artikel: § 6 Abs. 3 i. V. m. § 3 Abs. 6
+  - gesetz: NERechVO
   aufbewahrung:
     frist: prozessabhängig
     beginn: nach Verfahrensabschluss
@@ -69,4 +71,13 @@ widersprach den Werten im Frontmatter dieser Datei. Der Baustein war am 2026-08-
 eingesetzt worden, ohne ihn an die tatsächlichen Werte anzupassen — in 105 Dateien.
 **Die Werte selbst wurden nicht geändert**; maßgeblich ist das Frontmatter, und die
 Kettenprüfung E3 rechnet mit ihm.
+
+## Schutzstufe geprüft 2026-08-13
+
+**C bestätigt.** Der Korrekturgrund („Leistung mangelhaft") berührt den Ruf eines
+Auftragnehmers; Ursprungsrechnung und Betrag berühren die wirtschaftlichen Verhältnisse.
+Rechtsgrundlage: § 6 Abs. 3 NDIG i. V. m. NERechVO (statt ERechV, korrigiert).
+
+Geprüft im Rahmen der Schutzstufendurchsicht Los 3 (Amt 20). Vorschlag:
+`_output/vvt-datenspeicher-laeufe/VORSCHLAG-2026-08-13-los3-amt20-korrigiert.md`.
 

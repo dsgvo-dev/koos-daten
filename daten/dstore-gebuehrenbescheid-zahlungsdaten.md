@@ -87,3 +87,12 @@ Zuständige OE, Klassifizierung und BPMN-Typ sind heuristisch vorbelegt und soll
 **Verfügbarkeit hoch.** Der Speicher wird in so vielen Verfahren geführt, dass ein Ausfall nicht ein Verfahren verzögert, sondern den Publikumsverkehr insgesamt zum Erliegen bringt. Das ist der Maßstab des BSI: erhebliche Beeinträchtigung der Aufgabenerfüllung.
 
 16 Verwendungen. Kassengeschäft und Vollstreckung setzen den Zugriff voraus.
+
+## Schutzstufe geprüft 2026-08-13
+
+**C bestätigt.** Zahlungsstatus berührt wirtschaftliche Verhältnisse (16 Verwendungen).
+Eine Anhebung auf D wurde geprüft und verworfen: Die Verarbeitungen mit sensiblerem Kontext
+(vvt-51-015, vvt-32-020) führen eigene D-Speicher.
+
+Geprüft im Rahmen der Schutzstufendurchsicht Los 3 (Amt 20). Vorschlag:
+`_output/vvt-datenspeicher-laeufe/VORSCHLAG-2026-08-13-los3-amt20-korrigiert.md`.
