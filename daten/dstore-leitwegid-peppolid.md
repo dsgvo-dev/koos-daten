@@ -10,7 +10,6 @@ bpmn:
   typ: datenspeicher
 klassifizierung:
   # Datenschutz -- Schaden fuer die betroffene Person (LfD-Schutzstufenkonzept, SDM)
-  schutzstufe: C
   schutzbedarf: hoch
   vertraulichkeitsklasse: vertraulich
   # Informationssicherheit -- Schaden fuer die Institution und die Aufgabenerfuellung (BSI)
@@ -105,26 +104,20 @@ nichts zu bemessen.
 Kommune, nicht eine Person: Eine verfälschte Kennung leitet Rechnungen fehl. Die Integrität
 steht deshalb seit dem 2026-08-04 auf `hoch`, und das bleibt so.
 
-## Warum die Schutzstufe trotzdem noch dasteht
+## Schutzstufe entfernt (2026-08-13)
 
-`klassifizierung.schutzstufe` bleibt vorerst auf **C** — nicht weil sie zutrifft, sondern
-weil sie derzeit nicht folgenlos entfernt werden kann:
+`klassifizierung.schutzstufe` ist ersatzlos entfernt — die Bedingung dafür ist erfüllt:
 
-`besonderheiten_generator.py` liest eine fehlende Schutzstufe als **`A`** und würde diesen
-Speicher damit stillschweigend als niedrigste Stufe mitrechnen, statt ihn zu übergehen. Das
-ist derselbe Mechanismus, der am 2026-08-10 die gesamte Ableitungskette auf A gezogen hat.
-Der Befund dazu:
-`documentation/BEFUND-2026-08-12-default-schutzstufe-A-im-generator.md`.
+Der A-Default in `besonderheiten_generator.py` ist beseitigt (ADR 011). Der Generator wertet
+`personenbezug` jetzt aus und übergeht diesen Speicher für das Schutzstufen-Maximum. Die
+effektive Stufe von `vvt-20-004` bleibt C — sie wird von den übrigen neun personenbezogenen
+Datenspeichern getragen.
 
-Die Stufe wird entfernt, sobald dieser Default beseitigt ist. Bis dahin ist sie ohne
-praktische Wirkung: Alle elf Datenspeicher der `vvt-20-004` stehen auf C, die effektive Stufe
-der Verarbeitung bleibt in jedem Fall C.
+## Das Feld `personenbezug`
 
-## Das neue Feld `personenbezug`
-
-`personenbezug: nein` ist am 2026-08-12 neu eingeführt worden und **wird von keinem Skript
-ausgewertet**. Es hält die fachliche Feststellung fest, damit sie nicht bei der nächsten
-Durchsicht erneut erarbeitet werden muss. Fehlt das Feld, ist damit **keine** Aussage
-verbunden — der übrige Bestand ist auf diese Frage nicht durchgesehen.
+`personenbezug: nein` ist am 2026-08-12 festgestellt worden. Seit dem 2026-08-13 (ADR 011)
+wird das Feld von `besonderheiten_generator.py`, `kettenpruefung.py` (E7), `kontextpruefung.py`
+und `katalog_generator.py` ausgewertet: Ein Speicher mit `personenbezug: nein` trägt keine
+Schutzstufe (Achse 1 entfällt); seine BSI-Vektoren bleiben unverändert wirksam.
 
 *Festgestellt bei der Schutzstufendurchsicht Los 3 (Amt 20) am 2026-08-12. Der Speicher bleibt als Datenspeicher bestehen.*
