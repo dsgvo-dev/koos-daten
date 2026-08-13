@@ -1,0 +1,2998 @@
+{
+  "vvt-1-001": {
+    "titel": "Repräsentative Veranstaltungen des Hauptverwaltungsbeamten (Ehrungen, Auszeichnungen, Empfänge, Glückwünsche, Kondolenzen)",
+    "organisationseinheit": "oe-hvb",
+    "verfahren_vertraulich": false,
+    "fallgruppe": null,
+    "effektive_schutzstufe": "D",
+    "datenspeicher": [
+      "dstore-personenstammdaten",
+      "dstore-kontaktdaten",
+      "dstore-ehrenamtsdaten",
+      "dstore-bild-und-tonaufnahmen",
+      "dstore-einwilligung-widerruf",
+      "dstore-veranstaltungsteilnahme"
+    ]
+  },
+  "vvt-1-1-001": {
+    "titel": "Projekt- und Prozessmanagement (interne Steuerung, Kommunikation, Dokumentation)",
+    "organisationseinheit": "oe-amt-1-1",
+    "verfahren_vertraulich": false,
+    "fallgruppe": null,
+    "effektive_schutzstufe": "C",
+    "datenspeicher": [
+      "dstore-personenstammdaten",
+      "dstore-kontaktdaten",
+      "dstore-sitzungsprotokoll"
+    ]
+  },
+  "vvt-1-1-002": {
+    "titel": "Bürgerbeteiligung, Beschwerden und Petitionen",
+    "organisationseinheit": "oe-amt-1-1",
+    "verfahren_vertraulich": true,
+    "fallgruppe": "beschwerde",
+    "effektive_schutzstufe": "D",
+    "datenspeicher": [
+      "dstore-beschwerde-anregungsdaten",
+      "dstore-personenstammdaten-vertraulich",
+      "dstore-kontaktdaten-vertraulich",
+      "dstore-verwaltungsakte-vertraulich",
+      "dstore-sitzungsprotokoll",
+      "dstore-bescheid"
+    ]
+  },
+  "vvt-1-1-003": {
+    "titel": "Rats- und Bürgerinformationssystem und Sitzungsmanagement",
+    "organisationseinheit": "oe-amt-1-1",
+    "verfahren_vertraulich": false,
+    "fallgruppe": null,
+    "effektive_schutzstufe": "C",
+    "datenspeicher": [
+      "dstore-sitzungsprotokoll",
+      "dstore-verwaltungsakte",
+      "dstore-bild-und-tonaufnahmen"
+    ]
+  },
+  "vvt-1-1-005": {
+    "titel": "Städtepartnerschaften und interkommunale Kooperationen",
+    "organisationseinheit": "oe-amt-1-1",
+    "verfahren_vertraulich": false,
+    "fallgruppe": null,
+    "effektive_schutzstufe": "C",
+    "datenspeicher": [
+      "dstore-kontaktdaten",
+      "dstore-verwaltungsakte",
+      "dstore-bild-und-tonaufnahmen"
+    ]
+  },
+  "vvt-1-1-007": {
+    "titel": "Öffentliche Bekanntmachungen und Verkündung von Ortsrecht",
+    "organisationseinheit": "oe-amt-1-1",
+    "verfahren_vertraulich": false,
+    "fallgruppe": null,
+    "effektive_schutzstufe": "C",
+    "datenspeicher": [
+      "dstore-verwaltungsakte",
+      "dstore-bescheid"
+    ]
+  },
+  "vvt-1-2-001": {
+    "titel": "Beratung und Aufgabenwahrnehmung der Gleichstellungsbeauftragten (Kontaktformular, Beratung, Vernetzung, Vermittlung von Hilfsangeboten)",
+    "organisationseinheit": "oe-amt-1-2",
+    "verfahren_vertraulich": true,
+    "fallgruppe": "beratung",
+    "effektive_schutzstufe": "E",
+    "datenspeicher": [
+      "dstore-personenstammdaten-vertraulich",
+      "dstore-kontaktdaten-vertraulich",
+      "dstore-staatsangehoerigkeit",
+      "dstore-lebenslauf-qualifikationsnachweis-vertraulich",
+      "dstore-gesundheitsdaten",
+      "dstore-beschwerde-anregungsdaten",
+      "dstore-arbeitsverhaeltnis-beschaeftigung",
+      "dstore-schutzbeduerftigkeitskennzeichen"
+    ]
+  },
+  "vvt-10-001": {
+    "titel": "Europawahl",
+    "organisationseinheit": "oe-amt-10",
+    "verfahren_vertraulich": false,
+    "fallgruppe": null,
+    "effektive_schutzstufe": "C",
+    "datenspeicher": [
+      "dstore-personenstammdaten",
+      "dstore-kontaktdaten",
+      "dstore-meldeadresse-wohnsitz",
+      "dstore-bankverbindung",
+      "dstore-ehrenamtsdaten",
+      "dstore-wahlunterlagen"
+    ]
+  },
+  "vvt-10-002": {
+    "titel": "Alters- und Ehejubiläum",
+    "organisationseinheit": "oe-amt-10",
+    "verfahren_vertraulich": false,
+    "fallgruppe": null,
+    "effektive_schutzstufe": "C",
+    "datenspeicher": [
+      "dstore-personenstammdaten",
+      "dstore-meldedaten",
+      "dstore-meldeadresse-wohnsitz",
+      "dstore-familienstand-ehebezug",
+      "dstore-uebermittlungssperre-melderegister"
+    ]
+  },
+  "vvt-10-003": {
+    "titel": "Seniorenbeiratswahl",
+    "organisationseinheit": "oe-amt-10",
+    "verfahren_vertraulich": false,
+    "fallgruppe": null,
+    "effektive_schutzstufe": "C",
+    "datenspeicher": [
+      "dstore-personenstammdaten",
+      "dstore-kontaktdaten",
+      "dstore-meldedaten",
+      "dstore-ehrenamtsdaten",
+      "dstore-wahlunterlagen"
+    ]
+  },
+  "vvt-10-004": {
+    "titel": "Ehrungen",
+    "organisationseinheit": "oe-amt-10",
+    "verfahren_vertraulich": false,
+    "fallgruppe": null,
+    "effektive_schutzstufe": "D",
+    "datenspeicher": [
+      "dstore-personenstammdaten",
+      "dstore-ehrenamtsdaten",
+      "dstore-bild-und-tonaufnahmen",
+      "dstore-einwilligung-widerruf"
+    ]
+  },
+  "vvt-10-005": {
+    "titel": "Förderungen und Zuwendungen",
+    "organisationseinheit": "oe-amt-10",
+    "verfahren_vertraulich": false,
+    "fallgruppe": null,
+    "effektive_schutzstufe": "C",
+    "datenspeicher": [
+      "dstore-personenstammdaten",
+      "dstore-kontaktdaten",
+      "dstore-unternehmens-und-registerdaten",
+      "dstore-bankverbindung",
+      "dstore-foerderantrag"
+    ]
+  },
+  "vvt-10-006": {
+    "titel": "Bundestagswahl",
+    "organisationseinheit": "oe-amt-10",
+    "verfahren_vertraulich": false,
+    "fallgruppe": null,
+    "effektive_schutzstufe": "C",
+    "datenspeicher": [
+      "dstore-personenstammdaten",
+      "dstore-kontaktdaten",
+      "dstore-meldeadresse-wohnsitz",
+      "dstore-bankverbindung",
+      "dstore-ehrenamtsdaten",
+      "dstore-wahlunterlagen"
+    ]
+  },
+  "vvt-10-007": {
+    "titel": "Landtagswahl",
+    "organisationseinheit": "oe-amt-10",
+    "verfahren_vertraulich": false,
+    "fallgruppe": null,
+    "effektive_schutzstufe": "C",
+    "datenspeicher": [
+      "dstore-personenstammdaten",
+      "dstore-kontaktdaten",
+      "dstore-meldeadresse-wohnsitz",
+      "dstore-bankverbindung",
+      "dstore-ehrenamtsdaten",
+      "dstore-wahlunterlagen"
+    ]
+  },
+  "vvt-10-008": {
+    "titel": "Kommunalwahl",
+    "organisationseinheit": "oe-amt-10",
+    "verfahren_vertraulich": false,
+    "fallgruppe": null,
+    "effektive_schutzstufe": "C",
+    "datenspeicher": [
+      "dstore-personenstammdaten",
+      "dstore-kontaktdaten",
+      "dstore-meldeadresse-wohnsitz",
+      "dstore-bankverbindung",
+      "dstore-ehrenamtsdaten",
+      "dstore-wahlunterlagen"
+    ]
+  },
+  "vvt-10-009": {
+    "titel": "Öffentliche Vergabe",
+    "organisationseinheit": "oe-amt-10",
+    "verfahren_vertraulich": false,
+    "fallgruppe": null,
+    "effektive_schutzstufe": "D",
+    "datenspeicher": [
+      "dstore-personenstammdaten",
+      "dstore-unternehmens-und-registerdaten",
+      "dstore-lebenslauf-qualifikationsnachweis",
+      "dstore-vergabeunterlagen",
+      "dstore-vergabe-auftragsbezug",
+      "dstore-bankverbindung",
+      "dstore-fuehrungszeugnis",
+      "dstore-register-und-zuverlaessigkeitsauskuenfte"
+    ]
+  },
+  "vvt-10-010": {
+    "titel": "Schadensmeldungen",
+    "organisationseinheit": "oe-amt-10",
+    "verfahren_vertraulich": false,
+    "fallgruppe": null,
+    "effektive_schutzstufe": "D",
+    "datenspeicher": [
+      "dstore-personenstammdaten",
+      "dstore-kontaktdaten",
+      "dstore-bankverbindung",
+      "dstore-kfz-daten",
+      "dstore-gesundheitsdaten",
+      "dstore-sicherheitsmangelmeldung",
+      "dstore-verwaltungsakte"
+    ]
+  },
+  "vvt-10-011": {
+    "titel": "Verwaltung von Ehrenamtlichen",
+    "organisationseinheit": "oe-amt-10",
+    "verfahren_vertraulich": false,
+    "fallgruppe": null,
+    "effektive_schutzstufe": "D",
+    "datenspeicher": [
+      "dstore-personenstammdaten",
+      "dstore-kontaktdaten",
+      "dstore-ehrenamtsdaten",
+      "dstore-lebenslauf-qualifikationsnachweis",
+      "dstore-datenschutzeinweisung",
+      "dstore-fuehrungszeugnis",
+      "dstore-bankverbindung"
+    ]
+  },
+  "vvt-10-012": {
+    "titel": "Veranstaltungsmanagement",
+    "organisationseinheit": "oe-amt-10",
+    "verfahren_vertraulich": false,
+    "fallgruppe": null,
+    "effektive_schutzstufe": "D",
+    "datenspeicher": [
+      "dstore-personenstammdaten",
+      "dstore-kontaktdaten",
+      "dstore-termin-und-vorsprachedaten",
+      "dstore-bild-und-tonaufnahmen",
+      "dstore-vergabe-auftragsbezug",
+      "dstore-verwaltungsakte"
+    ]
+  },
+  "vvt-10-013": {
+    "titel": "Livestreaming der Vertretung",
+    "organisationseinheit": "oe-amt-10",
+    "verfahren_vertraulich": false,
+    "fallgruppe": null,
+    "effektive_schutzstufe": "C",
+    "datenspeicher": [
+      "dstore-bild-und-tonaufnahmen",
+      "dstore-personenstammdaten",
+      "dstore-sitzungsprotokoll"
+    ]
+  },
+  "vvt-10-014": {
+    "titel": "Sitzungsmanagement der Vertretung",
+    "organisationseinheit": "oe-amt-10",
+    "verfahren_vertraulich": false,
+    "fallgruppe": null,
+    "effektive_schutzstufe": "D",
+    "datenspeicher": [
+      "dstore-personenstammdaten",
+      "dstore-kontaktdaten",
+      "dstore-sitzungsprotokoll",
+      "dstore-mandatstraeger-parteizugehoerigkeit"
+    ]
+  },
+  "vvt-10-015": {
+    "titel": "Abrechnung der Sitzungsgelder der Vertretung",
+    "organisationseinheit": "oe-amt-10",
+    "verfahren_vertraulich": false,
+    "fallgruppe": null,
+    "effektive_schutzstufe": "D",
+    "datenspeicher": [
+      "dstore-personenstammdaten",
+      "dstore-kontaktdaten",
+      "dstore-bankverbindung",
+      "dstore-steuerdaten",
+      "dstore-abrechnungsdaten",
+      "dstore-sitzungsprotokoll",
+      "dstore-ehrenamtsdaten"
+    ]
+  },
+  "vvt-10-016": {
+    "titel": "Newsletter",
+    "organisationseinheit": "oe-amt-10",
+    "verfahren_vertraulich": false,
+    "fallgruppe": null,
+    "effektive_schutzstufe": "D",
+    "datenspeicher": [
+      "dstore-kontaktdaten",
+      "dstore-personenstammdaten",
+      "dstore-einwilligung-widerruf"
+    ]
+  },
+  "vvt-10-017": {
+    "titel": "Spenden",
+    "organisationseinheit": "oe-amt-10",
+    "verfahren_vertraulich": false,
+    "fallgruppe": null,
+    "effektive_schutzstufe": "C",
+    "datenspeicher": [
+      "dstore-personenstammdaten",
+      "dstore-kontaktdaten",
+      "dstore-bankverbindung",
+      "dstore-steuerdaten",
+      "dstore-bescheinigung",
+      "dstore-spende-zuwendung"
+    ]
+  },
+  "vvt-10-018": {
+    "titel": "Allgemeine Anfragen",
+    "organisationseinheit": "oe-amt-10",
+    "verfahren_vertraulich": false,
+    "fallgruppe": null,
+    "effektive_schutzstufe": "D",
+    "datenspeicher": [
+      "dstore-personenstammdaten",
+      "dstore-kontaktdaten",
+      "dstore-beschwerde-anregungsdaten"
+    ]
+  },
+  "vvt-10-019": {
+    "titel": "Ideen- und Beschwerdenmanagement",
+    "organisationseinheit": "oe-amt-10",
+    "verfahren_vertraulich": true,
+    "fallgruppe": "beschwerde",
+    "effektive_schutzstufe": "D",
+    "datenspeicher": [
+      "dstore-beschwerde-anregungsdaten",
+      "dstore-personenstammdaten-vertraulich",
+      "dstore-kontaktdaten-vertraulich",
+      "dstore-verwaltungsakte-vertraulich"
+    ]
+  },
+  "vvt-10-020": {
+    "titel": "Kontaktdaten allgemein",
+    "organisationseinheit": "oe-amt-10",
+    "verfahren_vertraulich": false,
+    "fallgruppe": null,
+    "effektive_schutzstufe": "C",
+    "datenspeicher": [
+      "dstore-kontaktdaten",
+      "dstore-personenstammdaten",
+      "dstore-adresse"
+    ]
+  },
+  "vvt-10-022": {
+    "titel": "Schöffenwahl",
+    "organisationseinheit": "oe-amt-10",
+    "verfahren_vertraulich": false,
+    "fallgruppe": null,
+    "effektive_schutzstufe": "C",
+    "datenspeicher": [
+      "dstore-personenstammdaten",
+      "dstore-kontaktdaten",
+      "dstore-meldedaten",
+      "dstore-ehrenamtsdaten",
+      "dstore-sitzungsprotokoll",
+      "dstore-verwaltungsakte"
+    ]
+  },
+  "vvt-10-023": {
+    "titel": "Data Breach Management (Art. 33, 34 DSGVO)",
+    "organisationseinheit": "oe-amt-10",
+    "verfahren_vertraulich": false,
+    "fallgruppe": null,
+    "effektive_schutzstufe": "D",
+    "datenspeicher": [
+      "dstore-sicherheitsmangelmeldung",
+      "dstore-hinweismeldung"
+    ]
+  },
+  "vvt-10-024": {
+    "titel": "Aktenvernichtung und geordnete Löschung",
+    "organisationseinheit": "oe-amt-10",
+    "verfahren_vertraulich": false,
+    "fallgruppe": null,
+    "effektive_schutzstufe": "C",
+    "datenspeicher": [
+      "dstore-verwaltungsakte"
+    ]
+  },
+  "vvt-10-025": {
+    "titel": "Bestellanforderung (Büromaterial, Investitionen, Dienstleistungen)",
+    "organisationseinheit": "oe-amt-10",
+    "verfahren_vertraulich": false,
+    "fallgruppe": null,
+    "effektive_schutzstufe": "C",
+    "datenspeicher": [
+      "dstore-vergabe-auftragsbezug",
+      "dstore-rechnungsdaten",
+      "dstore-debitoren-kreditorendaten"
+    ]
+  },
+  "vvt-10-026": {
+    "titel": "Brandschutz und Evakuierung (intern)",
+    "organisationseinheit": "oe-amt-10",
+    "verfahren_vertraulich": false,
+    "fallgruppe": null,
+    "effektive_schutzstufe": "C",
+    "datenspeicher": [
+      "dstore-brandschutznachweis",
+      "dstore-feuerwehrzufahrt-aufstellflaechen"
+    ]
+  },
+  "vvt-10-027": {
+    "titel": "Schlüsselverwaltung und Schließanlagen",
+    "organisationseinheit": "oe-amt-10",
+    "verfahren_vertraulich": false,
+    "fallgruppe": null,
+    "effektive_schutzstufe": "B",
+    "datenspeicher": [
+      "dstore-schluesselverwaltung"
+    ]
+  },
+  "vvt-10-028": {
+    "titel": "Störungsmanagement Haustechnik",
+    "organisationseinheit": "oe-amt-10",
+    "verfahren_vertraulich": false,
+    "fallgruppe": null,
+    "effektive_schutzstufe": "D",
+    "datenspeicher": [
+      "dstore-sicherheitsmangelmeldung",
+      "dstore-beschwerde-anregungsdaten"
+    ]
+  },
+  "vvt-11-001": {
+    "titel": "Bewerbungsverfahren",
+    "organisationseinheit": "oe-amt-11",
+    "verfahren_vertraulich": true,
+    "fallgruppe": "bewerbung",
+    "effektive_schutzstufe": "D",
+    "datenspeicher": [
+      "dstore-personenstammdaten-vertraulich",
+      "dstore-staatsangehoerigkeit",
+      "dstore-bewerbungsunterlagen",
+      "dstore-lebenslauf-qualifikationsnachweis-vertraulich",
+      "dstore-schwerbehindertennachweis",
+      "dstore-gesundheitsdaten",
+      "dstore-fuehrungszeugnis"
+    ]
+  },
+  "vvt-11-002": {
+    "titel": "Arbeits- und Dienstverhältnisse",
+    "organisationseinheit": "oe-amt-11",
+    "verfahren_vertraulich": true,
+    "fallgruppe": "bewerbung",
+    "effektive_schutzstufe": "D",
+    "datenspeicher": [
+      "dstore-personenstammdaten-vertraulich",
+      "dstore-personalakte",
+      "dstore-arbeitsverhaeltnis-beschaeftigung",
+      "dstore-familienstand-ehebezug",
+      "dstore-bankverbindung-vertraulich",
+      "dstore-kindergeldbezug",
+      "dstore-einkommens-und-leistungsdaten",
+      "dstore-lebenslauf-qualifikationsnachweis-vertraulich",
+      "dstore-gesundheitsdaten",
+      "dstore-schwerbehindertennachweis",
+      "dstore-disziplinarvorgang",
+      "dstore-datenschutzeinweisung",
+      "dstore-it-berechtigungsantrag"
+    ]
+  },
+  "vvt-11-003": {
+    "titel": "Urlaubsverwaltung",
+    "organisationseinheit": "oe-amt-11",
+    "verfahren_vertraulich": false,
+    "fallgruppe": null,
+    "effektive_schutzstufe": "D",
+    "datenspeicher": [
+      "dstore-urlaubs-und-abwesenheitsdaten",
+      "dstore-personalakte",
+      "dstore-arbeitsverhaeltnis-beschaeftigung",
+      "dstore-schwerbehindertennachweis"
+    ]
+  },
+  "vvt-11-004": {
+    "titel": "Zeiterfassung",
+    "organisationseinheit": "oe-amt-11",
+    "verfahren_vertraulich": false,
+    "fallgruppe": null,
+    "effektive_schutzstufe": "D",
+    "datenspeicher": [
+      "dstore-arbeitszeitaufzeichnung",
+      "dstore-urlaubs-und-abwesenheitsdaten",
+      "dstore-arbeitsverhaeltnis-beschaeftigung"
+    ]
+  },
+  "vvt-11-005": {
+    "titel": "Sitzungsvorlagen Personalrat",
+    "organisationseinheit": "oe-amt-11",
+    "verfahren_vertraulich": false,
+    "fallgruppe": null,
+    "effektive_schutzstufe": "D",
+    "datenspeicher": [
+      "dstore-personalratsvorlage",
+      "dstore-personalakte",
+      "dstore-bewerbungsunterlagen",
+      "dstore-arbeitsverhaeltnis-beschaeftigung"
+    ]
+  },
+  "vvt-11-006": {
+    "titel": "Betreuung von Praktikant*innen und Auszubildenden",
+    "organisationseinheit": "oe-amt-11",
+    "verfahren_vertraulich": false,
+    "fallgruppe": null,
+    "effektive_schutzstufe": "D",
+    "datenspeicher": [
+      "dstore-personenstammdaten",
+      "dstore-kontaktdaten",
+      "dstore-lebenslauf-qualifikationsnachweis",
+      "dstore-schulbesuch-ausbildungsstatus",
+      "dstore-arbeitsverhaeltnis-beschaeftigung",
+      "dstore-abrechnungsdaten",
+      "dstore-bankverbindung",
+      "dstore-gesundheitsdaten"
+    ]
+  },
+  "vvt-11-007": {
+    "titel": "Dienstaufsichtsbeschwerden",
+    "organisationseinheit": "oe-amt-11",
+    "verfahren_vertraulich": true,
+    "fallgruppe": "bewerbung",
+    "effektive_schutzstufe": "D",
+    "datenspeicher": [
+      "dstore-beschwerde-anregungsdaten",
+      "dstore-personalakte",
+      "dstore-verwaltungsakte-vertraulich"
+    ]
+  },
+  "vvt-11-008": {
+    "titel": "Krankmeldung (Arbeitsunfähigkeit, eAU)",
+    "organisationseinheit": "oe-amt-11",
+    "verfahren_vertraulich": false,
+    "fallgruppe": null,
+    "effektive_schutzstufe": "D",
+    "datenspeicher": [
+      "dstore-arbeitsunfaehigkeit-krankheit",
+      "dstore-urlaubs-und-abwesenheitsdaten"
+    ]
+  },
+  "vvt-11-009": {
+    "titel": "Betriebliches Eingliederungsmanagement (BEM)",
+    "organisationseinheit": "oe-amt-11",
+    "verfahren_vertraulich": false,
+    "fallgruppe": null,
+    "effektive_schutzstufe": "D",
+    "datenspeicher": [
+      "dstore-arbeitsunfaehigkeit-krankheit"
+    ]
+  },
+  "vvt-11-010": {
+    "titel": "Dienstreisen (Antrag, Genehmigung, Abrechnung)",
+    "organisationseinheit": "oe-amt-11",
+    "verfahren_vertraulich": false,
+    "fallgruppe": null,
+    "effektive_schutzstufe": "D",
+    "datenspeicher": [
+      "dstore-urlaubs-und-abwesenheitsdaten",
+      "dstore-aufwandsentschaedigung-ehrenamt"
+    ]
+  },
+  "vvt-11-011": {
+    "titel": "Dienstwagennutzung (Poolfahrzeuge)",
+    "organisationseinheit": "oe-amt-11",
+    "verfahren_vertraulich": false,
+    "fallgruppe": null,
+    "effektive_schutzstufe": "D",
+    "datenspeicher": [
+      "dstore-fahrzeugnutzungserklaerung",
+      "dstore-termin-und-vorsprachedaten"
+    ]
+  },
+  "vvt-11-012": {
+    "titel": "Fortbildung (Organisation und Teilnahmenachweis)",
+    "organisationseinheit": "oe-amt-11",
+    "verfahren_vertraulich": false,
+    "fallgruppe": null,
+    "effektive_schutzstufe": "D",
+    "datenspeicher": [
+      "dstore-personalakte",
+      "dstore-lebenslauf-qualifikationsnachweis"
+    ]
+  },
+  "vvt-11-013": {
+    "titel": "Gefährdungsbeurteilung (Arbeitsschutz)",
+    "organisationseinheit": "oe-amt-11",
+    "verfahren_vertraulich": false,
+    "fallgruppe": null,
+    "effektive_schutzstufe": "D",
+    "datenspeicher": [
+      "dstore-ausbildungsnachweis-station",
+      "dstore-arbeitsunfaehigkeit-krankheit"
+    ]
+  },
+  "vvt-12-002": {
+    "titel": "Kommunalstatistik",
+    "organisationseinheit": "oe-amt-12",
+    "verfahren_vertraulich": false,
+    "fallgruppe": null,
+    "effektive_schutzstufe": "D",
+    "datenspeicher": [
+      "dstore-meldedaten",
+      "dstore-personenstammdaten",
+      "dstore-staatsangehoerigkeit"
+    ]
+  },
+  "vvt-15-001": {
+    "titel": "Videokonferenzen mit Beschäftigten",
+    "organisationseinheit": "oe-amt-15",
+    "verfahren_vertraulich": false,
+    "fallgruppe": null,
+    "effektive_schutzstufe": "C",
+    "datenspeicher": [
+      "dstore-bild-und-tonaufnahmen",
+      "dstore-kontaktdaten"
+    ]
+  },
+  "vvt-15-002": {
+    "titel": "Nutzung des Chatbots",
+    "organisationseinheit": "oe-amt-15",
+    "verfahren_vertraulich": false,
+    "fallgruppe": null,
+    "effektive_schutzstufe": "D",
+    "datenspeicher": [
+      "dstore-chatverlauf-freitext",
+      "dstore-technische-nutzungsdaten-webangebot",
+      "dstore-einwilligung-widerruf"
+    ]
+  },
+  "vvt-15-003": {
+    "titel": "Registrierung und Nutzung des Geodatenportals",
+    "organisationseinheit": "oe-amt-15",
+    "verfahren_vertraulich": false,
+    "fallgruppe": null,
+    "effektive_schutzstufe": "C",
+    "datenspeicher": [
+      "dstore-servicekonto-nutzeridentitaet",
+      "dstore-lageplan-geobasisdaten",
+      "dstore-flur-flurstueck-lagebezeichnung",
+      "dstore-rechnungsdaten"
+    ]
+  },
+  "vvt-15-004": {
+    "titel": "Einführung von IT-Verfahren (Beschaffung, Prüfung, Freigabe)",
+    "organisationseinheit": "oe-amt-15",
+    "verfahren_vertraulich": false,
+    "fallgruppe": null,
+    "effektive_schutzstufe": "C",
+    "datenspeicher": [
+      "dstore-it-berechtigungsantrag",
+      "dstore-datenschutzeinweisung",
+      "dstore-vergabe-auftragsbezug"
+    ]
+  },
+  "vvt-15-005": {
+    "titel": "IT-Störungsmanagement",
+    "organisationseinheit": "oe-amt-15",
+    "verfahren_vertraulich": false,
+    "fallgruppe": null,
+    "effektive_schutzstufe": "C",
+    "datenspeicher": [
+      "dstore-it-berechtigungsantrag",
+      "dstore-sicherheitsmangelmeldung"
+    ]
+  },
+  "vvt-15-006": {
+    "titel": "Raumbuchung (Sitzungszimmer, Besprechungsräume)",
+    "organisationseinheit": "oe-amt-15",
+    "verfahren_vertraulich": false,
+    "fallgruppe": null,
+    "effektive_schutzstufe": "D",
+    "datenspeicher": [
+      "dstore-termin-und-vorsprachedaten",
+      "dstore-kontaktdaten"
+    ]
+  },
+  "vvt-20-001": {
+    "titel": "Onlinebezahlverfahren",
+    "organisationseinheit": "oe-amt-20",
+    "verfahren_vertraulich": false,
+    "fallgruppe": null,
+    "effektive_schutzstufe": "C",
+    "datenspeicher": [
+      "dstore-kassenzeichen-buchungsreferenz",
+      "dstore-gebuehrenbescheid-zahlungsdaten"
+    ]
+  },
+  "vvt-20-003": {
+    "titel": "Verwahrung sichergestellter Gegenstände",
+    "organisationseinheit": "oe-amt-20",
+    "verfahren_vertraulich": true,
+    "fallgruppe": "ordnungswidrigkeit",
+    "effektive_schutzstufe": "D",
+    "datenspeicher": [
+      "dstore-verwahrgut-sicherstellung",
+      "dstore-personenstammdaten-vertraulich",
+      "dstore-forderungstitel-vollstreckung"
+    ]
+  },
+  "vvt-20-004": {
+    "titel": "Verarbeiten und Begleichen von Rechnungen",
+    "organisationseinheit": "oe-amt-20",
+    "verfahren_vertraulich": false,
+    "fallgruppe": null,
+    "effektive_schutzstufe": "C",
+    "datenspeicher": [
+      "dstore-personenstammdaten",
+      "dstore-debitoren-kreditorendaten",
+      "dstore-bankverbindung",
+      "dstore-rechnungsdaten",
+      "dstore-steuerdaten",
+      "dstore-vergabe-auftragsbezug",
+      "dstore-zahlungsziel-faelligkeit",
+      "dstore-elektronische-rechnungsstellung",
+      "dstore-leitwegid-peppolid",
+      "dstore-rechnungsadressierung-kommune",
+      "dstore-rechnungskorrektur-storno"
+    ]
+  },
+  "vvt-20-006": {
+    "titel": "Buchen von Finanzvorfällen",
+    "organisationseinheit": "oe-amt-20",
+    "verfahren_vertraulich": false,
+    "fallgruppe": null,
+    "effektive_schutzstufe": "C",
+    "datenspeicher": [
+      "dstore-personenstammdaten",
+      "dstore-bankverbindung",
+      "dstore-kassenzeichen-buchungsreferenz"
+    ]
+  },
+  "vvt-21-001": {
+    "titel": "Vollstreckung von Forderungen",
+    "organisationseinheit": "oe-amt-21",
+    "verfahren_vertraulich": true,
+    "fallgruppe": "vollstreckung",
+    "effektive_schutzstufe": "D",
+    "datenspeicher": [
+      "dstore-personenstammdaten-vertraulich",
+      "dstore-kontaktdaten-vertraulich",
+      "dstore-forderungstitel-vollstreckung",
+      "dstore-mahn-vollstreckungsstatus",
+      "dstore-pfaendung-drittschuldnerdaten",
+      "dstore-einkommensdaten",
+      "dstore-bankverbindung-vertraulich"
+    ]
+  },
+  "vvt-22-001": {
+    "titel": "Abwicklung Zahlungsverkehr und Vollstreckung",
+    "organisationseinheit": "oe-amt-22",
+    "verfahren_vertraulich": true,
+    "fallgruppe": "vollstreckung",
+    "effektive_schutzstufe": "D",
+    "datenspeicher": [
+      "dstore-person",
+      "dstore-bankverbindung-vertraulich",
+      "dstore-pfaendung-drittschuldnerdaten",
+      "dstore-forderungstitel-vollstreckung",
+      "dstore-mahn-vollstreckungsstatus"
+    ]
+  },
+  "vvt-22-004": {
+    "titel": "Festsetzung und Erhebung von Steuern und Gebühren",
+    "organisationseinheit": "oe-amt-22",
+    "verfahren_vertraulich": false,
+    "fallgruppe": null,
+    "effektive_schutzstufe": "D",
+    "datenspeicher": [
+      "dstore-person",
+      "dstore-steuerdaten",
+      "dstore-bankverbindung",
+      "dstore-grundsteuerbescheid-eigentum",
+      "dstore-flur-flurstueck-lagebezeichnung",
+      "dstore-gewerbedaten",
+      "dstore-hunderegisterdaten",
+      "dstore-hunderasse-gefaehrlichkeit",
+      "dstore-einkommensdaten",
+      "dstore-gebuehrenbescheid-zahlungsdaten"
+    ]
+  },
+  "vvt-22-005": {
+    "titel": "Beitragserhebung & Stundungen",
+    "organisationseinheit": "oe-amt-22",
+    "verfahren_vertraulich": false,
+    "fallgruppe": null,
+    "effektive_schutzstufe": "D",
+    "datenspeicher": [
+      "dstore-person",
+      "dstore-grundstuecksdaten",
+      "dstore-flur-flurstueck-lagebezeichnung",
+      "dstore-erschliessungsbeitragsdaten",
+      "dstore-einkommensdaten"
+    ]
+  },
+  "vvt-23-001": {
+    "titel": "Verwaltung kommunaler Liegenschaften (Miete und Pacht)",
+    "organisationseinheit": "oe-amt-23",
+    "verfahren_vertraulich": false,
+    "fallgruppe": null,
+    "effektive_schutzstufe": "C",
+    "datenspeicher": [
+      "dstore-personenstammdaten",
+      "dstore-grundstuecksbezug",
+      "dstore-kommunaler-miet-nutzungsvertrag",
+      "dstore-grundstuecks-pachtverhaeltnis",
+      "dstore-bankverbindung"
+    ]
+  },
+  "vvt-23-002": {
+    "titel": "Videoüberwachung",
+    "organisationseinheit": "oe-amt-23",
+    "verfahren_vertraulich": false,
+    "fallgruppe": null,
+    "effektive_schutzstufe": "D",
+    "datenspeicher": [
+      "dstore-videoueberwachungsaufzeichnung"
+    ]
+  },
+  "vvt-23-003": {
+    "titel": "Grundstücksvergabe",
+    "organisationseinheit": "oe-amt-23",
+    "verfahren_vertraulich": false,
+    "fallgruppe": null,
+    "effektive_schutzstufe": "C",
+    "datenspeicher": [
+      "dstore-personenstammdaten",
+      "dstore-grundstuecksbezug",
+      "dstore-kaufvertragsdaten-immobilie"
+    ]
+  },
+  "vvt-23-004": {
+    "titel": "Mietbewerberliste",
+    "organisationseinheit": "oe-amt-23",
+    "verfahren_vertraulich": false,
+    "fallgruppe": null,
+    "effektive_schutzstufe": "D",
+    "datenspeicher": [
+      "dstore-bewerbungsunterlagen",
+      "dstore-wohnberechtigung",
+      "dstore-einkommensnachweise-haushalt",
+      "dstore-wohnungszuordnungsmerkmal"
+    ]
+  },
+  "vvt-23-006": {
+    "titel": "Gemeindliche Vorkaufsrechte",
+    "organisationseinheit": "oe-amt-23",
+    "verfahren_vertraulich": false,
+    "fallgruppe": null,
+    "effektive_schutzstufe": "C",
+    "datenspeicher": [
+      "dstore-personenstammdaten",
+      "dstore-grundstuecksbezug",
+      "dstore-kaufvertragsdaten-immobilie"
+    ]
+  },
+  "vvt-23-007": {
+    "titel": "Vergabe Wohnbaugrundstücke",
+    "organisationseinheit": "oe-amt-23",
+    "verfahren_vertraulich": false,
+    "fallgruppe": null,
+    "effektive_schutzstufe": "C",
+    "datenspeicher": [
+      "dstore-personenstammdaten",
+      "dstore-grundstuecksbezug",
+      "dstore-vergabekriterien-einheimischenmodell"
+    ]
+  },
+  "vvt-23-008": {
+    "titel": "Grundstücksverkehr (An-/Verkauf sonstiger Grundstücke)",
+    "organisationseinheit": "oe-amt-23",
+    "verfahren_vertraulich": false,
+    "fallgruppe": null,
+    "effektive_schutzstufe": "C",
+    "datenspeicher": [
+      "dstore-personenstammdaten",
+      "dstore-grundstuecksdaten",
+      "dstore-flur-flurstueck-lagebezeichnung",
+      "dstore-kaufvertragsdaten-immobilie"
+    ]
+  },
+  "vvt-23-009": {
+    "titel": "Grundstücksverkehr (An-/Verkauf von Verkehrsflächen)",
+    "organisationseinheit": "oe-amt-23",
+    "verfahren_vertraulich": false,
+    "fallgruppe": null,
+    "effektive_schutzstufe": "C",
+    "datenspeicher": [
+      "dstore-personenstammdaten",
+      "dstore-grundstuecksdaten",
+      "dstore-kaufvertragsdaten-immobilie"
+    ]
+  },
+  "vvt-30-001": {
+    "titel": "Korruptionsprävention",
+    "organisationseinheit": "oe-amt-30",
+    "verfahren_vertraulich": false,
+    "fallgruppe": null,
+    "effektive_schutzstufe": "D",
+    "datenspeicher": [
+      "dstore-hinweismeldung"
+    ]
+  },
+  "vvt-30-003": {
+    "titel": "Rechts- und Vergabeberatung",
+    "organisationseinheit": "oe-amt-30",
+    "verfahren_vertraulich": false,
+    "fallgruppe": null,
+    "effektive_schutzstufe": "D",
+    "datenspeicher": [
+      "dstore-personenstammdaten",
+      "dstore-kontaktdaten",
+      "dstore-beratungsdokumentation",
+      "dstore-vergabeunterlagen"
+    ]
+  },
+  "vvt-30-004": {
+    "titel": "Prozessführung",
+    "organisationseinheit": "oe-amt-30",
+    "verfahren_vertraulich": true,
+    "fallgruppe": "beschwerde",
+    "effektive_schutzstufe": "D",
+    "datenspeicher": [
+      "dstore-gerichtsverfahren",
+      "dstore-verwaltungsakte-vertraulich"
+    ]
+  },
+  "vvt-30-005": {
+    "titel": "Referendarausbildung",
+    "organisationseinheit": "oe-amt-30",
+    "verfahren_vertraulich": false,
+    "fallgruppe": null,
+    "effektive_schutzstufe": "D",
+    "datenspeicher": [
+      "dstore-ausbildungsnachweis-station",
+      "dstore-personenstammdaten",
+      "dstore-kontaktdaten"
+    ]
+  },
+  "vvt-31-001": {
+    "titel": "Namensänderungsverfahren (öffentlich-rechtlich)",
+    "organisationseinheit": "oe-amt-31",
+    "verfahren_vertraulich": true,
+    "fallgruppe": "beratung",
+    "effektive_schutzstufe": "E",
+    "datenspeicher": [
+      "dstore-personenstammdaten-vertraulich",
+      "dstore-namensaenderungsnachweis",
+      "dstore-geburtsurkunde",
+      "dstore-registerbezug-personenstand",
+      "dstore-namensaenderungsgrund",
+      "dstore-fuehrungszeugnis",
+      "dstore-schutzbeduerftigkeitskennzeichen"
+    ]
+  },
+  "vvt-31-002": {
+    "titel": "Verwaltung von Personenstandsdaten",
+    "organisationseinheit": "oe-amt-31",
+    "verfahren_vertraulich": false,
+    "fallgruppe": null,
+    "effektive_schutzstufe": "D",
+    "datenspeicher": [
+      "dstore-personenstammdaten",
+      "dstore-familienstand-ehebezug",
+      "dstore-personenstand",
+      "dstore-registerbezug-personenstand",
+      "dstore-antragsberechtigung-personenstand",
+      "dstore-geburtsurkunde",
+      "dstore-heiratsurkunde",
+      "dstore-sterbeurkunde",
+      "dstore-eheurkunde-nachweis",
+      "dstore-lebenspartnerschaftsurkunde-nachweis",
+      "dstore-religionszugehoerigkeit"
+    ]
+  },
+  "vvt-31-003": {
+    "titel": "Personenstandsregister (Ehe, Geburt, Tod)",
+    "organisationseinheit": "oe-amt-31",
+    "verfahren_vertraulich": false,
+    "fallgruppe": null,
+    "effektive_schutzstufe": "D",
+    "datenspeicher": [
+      "dstore-personenstammdaten",
+      "dstore-familienstand-ehebezug",
+      "dstore-staatsangehoerigkeit",
+      "dstore-elternbezug-abstammung",
+      "dstore-geburtsdaten-kind",
+      "dstore-geburtsurkunde-eltern",
+      "dstore-geburtsanzeige-unterlagenpaket",
+      "dstore-heiratsurkunde",
+      "dstore-eheurkunde-nachweis",
+      "dstore-auslaendische-personenstandsurkunde",
+      "dstore-identitaetsnachweis",
+      "dstore-registerbezug-personenstand",
+      "dstore-verstorbenenhinweis-melderegister",
+      "dstore-zweckgebundene-urkunde"
+    ]
+  },
+  "vvt-32-003": {
+    "titel": "Großraum- und Schwertransporte",
+    "organisationseinheit": "oe-amt-32",
+    "verfahren_vertraulich": false,
+    "fallgruppe": null,
+    "effektive_schutzstufe": "C",
+    "datenspeicher": [
+      "dstore-personenstammdaten",
+      "dstore-unternehmens-und-registerdaten",
+      "dstore-kfz-daten",
+      "dstore-grossraum-schwertransportdaten",
+      "dstore-ausnahmegenehmigung-schwerverkehr"
+    ]
+  },
+  "vvt-32-004": {
+    "titel": "Fahrlehrer- und Fahrschulerlaubnisse",
+    "organisationseinheit": "oe-amt-32",
+    "verfahren_vertraulich": false,
+    "fallgruppe": null,
+    "effektive_schutzstufe": "D",
+    "datenspeicher": [
+      "dstore-personenstammdaten",
+      "dstore-lebenslauf-qualifikationsnachweis",
+      "dstore-fuehrungszeugnis",
+      "dstore-unternehmens-und-registerdaten"
+    ]
+  },
+  "vvt-32-005": {
+    "titel": "Fahrerbescheinigungen und Ausbildungsstätten Berufskraftfahrer",
+    "organisationseinheit": "oe-amt-32",
+    "verfahren_vertraulich": false,
+    "fallgruppe": null,
+    "effektive_schutzstufe": "D",
+    "datenspeicher": [
+      "dstore-personenstammdaten",
+      "dstore-staatsangehoerigkeit",
+      "dstore-aufenthaltserlaubnis-erwerbstaetigkeit",
+      "dstore-arbeitsverhaeltnis-beschaeftigung",
+      "dstore-lebenslauf-qualifikationsnachweis",
+      "dstore-unternehmens-und-registerdaten"
+    ]
+  },
+  "vvt-32-006": {
+    "titel": "Behindertenparkausweise",
+    "organisationseinheit": "oe-amt-32",
+    "verfahren_vertraulich": true,
+    "fallgruppe": "ordnungswidrigkeit",
+    "effektive_schutzstufe": "D",
+    "datenspeicher": [
+      "dstore-personenstammdaten-vertraulich",
+      "dstore-schwerbehindertennachweis",
+      "dstore-biometrische-daten-lichtbild",
+      "dstore-parkberechtigungszone"
+    ]
+  },
+  "vvt-32-007": {
+    "titel": "Abschleppen von Fahrzeugen",
+    "organisationseinheit": "oe-amt-32",
+    "verfahren_vertraulich": false,
+    "fallgruppe": null,
+    "effektive_schutzstufe": "C",
+    "datenspeicher": [
+      "dstore-kfz-daten",
+      "dstore-personenstammdaten",
+      "dstore-verwahrgut-sicherstellung",
+      "dstore-gebuehrenbescheid-zahlungsdaten",
+      "dstore-abschleppmassnahme"
+    ]
+  },
+  "vvt-32-008": {
+    "titel": "Straßenverkehrsüberwachung",
+    "organisationseinheit": "oe-amt-32",
+    "verfahren_vertraulich": true,
+    "fallgruppe": "ordnungswidrigkeit",
+    "effektive_schutzstufe": "D",
+    "datenspeicher": [
+      "dstore-personenstammdaten-vertraulich",
+      "dstore-kfz-daten",
+      "dstore-bild-und-tonaufnahmen",
+      "dstore-bussgeldakte",
+      "dstore-parkverstossanzeige"
+    ]
+  },
+  "vvt-32-009": {
+    "titel": "Güterkraftverkehr — gewerbliche Genehmigungen",
+    "organisationseinheit": "oe-amt-32",
+    "verfahren_vertraulich": false,
+    "fallgruppe": null,
+    "effektive_schutzstufe": "D",
+    "datenspeicher": [
+      "dstore-personenstammdaten",
+      "dstore-unternehmens-und-registerdaten",
+      "dstore-register-und-zuverlaessigkeitsauskuenfte",
+      "dstore-lebenslauf-qualifikationsnachweis",
+      "dstore-kfz-daten",
+      "dstore-finanzielle-leistungsfaehigkeit"
+    ]
+  },
+  "vvt-32-010": {
+    "titel": "Gewerbliche Personenbeförderung (Taxi, Mietwagen)",
+    "organisationseinheit": "oe-amt-32",
+    "verfahren_vertraulich": false,
+    "fallgruppe": null,
+    "effektive_schutzstufe": "D",
+    "datenspeicher": [
+      "dstore-personenstammdaten",
+      "dstore-unternehmens-und-registerdaten",
+      "dstore-fuehrerscheindaten",
+      "dstore-lebenslauf-qualifikationsnachweis",
+      "dstore-register-und-zuverlaessigkeitsauskuenfte",
+      "dstore-fuehrungszeugnis",
+      "dstore-gesundheitsdaten",
+      "dstore-kfz-daten"
+    ]
+  },
+  "vvt-32-011": {
+    "titel": "Gewerberecht — Erfassung, Überwachung, Untersagung, Konzession",
+    "organisationseinheit": "oe-amt-32",
+    "verfahren_vertraulich": true,
+    "fallgruppe": "ordnungswidrigkeit",
+    "effektive_schutzstufe": "D",
+    "datenspeicher": [
+      "dstore-personenstammdaten-vertraulich",
+      "dstore-gewerbedaten",
+      "dstore-gewerbeanzeige-betriebsstaette",
+      "dstore-gewerbeummeldung-aenderungsdaten",
+      "dstore-gewerbeabmeldung-betriebsaufgabe",
+      "dstore-unternehmens-und-registerdaten",
+      "dstore-fuehrungszeugnis",
+      "dstore-register-und-zuverlaessigkeitsauskuenfte",
+      "dstore-gewerbeuntersagung"
+    ]
+  },
+  "vvt-32-012": {
+    "titel": "Reisegewerbekarten",
+    "organisationseinheit": "oe-amt-32",
+    "verfahren_vertraulich": false,
+    "fallgruppe": null,
+    "effektive_schutzstufe": "D",
+    "datenspeicher": [
+      "dstore-personenstammdaten",
+      "dstore-gewerbedaten",
+      "dstore-reisegewerbekarte",
+      "dstore-fuehrungszeugnis",
+      "dstore-register-und-zuverlaessigkeitsauskuenfte"
+    ]
+  },
+  "vvt-32-013": {
+    "titel": "Märkte, Messen, Ausstellungen",
+    "organisationseinheit": "oe-amt-32",
+    "verfahren_vertraulich": false,
+    "fallgruppe": null,
+    "effektive_schutzstufe": "C",
+    "datenspeicher": [
+      "dstore-personenstammdaten",
+      "dstore-gewerbedaten",
+      "dstore-unternehmens-und-registerdaten",
+      "dstore-veranstalterdaten",
+      "dstore-marktveranstaltungsdaten",
+      "dstore-gebuehrenbescheid-zahlungsdaten"
+    ]
+  },
+  "vvt-32-014": {
+    "titel": "Bewachererlaubnisse und Personalprüfung",
+    "organisationseinheit": "oe-amt-32",
+    "verfahren_vertraulich": false,
+    "fallgruppe": null,
+    "effektive_schutzstufe": "D",
+    "datenspeicher": [
+      "dstore-personenstammdaten",
+      "dstore-identitaetsnachweis",
+      "dstore-lebenslauf-qualifikationsnachweis",
+      "dstore-unternehmens-und-registerdaten",
+      "dstore-register-und-zuverlaessigkeitsauskuenfte",
+      "dstore-zuverlaessigkeitsanfrage-sicherheitsbehoerden"
+    ]
+  },
+  "vvt-32-015": {
+    "titel": "Spielhallen-, Spielstätten- und Glücksspielrecht",
+    "organisationseinheit": "oe-amt-32",
+    "verfahren_vertraulich": false,
+    "fallgruppe": null,
+    "effektive_schutzstufe": "D",
+    "datenspeicher": [
+      "dstore-personenstammdaten",
+      "dstore-gewerbedaten",
+      "dstore-gewerbeanzeige-betriebsstaette",
+      "dstore-unternehmens-und-registerdaten",
+      "dstore-register-und-zuverlaessigkeitsauskuenfte"
+    ]
+  },
+  "vvt-32-016": {
+    "titel": "Maßnahmen nach Geldwäschegesetz",
+    "organisationseinheit": "oe-amt-32",
+    "verfahren_vertraulich": false,
+    "fallgruppe": null,
+    "effektive_schutzstufe": "D",
+    "datenspeicher": [
+      "dstore-unternehmens-und-registerdaten",
+      "dstore-betriebsdaten",
+      "dstore-verdachtsmeldung-geldwaesche"
+    ]
+  },
+  "vvt-32-017": {
+    "titel": "Waffen-, Jagd- und Sprengstoffwesen",
+    "organisationseinheit": "oe-amt-32",
+    "verfahren_vertraulich": false,
+    "fallgruppe": null,
+    "effektive_schutzstufe": "D",
+    "datenspeicher": [
+      "dstore-personenstammdaten",
+      "dstore-lebenslauf-qualifikationsnachweis",
+      "dstore-fuehrungszeugnis",
+      "dstore-register-und-zuverlaessigkeitsauskuenfte",
+      "dstore-zuverlaessigkeitsanfrage-sicherheitsbehoerden",
+      "dstore-waffenrechtliche-erlaubnis"
+    ]
+  },
+  "vvt-32-018": {
+    "titel": "Versammlungsrechtliche Verfahren",
+    "organisationseinheit": "oe-amt-32",
+    "verfahren_vertraulich": false,
+    "fallgruppe": null,
+    "effektive_schutzstufe": "D",
+    "datenspeicher": [
+      "dstore-personenstammdaten",
+      "dstore-kontaktdaten",
+      "dstore-versammlungsanzeige"
+    ]
+  },
+  "vvt-32-019": {
+    "titel": "Anmeldung und Erlaubnis im Prostitutionsgewerbe",
+    "organisationseinheit": "oe-amt-32",
+    "verfahren_vertraulich": true,
+    "fallgruppe": "ordnungswidrigkeit",
+    "effektive_schutzstufe": "E",
+    "datenspeicher": [
+      "dstore-personenstammdaten-vertraulich",
+      "dstore-ausweisdokument",
+      "dstore-anmeldebescheinigung-prostschg",
+      "dstore-gesundheitszeugnis",
+      "dstore-prostitutionsstaettenbetrieb",
+      "dstore-stellvertretungserlaubnis-prostitutionsstaette"
+    ]
+  },
+  "vvt-32-020": {
+    "titel": "Ordnungswidrigkeiten- und Bußgeldverfahren (inkl. Verkehrs-OWi)",
+    "organisationseinheit": "oe-amt-32",
+    "verfahren_vertraulich": true,
+    "fallgruppe": "ordnungswidrigkeit",
+    "effektive_schutzstufe": "D",
+    "datenspeicher": [
+      "dstore-personenstammdaten-vertraulich",
+      "dstore-kfz-daten",
+      "dstore-bussgeldakte",
+      "dstore-ordnungswidrigkeitenanzeige",
+      "dstore-parkverstossanzeige",
+      "dstore-bild-und-tonaufnahmen",
+      "dstore-gebuehrenbescheid-zahlungsdaten"
+    ]
+  },
+  "vvt-32-021": {
+    "titel": "Schulpflichtverletzungen (Bußgeldverfahren)",
+    "organisationseinheit": "oe-amt-32",
+    "verfahren_vertraulich": true,
+    "fallgruppe": "ordnungswidrigkeit",
+    "effektive_schutzstufe": "D",
+    "datenspeicher": [
+      "dstore-personenstammdaten-vertraulich",
+      "dstore-elternbezug-abstammung",
+      "dstore-schulbesuch-ausbildungsstatus",
+      "dstore-ordnungswidrigkeitenanzeige",
+      "dstore-gesundheitsdaten"
+    ]
+  },
+  "vvt-32-022": {
+    "titel": "Gefahrgutverstöße",
+    "organisationseinheit": "oe-amt-32",
+    "verfahren_vertraulich": true,
+    "fallgruppe": "ordnungswidrigkeit",
+    "effektive_schutzstufe": "D",
+    "datenspeicher": [
+      "dstore-personenstammdaten-vertraulich",
+      "dstore-unternehmens-und-registerdaten",
+      "dstore-kfz-daten",
+      "dstore-ordnungswidrigkeitenanzeige",
+      "dstore-bussgeldakte",
+      "dstore-bild-und-tonaufnahmen"
+    ]
+  },
+  "vvt-32-023": {
+    "titel": "Unbedenklichkeitsbescheinigung",
+    "organisationseinheit": "oe-amt-32",
+    "verfahren_vertraulich": false,
+    "fallgruppe": null,
+    "effektive_schutzstufe": "D",
+    "datenspeicher": [
+      "dstore-unternehmens-und-registerdaten",
+      "dstore-bescheinigung",
+      "dstore-steuerdaten",
+      "dstore-register-und-zuverlaessigkeitsauskuenfte"
+    ]
+  },
+  "vvt-32-024": {
+    "titel": "Gaststättenanzeige und Zuverlässigkeitsprüfung (NGastG)",
+    "organisationseinheit": "oe-amt-32",
+    "verfahren_vertraulich": false,
+    "fallgruppe": null,
+    "effektive_schutzstufe": "D",
+    "datenspeicher": [
+      "dstore-gaststaettenbetrieb-anzeigedaten",
+      "dstore-register-und-zuverlaessigkeitsauskuenfte"
+    ]
+  },
+  "vvt-33-001": {
+    "titel": "Melderegisterführung, -auskünfte und melderechtliche Aufgaben",
+    "organisationseinheit": "oe-amt-33",
+    "verfahren_vertraulich": false,
+    "fallgruppe": null,
+    "effektive_schutzstufe": "E",
+    "datenspeicher": [
+      "dstore-personenstammdaten",
+      "dstore-meldedaten",
+      "dstore-meldeadresse-wohnsitz",
+      "dstore-adresse",
+      "dstore-wohnstatus-haupt-nebenwohnung",
+      "dstore-staatsangehoerigkeit",
+      "dstore-familienstand-ehebezug",
+      "dstore-vollmacht-vertretung-berechtigung",
+      "dstore-auskunftssperre-melderegister",
+      "dstore-uebermittlungssperre-melderegister",
+      "dstore-meldeschein",
+      "dstore-wohnungsgeberbestaetigung",
+      "dstore-steuerdaten",
+      "dstore-schutzbeduerftigkeitskennzeichen"
+    ]
+  },
+  "vvt-33-002": {
+    "titel": "[NEU aus OE 32] Ausweis- und Passwesen",
+    "organisationseinheit": "oe-amt-33",
+    "verfahren_vertraulich": false,
+    "fallgruppe": null,
+    "effektive_schutzstufe": "D",
+    "datenspeicher": [
+      "dstore-personenstammdaten",
+      "dstore-meldeadresse-wohnsitz",
+      "dstore-staatsangehoerigkeit",
+      "dstore-identitaetsnachweis",
+      "dstore-ausweisdokument",
+      "dstore-biometrische-daten-lichtbild",
+      "dstore-fingerabdruckdaten"
+    ]
+  },
+  "vvt-33-003": {
+    "titel": "Terminvergabe im Bürgerservice",
+    "organisationseinheit": "oe-amt-33",
+    "verfahren_vertraulich": false,
+    "fallgruppe": null,
+    "effektive_schutzstufe": "D",
+    "datenspeicher": [
+      "dstore-personenstammdaten",
+      "dstore-kontaktdaten",
+      "dstore-termin-und-vorsprachedaten"
+    ]
+  },
+  "vvt-33-004": {
+    "titel": "Fundsachen-Verwaltung im Bürgerservice",
+    "organisationseinheit": "oe-amt-33",
+    "verfahren_vertraulich": false,
+    "fallgruppe": null,
+    "effektive_schutzstufe": "C",
+    "datenspeicher": [
+      "dstore-personenstammdaten",
+      "dstore-kontaktdaten",
+      "dstore-fundsache"
+    ]
+  },
+  "vvt-33-005": {
+    "titel": "Fischereischein",
+    "organisationseinheit": "oe-amt-33",
+    "verfahren_vertraulich": false,
+    "fallgruppe": null,
+    "effektive_schutzstufe": "C",
+    "datenspeicher": [
+      "dstore-personenstammdaten",
+      "dstore-fischereischein-sachkunde",
+      "dstore-gebuehrenbescheid-zahlungsdaten"
+    ]
+  },
+  "vvt-33-006": {
+    "titel": "Kontaktaufnahme über ServicePortal",
+    "organisationseinheit": "oe-amt-33",
+    "verfahren_vertraulich": false,
+    "fallgruppe": null,
+    "effektive_schutzstufe": "D",
+    "datenspeicher": [
+      "dstore-personenstammdaten",
+      "dstore-kontaktdaten",
+      "dstore-beschwerde-anregungsdaten",
+      "dstore-anlage-buergerupload"
+    ]
+  },
+  "vvt-33-007": {
+    "titel": "Bewohnerparkrecht",
+    "organisationseinheit": "oe-amt-33",
+    "verfahren_vertraulich": false,
+    "fallgruppe": null,
+    "effektive_schutzstufe": "C",
+    "datenspeicher": [
+      "dstore-personenstammdaten",
+      "dstore-meldeadresse-wohnsitz",
+      "dstore-kfz-daten",
+      "dstore-parkberechtigungszone"
+    ]
+  },
+  "vvt-33-008": {
+    "titel": "Wahlscheine, Wahlrechts- und Wählbarkeitsbescheinigungen (Bürgerservice)",
+    "organisationseinheit": "oe-amt-33",
+    "verfahren_vertraulich": false,
+    "fallgruppe": null,
+    "effektive_schutzstufe": "C",
+    "datenspeicher": [
+      "dstore-wahlunterlagen",
+      "dstore-personenstammdaten",
+      "dstore-identitaetsnachweis",
+      "dstore-meldeadresse-wohnsitz"
+    ]
+  },
+  "vvt-34-001": {
+    "titel": "Sondernutzung öffentlicher Verkehrsflächen",
+    "organisationseinheit": "oe-amt-34",
+    "verfahren_vertraulich": false,
+    "fallgruppe": null,
+    "effektive_schutzstufe": "C",
+    "datenspeicher": [
+      "dstore-personenstammdaten",
+      "dstore-unternehmens-und-registerdaten",
+      "dstore-sondernutzung-oeffentlicher-raum",
+      "dstore-lageplan-geobasisdaten",
+      "dstore-gebuehrenbescheid-zahlungsdaten"
+    ]
+  },
+  "vvt-34-002": {
+    "titel": "Verkehrsrechtliche Anordnungen (Straßenverkehrsbehörde)",
+    "organisationseinheit": "oe-amt-34",
+    "verfahren_vertraulich": false,
+    "fallgruppe": null,
+    "effektive_schutzstufe": "C",
+    "datenspeicher": [
+      "dstore-personenstammdaten",
+      "dstore-unternehmens-und-registerdaten"
+    ]
+  },
+  "vvt-34-003": {
+    "titel": "Verkehrsrechtliche Ausnahmegenehmigungen",
+    "organisationseinheit": "oe-amt-34",
+    "verfahren_vertraulich": false,
+    "fallgruppe": null,
+    "effektive_schutzstufe": "C",
+    "datenspeicher": [
+      "dstore-personenstammdaten",
+      "dstore-meldeadresse-wohnsitz",
+      "dstore-kfz-daten",
+      "dstore-genehmigung"
+    ]
+  },
+  "vvt-34-004": {
+    "titel": "Verkehrssicherheits-Beschwerden",
+    "organisationseinheit": "oe-amt-34",
+    "verfahren_vertraulich": true,
+    "fallgruppe": "ordnungswidrigkeit",
+    "effektive_schutzstufe": "D",
+    "datenspeicher": [
+      "dstore-personenstammdaten-vertraulich",
+      "dstore-kontaktdaten-vertraulich",
+      "dstore-sicherheitsmangelmeldung"
+    ]
+  },
+  "vvt-34-005": {
+    "titel": "Verfolgung von Straßenschäden",
+    "organisationseinheit": "oe-amt-34",
+    "verfahren_vertraulich": false,
+    "fallgruppe": null,
+    "effektive_schutzstufe": "C",
+    "datenspeicher": [
+      "dstore-personenstammdaten",
+      "dstore-kontaktdaten",
+      "dstore-sicherheitsmangelmeldung"
+    ]
+  },
+  "vvt-34-006": {
+    "titel": "Kamera-System zur Verkehrsoptimierung",
+    "organisationseinheit": "oe-amt-34",
+    "verfahren_vertraulich": false,
+    "fallgruppe": null,
+    "effektive_schutzstufe": "D",
+    "datenspeicher": [
+      "dstore-videoueberwachungsaufzeichnung"
+    ]
+  },
+  "vvt-34-007": {
+    "titel": "Fahrerlaubnis-Verwaltung",
+    "organisationseinheit": "oe-amt-34",
+    "verfahren_vertraulich": true,
+    "fallgruppe": "ordnungswidrigkeit",
+    "effektive_schutzstufe": "D",
+    "datenspeicher": [
+      "dstore-personenstammdaten-vertraulich",
+      "dstore-kontaktdaten-vertraulich",
+      "dstore-identitaetsnachweis",
+      "dstore-ausweisdokument",
+      "dstore-fuehrerscheindaten",
+      "dstore-biometrische-daten-lichtbild",
+      "dstore-gesundheitsdaten",
+      "dstore-lebenslauf-qualifikationsnachweis-vertraulich",
+      "dstore-unternehmens-und-registerdaten"
+    ]
+  },
+  "vvt-34-008": {
+    "titel": "Kfz-Zulassung und Kraftfahrzeugregister",
+    "organisationseinheit": "oe-amt-34",
+    "verfahren_vertraulich": false,
+    "fallgruppe": null,
+    "effektive_schutzstufe": "C",
+    "datenspeicher": [
+      "dstore-personenstammdaten",
+      "dstore-meldeadresse-wohnsitz",
+      "dstore-identitaetsnachweis",
+      "dstore-kfz-daten",
+      "dstore-unternehmens-und-registerdaten",
+      "dstore-bankverbindung"
+    ]
+  },
+  "vvt-37-001": {
+    "titel": "Hilfeersuchen, Einsatzdokumentation und Aufgabenwahrnehmung Feuerwehr/Rettungsdienst",
+    "organisationseinheit": "oe-amt-37",
+    "verfahren_vertraulich": true,
+    "fallgruppe": "beratung",
+    "effektive_schutzstufe": "E",
+    "datenspeicher": [
+      "dstore-personenstammdaten-vertraulich",
+      "dstore-kontaktdaten-vertraulich",
+      "dstore-gesundheitsdaten",
+      "dstore-einsatzdokumentation-notruf"
+    ]
+  },
+  "vvt-37-002": {
+    "titel": "Katastrophenschutzplanung",
+    "organisationseinheit": "oe-amt-37",
+    "verfahren_vertraulich": false,
+    "fallgruppe": null,
+    "effektive_schutzstufe": "C",
+    "datenspeicher": [
+      "dstore-personenstammdaten",
+      "dstore-kontaktdaten",
+      "dstore-lebenslauf-qualifikationsnachweis",
+      "dstore-ehrenamtsdaten"
+    ]
+  },
+  "vvt-38-001": {
+    "titel": "Marktangelegenheiten (Festsetzung, Bewerber, Standplatzverwaltung)",
+    "organisationseinheit": "oe-amt-38",
+    "verfahren_vertraulich": false,
+    "fallgruppe": null,
+    "effektive_schutzstufe": "D",
+    "datenspeicher": [
+      "dstore-personenstammdaten",
+      "dstore-kontaktdaten",
+      "dstore-unternehmens-und-registerdaten",
+      "dstore-gewerbedaten",
+      "dstore-reisegewerbekarte",
+      "dstore-veranstalterdaten",
+      "dstore-marktveranstaltungsdaten",
+      "dstore-gebuehrenbescheid-zahlungsdaten",
+      "dstore-ordnungswidrigkeitenanzeige"
+    ]
+  },
+  "vvt-40-001": {
+    "titel": "Schülerbeförderung (Anmeldung, Sonder-, ÖPNV-, Individualbeförderung)",
+    "organisationseinheit": "oe-amt-40",
+    "verfahren_vertraulich": false,
+    "fallgruppe": null,
+    "effektive_schutzstufe": "D",
+    "datenspeicher": [
+      "dstore-personenstammdaten",
+      "dstore-meldeadresse-wohnsitz",
+      "dstore-schulbesuch-ausbildungsstatus",
+      "dstore-schuelerbefoerderungskosten",
+      "dstore-gesundheitsdaten"
+    ]
+  },
+  "vvt-40-002": {
+    "titel": "Schulpflichtüberwachung",
+    "organisationseinheit": "oe-amt-40",
+    "verfahren_vertraulich": true,
+    "fallgruppe": "sozialleistung",
+    "effektive_schutzstufe": "D",
+    "datenspeicher": [
+      "dstore-personenstammdaten-vertraulich",
+      "dstore-meldeadresse-wohnsitz",
+      "dstore-staatsangehoerigkeit",
+      "dstore-elternbezug-abstammung",
+      "dstore-schulbesuch-ausbildungsstatus",
+      "dstore-religionszugehoerigkeit"
+    ]
+  },
+  "vvt-40-003": {
+    "titel": "Schulverpflegung — Abrechnung (Grund- und weiterführende Schulen inkl. BuT)",
+    "organisationseinheit": "oe-amt-40",
+    "verfahren_vertraulich": true,
+    "fallgruppe": "sozialleistung",
+    "effektive_schutzstufe": "D",
+    "datenspeicher": [
+      "dstore-personenstammdaten-vertraulich",
+      "dstore-schulbesuch-ausbildungsstatus",
+      "dstore-gemeinschaftliche-mittagsverpflegung",
+      "dstore-bildungs-und-teilhabebedarf",
+      "dstore-sepa-lastschriftmandat"
+    ]
+  },
+  "vvt-40-004": {
+    "titel": "Elternvertretung und Schülervertretung (Wahlen, Sitzungen, Fahrtkostenerstattung)",
+    "organisationseinheit": "oe-amt-40",
+    "verfahren_vertraulich": false,
+    "fallgruppe": null,
+    "effektive_schutzstufe": "C",
+    "datenspeicher": [
+      "dstore-personenstammdaten",
+      "dstore-kontaktdaten",
+      "dstore-aufwandsentschaedigung-ehrenamt"
+    ]
+  },
+  "vvt-40-005": {
+    "titel": "Kostendeckende Beiträge auswärtiger Schüler (Erhebung und Prüfung)",
+    "organisationseinheit": "oe-amt-40",
+    "verfahren_vertraulich": false,
+    "fallgruppe": null,
+    "effektive_schutzstufe": "C",
+    "datenspeicher": [
+      "dstore-personenstammdaten",
+      "dstore-schulbesuch-ausbildungsstatus",
+      "dstore-betriebsdaten",
+      "dstore-gebuehrenbescheid-zahlungsdaten"
+    ]
+  },
+  "vvt-40-006": {
+    "titel": "Zuschussgewährung für Bildungsprojekte",
+    "organisationseinheit": "oe-amt-40",
+    "verfahren_vertraulich": false,
+    "fallgruppe": null,
+    "effektive_schutzstufe": "C",
+    "datenspeicher": [
+      "dstore-personenstammdaten",
+      "dstore-bankverbindung",
+      "dstore-kontaktdaten",
+      "dstore-foerderantrag"
+    ]
+  },
+  "vvt-40-007": {
+    "titel": "Steuerung der Grundschulbezirke",
+    "organisationseinheit": "oe-amt-40",
+    "verfahren_vertraulich": false,
+    "fallgruppe": null,
+    "effektive_schutzstufe": "D",
+    "datenspeicher": [
+      "dstore-meldeadresse-wohnsitz",
+      "dstore-personenstammdaten",
+      "dstore-religionszugehoerigkeit"
+    ]
+  },
+  "vvt-40-008": {
+    "titel": "Schulraumvermietung",
+    "organisationseinheit": "oe-amt-40",
+    "verfahren_vertraulich": false,
+    "fallgruppe": null,
+    "effektive_schutzstufe": "C",
+    "datenspeicher": [
+      "dstore-kommunaler-miet-nutzungsvertrag",
+      "dstore-adresse",
+      "dstore-personenstammdaten"
+    ]
+  },
+  "vvt-40-009": {
+    "titel": "Beschaffung zur Ausstattung der Schulen",
+    "organisationseinheit": "oe-amt-40",
+    "verfahren_vertraulich": false,
+    "fallgruppe": null,
+    "effektive_schutzstufe": "C",
+    "datenspeicher": [
+      "dstore-unternehmens-und-registerdaten",
+      "dstore-adresse",
+      "dstore-vergabe-auftragsbezug",
+      "dstore-vergabeunterlagen"
+    ]
+  },
+  "vvt-40-010": {
+    "titel": "Ausnahmeanträge zum Schulbesuch (Wahl anderer Schule)",
+    "organisationseinheit": "oe-amt-40",
+    "verfahren_vertraulich": true,
+    "fallgruppe": "sozialleistung",
+    "effektive_schutzstufe": "D",
+    "datenspeicher": [
+      "dstore-personenstammdaten-vertraulich",
+      "dstore-kontaktdaten-vertraulich",
+      "dstore-schulbesuch-ausbildungsstatus",
+      "dstore-antragsbegruendung-schulbezirk"
+    ]
+  },
+  "vvt-41-001": {
+    "titel": "Ausleihe von Medien und Nutzerverwaltung öffentliche Bibliothek",
+    "organisationseinheit": "oe-amt-41",
+    "verfahren_vertraulich": true,
+    "fallgruppe": "beratung",
+    "effektive_schutzstufe": "D",
+    "datenspeicher": [
+      "dstore-personenstammdaten-vertraulich",
+      "dstore-kontaktdaten-vertraulich",
+      "dstore-ausleihvorgang-bibliothek"
+    ]
+  },
+  "vvt-41-002": {
+    "titel": "Musikschule — Kursanmeldungen und Unterrichtsdaten",
+    "organisationseinheit": "oe-amt-41",
+    "verfahren_vertraulich": false,
+    "fallgruppe": null,
+    "effektive_schutzstufe": "D",
+    "datenspeicher": [
+      "dstore-personenstammdaten",
+      "dstore-musikschul-kursanmeldung",
+      "dstore-einwilligung-widerruf",
+      "dstore-bild-und-tonaufnahmen",
+      "dstore-bankverbindung",
+      "dstore-gebuehrenbescheid-zahlungsdaten"
+    ]
+  },
+  "vvt-41-003": {
+    "titel": "Kommunalarchiv — Nutzung und Recherche",
+    "organisationseinheit": "oe-amt-41",
+    "verfahren_vertraulich": false,
+    "fallgruppe": null,
+    "effektive_schutzstufe": "C",
+    "datenspeicher": [
+      "dstore-personenstammdaten"
+    ]
+  },
+  "vvt-41-004": {
+    "titel": "Kulturförderung",
+    "organisationseinheit": "oe-amt-41",
+    "verfahren_vertraulich": false,
+    "fallgruppe": null,
+    "effektive_schutzstufe": "C",
+    "datenspeicher": [
+      "dstore-foerderantrag",
+      "dstore-bankverbindung"
+    ]
+  },
+  "vvt-41-005": {
+    "titel": "Sportförderung",
+    "organisationseinheit": "oe-amt-41",
+    "verfahren_vertraulich": false,
+    "fallgruppe": null,
+    "effektive_schutzstufe": "D",
+    "datenspeicher": [
+      "dstore-foerderantrag",
+      "dstore-abrechnungsdaten",
+      "dstore-bescheid",
+      "dstore-betriebsdaten",
+      "dstore-bankverbindung"
+    ]
+  },
+  "vvt-41-006": {
+    "titel": "Museums- und Ausstellungswesen (Leihverkehr, Objektübernahme, Ausstellungslizenzen)",
+    "organisationseinheit": "oe-amt-41",
+    "verfahren_vertraulich": false,
+    "fallgruppe": null,
+    "effektive_schutzstufe": "C",
+    "datenspeicher": [
+      "dstore-verwaltungsakte",
+      "dstore-genehmigung",
+      "dstore-bescheid",
+      "dstore-bescheinigung"
+    ]
+  },
+  "vvt-47-001": {
+    "titel": "Aufenthaltsrecht (Anträge, Bearbeitung, Online-Antragstellung, Personendaten inkl. Biometrie)",
+    "organisationseinheit": "oe-amt-47",
+    "verfahren_vertraulich": true,
+    "fallgruppe": "aufenthalt",
+    "effektive_schutzstufe": "D",
+    "datenspeicher": [
+      "dstore-personenstammdaten-vertraulich",
+      "dstore-identitaetsnachweis",
+      "dstore-familienstand-ehebezug",
+      "dstore-aufenthaltstitel",
+      "dstore-staatsangehoerigkeit-aufenthaltsstatus",
+      "dstore-biometrische-daten-lichtbild",
+      "dstore-strafverfahrensmitteilung-auslaenderrecht"
+    ]
+  },
+  "vvt-47-002": {
+    "titel": "Staatsangehörigkeit und Einbürgerung (Feststellung, Einbürgerung, Beibehaltung, Entlassung)",
+    "organisationseinheit": "oe-amt-47",
+    "verfahren_vertraulich": true,
+    "fallgruppe": "aufenthalt",
+    "effektive_schutzstufe": "D",
+    "datenspeicher": [
+      "dstore-personenstammdaten-vertraulich",
+      "dstore-staatsangehoerigkeit",
+      "dstore-aufenthaltstitel",
+      "dstore-einbuergerungszusicherung",
+      "dstore-leistungsbezug-sozialleistung",
+      "dstore-zuverlaessigkeitsanfrage-sicherheitsbehoerden"
+    ]
+  },
+  "vvt-47-003": {
+    "titel": "AsylbLG-Leistungsgewährung (Existenzsicherung)",
+    "organisationseinheit": "oe-amt-47",
+    "verfahren_vertraulich": true,
+    "fallgruppe": "aufenthalt",
+    "effektive_schutzstufe": "E",
+    "datenspeicher": [
+      "dstore-personenstammdaten-vertraulich",
+      "dstore-staatsangehoerigkeit-aufenthaltsstatus",
+      "dstore-einkommens-und-leistungsdaten",
+      "dstore-leistungsbezug-sozialleistung",
+      "dstore-sozialdaten",
+      "dstore-gesundheitsdaten",
+      "dstore-haushaltsmitglieder",
+      "dstore-schutzbeduerftigkeitskennzeichen"
+    ]
+  },
+  "vvt-47-004": {
+    "titel": "Terminvergabe Ausländerangelegenheiten",
+    "organisationseinheit": "oe-amt-47",
+    "verfahren_vertraulich": true,
+    "fallgruppe": "aufenthalt",
+    "effektive_schutzstufe": "D",
+    "datenspeicher": [
+      "dstore-termin-und-vorsprachedaten",
+      "dstore-personenstammdaten-vertraulich",
+      "dstore-kontaktdaten-vertraulich"
+    ]
+  },
+  "vvt-47-005": {
+    "titel": "Verpflichtungserklärungen (§ 68 AufenthG)",
+    "organisationseinheit": "oe-amt-47",
+    "verfahren_vertraulich": true,
+    "fallgruppe": "aufenthalt",
+    "effektive_schutzstufe": "D",
+    "datenspeicher": [
+      "dstore-verpflichtungserklaerung",
+      "dstore-personenstammdaten-vertraulich",
+      "dstore-kontaktdaten-vertraulich",
+      "dstore-einkommensnachweise-haushalt"
+    ]
+  },
+  "vvt-47-006": {
+    "titel": "Auszugsmanagement nach AsylbLG (Übergang in privaten Wohnraum)",
+    "organisationseinheit": "oe-amt-47",
+    "verfahren_vertraulich": true,
+    "fallgruppe": "aufenthalt",
+    "effektive_schutzstufe": "D",
+    "datenspeicher": [
+      "dstore-personenstammdaten-vertraulich",
+      "dstore-wohnraumnachweis-aufenthalt",
+      "dstore-leistungsbezug-sozialleistung",
+      "dstore-einwilligung-widerruf"
+    ]
+  },
+  "vvt-50-001": {
+    "titel": "Sozialleistungen SGB XII (Grundsicherung, Hilfe zum Lebensunterhalt, Hilfe zur Pflege)",
+    "organisationseinheit": "oe-amt-50",
+    "verfahren_vertraulich": true,
+    "fallgruppe": "sozialleistung",
+    "effektive_schutzstufe": "D",
+    "datenspeicher": [
+      "dstore-personenstammdaten-vertraulich",
+      "dstore-sozialdaten",
+      "dstore-gesundheitsdaten",
+      "dstore-einkommensdaten",
+      "dstore-einkommens-und-leistungsdaten",
+      "dstore-leistungsbezug-sozialleistung",
+      "dstore-haushaltsmitglieder",
+      "dstore-pflegegrad-pflegeleistungen"
+    ]
+  },
+  "vvt-50-002": {
+    "titel": "Rückforderung von Sozialhilfe und Überleitung von Ansprüchen gegen Dritte (SGB XII)",
+    "organisationseinheit": "oe-amt-50",
+    "verfahren_vertraulich": true,
+    "fallgruppe": "sozialleistung",
+    "effektive_schutzstufe": "D",
+    "datenspeicher": [
+      "dstore-personenstammdaten-vertraulich",
+      "dstore-leistungsbezug-sozialleistung",
+      "dstore-mahn-vollstreckungsstatus",
+      "dstore-forderungstitel-vollstreckung",
+      "dstore-nachlass-erbendaten"
+    ]
+  },
+  "vvt-50-003": {
+    "titel": "Anmietung von Objekten zur Unterbringung Geflüchteter",
+    "organisationseinheit": "oe-amt-50",
+    "verfahren_vertraulich": false,
+    "fallgruppe": null,
+    "effektive_schutzstufe": "D",
+    "datenspeicher": [
+      "dstore-personenstammdaten",
+      "dstore-kommunaler-miet-nutzungsvertrag",
+      "dstore-unterkunftskosten"
+    ]
+  },
+  "vvt-50-004": {
+    "titel": "Pflegepatenschaft",
+    "organisationseinheit": "oe-amt-50",
+    "verfahren_vertraulich": true,
+    "fallgruppe": "sozialleistung",
+    "effektive_schutzstufe": "D",
+    "datenspeicher": [
+      "dstore-personenstammdaten-vertraulich",
+      "dstore-ehrenamtsdaten",
+      "dstore-einwilligung-widerruf"
+    ]
+  },
+  "vvt-50-005": {
+    "titel": "Betreuung der kommunalen Unterkünfte für Geflüchtete",
+    "organisationseinheit": "oe-amt-50",
+    "verfahren_vertraulich": true,
+    "fallgruppe": "sozialleistung",
+    "effektive_schutzstufe": "E",
+    "datenspeicher": [
+      "dstore-personenstammdaten-vertraulich",
+      "dstore-wohnraumnachweis-aufenthalt",
+      "dstore-sozialdaten",
+      "dstore-schutzbeduerftigkeitskennzeichen"
+    ]
+  },
+  "vvt-50-006": {
+    "titel": "Beratung im Pflegestützpunkt (§ 7c SGB XI)",
+    "organisationseinheit": "oe-amt-50",
+    "verfahren_vertraulich": true,
+    "fallgruppe": "sozialleistung",
+    "effektive_schutzstufe": "D",
+    "datenspeicher": [
+      "dstore-personenstammdaten-vertraulich",
+      "dstore-kontaktdaten-vertraulich",
+      "dstore-sozialdaten",
+      "dstore-gesundheitsdaten",
+      "dstore-pflegegrad-pflegeleistungen",
+      "dstore-beratungsdokumentation"
+    ]
+  },
+  "vvt-50-007": {
+    "titel": "Behindertenberatung (Terminvereinbarung und Beratungssachverhalte)",
+    "organisationseinheit": "oe-amt-50",
+    "verfahren_vertraulich": true,
+    "fallgruppe": "sozialleistung",
+    "effektive_schutzstufe": "D",
+    "datenspeicher": [
+      "dstore-personenstammdaten-vertraulich",
+      "dstore-kontaktdaten-vertraulich",
+      "dstore-termin-und-vorsprachedaten",
+      "dstore-beratungsdokumentation",
+      "dstore-gesundheitsdaten",
+      "dstore-schwerbehindertennachweis"
+    ]
+  },
+  "vvt-50-008": {
+    "titel": "Abrechnung Behindertenbeirat (Reisekosten und Aufwandsentschädigung)",
+    "organisationseinheit": "oe-amt-50",
+    "verfahren_vertraulich": true,
+    "fallgruppe": "sozialleistung",
+    "effektive_schutzstufe": "D",
+    "datenspeicher": [
+      "dstore-personenstammdaten-vertraulich",
+      "dstore-kontaktdaten-vertraulich",
+      "dstore-ehrenamtsdaten",
+      "dstore-aufwandsentschaedigung-ehrenamt"
+    ]
+  },
+  "vvt-50-009": {
+    "titel": "Mehraufwandsentschädigungen bei Arbeitsgelegenheiten (§ 16d SGB II)",
+    "organisationseinheit": "oe-amt-50",
+    "verfahren_vertraulich": true,
+    "fallgruppe": "sozialleistung",
+    "effektive_schutzstufe": "D",
+    "datenspeicher": [
+      "dstore-personenstammdaten-vertraulich",
+      "dstore-kontaktdaten-vertraulich",
+      "dstore-leistungsbezug-sozialleistung"
+    ]
+  },
+  "vvt-51-001": {
+    "titel": "Hilfen zur Erziehung — Antrag, Hilfeplanung und Fallsteuerung (§§ 27, 36 SGB VIII)",
+    "organisationseinheit": "oe-amt-51",
+    "verfahren_vertraulich": true,
+    "fallgruppe": "jugendhilfe",
+    "effektive_schutzstufe": "E",
+    "datenspeicher": [
+      "dstore-personenstammdaten-vertraulich",
+      "dstore-elternbezug-abstammung",
+      "dstore-sozialdaten",
+      "dstore-jugendhilfeakte"
+    ]
+  },
+  "vvt-51-002": {
+    "titel": "Ambulante Erziehungshilfen (Erziehungsberatung, sozialpädagogische Familienhilfe, Einzelbetreuung, §§ 28–31 SGB VIII)",
+    "organisationseinheit": "oe-amt-51",
+    "verfahren_vertraulich": true,
+    "fallgruppe": "jugendhilfe",
+    "effektive_schutzstufe": "E",
+    "datenspeicher": [
+      "dstore-personenstammdaten-vertraulich",
+      "dstore-jugendhilfeakte",
+      "dstore-gesundheitsdaten",
+      "dstore-haushaltsmitglieder"
+    ]
+  },
+  "vvt-51-003": {
+    "titel": "Familienanaloge Hilfen und Pflegekinderdienst (Vollzeitpflege, Heimerziehung, §§ 33–34 SGB VIII)",
+    "organisationseinheit": "oe-amt-51",
+    "verfahren_vertraulich": true,
+    "fallgruppe": "jugendhilfe",
+    "effektive_schutzstufe": "E",
+    "datenspeicher": [
+      "dstore-personenstammdaten-vertraulich",
+      "dstore-jugendhilfeakte",
+      "dstore-gesundheitsdaten",
+      "dstore-fuehrungszeugnis"
+    ]
+  },
+  "vvt-51-004": {
+    "titel": "Kindertagesbetreuung (Anmeldeservice, Vermittlung Kita-Plätze, Servicebüro, Förderung in Tageseinrichtungen)",
+    "organisationseinheit": "oe-amt-51",
+    "verfahren_vertraulich": false,
+    "fallgruppe": null,
+    "effektive_schutzstufe": "D",
+    "datenspeicher": [
+      "dstore-personenstammdaten",
+      "dstore-meldeadresse-wohnsitz",
+      "dstore-elternbezug-abstammung",
+      "dstore-kita-anmeldedaten",
+      "dstore-kitadaten"
+    ]
+  },
+  "vvt-51-005": {
+    "titel": "Kindertagespflege (Vermittlung, Eignungsprüfung, Betreuung durch Tagespflegepersonen)",
+    "organisationseinheit": "oe-amt-51",
+    "verfahren_vertraulich": false,
+    "fallgruppe": null,
+    "effektive_schutzstufe": "D",
+    "datenspeicher": [
+      "dstore-personenstammdaten",
+      "dstore-kontaktdaten",
+      "dstore-einkommensnachweise-haushalt",
+      "dstore-kita-anmeldedaten",
+      "dstore-lebenslauf-qualifikationsnachweis",
+      "dstore-fuehrungszeugnis"
+    ]
+  },
+  "vvt-51-006": {
+    "titel": "Fachberatung Kindertageseinrichtungen (inkl. Sprach-Kitas)",
+    "organisationseinheit": "oe-amt-51",
+    "verfahren_vertraulich": false,
+    "fallgruppe": null,
+    "effektive_schutzstufe": "D",
+    "datenspeicher": [
+      "dstore-personenstammdaten",
+      "dstore-lebenslauf-qualifikationsnachweis",
+      "dstore-beratungsdokumentation"
+    ]
+  },
+  "vvt-51-007": {
+    "titel": "Beistandschaften, Vaterschaftsfeststellung, Unterhaltsberatung/-prüfung, Beurkundungen im Jugendamt",
+    "organisationseinheit": "oe-amt-51",
+    "verfahren_vertraulich": true,
+    "fallgruppe": "jugendhilfe",
+    "effektive_schutzstufe": "D",
+    "datenspeicher": [
+      "dstore-personenstammdaten-vertraulich",
+      "dstore-kontaktdaten-vertraulich",
+      "dstore-staatsangehoerigkeit",
+      "dstore-familienstand-ehebezug",
+      "dstore-personenstand",
+      "dstore-elternbezug-abstammung",
+      "dstore-vaterschaftsanerkennung",
+      "dstore-sorgerechtserklaerung",
+      "dstore-sorgerechtsnachweis",
+      "dstore-einkommensdaten",
+      "dstore-sozialdaten",
+      "dstore-bankverbindung-vertraulich",
+      "dstore-unterhaltszahlungen-ansprueche"
+    ]
+  },
+  "vvt-51-008": {
+    "titel": "Unterhaltsvorschuss (UVG)",
+    "organisationseinheit": "oe-amt-51",
+    "verfahren_vertraulich": true,
+    "fallgruppe": "jugendhilfe",
+    "effektive_schutzstufe": "D",
+    "datenspeicher": [
+      "dstore-personenstammdaten-vertraulich",
+      "dstore-elternbezug-abstammung",
+      "dstore-einkommensdaten",
+      "dstore-bankverbindung-vertraulich",
+      "dstore-staatsangehoerigkeit-aufenthaltsstatus",
+      "dstore-sozialdaten",
+      "dstore-unterhaltszahlungen-ansprueche"
+    ]
+  },
+  "vvt-51-009": {
+    "titel": "Kindeswohlschutz (§ 8a SGB VIII, Rufbereitschaft, Inobhutnahme § 42 SGB VIII)",
+    "organisationseinheit": "oe-amt-51",
+    "verfahren_vertraulich": true,
+    "fallgruppe": "jugendhilfe",
+    "effektive_schutzstufe": "E",
+    "datenspeicher": [
+      "dstore-personenstammdaten-vertraulich",
+      "dstore-sozialdaten",
+      "dstore-jugendhilfeakte",
+      "dstore-gesundheitsdaten",
+      "dstore-meldedaten",
+      "dstore-adresse-vertraulich",
+      "dstore-schutzbeduerftigkeitskennzeichen"
+    ]
+  },
+  "vvt-51-010": {
+    "titel": "Amtsvormundschaften (Jugendliche und Eltern)",
+    "organisationseinheit": "oe-amt-51",
+    "verfahren_vertraulich": true,
+    "fallgruppe": "jugendhilfe",
+    "effektive_schutzstufe": "E",
+    "datenspeicher": [
+      "dstore-personenstammdaten-vertraulich",
+      "dstore-sozialdaten",
+      "dstore-familienstand-ehebezug",
+      "dstore-einkommensdaten",
+      "dstore-sorgerechtsnachweis",
+      "dstore-jugendhilfeakte",
+      "dstore-gesundheitsdaten",
+      "dstore-aufenthaltstitel",
+      "dstore-krankenversicherungsbeitraege"
+    ]
+  },
+  "vvt-51-011": {
+    "titel": "Elterngeld (BEEG)",
+    "organisationseinheit": "oe-amt-51",
+    "verfahren_vertraulich": false,
+    "fallgruppe": null,
+    "effektive_schutzstufe": "D",
+    "datenspeicher": [
+      "dstore-personenstammdaten",
+      "dstore-adresse",
+      "dstore-geburtsdaten-kind",
+      "dstore-elterngeld",
+      "dstore-erwerbseinkommen-bemessungszeitraum",
+      "dstore-elternbezug-abstammung",
+      "dstore-sozialdaten"
+    ]
+  },
+  "vvt-51-012": {
+    "titel": "Mitwirkung in gerichtlichen Verfahren (Familiengericht § 50 SGB VIII, Jugendgerichtshilfe § 52 SGB VIII / § 38 JGG)",
+    "organisationseinheit": "oe-amt-51",
+    "verfahren_vertraulich": true,
+    "fallgruppe": "jugendhilfe",
+    "effektive_schutzstufe": "E",
+    "datenspeicher": [
+      "dstore-personenstammdaten-vertraulich",
+      "dstore-sozialdaten",
+      "dstore-jugendhilfeakte",
+      "dstore-jugendgerichtshilfe-tatvorwurf"
+    ]
+  },
+  "vvt-51-013": {
+    "titel": "Jugendarbeit, Jugendsozialarbeit, Jugendschutz und Förderung von Jugendverbänden (§§ 11-14 SGB VIII)",
+    "organisationseinheit": "oe-amt-51",
+    "verfahren_vertraulich": false,
+    "fallgruppe": null,
+    "effektive_schutzstufe": "D",
+    "datenspeicher": [
+      "dstore-personenstammdaten",
+      "dstore-adresse",
+      "dstore-sozialdaten",
+      "dstore-foerderantrag",
+      "dstore-fuehrungszeugnis"
+    ]
+  },
+  "vvt-51-014": {
+    "titel": "Wirtschaftliche Jugendhilfe (Kostenbeiträge, Heranziehung)",
+    "organisationseinheit": "oe-amt-51",
+    "verfahren_vertraulich": true,
+    "fallgruppe": "jugendhilfe",
+    "effektive_schutzstufe": "E",
+    "datenspeicher": [
+      "dstore-personenstammdaten-vertraulich",
+      "dstore-einkommensnachweise-haushalt",
+      "dstore-sozialdaten",
+      "dstore-gesundheitsdaten",
+      "dstore-jugendhilfeakte",
+      "dstore-einkommensdaten"
+    ]
+  },
+  "vvt-51-015": {
+    "titel": "Elternbeitragsangelegenheiten Kitas",
+    "organisationseinheit": "oe-amt-51",
+    "verfahren_vertraulich": false,
+    "fallgruppe": null,
+    "effektive_schutzstufe": "D",
+    "datenspeicher": [
+      "dstore-personenstammdaten",
+      "dstore-kitadaten",
+      "dstore-einkommensnachweise-haushalt",
+      "dstore-gebuehrenbescheid-zahlungsdaten"
+    ]
+  },
+  "vvt-51-016": {
+    "titel": "Leistungsvereinbarungen mit freien Trägern der Jugendhilfe",
+    "organisationseinheit": "oe-amt-51",
+    "verfahren_vertraulich": false,
+    "fallgruppe": null,
+    "effektive_schutzstufe": "C",
+    "datenspeicher": [
+      "dstore-personenstammdaten",
+      "dstore-kontaktdaten",
+      "dstore-leistungsvereinbarung-freier-traeger"
+    ]
+  },
+  "vvt-51-017": {
+    "titel": "Adoptionsvermittlung",
+    "organisationseinheit": "oe-amt-51",
+    "verfahren_vertraulich": true,
+    "fallgruppe": "jugendhilfe",
+    "effektive_schutzstufe": "D",
+    "datenspeicher": [
+      "dstore-personenstammdaten-vertraulich",
+      "dstore-familienstand-ehebezug",
+      "dstore-gesundheitsdaten",
+      "dstore-elternbezug-abstammung",
+      "dstore-fuehrungszeugnis",
+      "dstore-einkommensnachweise-haushalt"
+    ]
+  },
+  "vvt-52-001": {
+    "titel": "Eingliederungshilfe SGB IX (Beratung, Bedarfsermittlung, Teilhabe- und Gesamtplanverfahren, Leistungsgewährung)",
+    "organisationseinheit": "oe-amt-52",
+    "verfahren_vertraulich": true,
+    "fallgruppe": "eingliederungshilfe",
+    "effektive_schutzstufe": "D",
+    "datenspeicher": [
+      "dstore-personenstammdaten-vertraulich",
+      "dstore-adresse-vertraulich",
+      "dstore-gesundheitsdaten",
+      "dstore-sozialdaten",
+      "dstore-leistungsbezug-sozialleistung"
+    ]
+  },
+  "vvt-53-001": {
+    "titel": "Meldewesen nach IfSG (übertragbare Krankheiten, Tuberkulosefürsorge)",
+    "organisationseinheit": "oe-amt-53",
+    "verfahren_vertraulich": true,
+    "fallgruppe": "gesundheitsamt",
+    "effektive_schutzstufe": "D",
+    "datenspeicher": [
+      "dstore-personenstammdaten-vertraulich",
+      "dstore-adresse-vertraulich",
+      "dstore-gesundheitsdaten",
+      "dstore-infektionsschutzdaten"
+    ]
+  },
+  "vvt-53-002": {
+    "titel": "Prostituiertenschutz — Anmeldeverfahren und gesundheitliche Beratung (§§ 3, 10 ProstSchG)",
+    "organisationseinheit": "oe-amt-53",
+    "verfahren_vertraulich": true,
+    "fallgruppe": "gesundheitsamt",
+    "effektive_schutzstufe": "E",
+    "datenspeicher": [
+      "dstore-personenstammdaten-vertraulich",
+      "dstore-gesundheitszeugnis",
+      "dstore-gesundheitsdaten",
+      "dstore-anmeldebescheinigung-prostschg",
+      "dstore-schutzbeduerftigkeitskennzeichen"
+    ]
+  },
+  "vvt-53-003": {
+    "titel": "Berufsaufsicht Heilberufe (Hebammen und Heilpraktiker)",
+    "organisationseinheit": "oe-amt-53",
+    "verfahren_vertraulich": false,
+    "fallgruppe": null,
+    "effektive_schutzstufe": "D",
+    "datenspeicher": [
+      "dstore-personenstammdaten",
+      "dstore-lebenslauf-qualifikationsnachweis",
+      "dstore-heilpraktikererlaubnisverfahren",
+      "dstore-hebammenanzeige"
+    ]
+  },
+  "vvt-53-004": {
+    "titel": "Einsichtnahme in Todesbescheinigungen (Nds. BestattG)",
+    "organisationseinheit": "oe-amt-53",
+    "verfahren_vertraulich": true,
+    "fallgruppe": "gesundheitsamt",
+    "effektive_schutzstufe": "D",
+    "datenspeicher": [
+      "dstore-personenstammdaten-vertraulich",
+      "dstore-vollmacht-vertretung-berechtigung",
+      "dstore-todesbescheinigung"
+    ]
+  },
+  "vvt-53-005": {
+    "titel": "Gesundheitsberatung",
+    "organisationseinheit": "oe-amt-53",
+    "verfahren_vertraulich": true,
+    "fallgruppe": "gesundheitsamt",
+    "effektive_schutzstufe": "D",
+    "datenspeicher": [
+      "dstore-personenstammdaten-vertraulich",
+      "dstore-kontaktdaten-vertraulich",
+      "dstore-gesundheitsdaten",
+      "dstore-beratungsdokumentation",
+      "dstore-einwilligung-widerruf"
+    ]
+  },
+  "vvt-53-006": {
+    "titel": "Erlaubnisse für Tätigkeiten mit Krankheitserregern (§ 44 IfSG)",
+    "organisationseinheit": "oe-amt-53",
+    "verfahren_vertraulich": false,
+    "fallgruppe": null,
+    "effektive_schutzstufe": "D",
+    "datenspeicher": [
+      "dstore-personenstammdaten",
+      "dstore-adresse",
+      "dstore-genehmigung",
+      "dstore-lebenslauf-qualifikationsnachweis",
+      "dstore-gebuehrenbescheid-zahlungsdaten",
+      "dstore-unternehmens-und-registerdaten",
+      "dstore-fuehrungszeugnis"
+    ]
+  },
+  "vvt-53-007": {
+    "titel": "Belehrung nach § 43 IfSG (Umgang mit Lebensmitteln)",
+    "organisationseinheit": "oe-amt-53",
+    "verfahren_vertraulich": false,
+    "fallgruppe": null,
+    "effektive_schutzstufe": "C",
+    "datenspeicher": [
+      "dstore-personenstammdaten",
+      "dstore-adresse",
+      "dstore-bescheinigung"
+    ]
+  },
+  "vvt-53-008": {
+    "titel": "Entschädigungsanträge nach Tätigkeitsverbot (§ 56 IfSG — Verdienstausfall)",
+    "organisationseinheit": "oe-amt-53",
+    "verfahren_vertraulich": true,
+    "fallgruppe": "gesundheitsamt",
+    "effektive_schutzstufe": "D",
+    "datenspeicher": [
+      "dstore-personenstammdaten-vertraulich",
+      "dstore-kontaktdaten-vertraulich",
+      "dstore-gesundheitsdaten",
+      "dstore-infektionsschutzdaten",
+      "dstore-bankverbindung-vertraulich",
+      "dstore-einkommensdaten",
+      "dstore-haushaltsmitglieder"
+    ]
+  },
+  "vvt-53-009": {
+    "titel": "Amtsärztlicher Dienst (Gutachten, Untersuchungen)",
+    "organisationseinheit": "oe-amt-53",
+    "verfahren_vertraulich": true,
+    "fallgruppe": "gesundheitsamt",
+    "effektive_schutzstufe": "D",
+    "datenspeicher": [
+      "dstore-personenstammdaten-vertraulich",
+      "dstore-adresse-vertraulich",
+      "dstore-amtsaerztliches-zeugnis",
+      "dstore-gesundheitsdaten"
+    ]
+  },
+  "vvt-53-010": {
+    "titel": "AIDS-Beratung (pseudonyme HIV-Beratung und -Testung)",
+    "organisationseinheit": "oe-amt-53",
+    "verfahren_vertraulich": false,
+    "fallgruppe": null,
+    "effektive_schutzstufe": "E",
+    "datenspeicher": [
+      "dstore-hiv-beratung-pseudonym",
+      "dstore-gesundheitsdaten"
+    ]
+  },
+  "vvt-54-001": {
+    "titel": "Unterbringungsverfahren nach NPsychKG",
+    "organisationseinheit": "oe-amt-54",
+    "verfahren_vertraulich": true,
+    "fallgruppe": "sozialpsychiatrie",
+    "effektive_schutzstufe": "E",
+    "datenspeicher": [
+      "dstore-personenstammdaten-vertraulich",
+      "dstore-gesundheitsdaten",
+      "dstore-unterbringung-npsychkg",
+      "dstore-schutzbeduerftigkeitskennzeichen"
+    ]
+  },
+  "vvt-54-002": {
+    "titel": "Sozialpsychiatrischer Verbund (SPV) und Sozialpsychiatrischer Plan (§§ 8, 9 NPsychKG)",
+    "organisationseinheit": "oe-amt-54",
+    "verfahren_vertraulich": true,
+    "fallgruppe": "sozialpsychiatrie",
+    "effektive_schutzstufe": "E",
+    "datenspeicher": [
+      "dstore-personenstammdaten-vertraulich",
+      "dstore-kontaktdaten-vertraulich",
+      "dstore-adresse-vertraulich",
+      "dstore-schutzbeduerftigkeitskennzeichen"
+    ]
+  },
+  "vvt-54-003": {
+    "titel": "Sozialpsychiatrische Hilfen und Schutzmaßnahmen für psychisch Kranke",
+    "organisationseinheit": "oe-amt-54",
+    "verfahren_vertraulich": true,
+    "fallgruppe": "sozialpsychiatrie",
+    "effektive_schutzstufe": "E",
+    "datenspeicher": [
+      "dstore-personenstammdaten-vertraulich",
+      "dstore-adresse-vertraulich",
+      "dstore-gesundheitsdaten",
+      "dstore-beratungsdokumentation",
+      "dstore-einwilligung-widerruf",
+      "dstore-schutzbeduerftigkeitskennzeichen"
+    ]
+  },
+  "vvt-60-001": {
+    "titel": "Umweltrechtliche Genehmigungsverfahren (Immissionsschutz, Wasser, Boden, Abfall inkl. Feuerstättenrecht)",
+    "organisationseinheit": "oe-amt-60",
+    "verfahren_vertraulich": false,
+    "fallgruppe": null,
+    "effektive_schutzstufe": "C",
+    "datenspeicher": [
+      "dstore-personenstammdaten",
+      "dstore-adresse",
+      "dstore-umweltdaten",
+      "dstore-genehmigung"
+    ]
+  },
+  "vvt-60-002": {
+    "titel": "Auskünfte nach UIG (Umweltinformationen, Naturschutz-/Waldrecht, Bau-Umweltrecht)",
+    "organisationseinheit": "oe-amt-60",
+    "verfahren_vertraulich": false,
+    "fallgruppe": null,
+    "effektive_schutzstufe": "D",
+    "datenspeicher": [
+      "dstore-personenstammdaten",
+      "dstore-kontaktdaten",
+      "dstore-adresse",
+      "dstore-beschwerde-anregungsdaten",
+      "dstore-umweltdaten"
+    ]
+  },
+  "vvt-60-003": {
+    "titel": "Naturschutz- und Waldrecht (Genehmigungs- und Schutzverfahren, Artenschutz, Schutzgebiete)",
+    "organisationseinheit": "oe-amt-60",
+    "verfahren_vertraulich": false,
+    "fallgruppe": null,
+    "effektive_schutzstufe": "C",
+    "datenspeicher": [
+      "dstore-personenstammdaten",
+      "dstore-adresse",
+      "dstore-umweltdaten",
+      "dstore-genehmigung"
+    ]
+  },
+  "vvt-60-004": {
+    "titel": "OWi-Verfahren im Umwelt- und Naturschutzrecht",
+    "organisationseinheit": "oe-amt-60",
+    "verfahren_vertraulich": true,
+    "fallgruppe": "ordnungswidrigkeit",
+    "effektive_schutzstufe": "D",
+    "datenspeicher": [
+      "dstore-personenstammdaten-vertraulich",
+      "dstore-adresse-vertraulich",
+      "dstore-bussgeldakte",
+      "dstore-umweltdaten"
+    ]
+  },
+  "vvt-60-005": {
+    "titel": "Kommunale Umwelt-, Klima- und Sanierungsförderprogramme (Zuwendungsverfahren)",
+    "organisationseinheit": "oe-amt-60",
+    "verfahren_vertraulich": false,
+    "fallgruppe": null,
+    "effektive_schutzstufe": "C",
+    "datenspeicher": [
+      "dstore-personenstammdaten",
+      "dstore-adresse",
+      "dstore-foerderantrag",
+      "dstore-umweltdaten"
+    ]
+  },
+  "vvt-60-006": {
+    "titel": "Benennung Waldbrandbeauftragte",
+    "organisationseinheit": "oe-amt-60",
+    "verfahren_vertraulich": false,
+    "fallgruppe": null,
+    "effektive_schutzstufe": "C",
+    "datenspeicher": [
+      "dstore-personenstammdaten",
+      "dstore-kontaktdaten"
+    ]
+  },
+  "vvt-60-007": {
+    "titel": "Schornsteinfegerwesen (Bezirksschornsteinfeger)",
+    "organisationseinheit": "oe-amt-60",
+    "verfahren_vertraulich": false,
+    "fallgruppe": null,
+    "effektive_schutzstufe": "C",
+    "datenspeicher": [
+      "dstore-personenstammdaten",
+      "dstore-kontaktdaten",
+      "dstore-kehrbezirk-bestellung",
+      "dstore-kehrbuch-feuerstaettenschau"
+    ]
+  },
+  "vvt-60-008": {
+    "titel": "Bereitstellung von Geodatendienstleistungen",
+    "organisationseinheit": "oe-amt-60",
+    "verfahren_vertraulich": false,
+    "fallgruppe": null,
+    "effektive_schutzstufe": "C",
+    "datenspeicher": [
+      "dstore-personenstammdaten",
+      "dstore-kontaktdaten",
+      "dstore-gebuehrenbescheid-zahlungsdaten"
+    ]
+  },
+  "vvt-60-009": {
+    "titel": "Kommunale Abfallentsorgung (Rest-/Biomüll, zentrale Gebührenerhebung)",
+    "organisationseinheit": "oe-amt-60",
+    "verfahren_vertraulich": false,
+    "fallgruppe": null,
+    "effektive_schutzstufe": "D",
+    "datenspeicher": [
+      "dstore-abfallbehaelter-gebuehrenobjekt",
+      "dstore-abfallentsorgungsrhythmus",
+      "dstore-sepa-lastschriftmandat",
+      "dstore-gebuehrenbescheid-zahlungsdaten",
+      "dstore-kassenzeichen-buchungsreferenz",
+      "dstore-mahn-vollstreckungsstatus"
+    ]
+  },
+  "vvt-60-010": {
+    "titel": "Abfallberatung, Öffentlichkeitsarbeit und Wertstoffsammlungen",
+    "organisationseinheit": "oe-amt-60",
+    "verfahren_vertraulich": false,
+    "fallgruppe": null,
+    "effektive_schutzstufe": "B",
+    "datenspeicher": [
+      "dstore-abfallbehaelter-gebuehrenobjekt",
+      "dstore-abfallentsorgungsrhythmus",
+      "dstore-kontaktdaten",
+      "dstore-person"
+    ]
+  },
+  "vvt-60-011": {
+    "titel": "Altlastenverzeichnis und Bodeninformationen (Registerführung)",
+    "organisationseinheit": "oe-amt-60",
+    "verfahren_vertraulich": false,
+    "fallgruppe": null,
+    "effektive_schutzstufe": "C",
+    "datenspeicher": [
+      "dstore-flur-flurstueck-lagebezeichnung",
+      "dstore-grundstuecksbezug",
+      "dstore-bodengutachten-gruendung",
+      "dstore-umweltdaten"
+    ]
+  },
+  "vvt-60-012": {
+    "titel": "Überwachung im Bereich Gewässer, Boden und Abfall",
+    "organisationseinheit": "oe-amt-60",
+    "verfahren_vertraulich": true,
+    "fallgruppe": "ordnungswidrigkeit",
+    "effektive_schutzstufe": "D",
+    "datenspeicher": [
+      "dstore-umweltdaten",
+      "dstore-betriebsdaten",
+      "dstore-grundstuecksbezug",
+      "dstore-beschwerde-anregungsdaten",
+      "dstore-verwaltungsakte-vertraulich"
+    ]
+  },
+  "vvt-61-001": {
+    "titel": "Bauleitplanung und Öffentlichkeitsbeteiligung nach BauGB (Flächennutzungs- und Bebauungspläne)",
+    "organisationseinheit": "oe-amt-61",
+    "verfahren_vertraulich": false,
+    "fallgruppe": null,
+    "effektive_schutzstufe": "D",
+    "datenspeicher": [
+      "dstore-personenstammdaten",
+      "dstore-adresse",
+      "dstore-bebauungsplan",
+      "dstore-grundstuecksbezug",
+      "dstore-stellungnahme-planverfahren"
+    ]
+  },
+  "vvt-61-002": {
+    "titel": "Planerische Stellungnahmen, Anregungen und Bürgereingaben (informelle Beteiligung außerhalb BauGB-Verfahren)",
+    "organisationseinheit": "oe-amt-61",
+    "verfahren_vertraulich": false,
+    "fallgruppe": null,
+    "effektive_schutzstufe": "D",
+    "datenspeicher": [
+      "dstore-personenstammdaten",
+      "dstore-kontaktdaten",
+      "dstore-beschwerde-anregungsdaten",
+      "dstore-stellungnahme-planverfahren"
+    ]
+  },
+  "vvt-61-003": {
+    "titel": "Rahmenplanungen und informelle Stadtentwicklungsplanung",
+    "organisationseinheit": "oe-amt-61",
+    "verfahren_vertraulich": false,
+    "fallgruppe": null,
+    "effektive_schutzstufe": "C",
+    "datenspeicher": [
+      "dstore-personenstammdaten",
+      "dstore-adresse",
+      "dstore-bebauungsplan",
+      "dstore-grundstuecksbezug"
+    ]
+  },
+  "vvt-61-004": {
+    "titel": "Durchführung städtebaulicher Sanierungen (§§ 136 ff. BauGB)",
+    "organisationseinheit": "oe-amt-61",
+    "verfahren_vertraulich": false,
+    "fallgruppe": null,
+    "effektive_schutzstufe": "C",
+    "datenspeicher": [
+      "dstore-personenstammdaten",
+      "dstore-adresse",
+      "dstore-grundstuecksbezug",
+      "dstore-foerderantrag"
+    ]
+  },
+  "vvt-61-005": {
+    "titel": "Städtebauliche Verträge (§ 11 BauGB)",
+    "organisationseinheit": "oe-amt-61",
+    "verfahren_vertraulich": false,
+    "fallgruppe": null,
+    "effektive_schutzstufe": "C",
+    "datenspeicher": [
+      "dstore-personenstammdaten",
+      "dstore-adresse",
+      "dstore-grundstuecksbezug"
+    ]
+  },
+  "vvt-62-001": {
+    "titel": "Hoheitliche Vermessung, Vermessungsakten- und Auftragsverwaltung, Abrechnung",
+    "organisationseinheit": "oe-amt-62",
+    "verfahren_vertraulich": false,
+    "fallgruppe": null,
+    "effektive_schutzstufe": "C",
+    "datenspeicher": [
+      "dstore-personenstammdaten",
+      "dstore-adresse",
+      "dstore-flur-flurstueck-lagebezeichnung",
+      "dstore-gebuehrenbescheid-zahlungsdaten"
+    ]
+  },
+  "vvt-63-001": {
+    "titel": "Baurechtliche und brandschutzrechtliche Verfahren (Baugenehmigung, gemeindliche Stellungnahmen)",
+    "organisationseinheit": "oe-amt-63",
+    "verfahren_vertraulich": false,
+    "fallgruppe": null,
+    "effektive_schutzstufe": "C",
+    "datenspeicher": [
+      "dstore-personenstammdaten",
+      "dstore-adresse",
+      "dstore-bauvorhabensdaten",
+      "dstore-bauzeichnung-planunterlagen",
+      "dstore-brandschutznachweis"
+    ]
+  },
+  "vvt-63-002": {
+    "titel": "Bodenordnungsverfahren (Umlegung nach §§ 45 ff. BauGB)",
+    "organisationseinheit": "oe-amt-63",
+    "verfahren_vertraulich": false,
+    "fallgruppe": null,
+    "effektive_schutzstufe": "C",
+    "datenspeicher": [
+      "dstore-personenstammdaten",
+      "dstore-flur-flurstueck-lagebezeichnung",
+      "dstore-grundstuecksdaten"
+    ]
+  },
+  "vvt-63-003": {
+    "titel": "Baulastenauskünfte (§ 81 NBauO)",
+    "organisationseinheit": "oe-amt-63",
+    "verfahren_vertraulich": false,
+    "fallgruppe": null,
+    "effektive_schutzstufe": "C",
+    "datenspeicher": [
+      "dstore-personenstammdaten",
+      "dstore-baulastenauszug",
+      "dstore-grundstuecksbezug"
+    ]
+  },
+  "vvt-63-004": {
+    "titel": "Prüfung des gemeindlichen Vorkaufsrechts (§§ 24-28 BauGB)",
+    "organisationseinheit": "oe-amt-63",
+    "verfahren_vertraulich": false,
+    "fallgruppe": null,
+    "effektive_schutzstufe": "C",
+    "datenspeicher": [
+      "dstore-personenstammdaten",
+      "dstore-adresse",
+      "dstore-grundstuecksbezug",
+      "dstore-kaufvertragsdaten-immobilie"
+    ]
+  },
+  "vvt-63-005": {
+    "titel": "Baufertigstellungsstatistik (Meldung an amtliche Statistik)",
+    "organisationseinheit": "oe-amt-63",
+    "verfahren_vertraulich": false,
+    "fallgruppe": null,
+    "effektive_schutzstufe": "C",
+    "datenspeicher": [
+      "dstore-personenstammdaten",
+      "dstore-bauvorhabensdaten"
+    ]
+  },
+  "vvt-64-001": {
+    "titel": "Wohnungsbauförderung",
+    "organisationseinheit": "oe-amt-64",
+    "verfahren_vertraulich": false,
+    "fallgruppe": null,
+    "effektive_schutzstufe": "D",
+    "datenspeicher": [
+      "dstore-personenstammdaten",
+      "dstore-foerderantrag",
+      "dstore-darlehensverpflichtung-eigenheim",
+      "dstore-einkommensnachweise-haushalt",
+      "dstore-wohnflaeche-nutzflaeche"
+    ]
+  },
+  "vvt-64-002": {
+    "titel": "Städtebauliche Sanierung — sanierungsrechtliche Datenprüfung (§§ 136 ff. BauGB)",
+    "organisationseinheit": "oe-amt-64",
+    "verfahren_vertraulich": false,
+    "fallgruppe": null,
+    "effektive_schutzstufe": "C",
+    "datenspeicher": [
+      "dstore-personenstammdaten",
+      "dstore-kaufvertragsdaten-immobilie",
+      "dstore-grundstuecksdaten",
+      "dstore-mietvertrag-miethoehe"
+    ]
+  },
+  "vvt-64-003": {
+    "titel": "Wohngeldanträge",
+    "organisationseinheit": "oe-amt-64",
+    "verfahren_vertraulich": true,
+    "fallgruppe": "sozialleistung",
+    "effektive_schutzstufe": "D",
+    "datenspeicher": [
+      "dstore-personenstammdaten-vertraulich",
+      "dstore-adresse-vertraulich",
+      "dstore-einkommens-und-leistungsdaten",
+      "dstore-wohngeld"
+    ]
+  },
+  "vvt-66-001": {
+    "titel": "Friedhofsverwaltung (Grabstätten, Bestattungen, Krematoriumsdienste)",
+    "organisationseinheit": "oe-amt-66",
+    "verfahren_vertraulich": false,
+    "fallgruppe": null,
+    "effektive_schutzstufe": "D",
+    "datenspeicher": [
+      "dstore-personenstammdaten",
+      "dstore-sterbeurkunde",
+      "dstore-kommunaler-miet-nutzungsvertrag",
+      "dstore-grabstaette-belegung"
+    ]
+  },
+  "vvt-66-002": {
+    "titel": "Widmungs- und Gestattungsverträge (Straßennutzung, Leitungsverlegung)",
+    "organisationseinheit": "oe-amt-66",
+    "verfahren_vertraulich": false,
+    "fallgruppe": null,
+    "effektive_schutzstufe": "C",
+    "datenspeicher": [
+      "dstore-personenstammdaten",
+      "dstore-adresse",
+      "dstore-sondernutzung-oeffentlicher-raum"
+    ]
+  },
+  "vvt-66-003": {
+    "titel": "Schadensregulierung an städtischer Infrastruktur (inkl. Lichtsignalanlagen)",
+    "organisationseinheit": "oe-amt-66",
+    "verfahren_vertraulich": false,
+    "fallgruppe": null,
+    "effektive_schutzstufe": "D",
+    "datenspeicher": [
+      "dstore-personenstammdaten",
+      "dstore-kontaktdaten",
+      "dstore-kfz-daten",
+      "dstore-sicherheitsmangelmeldung",
+      "dstore-rechnungsdaten",
+      "dstore-debitoren-kreditorendaten",
+      "dstore-forderungstitel-vollstreckung"
+    ]
+  },
+  "vvt-66-004": {
+    "titel": "Städtebauliche Sanierungs- und Förderverfahren",
+    "organisationseinheit": "oe-amt-66",
+    "verfahren_vertraulich": false,
+    "fallgruppe": null,
+    "effektive_schutzstufe": "C",
+    "datenspeicher": [
+      "dstore-personenstammdaten",
+      "dstore-foerderantrag"
+    ]
+  },
+  "vvt-66-005": {
+    "titel": "Städtebauliche Durchführungsverträge und Vorhaben-/Erschließungspläne (§§ 11, 12 BauGB)",
+    "organisationseinheit": "oe-amt-66",
+    "verfahren_vertraulich": false,
+    "fallgruppe": null,
+    "effektive_schutzstufe": "C",
+    "datenspeicher": [
+      "dstore-personenstammdaten",
+      "dstore-adresse",
+      "dstore-erschliessungsbeitragsdaten"
+    ]
+  },
+  "vvt-71-001": {
+    "titel": "Tiergesundheit und Tierseuchenbekämpfung",
+    "organisationseinheit": "oe-amt-71",
+    "verfahren_vertraulich": false,
+    "fallgruppe": null,
+    "effektive_schutzstufe": "C",
+    "datenspeicher": [
+      "dstore-personenstammdaten",
+      "dstore-tierhalterbestand-nutztiere",
+      "dstore-tierseuchenschutzmeldung",
+      "dstore-tiergesundheitszeugnis",
+      "dstore-veterinaerrechtliche-betriebsnummer",
+      "dstore-tierkoerperbeseitigungsnachweis"
+    ]
+  },
+  "vvt-71-002": {
+    "titel": "Tierschutz (Haltungsüberwachung, gefährliche Hunde, Befähigungsnachweise)",
+    "organisationseinheit": "oe-amt-71",
+    "verfahren_vertraulich": true,
+    "fallgruppe": "ordnungswidrigkeit",
+    "effektive_schutzstufe": "D",
+    "datenspeicher": [
+      "dstore-personenstammdaten-vertraulich",
+      "dstore-tierhalterbestand-nutztiere",
+      "dstore-sachkundenachweis-hundehaltung",
+      "dstore-erlaubnis-gefaehrlicher-hund",
+      "dstore-fuehrungszeugnis",
+      "dstore-beissvorfall-schadensereignis"
+    ]
+  },
+  "vvt-71-003": {
+    "titel": "Lebensmittelüberwachung (Betriebskontrollen, Probennahme, Exportatteste)",
+    "organisationseinheit": "oe-amt-71",
+    "verfahren_vertraulich": false,
+    "fallgruppe": null,
+    "effektive_schutzstufe": "C",
+    "datenspeicher": [
+      "dstore-personenstammdaten",
+      "dstore-lebensmittelunternehmerdaten",
+      "dstore-lebensmittelhygienekontrolle"
+    ]
+  },
+  "vvt-71-004": {
+    "titel": "Allgemeiner Verbraucherschutz (Arzneimittelüberwachung, sonstiger Verbraucherschutz)",
+    "organisationseinheit": "oe-amt-71",
+    "verfahren_vertraulich": false,
+    "fallgruppe": null,
+    "effektive_schutzstufe": "C",
+    "datenspeicher": [
+      "dstore-personenstammdaten",
+      "dstore-veterinaerrechtliche-betriebsnummer",
+      "dstore-tierhalterbestand-nutztiere"
+    ]
+  },
+  "vvt-80-001": {
+    "titel": "Standortmarketing, Unternehmensservice und Regionalentwicklung",
+    "organisationseinheit": "oe-amt-80",
+    "verfahren_vertraulich": false,
+    "fallgruppe": null,
+    "effektive_schutzstufe": "C",
+    "datenspeicher": [
+      "dstore-personenstammdaten",
+      "dstore-kontaktdaten",
+      "dstore-unternehmens-und-registerdaten",
+      "dstore-gewerbedaten"
+    ]
+  },
+  "vvt-80-002": {
+    "titel": "Kommunale Förderprogramme für Klimaschutz und energetisches Bauen (PV-Förderung, klimagerechtes Bauen)",
+    "organisationseinheit": "oe-amt-80",
+    "verfahren_vertraulich": false,
+    "fallgruppe": null,
+    "effektive_schutzstufe": "C",
+    "datenspeicher": [
+      "dstore-personenstammdaten",
+      "dstore-foerderantrag",
+      "dstore-unternehmens-und-registerdaten"
+    ]
+  },
+  "vvt-80-003": {
+    "titel": "Gestattungsvereinbarungen Glasfaserausbau",
+    "organisationseinheit": "oe-amt-80",
+    "verfahren_vertraulich": false,
+    "fallgruppe": null,
+    "effektive_schutzstufe": "C",
+    "datenspeicher": [
+      "dstore-personenstammdaten",
+      "dstore-kontaktdaten",
+      "dstore-unternehmens-und-registerdaten",
+      "dstore-kommunaler-miet-nutzungsvertrag",
+      "dstore-flur-flurstueck-lagebezeichnung"
+    ]
+  },
+  "vvt-80-004": {
+    "titel": "Fördermittelberatung und -abwicklung (ProInvest, GRW, EFRE/Regionalfonds)",
+    "organisationseinheit": "oe-amt-80",
+    "verfahren_vertraulich": false,
+    "fallgruppe": null,
+    "effektive_schutzstufe": "C",
+    "datenspeicher": [
+      "dstore-personenstammdaten",
+      "dstore-foerderantrag",
+      "dstore-unternehmens-und-registerdaten"
+    ]
+  },
+  "vvt-86-001": {
+    "titel": "Anliegerpflichten und Verkehrssicherung an öffentlichen Straßen (Reinigungspflicht, Wiederherstellung nach Schäden)",
+    "organisationseinheit": "oe-amt-86",
+    "verfahren_vertraulich": false,
+    "fallgruppe": null,
+    "effektive_schutzstufe": "D",
+    "datenspeicher": [
+      "dstore-personenstammdaten",
+      "dstore-bankverbindung",
+      "dstore-flur-flurstueck-lagebezeichnung",
+      "dstore-gebuehrenbescheid-zahlungsdaten",
+      "dstore-bild-und-tonaufnahmen",
+      "dstore-zeugenangaben-schadensfall"
+    ]
+  },
+  "vvt-86-002": {
+    "titel": "Verwaltung von Wegegenossenschaften und Realverbänden",
+    "organisationseinheit": "oe-amt-86",
+    "verfahren_vertraulich": false,
+    "fallgruppe": null,
+    "effektive_schutzstufe": "C",
+    "datenspeicher": [
+      "dstore-personenstammdaten",
+      "dstore-flur-flurstueck-lagebezeichnung",
+      "dstore-sitzungsprotokoll",
+      "dstore-mitgliedschaft-realverband"
+    ]
+  }
+}

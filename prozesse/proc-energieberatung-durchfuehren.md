@@ -16,7 +16,7 @@ regelungen:
 - §§ 1 ff. Gebäudeenergiegesetz (GEG)
 - § 48 GEG (Energieausweis)
 - § 11 NKomVG (Kommunale Einrichtungen)
-leika_id: '99138005000000'
+leika_id: '99138005058000'
 ozg_id: null
 letzte-aktualisierung: '2026-07-10'
 ---

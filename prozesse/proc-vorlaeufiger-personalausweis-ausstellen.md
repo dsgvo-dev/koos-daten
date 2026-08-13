@@ -22,7 +22,7 @@ regelungen:
 - § 9 Gesetz über Personalausweise und den elektronischen Identitätsnachweis (Personalausweisgesetz
   - PAuswG)
 - Personalausweis- und eID-Karten-Gebührenverordnung
-leika_id: '99008001012000'
+leika_id: '99008001012002'
 ozg_id: '10119'
 letzte-aktualisierung: '2026-07-10'
 ---

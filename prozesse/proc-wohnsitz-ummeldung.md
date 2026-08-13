@@ -19,7 +19,7 @@ daten:
   - id: dstore-identitaetsnachweis
 regelungen:
 - Bundesmeldegesetz (BMG)
-leika_id: '99115005070000'
+leika_id: '99115005011000'
 ozg_id: '10124'
 letzte-aktualisierung: '2026-07-10'
 ---

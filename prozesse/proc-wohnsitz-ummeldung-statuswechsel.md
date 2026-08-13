@@ -15,7 +15,6 @@ daten:
   - id: dstore-wohnstatus-haupt-nebenwohnung
   - id: dstore-personenstammdaten
   - id: dstore-identitaetsnachweis
-  - § 21 Bundesmeldegesetz (BMG)
 regelungen:
 - § 21 Bundesmeldegesetz (BMG)
 - § 22 Bundesmeldegesetz (BMG)

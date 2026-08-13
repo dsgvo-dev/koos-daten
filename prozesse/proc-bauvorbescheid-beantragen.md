@@ -12,13 +12,13 @@ daten:
   - id: dstore-bauantrag
   - id: dstore-bauakte
 regelungen:
-- § 75 LBauO M-V
-- §§ 27a VwVfG M-V
+- § 73 Niedersächsische Bauordnung (NBauO) - Bauvoranfrage und Bauvorbescheid
+- § 1 Niedersächsisches Verwaltungsverfahrensgesetz (NVwVfG) i. V. m. § 27a VwVfG
 - §§ 13 BImSchG
 - § 60 WHG
 leika_id: null
 ozg_id: '10519'
-letzte-aktualisierung: '2026-07-10'
+letzte-aktualisierung: '2026-07-28'
 ---
 
 # Bauvorbescheid beantragen

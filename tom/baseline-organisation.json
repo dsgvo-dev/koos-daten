@@ -1,0 +1,219 @@
+{
+  "id": "baseline-organisation",
+  "erstellt_am": "2026-08-12",
+  "beschreibung": "Organisationsweite Grundmaßnahmen — gelten für alle VVT, werden vererbt.",
+  "anzahl": 42,
+  "toms": [
+    {
+      "id": "TOM-AV-001",
+      "name": "Organisatorische Maßnahmen für Auftragsverarbeitung",
+      "kategorie": "AV"
+    },
+    {
+      "id": "TOM-AV-002",
+      "name": "Auswahl zuverlässiger Auftragnehmer",
+      "kategorie": "AV"
+    },
+    {
+      "id": "TOM-CL-001",
+      "name": "Erstellung einer Cloud-Strategie",
+      "kategorie": "CL"
+    },
+    {
+      "id": "TOM-CL-002",
+      "name": "Dienstanweisung Cloud",
+      "kategorie": "CL"
+    },
+    {
+      "id": "TOM-CL-003",
+      "name": "Informationsklassifizierung",
+      "kategorie": "CL"
+    },
+    {
+      "id": "TOM-CL-004",
+      "name": "Dienstvereinbarung Cloud",
+      "kategorie": "CL"
+    },
+    {
+      "id": "TOM-DLohneAV-001",
+      "name": "Auswahl zuverlässiger Auftragnehmer",
+      "kategorie": "DLohneAV"
+    },
+    {
+      "id": "TOM-ORG-001",
+      "name": "Organisatorische Maßnahmen zum Datenschutz",
+      "kategorie": "ORG"
+    },
+    {
+      "id": "TOM-ORG-002",
+      "name": "Richtlinienmanagement",
+      "kategorie": "ORG"
+    },
+    {
+      "id": "TOM-ORG-003",
+      "name": "Schaffung organisatorischer Maßnahmen für Datenschutzvorfälle",
+      "kategorie": "ORG"
+    },
+    {
+      "id": "TOM-ORG-004",
+      "name": "Schaffung einer Organisationsstruktur für Informationssicherheit",
+      "kategorie": "ORG"
+    },
+    {
+      "id": "TOM-ORG-005",
+      "name": "Business Continuity Management - BCM",
+      "kategorie": "ORG"
+    },
+    {
+      "id": "TOM-ORG-006",
+      "name": "Prozess zur VVT-Etablierung und -pflege",
+      "kategorie": "ORG"
+    },
+    {
+      "id": "TOM-ORG-013",
+      "name": "Prozess zur Prüfung des Verpflichtungsgesetzes",
+      "kategorie": "ORG"
+    },
+    {
+      "id": "TOM-ORG-014",
+      "name": "Regelung zum Umgang mit mobilen Datenträgern",
+      "kategorie": "ORG"
+    },
+    {
+      "id": "TOM-ORG-015",
+      "name": "Verpflichtung der Beschäftigten",
+      "kategorie": "ORG"
+    },
+    {
+      "id": "TOM-ORG-016",
+      "name": "Schulung der Beschäftigten",
+      "kategorie": "ORG"
+    },
+    {
+      "id": "TOM-ORG-019",
+      "name": "Organisatorische Maßnahmen zur Nutzung von Homeoffice",
+      "kategorie": "ORG"
+    },
+    {
+      "id": "TOM-ORG-021",
+      "name": "Alarmanlage",
+      "kategorie": "ORG"
+    },
+    {
+      "id": "TOM-ORG-022",
+      "name": "Elektronisches Zugangskontrollsystem",
+      "kategorie": "ORG"
+    },
+    {
+      "id": "TOM-ORG-023",
+      "name": "Sicherheitsschlösser",
+      "kategorie": "ORG"
+    },
+    {
+      "id": "TOM-ORG-024",
+      "name": "Schlüsselregelung",
+      "kategorie": "ORG"
+    },
+    {
+      "id": "TOM-ORG-026",
+      "name": "Personenkontrolle",
+      "kategorie": "ORG"
+    },
+    {
+      "id": "TOM-ORG-028",
+      "name": "Einbruchhemmende Fenster und Türen",
+      "kategorie": "ORG"
+    },
+    {
+      "id": "TOM-ORG-029",
+      "name": "Auf Datenschutz verpflichtetes Reinigungspersonal",
+      "kategorie": "ORG"
+    },
+    {
+      "id": "TOM-ORG-030",
+      "name": "Festgelegte Reinigungszeiten",
+      "kategorie": "ORG"
+    },
+    {
+      "id": "TOM-ORG-031",
+      "name": "Auf Datenschutz verpflichtetes Wartungspersonal",
+      "kategorie": "ORG"
+    },
+    {
+      "id": "TOM-ORG-032",
+      "name": "Beaufsichtigung von Wartungstätigkeiten",
+      "kategorie": "ORG"
+    },
+    {
+      "id": "TOM-ORG-033",
+      "name": "Sichere Behältnisse bei Transport von Datenträgern",
+      "kategorie": "ORG"
+    },
+    {
+      "id": "TOM-ORG-034",
+      "name": "Zuverlässiges Transportpersonal",
+      "kategorie": "ORG"
+    },
+    {
+      "id": "TOM-ORG-035",
+      "name": "Identitätsnachweis des Transportpersonals",
+      "kategorie": "ORG"
+    },
+    {
+      "id": "TOM-ORG-038",
+      "name": "Trennung sensibler Aufgabenbereiche",
+      "kategorie": "ORG"
+    },
+    {
+      "id": "TOM-ORG-040",
+      "name": "Diskretionszonen einrichten",
+      "kategorie": "ORG"
+    },
+    {
+      "id": "TOM-ORG-043",
+      "name": "Beteiligung des behördlichen Datenschutzbeauftragten",
+      "kategorie": "ORG"
+    },
+    {
+      "id": "TOM-ORG-048",
+      "name": "Feuer- und Rauchmeldeanlagen",
+      "kategorie": "ORG"
+    },
+    {
+      "id": "TOM-ORG-049",
+      "name": "Feuerlöscher oder automatisches Löschsystem",
+      "kategorie": "ORG"
+    },
+    {
+      "id": "TOM-ORG-050",
+      "name": "Schutz vor Wassereinbruch",
+      "kategorie": "ORG"
+    },
+    {
+      "id": "TOM-ORG-051",
+      "name": "Schutz vor Hochwasser",
+      "kategorie": "ORG"
+    },
+    {
+      "id": "TOM-ORG-052",
+      "name": "Eignung der Räumlichkeiten oder der Gebäude",
+      "kategorie": "ORG"
+    },
+    {
+      "id": "TOM-ORG-053",
+      "name": "Unterbrechungsfreie Stromversorgung",
+      "kategorie": "ORG"
+    },
+    {
+      "id": "TOM-ORG-054",
+      "name": "Überspannungsschutz",
+      "kategorie": "ORG"
+    },
+    {
+      "id": "TOM-SW-001",
+      "name": "Organisatorische Regelungen",
+      "kategorie": "SW"
+    }
+  ],
+  "umsetzungsstatus": "zu_pruefen"
+}

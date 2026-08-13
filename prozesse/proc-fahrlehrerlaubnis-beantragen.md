@@ -19,9 +19,9 @@ daten:
 regelungen:
 - § 4 Gesetz über das Fahrlehrerwesen (Fahrlehrergesetz - FahrlG)
 - § 2 Gesetz über das Fahrlehrerwesen (Fahrlehrergesetz - FahrlG)
-leika_id: '99150005000000'
+leika_id: '99150005001000'
 ozg_id: null
-letzte-aktualisierung: '2026-07-10'
+letzte-aktualisierung: '2026-07-28'
 ---
 
 # Fahrlehrerlaubnis beantragen

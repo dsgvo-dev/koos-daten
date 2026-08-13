@@ -18,12 +18,11 @@ daten:
   - id: dstore-hunderasse-gefaehrlichkeit
   - id: dstore-haftpflichtversicherung-hund
 regelungen:
-- §§ 17-19 Bundesmeldegesetz (BMG) (An-/Ab-/Ummeldung)
-- § 34 BMG (Melderegisterauskunft)
-- § 51 BMG (Auskunftssperre)
+- §§ 1-5 NKAG (Kommunalabgaben/Steuern)
+- Kommunale Hundesteuersatzung i.V.m. NKAG
 leika_id: '99110009014001'
 ozg_id: null
-letzte-aktualisierung: '2026-07-10'
+letzte-aktualisierung: '2026-08-03'
 ---
 
 # Hundean- / -abmeldung (Meldung Hundehaltung)
@@ -50,3 +49,7 @@ letzte-aktualisierung: '2026-07-10'
 
 
 *Quelle: Allgemeine Verwaltungspraxis*
+
+## Korrektur 2026-08-03
+
+Regelungsliste ersetzt. Sie nannte §§ 17-19, 34 und 51 Bundesmeldegesetz -- das Melderecht für Personen, verteilt über einen Stringtreffer auf „An-/Abmeldung". Die Anmeldung eines Hundes ist keine Meldung nach dem BMG. Übernommen wurde der Block aus `proc-hunde-anmelden`.

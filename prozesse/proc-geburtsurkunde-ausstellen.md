@@ -19,7 +19,7 @@ regelungen:
 - § 59 Personenstandsgesetz (PStG)
 - § 62 Personenstandsgesetz (PStG)
 - § 50 Personenstandsverordnung (PStV)
-leika_id: '99027002000000'
+leika_id: '99027002012000'
 ozg_id: '10557'
 letzte-aktualisierung: '2026-07-10'
 ---

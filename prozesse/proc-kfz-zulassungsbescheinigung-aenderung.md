@@ -19,7 +19,7 @@ regelungen:
 - §§ 3-6 Fahrzeug-Zulassungsverordnung (FZV) (Zulassung)
 - § 6 Straßenverkehrsgesetz (StVG) (Fahrzeugregister)
 - §§ 11-14 FZV (Kennzeichen)
-leika_id: '99036011011000'
+leika_id: '99036042261000'
 ozg_id: '10459'
 letzte-aktualisierung: '2026-07-10'
 ---

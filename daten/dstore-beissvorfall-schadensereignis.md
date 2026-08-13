@@ -8,9 +8,15 @@ zuständige-einheit: oe-amt-32
 bpmn:
   typ: datenobjekt
 klassifizierung:
-  schutzstufe: C
-  schutzbedarf: normal
-  vertraulichkeit: intern
+  # Datenschutz -- Schaden fuer die betroffene Person (LfD-Schutzstufenkonzept, SDM)
+  schutzstufe: D
+  schutzbedarf: hoch
+  vertraulichkeitsklasse: streng vertraulich
+  # Informationssicherheit -- Schaden fuer die Institution und die Aufgabenerfuellung (BSI)
+  bsi-vertraulichkeit: hoch
+  bsi-integritaet: hoch
+  bsi-verfuegbarkeit: hoch
+  bsi-schutzbedarf: hoch
   rechtsgrundlagen:
   - gesetz: NHundG
   aufbewahrung:
@@ -18,12 +24,13 @@ klassifizierung:
     beginn: prozessabhängig
     hinweis: Aus kommunalen Serviceportaltexten abgeleiteter Datentyp; Frist und Beginn
       fachlich zu validieren.
-letzte-aktualisierung: '2026-04-09'
+letzte-aktualisierung: '2026-08-04'
 tags:
 - Beißvorfall
 - Schaden
 - Hund
 ---
+
 
 # Beißvorfall und Schadensereignis
 
@@ -70,3 +77,23 @@ Abgeleiteter Datentyp aus kommunalen Serviceportal-Texten in Niedersachsen; kein
 KOOS-konforme Konvertierung aus einer älteren Markdown-Sammlung.
 
 Zuständige OE, Klassifizierung und BPMN-Typ sind heuristisch vorbelegt und sollten fachlich überprüft werden.
+
+## Schutzstufe geprüft 2026-08-04
+
+Geprüft im Zuge der Auflösung von `vvt-61-001` und `vvt-61-002`: Alle Speicher mit
+Freitextfeldern wurden gegen das Schutzstufenkonzept des LfD Niedersachsen gehalten.
+Maßstab ist das Maximalprinzip -- die sensibelste Angabe, die anfallen **kann**.
+
+Die entscheidende Frage lautet: **Schreibt die betroffene Person selbst hinein, oder
+formuliert eine Fachstelle?** Ist der Text von außen frei bestimmbar, ist mit Angaben nach
+Art. 9 Abs. 1 DSGVO zu rechnen. Formuliert eine Behörde sachbezogen, ist er es nicht.
+
+**Von C auf D.** Ein Beißvorfall wird gemeldet, weil ein Mensch oder ein Tier verletzt wurde. Die Meldung enthält damit **Angaben über Verletzungen einer namentlich bekannten Person** -- Gesundheitsdaten nach Art. 9 Abs. 1 DSGVO. Das ist keine mögliche Nebenfolge, sondern der Inhalt der Meldung.
+
+Betroffen sind zwei Personen mit gegenläufigen Interessen: die gebissene und die haltende. Beide Datenbestände sind zu trennen; die haltende Person hat keinen Anspruch darauf, die Verletzungsfolgen im Einzelnen zu erfahren, soweit sie nicht zur Verteidigung erforderlich sind.
+
+## BSI-Vektoren geprüft 2026-08-04
+
+**Verfügbarkeit hoch.** Der Bestand wird in einer Gefahrenlage gebraucht, in der es auf Minuten ankommt. Ein Ausfall bedeutet, dass die Kommune die Lage nicht einschätzen kann.
+
+Die Meldung löst Sofortmaßnahmen aus; die Verletzungsversorgung und die Gefahrenabwehr hängen daran.

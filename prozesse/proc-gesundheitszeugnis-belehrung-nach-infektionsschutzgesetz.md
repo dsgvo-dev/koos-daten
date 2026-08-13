@@ -19,7 +19,7 @@ daten:
   - id: dstore-amtsaerztliches-zeugnis
 regelungen:
 - § 43 Absatz 1 Infektionsschutzgesetz (IfSG)
-leika_id: '99003002000000'
+leika_id: '99003002022000'
 ozg_id: null
 letzte-aktualisierung: '2026-07-10'
 ---

@@ -1,0 +1,71 @@
+{
+  "id": "schwellwert-vvt-23-006",
+  "vvt_referenz": {
+    "vvt_id": "vvt-23-006",
+    "bezeichnung": "Gemeindliche Vorkaufsrechte"
+  },
+  "erstellt_am": "2026-08-12",
+  "art35_abs3": {
+    "a_profiling": {
+      "erfuellt": false,
+      "begruendung": "Manuell zu prüfen"
+    },
+    "b_art9_umfangreich": {
+      "erfuellt": false,
+      "begruendung": "Nicht erfüllt"
+    },
+    "c_ueberwachung": {
+      "erfuellt": false,
+      "begruendung": "Nicht erfüllt"
+    }
+  },
+  "art35_erfuellt": false,
+  "wp248": {
+    "1_profiling": {
+      "erfuellt": false,
+      "begruendung": "Kein Hinweis"
+    },
+    "2_automatisiert": {
+      "erfuellt": false,
+      "begruendung": "Kein Hinweis"
+    },
+    "3_ueberwachung": {
+      "erfuellt": false,
+      "begruendung": "Kein Hinweis"
+    },
+    "4_besondere_kategorien": {
+      "erfuellt": false,
+      "begruendung": "Keine Art. 9/10-Daten"
+    },
+    "5_grosser_umfang": {
+      "erfuellt": false,
+      "begruendung": "Kein großer Umfang"
+    },
+    "6_abgleich": {
+      "erfuellt": false,
+      "begruendung": "Manuell zu prüfen"
+    },
+    "7_schutzbeduerftige": {
+      "erfuellt": false,
+      "begruendung": "Kein Hinweis"
+    },
+    "8_neue_technologien": {
+      "erfuellt": true,
+      "begruendung": "KI/Biometrie"
+    },
+    "9_rechteausuebung": {
+      "erfuellt": false,
+      "begruendung": "Manuell zu prüfen"
+    }
+  },
+  "wp248_anzahl": 1,
+  "wp248_erfuellt": false,
+  "mussliste_lfd": {
+    "erfuellt": null,
+    "begruendung": "Manuell gegen Muss-Liste LfD Niedersachsen zu prüfen"
+  },
+  "dsfa_pflicht_risiko": false,
+  "dsfa_pflicht_gesamt": false,
+  "dsfa_pflicht_begruendung": "Keine DSFA-Pflicht",
+  "status": "entwurf"
+}

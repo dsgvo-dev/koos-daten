@@ -15,7 +15,7 @@ daten:
 regelungen:
 - § 152 Sozialgesetzbuch Neuntes Buch (SGB IX)
 - Schwerbehindertenausweisverordnung (SchwbAwV)
-leika_id: '99015007000000'
+leika_id: '99015007012000'
 ozg_id: '10214'
 letzte-aktualisierung: '2026-07-10'
 ---

@@ -16,7 +16,7 @@ daten:
 regelungen:
 - §§ 110-127 NKomVG (Haushaltswirtschaft)
 - §§ 1 ff. GemHKVO Nds. (Gemeindehaushalts- und -kassenverordnung)
-leika_id: '99142055000000'
+leika_id: '99142055261000'
 ozg_id: null
 letzte-aktualisierung: '2026-07-10'
 ---

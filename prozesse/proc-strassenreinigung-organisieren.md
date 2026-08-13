@@ -15,11 +15,13 @@ daten:
   datenspeicher:
   - id: dstore-sondernutzung-oeffentlicher-raum
 regelungen:
-- §§ 97-100 NKomVG (Kommunale Gebäudewirtschaft)
-- TVöD BT-K (Kommunaler Bereich)
+- § 52 Nds. Straßengesetz (NStrG) (Übertragung der Reinigungspflicht auf Anlieger)
+- § 22 Nds. Straßengesetz (NStrG) (Straßenbaulast)
+- § 62 Nds. Straßengesetz (NStrG) (Ordnungswidrigkeiten)
+- Kommunale Straßenreinigungssatzung
 leika_id: '99108028000000'
 ozg_id: null
-letzte-aktualisierung: '2026-07-10'
+letzte-aktualisierung: '2026-07-28'
 ---
 
 # Straßenreinigung organisieren

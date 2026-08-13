@@ -14,7 +14,7 @@ daten:
   - id: dstore-verwaltungsakte
 regelungen:
   - '§ 71 SGB XII (Altenhilfe)'
-  - '§ 11 NKomVG (Kommunale Daseinsvorsorge)'
+  - '§ 5 NKomVG (eigener Wirkungskreis)'
 letzte-aktualisierung: 2026-04-29
 ---
 # Seniorengruppe betreuen

@@ -1,7 +1,8 @@
 ---
 id: proc-reisegewerbekarte-gemaess-55-gewo
 titel: Reisegewerbekarte gemäß § 55 GewO
-status: aktiv
+status: ersetzt
+ersetzt-durch: proc-reisegewerbekarte-beantragen
 zustaendigeEinheit: oe-amt-32
 zustaendigeRolle: ''
 beteiligte: []
@@ -16,7 +17,8 @@ daten:
 regelungen:
   - '§§ 55-60c GewO (Reisegewerbe)'
   - '§ 55 GewO (Reisegewerbekarte)'
-letzte-aktualisierung: 2026-04-06
+leika_id: '99050023005000'
+letzte-aktualisierung: '2026-07-28'
 ---
 # Reisegewerbekarte gemäß § 55 GewO
 

@@ -18,7 +18,7 @@ daten:
   - id: dstore-meldeadresse-wohnsitz
 regelungen:
 - § 9 Personalausweisgesetz (PAuswG)
-leika_id: null
+leika_id: '99008001012002'
 ozg_id: '10119'
 letzte-aktualisierung: '2026-07-10'
 ---

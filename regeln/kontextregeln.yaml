@@ -1,0 +1,141 @@
+# Kontextregeln fuer die Schutzstufenbestimmung
+# Angelegt 2026-08-10. Maschinenlesbare Fassung dessen, was in Abschnitt 11 des
+# Skills in Prosa steht. Diese Datei ist die Quelle fuer jede Ableitung.
+version: 1
+stand: '2026-08-10'
+
+grundsatz: >-
+  Die Schutzstufe einer Datenart haengt nicht allein an ihrem Inhalt, sondern auch daran,
+  worueber ihre blosse Existenz Auskunft gibt. Derselbe Name ist in einer Gewerbeanmeldung
+  eine Verwaltungsangabe und in einem Jugendhilfeverfahren eine Aussage ueber die
+  Lebenslage einer Familie.
+
+# ---------------------------------------------------------------------------
+# 1. Kontextmerkmale, die eine Verarbeitungstaetigkeit tragen kann
+# ---------------------------------------------------------------------------
+kontextmerkmale:
+- id: verfahren-vertraulich
+  frage: >-
+    Waere es fuer die betroffene Person nachteilig, wenn bekannt wuerde, dass sie in
+    diesem Verfahren gefuehrt wird?
+  entscheidungsregel: >-
+    Wird die Frage bejaht, traegt die Verarbeitung das Merkmal. Im Zweifel ja -- die
+    Herabstufung eines Einzelfalls ist leichter zu begruenden als die nachtraegliche
+    Anhebung.
+  nicht-ausreichend: >-
+    Dass die Verarbeitung irgendeinen Speicher der Stufe D oder E fuehrt, genuegt nicht.
+    Ein Fuehrungszeugnis in einem Gewerbeerlaubnisverfahren macht die Gewerbeanmeldung
+    nicht vertraulich, denn die Anmeldung ist ein oeffentlicher Vorgang. Dieses Kriterium
+    wurde geprueft und verworfen: Es haette 60 Prozent aller Verarbeitungen erfasst.
+  gegenbeispiel-positiv: >-
+    Die Terminvergabe der Auslaenderbehoerde (vvt-47-004) traegt das Merkmal, obwohl sie
+    nur Name und Uhrzeit fuehrt.
+  gegenbeispiel-negativ: >-
+    Die Gewerbeerlaubnisverfahren des Amtes 32 tragen es nicht, obwohl sie
+    Fuehrungszeugnisse und Registerauskuenfte der Stufe D fuehren.
+  fallgruppen:
+  - sozialleistung
+  - jugendhilfe
+  - sozialpsychiatrie
+  - eingliederungshilfe
+  - aufenthalt
+  - gesundheitsamt
+  - ordnungswidrigkeit
+  - vollstreckung
+  - bewerbung
+  - beratung
+  - beschwerde
+
+# ---------------------------------------------------------------------------
+# 2. Speicherpaare: Basis und Kontextvariante
+# ---------------------------------------------------------------------------
+speicherpaare:
+- basis: dstore-personenstammdaten
+  variante: dstore-personenstammdaten-vertraulich
+  bedingung: verfahren-vertraulich
+  stufe-basis: C
+  stufe-variante: D
+  zusatzfeld: Aktenzeichen oder Fallnummer des vertraulichen Verfahrens
+- basis: dstore-kontaktdaten
+  variante: dstore-kontaktdaten-vertraulich
+  bedingung: verfahren-vertraulich
+  stufe-basis: B
+  stufe-variante: D
+  zusatzfeld: Vermerk ueber Kontaktbeschraenkungen
+- basis: dstore-adresse
+  variante: dstore-adresse-vertraulich
+  bedingung: verfahren-vertraulich
+  stufe-basis: B
+  stufe-variante: D
+  zusatzfeld: Vermerk ueber Auskunftssperre oder bedingten Sperrvermerk
+- basis: dstore-bankverbindung
+  variante: dstore-bankverbindung-vertraulich
+  bedingung: verfahren-vertraulich
+  stufe-basis: C
+  stufe-variante: D
+  zusatzfeld: Verwendungszweck, wie er auf dem Kontoauszug erscheint
+- basis: dstore-lebenslauf-qualifikationsnachweis
+  variante: dstore-lebenslauf-qualifikationsnachweis-vertraulich
+  bedingung: verfahren-vertraulich
+  stufe-basis: C
+  stufe-variante: D
+  zusatzfeld: Luecken im Werdegang und deren Erlaeuterung
+- basis: dstore-verwaltungsakte
+  variante: dstore-verwaltungsakte-vertraulich
+  bedingung: verfahren-vertraulich
+  stufe-basis: C
+  stufe-variante: D
+  zusatzfeld: interne Vermerke und Beteiligung Dritter
+
+# ---------------------------------------------------------------------------
+# 3. Speicher, die den Kontext unabhaengig vom Verfahren anheben
+# ---------------------------------------------------------------------------
+kontextanheber:
+- id: dstore-schutzbeduerftigkeitskennzeichen
+  wirkung: >-
+    Wo dieser Speicher gefuehrt wird, ist die Verarbeitung mit den Massnahmen der Stufe E
+    zu unterlegen, auch wenn alle uebrigen Speicher niedriger stehen. Die Anhebung folgt
+    nicht aus der Datenart, sondern aus der Gefaehrdung einer einzelnen Person.
+  hebt-auf: E
+
+# ---------------------------------------------------------------------------
+# 4. Ableitung der effektiven Schutzstufe je Verarbeitungstaetigkeit
+# ---------------------------------------------------------------------------
+ableitung-effektive-schutzstufe:
+  formel: max(schutzstufe aller gefuehrten Datenspeicher)
+  danach: >-
+    Fuehrt die Verarbeitung einen Speicher aus kontextanheber, gilt dessen Wert, falls er
+    hoeher ist.
+  verwendung: >-
+    Die effektive Schutzstufe ist die Groesse, aus der die technischen und organisatorischen
+    Massnahmen nach Art. 32 DSGVO abgeleitet werden -- nicht die Stufe des einzelnen
+    Speichers. Sie ist ein abgeleiteter Wert und darf nicht von Hand gepflegt werden.
+  neu-berechnen-bei:
+  - Aenderung einer Schutzstufe
+  - Aufnahme oder Entfernung eines Datenspeichers in einer Verarbeitung
+  - Aenderung des Kontextmerkmals einer Verarbeitung
+
+# ---------------------------------------------------------------------------
+# 5. Pruefregeln fuer die maschinelle Gegenpruefung
+# ---------------------------------------------------------------------------
+pruefregeln:
+- id: K1
+  regel: >-
+    Eine Verarbeitung darf nicht gleichzeitig einen Basisspeicher und dessen
+    Kontextvariante fuehren.
+- id: K2
+  regel: >-
+    Traegt eine Verarbeitung das Merkmal verfahren-vertraulich, darf sie keinen
+    Basisspeicher aus speicherpaare fuehren -- nur dessen Variante.
+- id: K3
+  regel: >-
+    Traegt eine Verarbeitung das Merkmal nicht, darf sie keine Kontextvariante fuehren.
+- id: K4
+  regel: >-
+    Das Feld effektive-schutzstufe einer Verarbeitung muss dem berechneten Wert
+    entsprechen.
+- id: K5
+  regel: >-
+    Jede Kontextvariante muss ein Feld kontext.variante-von tragen, das auf einen
+    existierenden Basisspeicher zeigt, und der Basisspeicher muss sie unter
+    kontext.varianten auffuehren.

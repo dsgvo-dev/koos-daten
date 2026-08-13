@@ -17,12 +17,8 @@ daten:
   - id: dstore-personenstammdaten
   - id: dstore-identitaetsnachweis
   - id: dstore-meldeadresse-wohnsitz
-regelungen:
-  - '§§ 97-184 GWB (Vergaberecht)'
-  - '§§ 1 ff. Vergabeverordnung (VgV)'
-  - '§§ 1 ff. Unterschwellenvergabeordnung (UVgO)'
-  - '§§ 1 ff. Nds. Tariftreue- und Vergabegesetz (NTVergG)'
-letzte-aktualisierung: 2026-04-06
+regelungen: []
+letzte-aktualisierung: '2026-08-03'
 ---
 # Online-Terminvergabe für Bürgerbüro-Leistungen
 
@@ -48,3 +44,7 @@ letzte-aktualisierung: 2026-04-06
 
 
 *Quelle: Allgemeine Verwaltungspraxis*
+
+## Korrektur 2026-08-03
+
+Regelungsliste geleert. Sie nannte GWB, VgV, UVgO und NTVergG -- das Vergaberecht, verteilt über einen Stringtreffer auf „Termin**vergabe**". Die Vergabe eines Termins ist kein Beschaffungsvorgang.

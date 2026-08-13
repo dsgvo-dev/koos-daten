@@ -21,18 +21,18 @@ daten:
   - id: dstore-wohnungszuordnungsmerkmal
   - id: dstore-mietvertrag-miethoehe
   - id: dstore-miete-und-belastung
-  - WoGG (Wohngeldgesetz)
-  - WoGV (Wohngeldverordnung)
-  - SGB I §60 (Mitwirkungspflichten)
-  - VwVfG (Verwaltungsverfahrensgesetz)
 regelungen:
+- WoGG (Wohngeldgesetz)
+- WoGV (Wohngeldverordnung)
+- SGB I §60 (Mitwirkungspflichten)
+- VwVfG (Verwaltungsverfahrensgesetz)
 - § 26 Sozialgesetzbuch (SGB) Erstes Buch (I) - Allgemeiner Teil
 - § 1 Wohngeldgesetz (WoGG)
 - § 22 Absatz 1 Wohngeldgesetz (WoGG)
 - Wohngeldverordnung (WoGV)
 - Allgemeine Verwaltungsvorschrift zur Durchführung des Wohngeldgesetzes (Wohngeld-Verwaltungsvorschrift
   - WoGVwV)
-leika_id: '99107023000000'
+leika_id: '99107023037000'
 ozg_id: '10092'
 letzte-aktualisierung: '2026-07-10'
 ---

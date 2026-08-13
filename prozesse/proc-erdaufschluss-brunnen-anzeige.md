@@ -14,7 +14,7 @@ regelungen:
 - §§ 8-13 Wasserhaushaltsgesetz (WHG) (Erlaubnis/Bewilligung)
 - §§ 52-53 WHG (Wasserschutzgebiete)
 - Nds. Wassergesetz (NWG)
-leika_id: '99129052000000'
+leika_id: '99129052261000'
 ozg_id: '10502'
 letzte-aktualisierung: '2026-07-10'
 ---

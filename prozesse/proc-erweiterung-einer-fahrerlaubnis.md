@@ -15,11 +15,11 @@ daten:
   - id: dstore-identitaetsnachweis
   - id: dstore-personenstammdaten
   - id: dstore-kfz-daten
-  - § 21 FeV
-  - § 2 StVG
-  - FS-VwV
-  - § 2 BMG
 regelungen:
+- § 21 FeV
+- § 2 StVG
+- FS-VwV
+- § 2 BMG
 - § 21 Verordnung über die Zulassung von Personen zum Straßenverkehr (Fahrerlaubnis-Verordnung
   - FeV)
 - § 25 Verordnung über die Zulassung von Personen zum Straßenverkehr (Fahrerlaubnis-Verordnung

@@ -1,0 +1,455 @@
+{
+  "id": "ergaenzend-vvt-1-1-003",
+  "vvt_referenz": {
+    "vvt_id": "vvt-1-1-003",
+    "bezeichnung": "Rats- und Bürgerinformationssystem und Sitzungsmanagement"
+  },
+  "erstellt_am": "2026-08-12",
+  "risiko_aktuell": {
+    "dsgvo": 9,
+    "bsi_v": 3,
+    "bsi_i": 6,
+    "bsi_a": 6
+  },
+  "schutzziele_hoch": [
+    "Erforderlichkeit",
+    "Integrität",
+    "Intervernierbarkeit",
+    "Nichtverkettung",
+    "Rechtmäßigkeit",
+    "Richtigkeit",
+    "Speicherbegrenzung",
+    "Transparenz",
+    "Verfügbarkeit",
+    "Zweckbindung"
+  ],
+  "zusatz_toms": [
+    {
+      "id": "TOM-ORG-056",
+      "name": "Durchführung einer Risikoanalyse und ggf. DSFA",
+      "kategorie": "ORG",
+      "typ": "Verfahrensspezifische Maßnahme",
+      "schutzziele_ueberlappung": [
+        "Erforderlichkeit",
+        "Integrität",
+        "Intervernierbarkeit",
+        "Nichtverkettung",
+        "Rechtmäßigkeit",
+        "Richtigkeit",
+        "Speicherbegrenzung",
+        "Transparenz",
+        "Verfügbarkeit",
+        "Zweckbindung"
+      ],
+      "score": 91,
+      "wirkung": 3
+    },
+    {
+      "id": "TOM-ORG-006",
+      "name": "Prozess zur VVT-Etablierung und -pflege",
+      "kategorie": "ORG",
+      "typ": "Grundmaßnahme",
+      "schutzziele_ueberlappung": [
+        "Erforderlichkeit",
+        "Integrität",
+        "Intervernierbarkeit",
+        "Nichtverkettung",
+        "Rechtmäßigkeit",
+        "Richtigkeit",
+        "Speicherbegrenzung",
+        "Transparenz",
+        "Verfügbarkeit",
+        "Zweckbindung"
+      ],
+      "score": 91,
+      "wirkung": 3
+    },
+    {
+      "id": "TOM-SW-011",
+      "name": "Nutzung von Standard-Anforderungen",
+      "kategorie": "SW",
+      "typ": "Verfahrensspezifische Maßnahme",
+      "schutzziele_ueberlappung": [
+        "Erforderlichkeit",
+        "Integrität",
+        "Intervernierbarkeit",
+        "Nichtverkettung",
+        "Rechtmäßigkeit",
+        "Richtigkeit",
+        "Speicherbegrenzung",
+        "Transparenz",
+        "Verfügbarkeit",
+        "Zweckbindung"
+      ],
+      "score": 91,
+      "wirkung": 3
+    },
+    {
+      "id": "TOM-SW-001",
+      "name": "Organisatorische Regelungen",
+      "kategorie": "SW",
+      "typ": "Grundmaßnahme",
+      "schutzziele_ueberlappung": [
+        "Erforderlichkeit",
+        "Integrität",
+        "Intervernierbarkeit",
+        "Nichtverkettung",
+        "Rechtmäßigkeit",
+        "Richtigkeit",
+        "Speicherbegrenzung",
+        "Transparenz",
+        "Verfügbarkeit",
+        "Zweckbindung"
+      ],
+      "score": 91,
+      "wirkung": 2
+    },
+    {
+      "id": "TOM-ORG-047",
+      "name": "Erlass eine speziellen Dienstanweisung oder Richtlinie",
+      "kategorie": "ORG",
+      "typ": "Verfahrensspezifische Maßnahme",
+      "schutzziele_ueberlappung": [
+        "Erforderlichkeit",
+        "Integrität",
+        "Intervernierbarkeit",
+        "Nichtverkettung",
+        "Richtigkeit",
+        "Speicherbegrenzung",
+        "Transparenz",
+        "Verfügbarkeit",
+        "Zweckbindung"
+      ],
+      "score": 82,
+      "wirkung": 2
+    },
+    {
+      "id": "TOM-ORG-001",
+      "name": "Organisatorische Maßnahmen zum Datenschutz",
+      "kategorie": "ORG",
+      "typ": "Grundmaßnahme",
+      "schutzziele_ueberlappung": [
+        "Erforderlichkeit",
+        "Integrität",
+        "Intervernierbarkeit",
+        "Rechtmäßigkeit",
+        "Richtigkeit",
+        "Speicherbegrenzung",
+        "Transparenz",
+        "Verfügbarkeit",
+        "Zweckbindung"
+      ],
+      "score": 82,
+      "wirkung": 2
+    },
+    {
+      "id": "TOM-ORG-002",
+      "name": "Richtlinienmanagement",
+      "kategorie": "ORG",
+      "typ": "Grundmaßnahme",
+      "schutzziele_ueberlappung": [
+        "Erforderlichkeit",
+        "Integrität",
+        "Intervernierbarkeit",
+        "Rechtmäßigkeit",
+        "Richtigkeit",
+        "Speicherbegrenzung",
+        "Transparenz",
+        "Verfügbarkeit",
+        "Zweckbindung"
+      ],
+      "score": 82,
+      "wirkung": 3
+    },
+    {
+      "id": "TOM-AV-002",
+      "name": "Auswahl zuverlässiger Auftragnehmer",
+      "kategorie": "AV",
+      "typ": "Grundmaßnahme",
+      "schutzziele_ueberlappung": [
+        "Integrität",
+        "Intervernierbarkeit",
+        "Nichtverkettung",
+        "Transparenz",
+        "Verfügbarkeit",
+        "Zweckbindung"
+      ],
+      "score": 55,
+      "wirkung": 2
+    },
+    {
+      "id": "TOM-AV-005",
+      "name": "Mindestmaßstab für TOM der Auftragsverarbeitung",
+      "kategorie": "AV",
+      "typ": "Verfahrensspezifische Maßnahme",
+      "schutzziele_ueberlappung": [
+        "Integrität",
+        "Intervernierbarkeit",
+        "Nichtverkettung",
+        "Rechtmäßigkeit",
+        "Verfügbarkeit",
+        "Zweckbindung"
+      ],
+      "score": 55,
+      "wirkung": 3
+    },
+    {
+      "id": "TOM-AV-001",
+      "name": "Organisatorische Maßnahmen für Auftragsverarbeitung",
+      "kategorie": "AV",
+      "typ": "Grundmaßnahme",
+      "schutzziele_ueberlappung": [
+        "Integrität",
+        "Intervernierbarkeit",
+        "Nichtverkettung",
+        "Transparenz",
+        "Verfügbarkeit",
+        "Zweckbindung"
+      ],
+      "score": 55,
+      "wirkung": 1
+    },
+    {
+      "id": "TOM-ORG-043",
+      "name": "Beteiligung des behördlichen Datenschutzbeauftragten",
+      "kategorie": "ORG",
+      "typ": "Grundmaßnahme",
+      "schutzziele_ueberlappung": [
+        "Integrität",
+        "Intervernierbarkeit",
+        "Nichtverkettung",
+        "Transparenz",
+        "Verfügbarkeit",
+        "Zweckbindung"
+      ],
+      "score": 55,
+      "wirkung": 2
+    },
+    {
+      "id": "TOM-ORG-040",
+      "name": "Diskretionszonen einrichten",
+      "kategorie": "ORG",
+      "typ": "Grundmaßnahme",
+      "schutzziele_ueberlappung": [
+        "Integrität",
+        "Intervernierbarkeit",
+        "Nichtverkettung",
+        "Transparenz",
+        "Verfügbarkeit",
+        "Zweckbindung"
+      ],
+      "score": 55,
+      "wirkung": 2
+    },
+    {
+      "id": "TOM-ORG-038",
+      "name": "Trennung sensibler Aufgabenbereiche",
+      "kategorie": "ORG",
+      "typ": "Grundmaßnahme",
+      "schutzziele_ueberlappung": [
+        "Integrität",
+        "Intervernierbarkeit",
+        "Nichtverkettung",
+        "Transparenz",
+        "Verfügbarkeit",
+        "Zweckbindung"
+      ],
+      "score": 55,
+      "wirkung": 1
+    },
+    {
+      "id": "TOM-AV-004",
+      "name": "Information der Betroffenen über Auftragsverarbeitung",
+      "kategorie": "AV",
+      "typ": "Verfahrensspezifische Maßnahme",
+      "schutzziele_ueberlappung": [
+        "Intervernierbarkeit",
+        "Nichtverkettung",
+        "Rechtmäßigkeit",
+        "Transparenz",
+        "Zweckbindung"
+      ],
+      "score": 50,
+      "wirkung": 1
+    },
+    {
+      "id": "TOM-ORG-003",
+      "name": "Schaffung organisatorischer Maßnahmen für Datenschutzvorfälle",
+      "kategorie": "ORG",
+      "typ": "Grundmaßnahme",
+      "schutzziele_ueberlappung": [
+        "Erforderlichkeit",
+        "Integrität",
+        "Intervernierbarkeit",
+        "Verfügbarkeit",
+        "Zweckbindung"
+      ],
+      "score": 45,
+      "wirkung": 3
+    },
+    {
+      "id": "TOM-SW-012",
+      "name": "Anonymisierung von Daten",
+      "kategorie": "SW",
+      "typ": "Verfahrensspezifische Maßnahme",
+      "schutzziele_ueberlappung": [
+        "Erforderlichkeit",
+        "Nichtverkettung",
+        "Richtigkeit",
+        "Speicherbegrenzung",
+        "Zweckbindung"
+      ],
+      "score": 45,
+      "wirkung": 3
+    },
+    {
+      "id": "TOM-SW-015",
+      "name": "Individuelle Benutzerkennungen",
+      "kategorie": "SW",
+      "typ": "Verfahrensspezifische Maßnahme",
+      "schutzziele_ueberlappung": [
+        "Erforderlichkeit",
+        "Intervernierbarkeit",
+        "Nichtverkettung",
+        "Rechtmäßigkeit",
+        "Zweckbindung"
+      ],
+      "score": 45,
+      "wirkung": 2
+    },
+    {
+      "id": "TOM-SW-014",
+      "name": "Kleine Berechtigungsgruppen",
+      "kategorie": "SW",
+      "typ": "Verfahrensspezifische Maßnahme",
+      "schutzziele_ueberlappung": [
+        "Erforderlichkeit",
+        "Intervernierbarkeit",
+        "Nichtverkettung",
+        "Rechtmäßigkeit",
+        "Zweckbindung"
+      ],
+      "score": 45,
+      "wirkung": 1
+    },
+    {
+      "id": "TOM-ORG-046",
+      "name": "Festlegen einer Löschfrist",
+      "kategorie": "ORG",
+      "typ": "Verfahrensspezifische Maßnahme",
+      "schutzziele_ueberlappung": [
+        "Intervernierbarkeit",
+        "Nichtverkettung",
+        "Transparenz",
+        "Zweckbindung"
+      ],
+      "score": 40,
+      "wirkung": 3
+    },
+    {
+      "id": "TOM-ORG-045",
+      "name": "Information der Betroffenen - Datenschutzerklärung",
+      "kategorie": "ORG",
+      "typ": "Verfahrensspezifische Maßnahme",
+      "schutzziele_ueberlappung": [
+        "Intervernierbarkeit",
+        "Nichtverkettung",
+        "Transparenz",
+        "Zweckbindung"
+      ],
+      "score": 40,
+      "wirkung": 3
+    },
+    {
+      "id": "TOM-ORG-055",
+      "name": "Löschen personenbezogener Daten",
+      "kategorie": "ORG",
+      "typ": "Verfahrensspezifische Maßnahme",
+      "schutzziele_ueberlappung": [
+        "Intervernierbarkeit",
+        "Nichtverkettung",
+        "Transparenz",
+        "Zweckbindung"
+      ],
+      "score": 40,
+      "wirkung": 3
+    },
+    {
+      "id": "TOM-ORG-019",
+      "name": "Organisatorische Maßnahmen zur Nutzung von Homeoffice",
+      "kategorie": "ORG",
+      "typ": "Grundmaßnahme",
+      "schutzziele_ueberlappung": [
+        "Integrität",
+        "Nichtverkettung",
+        "Rechtmäßigkeit",
+        "Zweckbindung"
+      ],
+      "score": 36,
+      "wirkung": 1
+    },
+    {
+      "id": "TOM-ORG-014",
+      "name": "Regelung zum Umgang mit mobilen Datenträgern",
+      "kategorie": "ORG",
+      "typ": "Grundmaßnahme",
+      "schutzziele_ueberlappung": [
+        "Integrität",
+        "Rechtmäßigkeit",
+        "Verfügbarkeit",
+        "Zweckbindung"
+      ],
+      "score": 36,
+      "wirkung": 2
+    },
+    {
+      "id": "TOM-ORG-016",
+      "name": "Schulung der Beschäftigten",
+      "kategorie": "ORG",
+      "typ": "Grundmaßnahme",
+      "schutzziele_ueberlappung": [
+        "Integrität",
+        "Nichtverkettung",
+        "Rechtmäßigkeit",
+        "Zweckbindung"
+      ],
+      "score": 36,
+      "wirkung": 3
+    },
+    {
+      "id": "TOM-ORG-015",
+      "name": "Verpflichtung der Beschäftigten",
+      "kategorie": "ORG",
+      "typ": "Grundmaßnahme",
+      "schutzziele_ueberlappung": [
+        "Integrität",
+        "Nichtverkettung",
+        "Rechtmäßigkeit",
+        "Zweckbindung"
+      ],
+      "score": 36,
+      "wirkung": 2
+    },
+    {
+      "id": "TOM-SW-013",
+      "name": "Rollenkonzept",
+      "kategorie": "SW",
+      "typ": "Verfahrensspezifische Maßnahme",
+      "schutzziele_ueberlappung": [
+        "Erforderlichkeit",
+        "Nichtverkettung",
+        "Speicherbegrenzung",
+        "Zweckbindung"
+      ],
+      "score": 36,
+      "wirkung": 3
+    }
+  ],
+  "anzahl_zusatz": 26,
+  "baseline_angerechnet": 28,
+  "restrisiko": {
+    "bewertung": "offen",
+    "begruendung": "Manuell nach TOM-Umsetzung"
+  },
+  "status": "entwurf"
+}

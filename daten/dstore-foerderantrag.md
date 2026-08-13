@@ -8,23 +8,30 @@ zuständige-einheit: oe-amt-80
 bpmn:
   typ: datenobjekt
 klassifizierung:
+  # Datenschutz -- Schaden fuer die betroffene Person (LfD-Schutzstufenkonzept, SDM)
   schutzstufe: C
   schutzbedarf: hoch
-  vertraulichkeit: vertraulich
+  vertraulichkeitsklasse: vertraulich
+  # Informationssicherheit -- Schaden fuer die Institution und die Aufgabenerfuellung (BSI)
+  bsi-vertraulichkeit: normal
+  bsi-integritaet: hoch
+  bsi-verfuegbarkeit: hoch
+  bsi-schutzbedarf: hoch
   rechtsgrundlagen:
   - gesetz: NVwVfG
   - gesetz: Haushaltsrecht
   aufbewahrung:
     frist: 10 Jahre
     beginn: prozessabhängig
-    hinweis: Aus daten1/-Konvertierung; fachlich zu validieren.
-letzte-aktualisierung: '2026-04-09'
+letzte-aktualisierung: '2026-08-04'
 tags:
 - Förderung
 - Zuwendung
 - Subvention
 konvertiert-aus: daten1/dtype-foerderantrag.md
 ---
+
+
 
 ## Beschreibung
 
@@ -53,3 +60,9 @@ NVwVfG, Haushaltsrecht
 ## Hinweise
 
 *(Bitte ergänzen)*
+
+## BSI-Vektoren geprüft 2026-08-04
+
+**Verfügbarkeit hoch.** An den Vorgang knüpft eine gesetzliche Frist. Ist der Bestand im entscheidenden Zeitraum nicht abrufbar, läuft die Frist gleichwohl -- mit Rechtsfolgen für die Kommune oder die betroffene Person.
+
+Förderfristen sind Ausschlussfristen. Wird ein Verwendungsnachweis nicht rechtzeitig vorgelegt, verfallen bewilligte Mittel -- ein unmittelbarer finanzieller Schaden für die Kommune.

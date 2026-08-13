@@ -20,7 +20,7 @@ regelungen:
 - § 45 Abs. 1b StVO (Parkerleichterungen für Behinderte)
 - §§ 228-231 SGB IX (Nachteilsausgleiche/Merkzeichen)
 - §§ 45-46 StVO
-leika_id: '99108010000000'
+leika_id: '99108010056000'
 ozg_id: '10723'
 letzte-aktualisierung: '2026-07-10'
 ---

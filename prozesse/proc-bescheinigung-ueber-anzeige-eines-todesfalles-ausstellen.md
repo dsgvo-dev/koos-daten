@@ -14,7 +14,7 @@ daten:
   - id: dstore-registerbezug-personenstand
 regelungen:
 - §7 Abs. 2 PStV
-leika_id: '99101016000000'
+leika_id: '99101016012000'
 ozg_id: null
 letzte-aktualisierung: '2026-07-10'
 ---

@@ -1,7 +1,8 @@
 ---
 id: proc-reisegewerbe-anmelden
 titel: Reisegewerbe anmelden
-status: aktiv
+status: ersetzt
+ersetzt-durch: proc-reisegewerbekarte-beantragen
 zustaendigeEinheit: oe-amt-38
 zustaendigeRolle: ''
 beteiligte: []
@@ -16,9 +17,9 @@ daten:
 regelungen:
 - §§ 14-15 GewO (Gewerbeanzeige/-abmeldung)
 - § 38 GewO (Überwachungsbedürftige Gewerbe)
-leika_id: '99050023000000'
+leika_id: '99050023005000'
 ozg_id: null
-letzte-aktualisierung: '2026-07-10'
+letzte-aktualisierung: '2026-07-28'
 ---
 
 # Reisegewerbe anmelden

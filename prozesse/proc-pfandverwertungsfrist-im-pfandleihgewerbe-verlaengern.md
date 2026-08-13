@@ -15,7 +15,7 @@ daten:
 regelungen:
 - § 34 GewO (Pfandleihgewerbe)
 - §§ 1-11 Pfandleihverordnung (PfandlV)
-leika_id: '99050093000000'
+leika_id: '99050093020000'
 ozg_id: null
 letzte-aktualisierung: '2026-07-10'
 ---

@@ -13,11 +13,8 @@ daten:
   datenspeicher:
   - id: dstore-umweltdaten
   - id: dstore-grundstuecksdaten
-regelungen:
-  - '§ 71 SGB XII (Altenhilfe)'
-  - '§§ 28 ff. SGB XI (Pflegeleistungen)'
-  - '§ 37 SGB XI (Pflegegeld)'
-letzte-aktualisierung: 2026-04-06
+regelungen: []
+letzte-aktualisierung: '2026-08-03'
 ---
 # Natur & Landschaft: Pflege/Projekte
 
@@ -43,3 +40,7 @@ letzte-aktualisierung: 2026-04-06
 
 
 *Quelle: Allgemeine Verwaltungspraxis*
+
+## Korrektur 2026-08-03
+
+Regelungsliste geleert. Sie nannte den Altenhilfe-/Pflegeversicherungs-Block, verteilt über einen Stringtreffer auf „Pflege" im Titel. Einschlägig sind BNatSchG und NAGBNatSchG; noch nicht gesetzt.

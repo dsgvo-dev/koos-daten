@@ -15,10 +15,8 @@ daten:
   datenspeicher:
   - id: dstore-vergabeunterlagen
   - id: dstore-vergabe-auftragsbezug
-regelungen:
-  - '§§ 92-100 NKomVG (Kommunale Liegenschaften)'
-  - '§§ 1 ff. GEG (Gebäudeenergiegesetz)'
-letzte-aktualisierung: 2026-04-06
+regelungen: []
+letzte-aktualisierung: '2026-08-03'
 ---
 # LED-Konzept Straßenbeleuchtung planen/fortschreiben
 
@@ -44,3 +42,7 @@ letzte-aktualisierung: 2026-04-06
 
 
 *Quelle: Allgemeine Verwaltungspraxis*
+
+## Korrektur 2026-08-03
+
+Regelungsliste geleert. Sie nannte §§ 92-100 NKomVG (Kommunale Liegenschaften) und das Gebäudeenergiegesetz. Straßenbeleuchtung ist Bestandteil der Straße nach § 2 NStrG, kein Gebäude; das GEG gilt für Gebäude. Noch nicht neu gesetzt.

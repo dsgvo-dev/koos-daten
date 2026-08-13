@@ -1,7 +1,8 @@
 ---
 id: proc-bewohnerparkausweis
 titel: Bewohnerparkausweis
-status: aktiv
+status: ersetzt
+ersetzt-durch: proc-bewohnerparkausweis-beantragen
 zustaendigeEinheit: oe-amt-34
 zustaendigeRolle: ''
 beteiligte: []
@@ -18,9 +19,9 @@ regelungen:
 - § 45 Abs. 1b StVO (Parkerleichterungen für Behinderte)
 - §§ 228-231 SGB IX (Nachteilsausgleiche/Merkzeichen)
 - §§ 45-46 StVO
-leika_id: '99108001000000'
+leika_id: '99108001001000'
 ozg_id: '10722'
-letzte-aktualisierung: '2026-07-10'
+letzte-aktualisierung: '2026-07-28'
 ---
 
 # Bewohnerparkausweis

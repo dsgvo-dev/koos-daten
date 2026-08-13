@@ -15,7 +15,7 @@ daten:
 regelungen:
 - § 33a Gewerbeordnung (GewO)
 - § 49 Gewerbeordnung (GewO)
-leika_id: '99050053000000'
+leika_id: '99050053001000'
 ozg_id: null
 letzte-aktualisierung: '2026-07-10'
 ---

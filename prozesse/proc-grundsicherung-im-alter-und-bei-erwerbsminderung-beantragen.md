@@ -23,7 +23,7 @@ daten:
   - id: dstore-krankenversicherungsbeitraege
 regelungen:
 - Viertes Kapitel Zwölftes Buch Sozialgesetzbuch (SGB XII)
-leika_id: '99107009000000'
+leika_id: '99107009017000'
 ozg_id: '10084'
 letzte-aktualisierung: '2026-07-10'
 ---

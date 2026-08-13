@@ -1,7 +1,8 @@
 ---
 id: proc-verlust-des-eigenen-personalausweises-melden
 titel: Verlust des eigenen Personalausweises melden
-status: aktiv
+status: ersetzt
+ersetzt-durch: proc-personalausweis-sperren
 zustaendigeEinheit: oe-amt-33
 zustaendigeRolle: ''
 beteiligte: []
@@ -16,7 +17,8 @@ daten:
   - id: dstore-meldeadresse-wohnsitz
 regelungen:
   - § 27 Abs. 1 Nr. 3 Gesetz über Personalausweise und den elektronischen Identitätsnachweis (PAuswG)
-letzte-aktualisierung: 2026-04-06
+leika_id: '99008001014002'
+letzte-aktualisierung: '2026-07-28'
 ---
 # Verlust des eigenen Personalausweises melden
 

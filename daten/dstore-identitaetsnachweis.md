@@ -8,9 +8,15 @@ zuständige-einheit: oe-amt-33
 bpmn:
   typ: datenobjekt
 klassifizierung:
+  # Datenschutz -- Schaden fuer die betroffene Person (LfD-Schutzstufenkonzept, SDM)
   schutzstufe: C
   schutzbedarf: hoch
-  vertraulichkeit: vertraulich
+  vertraulichkeitsklasse: vertraulich
+  # Informationssicherheit -- Schaden fuer die Institution und die Aufgabenerfuellung (BSI)
+  bsi-vertraulichkeit: normal
+  bsi-integritaet: hoch
+  bsi-verfuegbarkeit: hoch
+  bsi-schutzbedarf: hoch
   rechtsgrundlagen:
   - gesetz: PAuswG
   - gesetz: PassG
@@ -20,7 +26,7 @@ klassifizierung:
     beginn: prozessabhängig
     hinweis: Aus kommunalen Serviceportaltexten abgeleiteter Datentyp; Frist und Beginn
       fachlich zu validieren.
-letzte-aktualisierung: '2026-04-09'
+letzte-aktualisierung: '2026-08-12'
 tags:
 - Personalausweis
 - Reisepass
@@ -28,6 +34,8 @@ tags:
 - Passersatz
 - Legitimation
 ---
+
+
 
 # Identitätsnachweis
 
@@ -83,3 +91,25 @@ Der Typ deckt sowohl Ausweisdaten als auch Passdaten ab; biometrische Elemente s
 KOOS-konforme Konvertierung aus einer älteren Markdown-Sammlung.
 
 Zuständige OE, Klassifizierung und BPMN-Typ sind heuristisch vorbelegt und sollten fachlich überprüft werden.
+
+## BSI-Vektoren geprüft 2026-08-04
+
+**Verfügbarkeit hoch.** Der Speicher wird in so vielen Verfahren geführt, dass ein Ausfall nicht ein Verfahren verzögert, sondern den Publikumsverkehr insgesamt zum Erliegen bringt. Das ist der Maßstab des BSI: erhebliche Beeinträchtigung der Aufgabenerfüllung.
+
+Ohne Identitätsprüfung darf am Schalter nichts ausgegeben werden.
+
+## Schutzstufe geprüft 2026-08-12
+
+**Bleibt bei C.** Dokumentart, Dokumentnummer, Vor- und Familienname, Gültigkeitsdatum,
+ausstellende Behörde, eID-Nutzung.
+
+**Ausweisdaten ermöglichen Identitätsmissbrauch**, und der trifft die wirtschaftlichen
+Verhältnisse — das Kriterium der Stufe C. `dstore-ausweisdokument` steht bereits geprüft auf C.
+
+**Nicht D.** Identitätsmissbrauch bedroht nicht die Existenz im Sinne des LfD-Konzepts, das
+dort Gesundheitsdaten, Sozialdaten, Schulden und Straffälligkeit nennt.
+
+Sieben Verwendungen in fünf Ämtern. Die Verwendungen sind durchweg Legitimationsvorgänge —
+der Nachweis, dass die handelnde Person die ist, die sie zu sein vorgibt.
+
+*Durchsicht Los 2 (Amt 33) vom 2026-08-12. Grundlage: `_output/vvt-datenspeicher-laeufe/VORSCHLAG-2026-08-12-los2-amt33.md`.*

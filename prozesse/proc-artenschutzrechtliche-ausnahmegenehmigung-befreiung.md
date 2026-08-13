@@ -14,7 +14,7 @@ regelungen:
 - §§ 44-45 Bundesnaturschutzgesetz (BNatSchG) (Artenschutz)
 - § 45 BNatSchG (Ausnahmen/Befreiungen)
 - § 67 BNatSchG (Befreiungen)
-leika_id: '99093001000000'
+leika_id: '99090028001000'
 ozg_id: '10487'
 letzte-aktualisierung: '2026-07-10'
 ---

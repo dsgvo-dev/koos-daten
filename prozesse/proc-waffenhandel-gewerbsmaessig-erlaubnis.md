@@ -1,7 +1,8 @@
 ---
 id: proc-waffenhandel-gewerbsmaessig-erlaubnis
 titel: Waffenhandel gewerbsmäßig – Erlaubnis
-status: aktiv
+status: ersetzt
+ersetzt-durch: proc-erlaubnis-zum-gewerbsmaessigen-waffenhandel
 zustaendigeEinheit: oe-amt-32
 zustaendigeRolle: ''
 beteiligte:
@@ -18,9 +19,9 @@ daten:
 regelungen:
 - §§ 21-22 Waffengesetz (WaffG) (Waffenhandel)
 - § 4 WaffG (Erlaubnispflicht)
-leika_id: '99089019000000'
+leika_id: '99089153001000'
 ozg_id: null
-letzte-aktualisierung: '2026-07-10'
+letzte-aktualisierung: '2026-07-28'
 ---
 
 # Waffenhandel gewerbsmäßig – Erlaubnis

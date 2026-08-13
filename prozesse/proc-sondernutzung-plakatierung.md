@@ -18,9 +18,9 @@ regelungen:
 - § 18 Nds. Straßengesetz (NStrG) (Sondernutzungserlaubnis)
 - §§ 45-46 StVO (Anordnungen der Straßenverkehrsbehörde)
 - Kommunale Sondernutzungssatzung
-leika_id: '99108012000000'
+leika_id: '99108012005000'
 ozg_id: null
-letzte-aktualisierung: '2026-07-10'
+letzte-aktualisierung: '2026-07-28'
 ---
 
 # Sondernutzung Plakatierung

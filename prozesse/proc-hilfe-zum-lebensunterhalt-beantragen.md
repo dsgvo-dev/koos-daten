@@ -19,7 +19,7 @@ regelungen:
 - §§ 82 – 96 Zwölftes Buch Sozialgesetzbuch (SGB XII)
 - Verordnung zur Durchführung des § 82
 - Verordnung zur Durchführung des § 90
-leika_id: '99107012000000'
+leika_id: '99107012017000'
 ozg_id: '10086'
 letzte-aktualisierung: '2026-07-10'
 ---

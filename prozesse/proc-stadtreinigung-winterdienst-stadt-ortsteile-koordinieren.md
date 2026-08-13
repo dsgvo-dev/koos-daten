@@ -16,10 +16,12 @@ daten:
   output: []
   datenspeicher: []
 regelungen:
-  - '§§ 97-100 NKomVG (Kommunale Gebäudewirtschaft)'
-  - 'TVöD BT-K (Kommunaler Bereich)'
+- § 52 Nds. Straßengesetz (NStrG) (Übertragung der Reinigungspflicht auf Anlieger)
+- § 22 Nds. Straßengesetz (NStrG) (Straßenbaulast)
+- § 62 Nds. Straßengesetz (NStrG) (Ordnungswidrigkeiten)
+- Kommunale Straßenreinigungssatzung
 
-letzte-aktualisierung: 2026-04-06
+letzte-aktualisierung: '2026-08-03'
 ---
 # Stadtreinigung: Winterdienst (Stadt & Ortsteile) koordinieren
 
@@ -45,3 +47,7 @@ letzte-aktualisierung: 2026-04-06
 
 
 *Quelle: Allgemeine Verwaltungspraxis*
+
+## Korrektur 2026-08-03
+
+Regelungsliste ersetzt. Sie nannte §§ 97-100 NKomVG (Kommunale Gebäudewirtschaft) und den TVöD BT-K -- verteilt über einen Stringtreffer auf „Stadt**reinigung**"/Gebäude**reinigung**. Der Winterdienst ist Straßenreinigungspflicht nach dem NStrG. Übernommen wurde der Block aus `proc-strassenreinigung-organisieren`.

@@ -2,7 +2,7 @@
 id: proc-kindergeld
 titel: Kindergeld
 status: aktiv
-zustaendigeEinheit: oe-amt-50
+zustaendigeEinheit: oe-amt-11
 zustaendigeRolle: ''
 beteiligte: []
 daten:
@@ -15,9 +15,9 @@ daten:
   - id: dstore-einkommens-und-leistungsdaten
 regelungen:
 - §§ 71 bis 77. Einkommensteuergesetz (EStG)
-leika_id: '99041008000000'
+leika_id: '99041008017000'
 ozg_id: '10005'
-letzte-aktualisierung: '2026-07-10'
+letzte-aktualisierung: '2026-07-28'
 ---
 
 # Kindergeld

@@ -8,9 +8,15 @@ zuständige-einheit: oe-amt-63
 bpmn:
   typ: datenobjekt
 klassifizierung:
+  # Datenschutz -- Schaden fuer die betroffene Person (LfD-Schutzstufenkonzept, SDM)
   schutzstufe: C
   schutzbedarf: normal
-  vertraulichkeit: intern
+  vertraulichkeitsklasse: vertraulich
+  # Informationssicherheit -- Schaden fuer die Institution und die Aufgabenerfuellung (BSI)
+  bsi-vertraulichkeit: normal
+  bsi-integritaet: hoch
+  bsi-verfuegbarkeit: normal
+  bsi-schutzbedarf: hoch
   rechtsgrundlagen:
   - gesetz: NBauO
   aufbewahrung:
@@ -18,12 +24,13 @@ klassifizierung:
     beginn: prozessabhängig
     hinweis: Aus kommunalen Serviceportaltexten abgeleiteter Datentyp; Frist und Beginn
       fachlich zu validieren.
-letzte-aktualisierung: '2026-04-09'
+letzte-aktualisierung: '2026-08-04'
 tags:
 - Standsicherheit
 - Nachweis
 - Statik
 ---
+
 
 # Standsicherheitsnachweis
 
@@ -71,3 +78,9 @@ Abgeleiteter Datentyp aus kommunalen Serviceportal-Texten in Niedersachsen; kein
 KOOS-konforme Konvertierung aus einer älteren Markdown-Sammlung.
 
 Zuständige OE, Klassifizierung und BPMN-Typ sind heuristisch vorbelegt und sollten fachlich überprüft werden.
+
+## BSI-Vektoren geprüft 2026-08-04
+
+**Integrität und Verfügbarkeit hoch.** Der Bestand dient der Gefahrenabwehr. Ist er verfälscht oder im entscheidenden Moment nicht abrufbar, kann die Kommune ihre Schutzaufgabe nicht erfüllen -- mit möglichen Folgen für Leib und Leben.
+
+Der Nachweis trägt die Statik eines Bauwerks. Eine unbemerkte Verfälschung ist ein Einsturzrisiko. Die Verfügbarkeit bleibt normal -- der Nachweis wird archiviert, nicht im Minutentakt abgerufen.

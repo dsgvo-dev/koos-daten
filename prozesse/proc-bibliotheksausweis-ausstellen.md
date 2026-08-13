@@ -15,7 +15,7 @@ daten:
 regelungen:
 - § 1 Nds. Bibliotheksgesetz (NBibG)
 - § 11 NKomVG (Kommunale Einrichtungen)
-leika_id: '99077020000000'
+leika_id: '99077020040000'
 ozg_id: '10014'
 letzte-aktualisierung: '2026-07-10'
 ---
@@ -31,7 +31,7 @@ letzte-aktualisierung: '2026-07-10'
 *Personaldokument*
 
 **03 Adresse verifizieren**  
-*Wohnsitz in Oldenburg*
+*Wohnsitz in der Kommune*
 
 **04 Ausweis erstellen**  
 *Mit Barcode/Nummer*

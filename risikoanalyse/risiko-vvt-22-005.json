@@ -1,0 +1,47 @@
+{
+  "id": "risiko-vvt-22-005",
+  "schema_version": "1.0.0",
+  "meta": {
+    "erstellt_am": "2026-08-12",
+    "status": "entwurf",
+    "durchgefuehrt_von": "Generator (2026-08-05, 4D)",
+    "dsb_beteiligt": true,
+    "isb_beteiligt": true
+  },
+  "vvt_referenz": {
+    "vvt_id": "vvt-22-005",
+    "bezeichnung": "Beitragserhebung & Stundungen"
+  },
+  "besonderheiten_referenz": {
+    "bes_id": "bes-vvt-22-005",
+    "schadenshoehe_aus_besonderheiten": 3
+  },
+  "basis_risiko": {
+    "eintrittswahrscheinlichkeit": 2,
+    "eintrittswahrscheinlichkeit_begruendung": "Basis: mittel (2) → Gesamt: 2",
+    "dsgvo": {
+      "beschreibung": "Schadenshöhe nach DSGVO (Art/Umfang/Umstände der Verarbeitung)",
+      "schadenshoehe": 3,
+      "risikowert": 6
+    },
+    "bsi_vertraulichkeit": {
+      "beschreibung": "BSI-Grundwert Vertraulichkeit (Schutz vor unbefugtem Zugang)",
+      "schadenshoehe": 2,
+      "risikowert": 4
+    },
+    "bsi_integritaet": {
+      "beschreibung": "BSI-Grundwert Integrität (Schutz vor unbefugter/unerkannter Änderung)",
+      "schadenshoehe": 2,
+      "risikowert": 4
+    },
+    "bsi_verfuegbarkeit": {
+      "beschreibung": "BSI-Grundwert Verfügbarkeit (Schutz vor Ausfall/Unterbrechung)",
+      "schadenshoehe": 1,
+      "risikowert": 2
+    },
+    "gesamtwert": 6,
+    "schutzbedarf": "hoch",
+    "dsfa_pflicht": true,
+    "dsfa_hinweis": "DSFA empfohlen (DSGVO=6)"
+  }
+}

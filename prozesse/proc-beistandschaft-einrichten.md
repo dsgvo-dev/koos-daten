@@ -17,7 +17,7 @@ daten:
 regelungen:
 - §§ 1712-1717 BGB (Beistandschaft)
 - §§ 52-59 SGB VIII (Mitwirkung in Verfahren)
-leika_id: '99016001000000'
+leika_id: '99016001044000'
 ozg_id: '10736'
 letzte-aktualisierung: '2026-07-10'
 ---

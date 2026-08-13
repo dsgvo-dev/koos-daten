@@ -18,12 +18,12 @@ daten:
   - id: dstore-identitaetsnachweis
   - id: dstore-meldeadresse-wohnsitz
 regelungen:
-- §§ 58-85 NKomVG (Verwaltungsorganisation)
-- § 80 NKomVG (Hauptverwaltungsbeamter)
-- § 11 NKomVG (Kommunale Selbstverwaltung)
+- §§ 12-13 Bundeswahlgesetz (BWahlG) (Wahlrecht)
+- §§ 1-5 Nds. Kommunalwahlgesetz (NKWG)
+- § 6 NKWG (Wählbarkeit)
 leika_id: null
 ozg_id: '10145'
-letzte-aktualisierung: '2026-07-10'
+letzte-aktualisierung: '2026-08-03'
 ---
 
 # Wahlen (Wahlorganisation inkl. Briefwahl/Wahlschein)
@@ -50,3 +50,7 @@ letzte-aktualisierung: '2026-07-10'
 
 
 *Quelle: Allgemeine Verwaltungspraxis*
+
+## Korrektur 2026-08-03
+
+Regelungsliste ersetzt. Sie nannte §§ 58-85 NKomVG (Verwaltungsorganisation), § 80 NKomVG (Hauptverwaltungsbeamter) und § 11 NKomVG -- verteilt über einen Stringtreffer auf „**Organisation**". Für die Durchführung von Wahlen sind Wahlrecht und Kommunalwahlrecht einschlägig. Übernommen wurde der Block aus `proc-wahlrechtsbescheinigung-ausstellen`.

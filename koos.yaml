@@ -140,33 +140,163 @@ versionierung:
 #    Kontrollierte Wertelisten für strukturierte Felder in daten/*.md.
 #    Jeder Wert außerhalb dieser Listen ist ein Pflegefehler.
 #    Erweiterungen hier eintragen — nie direkt in den Inhaltsdateien erfinden.
+#
+#    FÜHRENDE QUELLE ist die Richtlinie zur Datenklassifizierung
+#    (dsms-knowledge/facts/muster/dienstanweisungen/reg-klassifizierung-001.md,
+#    Fassung 0.3 vom 2026-08-12). Weicht koos.yaml von ihr ab, gilt die
+#    Richtlinie.
+#
+#    ─── DAS VIER-ACHSEN-MODELL ──────────────────────────────────────────────
+#    Die Klassifizierung kennt vier Achsen. Sie unterscheiden sich nicht in
+#    der Skala, sondern darin, WEM DER SCHADEN DROHT:
+#
+#      1  schutzstufe            A–E                die betroffene Person
+#      2  vertraulichkeitsklasse V1–V4              der Geheimhaltungsbedarf
+#                                                   der Verwaltungsinformation
+#      3  bsi-*                  normal|hoch|
+#                                sehr hoch          die verantwortliche Organisation
+#      4  vs-einstufung          VS-NfD … STRENG    die Interessen des Bundes
+#                                GEHEIM             oder eines Landes
+#
+#    KEINE ACHSE WIRD AUS EINER ANDEREN ABGELEITET. Jede ist eigenständig
+#    festzulegen. Wer eine aus einer anderen errechnet, lässt sie verschwinden.
+#
+#    Der Schutzbedarf (normal|hoch) ist KEINE Achse, sondern das ERGEBNIS:
+#    das Maximum aller vier Achsen. Er steuert das Verfahren — Baseline-TOMs
+#    bei "normal", ergänzende Risikoanalyse und ggf. DSFA bei "hoch".
 # ---------------------------------------------------------------------------
 
 vokabular:
 
-  # Datenschutz-Schutzstufen (Klassifizierung personenbezogener und sonstiger Daten)
+  # ═══ ACHSE 1 ═════════════════════════════════════════════════════════════
+  # Schutzstufe — Schaden für die BETROFFENE PERSON
+  # Quelle: Schutzstufenkonzept des LfD Niedersachsen, Stand Oktober 2018
+  #   dsms-knowledge/facts/aufsichtsbehoerden/LfD-Niedersachsen/
+  #     20181024_Schutzstufenkonzept.md
+  #
+  # Gilt NUR für personenbezogene Daten. Trägt eine Datenart keinen
+  # Personenbezug (Feld personenbezug: nein), bleibt dieses Feld leer —
+  # es ist dann nichts zu bemessen (Richtlinie, Anlage D, Frage 1).
+  #
+  # Zweifelsregel: im Zweifel die HÖHERE Stufe (Richtlinie Ziffer 4.3).
+  # Eine Herabstufung bedarf der Begründung UND der Bestätigung durch die
+  # zuständige Fachbereichsleitung.
   schutzstufe:
-    A: öffentlich            # Keine Schutzmaßnahmen erforderlich; Veröffentlichung unproblematisch
-    B: intern                # Nur für interne Nutzung; kein personenbezogener Schutzbedarf
-    C: vertraulich           # Personenbezogene Daten ohne besondere Kategorien (Art. 9 DSGVO)
-    D: streng vertraulich    # Besondere Kategorien (Art. 9 DSGVO); erhöhte Zugriffsrestriktionen
-    E: geheim                # Höchster Schutz; Zugang nur namentlich benannten Personen
+    A: Von der betroffenen Person frei zugänglich gemacht — Telefonverzeichnis, eigene Webseite, frei zugängliche soziale Medien
+    B: Nicht frei zugänglich, unsachgemäße Handhabung lässt keine besondere Beeinträchtigung erwarten — Verteiler, Grundbucheinsicht
+    C: Unsachgemäße Handhabung kann die gesellschaftliche Stellung oder die wirtschaftlichen Verhältnisse beeinträchtigen ("Ansehen") — Einkommen, Grundsteuer, Ordnungswidrigkeiten
+    D: Unsachgemäße Handhabung kann erheblich beeinträchtigen ("Existenz") — Gesundheitsdaten, Art. 9 DSGVO, Sozialdaten, Schulden, Pfändungen, Straffälligkeit, dienstliche Beurteilungen
+    E: Unsachgemäße Handhabung kann Gesundheit, Leben oder Freiheit beeinträchtigen — Opfer von Straftaten, Zeugenschutz
 
-  # BSI-Schutzbedarf (Informationssicherheit nach IT-Grundschutz)
+  # ═══ ACHSE 2 ═════════════════════════════════════════════════════════════
+  # Vertraulichkeitsstufe — GEHEIMHALTUNGSBEDARF DER VERWALTUNGSINFORMATION
+  # Quelle: ISO/IEC 27002:2022, Kapitel 5.12 (Richtlinie Abschnitt 3.2)
+  #
+  # Gilt für ALLE dienstlichen Informationen, auch ohne Personenbezug.
+  # Beantwortet die Frage: WER DARF SIE KENNEN?
+  #
+  # ACHTUNG: Diese Achse ist EIGENSTÄNDIG und wird NICHT aus der Schutzstufe
+  # errechnet. Bis zum 2026-08-12 war sie im Bestand eine mechanische
+  # Ableitung (A->öffentlich, B->intern, C->vertraulich, D/E->streng
+  # vertraulich) — bei allen 306 Datenarten ohne eine einzige Abweichung.
+  # Damit war die Achse faktisch nicht vorhanden. Ein IT-Sicherheitskonzept
+  # ohne Personenbezug ist V3, obwohl es keine Schutzstufe trägt.
+  #
+  # Die V-Kennungen entsprechen der Richtlinie Abschnitt 3.2; der Bestand
+  # führt die Klartextwerte.
+  vertraulichkeitsklasse:
+    öffentlich:          "V1 — Zur Veröffentlichung freigegeben; kein Zugangsschutz erforderlich. Bekanntmachungen, freigegebene Pressemitteilungen, veröffentlichte Satzungen"
+    intern:              "V2 — Nur für Beschäftigte der Verwaltung; nicht zur Weitergabe nach außen. Interner Schriftverkehr, Geschäftsverteilungsplan, Telefonlisten"
+    vertraulich:         "V3 — Eingeschränkter Personenkreis, Need-to-Know. Vergabeunterlagen vor Zuschlag, IT-Sicherheitskonzepte, Verhandlungsstrategien"
+    streng vertraulich:  "V4 — Zugang auf namentlich benannte Personen beschränkt. KRITIS-Notfallpläne, polizeiliche und ordnungsbehördliche Lagen"
+
+  # ═══ ACHSE 3 ═════════════════════════════════════════════════════════════
+  # BSI-Schutzbedarf — Schaden für die VERANTWORTLICHE ORGANISATION
+  # Quelle: BSI-Standard 200-2, Kapitel 8.2.1
+  #   dsms-knowledge/facts/BSI/BSI-Standard-200-2-IT-Grundschutz-Methodik.pdf
+  #
+  # Wird JE SCHUTZZIEL getrennt festgelegt — Vertraulichkeit, Integrität,
+  # Verfügbarkeit (Felder bsi-vertraulichkeit, bsi-integritaet,
+  # bsi-verfuegbarkeit). Das Feld bsi-schutzbedarf ist das Maximum der drei
+  # und wird NICHT eigenständig gesetzt.
+  #
+  # Das BSI bestimmt die Kategorie über SECHS SCHADENSSZENARIEN:
+  #   1  Verstoß gegen Gesetze, Vorschriften, Verträge
+  #   2  Beeinträchtigung des informationellen Selbstbestimmungsrechts
+  #   3  Beeinträchtigung der persönlichen Unversehrtheit
+  #   4  Beeinträchtigung der Aufgabenerfüllung
+  #   5  Negative Innen- oder Außenwirkung
+  #   6  Finanzielle Auswirkungen
+  #
+  # FÜNF davon betreffen die Organisation, nur Szenario 2 die betroffene
+  # Person. Dessen Wortlaut deckt sich mit dem LfD-Konzept:
+  #   normal    = "beeinträchtigt werden kann"            -> Schutzstufe C
+  #   hoch      = "erheblich beeinträchtigt werden kann"  -> Schutzstufe D
+  #   sehr hoch = "Gefahr für Leib und Leben oder die
+  #                persönliche Freiheit"                  -> Schutzstufe E
+  # Das ist eine BEOBACHTUNG, KEINE ABLEITUNGSREGEL. Der BSI-Schutzbedarf
+  # kann aus jedem der anderen fünf Szenarien höher ausfallen: Eine
+  # Löschwasserkarte ohne Personenbezug hat hohe Verfügbarkeit, ein
+  # Melderegister hohe Integrität.
+  #
+  # Verfügbarkeit ist über Szenario 4 quantifiziert (maximal tolerierbare
+  # Ausfallzeit):  normal 24-72 h | hoch 1-24 h | sehr hoch unter 1 h
+  bsi-schutzbedarf:
+    normal:    Beeinträchtigungen sind begrenzt und überschaubar; maximal tolerierbare Ausfallzeit 24 bis 72 Stunden
+    hoch:      Beeinträchtigungen können erheblich sein; maximal tolerierbare Ausfallzeit 1 bis 24 Stunden
+    sehr hoch: Beeinträchtigungen können existenzbedrohend sein; maximal tolerierbare Ausfallzeit unter einer Stunde
+
+  # ═══ ERGEBNIS (keine Achse) ══════════════════════════════════════════════
+  # Schutzbedarf nach der Datenschutz-Vorgehensweise — Maximum aller Achsen.
+  # Steuert das Verfahren. Bewusst ZWEIWERTIG; Begründung in der
+  # Vorgehensweise, Grundüberlegung 2, und in der Richtlinie, Anlage C.
+  # NICHT zu verwechseln mit bsi-schutzbedarf (dreiwertig).
   schutzbedarf:
-    normal:    Beeinträchtigungen sind begrenzt und überschaubar
-    hoch:      Beeinträchtigungen können erheblich sein
-    sehr hoch: Beeinträchtigungen können existenzbedrohend sein
+    normal: Baseline-Maßnahmen genügen; keine vertiefte Risikoanalyse
+    hoch:   Ergänzende Risikoanalyse erforderlich, ggf. DSFA nach Art. 35 DSGVO
 
-  # Vertraulichkeitsstufe (Zugangskontrolle / Informationsklassifizierung)
-  # Unabhängig von Schutzstufe und Schutzbedarf — beschreibt, wer Zugang
-  # zu diesem Dokument / dieser Datenart haben darf.
-  # Orientierung: ISO 27001 / klassische Informationsklassifizierung.
-  vertraulichkeit:
-    öffentlich:          Zur Veröffentlichung freigegeben; kein Zugangsschutz erforderlich
-    intern:              Nur für Mitarbeitende der Verwaltung; nicht zur Weitergabe nach außen
-    vertraulich:         Eingeschränkter Personenkreis innerhalb der Verwaltung
-    streng vertraulich:  Zugang auf namentlich benannte Personen beschränkt
+  # ═══ VORFRAGE ════════════════════════════════════════════════════════════
+  # Personenbezug — entscheidet, ob Achse 1 überhaupt anwendbar ist.
+  # Richtlinie, Anlage D, Frage 1: "Sind personenbezogene Daten enthalten?
+  # Nein -> nur Achse 2 anwenden."
+  # Maßgeblich ist nach Art. 4 Nr. 1 DSGVO, WEM DER DATENSATZ ZUZUORDNEN
+  # IST — nicht, ob ein Feld einen Namen trägt.
+  # Fehlt das Feld, ist damit KEINE Aussage verbunden.
+  personenbezug:
+    ja:   Der Datensatz ist einer identifizierten oder identifizierbaren natürlichen Person zuzuordnen
+    nein: Der Datensatz ist einer Organisationseinheit, einem Objekt oder einer Sache zuzuordnen — Achse 1 entfällt
+
+  # ─────────────────────────────────────────────────────────────────────────
+  # Verschlusssachen-Einstufung (dritte Klassifizierungsachse)
+  #
+  # Rechtsgrundlage: Verschlusssachenanweisung (VS-Anweisung/VSA) für das Land
+  # Niedersachsen, RdErl. d. MI v. 13.2.1997 (Nds. MBl. S. 664), Stand Januar
+  # 1999, VORIS 20480 00 00 03 004 — § 7. Für Landkreise und Gemeinden
+  # eingeführt durch RdErl. d. MI v. 23.12.1982 (Nds. MBl. 1983 S. 265),
+  # VORIS 20480 (VSAkomBRdErl).
+  # Erfassung im DSMS:
+  #   dsms-knowledge/facts/verwaltungsvorschriften/niedersachsen/
+  #     vsa-verschlusssachenanweisung.md
+  #
+  # ACHTUNG — diese Achse folgt einer ANDEREN Zweifelsregel als die beiden
+  # anderen. Schutzstufe und Schutzbedarf stufen im Zweifel HÖHER ein
+  # (Maximalprinzip). Hier gilt § 1 Abs. 1 VSA: "Von einer Einstufung als VS
+  # ist nur der notwendige Gebrauch zu machen." Anlage 1 Nr. 1 VSA verlangt,
+  # dass die konkrete Gefährdung schlüssig darzulegen ist. Der Normalfall ist
+  # KEINE Einstufung — das Feld bleibt dann leer (~).
+  #
+  # Abgrenzung: Anlage 1 Nr. 1 VSA verweist für personenbezogene Daten
+  # ausdrücklich auf die Datenschutzgesetze, nicht auf die VSA. Eine hohe
+  # Schutzstufe begründet also KEINE VS-Einstufung.
+  #
+  # Maßstab je Grad ist der Schaden für die Interessen der Bundesrepublik
+  # Deutschland oder eines ihrer Länder — nicht für die betroffene Person
+  # (Schutzstufe) und nicht für die eigene Organisation (BSI-Schutzbedarf).
+  vs-einstufung:
+    VS-NUR FÜR DEN DIENSTGEBRAUCH: Kenntnisnahme durch Unbefugte kann für die Interessen des Bundes oder eines Landes nachteilig sein (§ 7 Nr. 4 VSA)
+    VS-VERTRAULICH:                Kenntnisnahme durch Unbefugte kann für die Interessen des Bundes oder eines Landes schädlich sein (§ 7 Nr. 3 VSA)
+    GEHEIM:                        Kenntnisnahme durch Unbefugte kann die Sicherheit des Bundes oder eines Landes gefährden oder ihren Interessen schweren Schaden zufügen (§ 7 Nr. 2 VSA)
+    STRENG GEHEIM:                 Kenntnisnahme durch Unbefugte kann den Bestand oder lebenswichtige Interessen des Bundes oder eines Landes gefährden (§ 7 Nr. 1 VSA)
 
   # Datenkategorien (Klassifizierung des Dateninhalts)
   datenkategorie:
@@ -264,16 +394,63 @@ bearbeitung:
     daten:
       id-praefix: dstore-
       datei-pfad: daten/
+      # Struktur der Datei: Markdown mit YAML-Frontmatter.
+      # Die Klassifizierungsfelder liegen im Bestand unter dem Block
+      # "klassifizierung:"; das ist unter feldpfad je Feld vermerkt.
+      # HINWEIS: preview.html kennt diese Feldliste noch nicht vollstaendig.
       felder:
-        - {id: name,               label: Bezeichnung,              typ: text,            pflicht: true}
-        - {id: datenkategorie,     label: Datenkategorie,           typ: select,          vokabular: datenkategorie, pflicht: true}
-        - {id: zustaendigeEinheit, label: "Zuständige OE",          typ: oe-select}
-        - {id: schutzstufe,        label: Schutzstufe,              typ: select,          vokabular: schutzstufe,     pflicht: true}
-        - {id: schutzbedarf,       label: Schutzbedarf,             typ: select,          vokabular: schutzbedarf,    pflicht: true}
-        - {id: vertraulichkeit,    label: Vertraulichkeit,          typ: select,          vokabular: vertraulichkeit, pflicht: true}
-        - {id: rechtsgrundlagen,   label: Rechtsgrundlagen,         typ: list-text}
-        - {id: aufbewahrungFrist,  label: Aufbewahrungsfrist,       typ: text}
-        - {id: aufbewahrungBeginn, label: Fristbeginn,              typ: text}
+        # ── Identitaet ───────────────────────────────────────────────────────
+        - {id: name,               label: Bezeichnung,              typ: text,      pflicht: true}
+        - {id: datenkategorie,     label: Datenkategorie,           typ: select,    vokabular: datenkategorie, pflicht: true}
+        - {id: zustaendigeEinheit, label: "Zuständige OE",          typ: oe-select, feldpfad: "zuständige-einheit"}
+
+        # ── Vorfrage: entscheidet ueber die Anwendbarkeit von Achse 1 ────────
+        # Richtlinie, Anlage D, Frage 1. Fehlt das Feld, ist damit KEINE
+        # Aussage verbunden — der Bestand ist darauf nicht durchgesehen.
+        - {id: personenbezug,      label: Personenbezug,            typ: select,    vokabular: personenbezug}
+
+        # ── ACHSE 1 — Schaden fuer die betroffene Person ─────────────────────
+        # Nur bei personenbezug: ja. Sonst leer lassen.
+        - {id: schutzstufe,        label: "Schutzstufe (Achse 1, LfD A–E)",  typ: select, vokabular: schutzstufe, feldpfad: "klassifizierung.schutzstufe"}
+
+        # ── ACHSE 2 — Geheimhaltungsbedarf der Verwaltungsinformation ────────
+        # EIGENSTAENDIG festzulegen, NICHT aus Achse 1 ableiten.
+        # Gilt auch fuer Datenarten ohne Personenbezug.
+        - {id: vertraulichkeitsklasse, label: "Vertraulichkeitsstufe (Achse 2, V1–V4)", typ: select, vokabular: vertraulichkeitsklasse, feldpfad: "klassifizierung.vertraulichkeitsklasse"}
+
+        # ── ACHSE 3 — Schaden fuer die verantwortliche Organisation ──────────
+        # Je Schutzziel getrennt festzulegen (BSI 200-2, sechs Schadens-
+        # szenarien). bsi-schutzbedarf ist das MAXIMUM der drei und wird
+        # nicht eigenstaendig gesetzt.
+        - {id: bsiVertraulichkeit, label: "BSI-Vertraulichkeit (Achse 3)", typ: select, vokabular: bsi-schutzbedarf, feldpfad: "klassifizierung.bsi-vertraulichkeit"}
+        - {id: bsiIntegritaet,     label: "BSI-Integrität (Achse 3)",     typ: select, vokabular: bsi-schutzbedarf, feldpfad: "klassifizierung.bsi-integritaet"}
+        - {id: bsiVerfuegbarkeit,  label: "BSI-Verfügbarkeit (Achse 3)",  typ: select, vokabular: bsi-schutzbedarf, feldpfad: "klassifizierung.bsi-verfuegbarkeit"}
+        - {id: bsiSchutzbedarf,    label: "BSI-Schutzbedarf (Maximum, abgeleitet)", typ: select, vokabular: bsi-schutzbedarf, feldpfad: "klassifizierung.bsi-schutzbedarf", abgeleitet: true}
+
+        # ── ACHSE 4 — Schaden fuer die Interessen des Bundes oder Landes ─────
+        # VSA Niedersachsen, § 7. Angelegt 2026-08-12, im Bestand LEER.
+        # § 1 Abs. 1 VSA: nur der notwendige Gebrauch. Der Normalfall ist
+        # KEINE Einstufung. Anlage 1 Nr. 1 VSA: eine hohe Schutzstufe
+        # begruendet KEINE VS-Einstufung.
+        - {id: vsEinstufung,       label: "VS-Einstufung (Achse 4)", typ: select,   vokabular: vs-einstufung}
+        - {id: vsHerausgebendeStelle, label: "Herausgebende Stelle (VS)", typ: oe-select}
+        - {id: vsEinstufungDatum,  label: "Datum der VS-Einstufung", typ: text}
+        - {id: vsFristEnde,        label: "Ende der VS-Einstufung",  typ: text}
+        - {id: vsFristverlaengerungBegruendung, label: "Begründung der Fristverlängerung (VS)", typ: textarea}
+        - {id: vsTeileinstufung,   label: "Abweichend eingestufte Teile (VS)", typ: textarea}
+
+        # ── ERGEBNIS — Maximum aller vier Achsen, steuert das Verfahren ──────
+        - {id: schutzbedarf,       label: "Schutzbedarf (Ergebnis, normal|hoch)", typ: select, vokabular: schutzbedarf, feldpfad: "klassifizierung.schutzbedarf"}
+
+        # ── Kontextmodell (ADR 010) ─────────────────────────────────────────
+        # Kontextabhaengige Aufspaltung von Allgemeinplaetzen. Nur bei
+        # Basisspeichern und ihren -vertraulich-Varianten gesetzt.
+        - {id: kontext,            label: "Kontext (Basis/Variante)", typ: textarea, feldpfad: "kontext"}
+
+        # ── Rechtsgrundlagen und Aufbewahrung ───────────────────────────────
+        - {id: rechtsgrundlagen,   label: Rechtsgrundlagen,         typ: list-text, feldpfad: "klassifizierung.rechtsgrundlagen"}
+        - {id: aufbewahrungFrist,  label: Aufbewahrungsfrist,       typ: text,      feldpfad: "klassifizierung.aufbewahrung.frist"}
+        - {id: aufbewahrungBeginn, label: Fristbeginn,              typ: text,      feldpfad: "klassifizierung.aufbewahrung.beginn"}
 
     oe:
       id-praefix: oe-
@@ -286,5 +463,5 @@ bearbeitung:
         - {id: hinweis,          label: Hinweis,                  typ: textarea}
 
 koos-version: "0.1"                   # KOOS-Spezifikationsversion
-stand: 2026-04-01
+stand: 2026-08-12                      # Vier-Achsen-Modell; fuehrende Quelle ist die Richtlinie zur Datenklassifizierung v0.3
 erstellt-von: Stabsstelle Organisation und Digitalisierung

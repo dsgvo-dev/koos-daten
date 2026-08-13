@@ -17,7 +17,7 @@ regelungen:
 - §§ 17-19 Bundesmeldegesetz (BMG) (An-/Ab-/Ummeldung)
 - § 34 BMG (Melderegisterauskunft)
 - § 51 BMG (Auskunftssperre)
-leika_id: '99049003000000'
+leika_id: '99115004001000'
 ozg_id: null
 letzte-aktualisierung: '2026-07-10'
 ---

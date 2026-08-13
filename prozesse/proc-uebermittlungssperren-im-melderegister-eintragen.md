@@ -16,7 +16,7 @@ daten:
   - id: dstore-identitaetsnachweis
 regelungen:
 - § 51 Absatz 1 Bundesmeldegesetz (BMG)
-leika_id: '99115002000000'
+leika_id: '99115002060000'
 ozg_id: '10111'
 letzte-aktualisierung: '2026-07-10'
 ---

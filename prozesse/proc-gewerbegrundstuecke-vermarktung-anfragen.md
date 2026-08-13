@@ -15,11 +15,8 @@ daten:
   datenspeicher:
   - id: dstore-grundstuecksbezug
   - id: dstore-flur-flurstueck-lagebezeichnung
-regelungen:
-  - '§ 68 GewO (Jahrmärkte/Volksfeste)'
-  - '§ 69 GewO (Marktfestsetzung)'
-  - 'Nds. kommunale Marktsatzung'
-letzte-aktualisierung: 2026-04-06
+regelungen: []
+letzte-aktualisierung: '2026-08-03'
 ---
 # Gewerbegrundstücke: Vermarktung/Anfragen
 
@@ -45,3 +42,7 @@ letzte-aktualisierung: 2026-04-06
 
 
 *Quelle: Allgemeine Verwaltungspraxis*
+
+## Korrektur 2026-08-03
+
+Regelungsliste geleert. Sie nannte §§ 68, 69 GewO (Jahrmärkte, Marktfestsetzung) und die kommunale Marktsatzung -- verteilt über einen Stringtreffer auf „Ver**markt**ung". Der Verkauf von Gewerbegrundstücken hat mit dem Marktrecht nichts zu tun; einschlägig sind §§ 92 ff. NKomVG (Vermögensveräußerung) und BGB; noch nicht gesetzt.

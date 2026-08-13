@@ -15,8 +15,8 @@ daten:
   - id: dstore-lebenslauf-qualifikationsnachweis
   - id: dstore-personenstammdaten
   - id: dstore-identitaetsnachweis
-  - § 34a Gewerbeordnung (GewO)
 regelungen:
+- § 34a Gewerbeordnung (GewO)
 - § 34a Abs. 1 Gewerbeordnung (GewO)
 leika_id: '99050004005000'
 ozg_id: null

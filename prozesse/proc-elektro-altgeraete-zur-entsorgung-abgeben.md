@@ -11,10 +11,10 @@ daten:
   datenspeicher:
   - id: dstore-person
   - id: dstore-kontaktdaten
-  - § 10 ElektroG
-  - § 17 KrWG
 letzte-aktualisierung: 2026-04-06
 regelungen:
+- § 10 ElektroG
+- § 17 KrWG
   - '§ 13  Elektro- und Elektronikgerätegesetz  (ElektroG)'
   - '§ 20 Kreislaufwirtschaftsgesetz (KrWG)'
 ---

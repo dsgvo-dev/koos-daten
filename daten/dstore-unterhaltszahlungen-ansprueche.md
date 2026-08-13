@@ -8,9 +8,15 @@ zuständige-einheit: oe-amt-50
 bpmn:
   typ: datenspeicher
 klassifizierung:
-  schutzstufe: C
+  # Datenschutz -- Schaden fuer die betroffene Person (LfD-Schutzstufenkonzept, SDM)
+  schutzstufe: D
   schutzbedarf: hoch
-  vertraulichkeit: vertraulich
+  vertraulichkeitsklasse: streng vertraulich
+  # Informationssicherheit -- Schaden fuer die Institution und die Aufgabenerfuellung (BSI)
+  bsi-vertraulichkeit: hoch
+  bsi-integritaet: hoch
+  bsi-verfuegbarkeit: hoch
+  bsi-schutzbedarf: hoch
   rechtsgrundlagen:
   - gesetz: BGB
   - gesetz: UVG
@@ -18,12 +24,14 @@ klassifizierung:
     frist: prozessabhängig
     beginn: nach Verfahrensabschluss
     hinweis: Fach- und verfahrensabhängig; aus Serviceportal-Kontext abgeleitet
-letzte-aktualisierung: 2026-04-09
+letzte-aktualisierung: '2026-08-10'
 tags:
 - Unterhalt
 - Anspruch
 - Zahlung
 ---
+
+
 
 # Unterhaltszahlungen und Unterhaltsansprüche
 
@@ -42,4 +50,14 @@ Daten zu geschuldetem, gezahltem oder erhaltenem Unterhalt.
 
 ## Hinweise
 
-Aus weiteren niedersächsischen Serviceportalen (Oldenburg, Osnabrück, Landkreis Hameln-Pyrmont, Hannover) abgeleiteter Datentyp. Die Zuständigkeit wurde auf reale `oe-*`-IDs aus `orga.yaml` normalisiert.
+Die Zuständigkeit wurde auf reale `oe-*`-IDs aus `orga.yaml` normalisiert.
+
+## BSI-Vektoren geprüft 2026-08-04
+
+**Integrität hoch.** Der Bestand ist Grundlage einer Entscheidung über einen Menschen. Eine unbemerkte Verfälschung führt zu einer falschen Entscheidung, die für die betroffene Person unmittelbare Folgen hat und im Nachhinein kaum aufzuklären ist.
+
+Der Bestand trägt Zahlungsansprüche und Rückforderungen. Ein falscher Stand belastet oder entlastet die falsche Person.
+
+## Schutzstufe geprüft 2026-08-10
+
+**C → D.** Die Datenart trägt zwei Seiten. Bei der berechtigten Person offenbart sie Trennung und regelmäßig das Alleinerziehen; beim Unterhaltsvorschuss nach dem UVG zusätzlich, dass die Zahlungen ausbleiben. **Bei der pflichtigen Person offenbart sie das Gegenstück:** Titel, Rückstand und den Übergang des Anspruchs auf das Land nach § 7 UVG -- also eine öffentliche Forderung, die vollstreckt wird. Schulden und Vollstreckung sind im LfD-Konzept Stufe D.

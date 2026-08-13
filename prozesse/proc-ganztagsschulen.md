@@ -14,10 +14,9 @@ daten:
   input: []
   output: []
   datenspeicher: []
-regelungen:
-  - Es sind ggf. gesetzliche Regelungen zu beachten. Wenden Sie sich bitte an die zuständige Stelle.
+regelungen: []
 
-letzte-aktualisierung: 2026-04-06
+letzte-aktualisierung: '2026-08-03'
 ---
 # Ganztagsschulen
 
@@ -43,3 +42,7 @@ letzte-aktualisierung: 2026-04-06
 
 
 *Quelle: Allgemeine Verwaltungspraxis*
+
+## Korrektur 2026-08-03
+
+Regelungsliste geleert. Sie enthielt keine Norm, sondern den Platzhaltersatz „Es sind ggf. gesetzliche Regelungen zu beachten. Wenden Sie sich bitte an die zuständige Stelle." aus dem Quellkatalog. Ein Platzhalter ist keine Rechtsgrundlage.

@@ -18,7 +18,7 @@ daten:
 regelungen:
 - § 3 Nds. Polizei- und Ordnungsbehördengesetz (Nds. SOG) i.V.m. Hundesteuersatzung
 - §§ 11 ff. TierSchG (Tierschutz bei Kennzeichnung)
-leika_id: '99110044000000'
+leika_id: null
 ozg_id: null
 letzte-aktualisierung: '2026-07-10'
 ---

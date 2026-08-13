@@ -15,7 +15,7 @@ regelungen:
 - §§ 1-3 Nds. Gesetz über den öffentlichen Gesundheitsdienst (NGöGD)
 - §§ 28-31 Infektionsschutzgesetz (IfSG)
 - § 5 NGöGD (Aufgaben der Gesundheitsämter)
-leika_id: '99003001000000'
+leika_id: '99003001058000'
 ozg_id: null
 letzte-aktualisierung: '2026-07-10'
 ---

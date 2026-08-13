@@ -18,10 +18,9 @@ daten:
   - id: dstore-staatsangehoerigkeit-aufenthaltsstatus
   - id: dstore-personenstammdaten
   - id: dstore-einkommens-und-leistungsdaten
-  - §§ 3 ff. Asylbewerberleistungsgesetz
 regelungen:
 - §§ 3 ff. Asylbewerberleistungsgesetz
-leika_id: '99107029000000'
+leika_id: '99107029017000'
 ozg_id: '10606'
 letzte-aktualisierung: '2026-07-10'
 ---

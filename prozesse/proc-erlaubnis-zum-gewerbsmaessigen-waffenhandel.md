@@ -4,7 +4,9 @@ titel: Erlaubnis zum gewerbsmäßigen Waffenhandel
 status: aktiv
 zustaendigeEinheit: oe-amt-32
 zustaendigeRolle: ''
-beteiligte: []
+beteiligte:
+- einheit: oe-amt-30
+  aufgabe: ''
 daten:
   input: []
   output: []
@@ -16,9 +18,9 @@ daten:
 regelungen:
 - §§ 21-22 Waffengesetz (WaffG) (Waffenhandel)
 - § 4 WaffG (Erlaubnispflicht)
-leika_id: '99089019000000'
+leika_id: '99089153001000'
 ozg_id: null
-letzte-aktualisierung: '2026-07-10'
+letzte-aktualisierung: '2026-07-28'
 ---
 
 # Erlaubnis zum gewerbsmäßigen Waffenhandel

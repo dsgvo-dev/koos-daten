@@ -16,7 +16,7 @@ regelungen:
 - §§ 110-124 NKomVG (Haushaltswirtschaft)
 - § 113 NKomVG (Haushaltsplan)
 - §§ 1 ff. Gemeindehaushalts- und -kassenverordnung Nds. (GemHKVO)
-leika_id: '99142005000000'
+leika_id: '99142005042000'
 ozg_id: null
 letzte-aktualisierung: '2026-07-10'
 ---

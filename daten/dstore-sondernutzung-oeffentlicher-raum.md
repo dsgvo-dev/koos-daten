@@ -8,9 +8,15 @@ zuständige-einheit: oe-amt-32
 bpmn:
   typ: datenobjekt
 klassifizierung:
-  schutzstufe: C
+  # Datenschutz -- Schaden fuer die betroffene Person (LfD-Schutzstufenkonzept, SDM)
+  schutzstufe: B
   schutzbedarf: normal
-  vertraulichkeit: intern
+  vertraulichkeitsklasse: intern
+  # Informationssicherheit -- Schaden fuer die Institution und die Aufgabenerfuellung (BSI)
+  bsi-vertraulichkeit: normal
+  bsi-integritaet: hoch
+  bsi-verfuegbarkeit: normal
+  bsi-schutzbedarf: hoch
   rechtsgrundlagen:
   - gesetz: Straßenrecht
   - gesetz: Ortsrecht
@@ -19,12 +25,13 @@ klassifizierung:
     beginn: prozessabhängig
     hinweis: Aus kommunalen Serviceportaltexten abgeleiteter Datentyp; Frist und Beginn
       fachlich zu validieren.
-letzte-aktualisierung: '2026-04-09'
+letzte-aktualisierung: '2026-08-12'
 tags:
 - Sondernutzung
 - öffentlicher Raum
 - Nutzung
 ---
+
 
 # Sondernutzung öffentlicher Raum
 
@@ -43,7 +50,7 @@ Daten zu einer erlaubnispflichtigen Nutzung des öffentlichen Straßenraums.
 
 ## Klassifizierung
 
-- Schutzstufe: C
+- Schutzstufe: B
 - Schutzbedarf: normal
 - Vertraulichkeit: intern
 - BPMN-Typ: datenobjekt
@@ -73,3 +80,19 @@ Abgeleiteter Datentyp aus kommunalen Serviceportal-Texten in Niedersachsen; kein
 KOOS-konforme Konvertierung aus einer älteren Markdown-Sammlung.
 
 Zuständige OE, Klassifizierung und BPMN-Typ sind heuristisch vorbelegt und sollten fachlich überprüft werden.
+
+## BSI-Vektoren geprüft 2026-08-04
+
+**Integrität hoch.** Auf die Richtigkeit dieses Datenbestands verlassen sich andere -- Behörden, Gerichte oder die betroffene Person selbst. Eine unbemerkte Verfälschung führt nicht zu einem Fehler im Einzelfall, sondern zu falschen Folgeentscheidungen, die auf dem Bestand aufbauen.
+
+Die Erlaubnis mit ihren Auflagen entscheidet über die Zulässigkeit der Nutzung und über die Gebühr.
+
+## Schutzstufe geprüft 2026-08-12
+
+**Herabgestuft von C auf B.** Nutzungsart, Ort, Zeitraum, Fläche, Sicherungsmaßnahmen, Gebührenbezug.
+
+Die Sondernutzung ist im Straßenraum sichtbar — der Verkaufsstand, die Außenbestuhlung, das Baugerüst stehen dort. Was jeder Passant sehen kann, beeinträchtigt bei Offenbarung niemanden.
+
+Der Gebührenbezug trägt keine Höherstufung: Die Gebühr bemisst sich nach Fläche und Dauer, nicht nach der Leistungsfähigkeit der Person.
+
+*Durchsicht Los 1 (Amt 32) vom 2026-08-12. Grundlage: `_output/vvt-datenspeicher-laeufe/VORSCHLAG-2026-08-12-los1-amt32.md`.*

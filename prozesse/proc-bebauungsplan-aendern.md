@@ -16,7 +16,7 @@ daten:
   - id: dstore-grundstuecksdaten
 regelungen:
 - § 10 Absatz 3 Satz 2 Baugesetzbuch (BauGB)
-leika_id: '99012011000000'
+leika_id: '99012011011000'
 ozg_id: null
 letzte-aktualisierung: '2026-07-10'
 ---

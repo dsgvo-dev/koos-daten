@@ -16,7 +16,7 @@ daten:
   - id: dstore-identitaetsnachweis
 regelungen:
 - § 16a Fahrzeug-Zulassungsverordnung (FZV)
-leika_id: '99108042000000'
+leika_id: '99036036069000'
 ozg_id: null
 letzte-aktualisierung: '2026-07-10'
 ---

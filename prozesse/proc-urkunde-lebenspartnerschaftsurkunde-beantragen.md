@@ -18,7 +18,7 @@ regelungen:
 - § 5 Absatz 5 Personenstandsgesetz (PStG)
 - § 48 Absatz 1 Personenstandsverordnung (PStV)
 - § 50 Absatz 1 Personenstandsverordnung (PStV)
-leika_id: '99079003000000'
+leika_id: '99079003012000'
 ozg_id: '10028'
 letzte-aktualisierung: '2026-07-10'
 ---

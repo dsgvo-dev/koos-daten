@@ -18,7 +18,7 @@ daten:
 regelungen:
 - § 1309 Absatz 2 Bürgerliches Gesetzbuch (BGB)
 - § 12 Absatz 3 Satz 1 Personenstandsgesetz (PStG)
-leika_id: '99059002000000'
+leika_id: '99059002010000'
 ozg_id: '10025'
 letzte-aktualisierung: '2026-07-10'
 ---

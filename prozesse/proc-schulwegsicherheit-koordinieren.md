@@ -18,7 +18,7 @@ daten:
 regelungen:
 - § 45 StVO (Schulweghelfer/Schulwegsicherung)
 - § 64 NSchG (Schulbezirke)
-leika_id: '99088022000000'
+leika_id: '99088022158000'
 ozg_id: null
 letzte-aktualisierung: '2026-07-10'
 ---

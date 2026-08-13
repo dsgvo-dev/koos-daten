@@ -16,15 +16,15 @@ daten:
   - id: dstore-tierhalterbestand-nutztiere
   - id: dstore-unternehmens-und-registerdaten
   - id: dstore-personenstammdaten
-  - § 43 BNatSchG
-  - § 4 NatSchAG M-V
-  - § 25 VwVfG M-V
-  - § 24 VwVfG
 regelungen:
+- § 43 BNatSchG
+- § 30 Niedersächsisches Ausführungsgesetz zum Bundesnaturschutzgesetz (NAGBNatSchG) - Tiergehege, zu § 43 BNatSchG
+- § 1 Niedersächsisches Verwaltungsverfahrensgesetz (NVwVfG) i. V. m. § 25 VwVfG
+- § 24 VwVfG
 - § 43 Absatz 3 Bundesnaturschutzgesetz (BNatSchG)
-leika_id: '99110056000000'
+leika_id: '99110056261000'
 ozg_id: '10544'
-letzte-aktualisierung: '2026-07-10'
+letzte-aktualisierung: '2026-07-28'
 ---
 
 # Tiergehege: Anzeige (Errichtung/Änderung/Betrieb)

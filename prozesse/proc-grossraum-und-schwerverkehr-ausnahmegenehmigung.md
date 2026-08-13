@@ -20,7 +20,7 @@ regelungen:
 - § 46 StVO (Ausnahmegenehmigungen/Erlaubnisse)
 - § 70 StVZO (Ausnahmegenehmigungen)
 - Nds. Erlasserlass Großraum-/Schwerverkehr
-leika_id: '99036003000000'
+leika_id: '99036003001000'
 ozg_id: '10421'
 letzte-aktualisierung: '2026-07-10'
 ---

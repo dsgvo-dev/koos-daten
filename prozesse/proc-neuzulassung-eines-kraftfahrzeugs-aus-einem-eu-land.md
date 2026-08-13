@@ -19,6 +19,7 @@ regelungen:
   - '§§ 3, 6 Verordnung über die Zulassung von Fahrzeugen zum Straßenverkehr (Fahrzeug-Zulassungsverordnung - FZV)'
   - '§§ 21, 29 und 70 Straßenverkehrs-Zulassungs-Ordnung (StVZO)'
   - 'Gebührennummer 221 in der Anlage zu § 1 Gebührenordnung für Maßnahmen im Straßenverkehr (GebOSt)'
+leika_id: '99036020001002'
 letzte-aktualisierung: 2026-04-06
 ---
 # Neuzulassung eines Kraftfahrzeugs aus einem EU-Land

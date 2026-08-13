@@ -11,9 +11,9 @@ daten:
   datenspeicher:
   - id: dstore-abfallentsorgungsrhythmus
   - id: dstore-abfallbehaelter-gebuehrenobjekt
-  - Kreislaufwirtschaftsgesetz
-  - Niedersächsisches Abfallgesetz
 regelungen:
+- Kreislaufwirtschaftsgesetz
+- Niedersächsisches Abfallgesetz
 - § 20 Kreislaufwirtschaftsgesetz (KrWG)
 leika_id: '99001003004000'
 ozg_id: null

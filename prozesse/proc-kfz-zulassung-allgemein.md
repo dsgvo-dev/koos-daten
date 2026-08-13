@@ -1,7 +1,12 @@
 ---
 id: proc-kfz-zulassung-allgemein
 titel: 'KFZ: Zulassung (allgemein)'
-status: aktiv
+status: ersetzt
+ersetzt-durch:
+- proc-neuzulassung-eines-fahrzeugs-erstzulassung-beantragen
+- proc-wiederzulassung-eines-fahrzeugs-beantragen
+- proc-umschreibung-kfz-auf-anderen-halter
+- proc-ausserbetriebsetzung-eines-fahrzeugs-beantragen
 zustaendigeEinheit: oe-amt-34
 zustaendigeRolle: ''
 beteiligte:
@@ -15,12 +20,16 @@ daten:
   - id: dstore-fahrzeugnutzungserklaerung
   - id: dstore-personenstammdaten
   - id: dstore-identitaetsnachweis
-regelungen:
-- § 5f Absatz 2 Sprengstoffgesetz (SprengG)
-leika_id: '99093015007001'
+regelungen: []
+leika_id: null
 ozg_id: null
-letzte-aktualisierung: '2026-07-10'
+letzte-aktualisierung: '2026-07-28'
 ---
+
+> **Prüfhinweis 2026-07-28 (A25) — erledigt 2026-08-05:** Diese Datei trug bis zum
+> 28.07.2026 die `leika_id` `99093015007001` und als Regelung § 5f Abs. 2 SprengG —
+> beides aus einem fehlgeleiteten Textabgleich. Felder bereinigt, Datei auf `status: ersetzt`
+> gesetzt. Die konkreten Vorgänge sind in den vier Einzeldateien abgebildet.
 
 # KFZ: Zulassung (allgemein)
 

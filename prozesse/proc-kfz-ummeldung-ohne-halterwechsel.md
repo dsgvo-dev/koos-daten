@@ -19,10 +19,11 @@ daten:
   - id: dstore-personenstammdaten
   - id: dstore-identitaetsnachweis
 regelungen:
-  - '§§ 17-19 Bundesmeldegesetz (BMG) (An-/Ab-/Ummeldung)'
-  - '§ 34 BMG (Melderegisterauskunft)'
-  - '§ 51 BMG (Auskunftssperre)'
-letzte-aktualisierung: 2026-04-06
+- §§ 3-6 Fahrzeug-Zulassungsverordnung (FZV) (Zulassung)
+- § 6 Straßenverkehrsgesetz (StVG) (Fahrzeugregister)
+- §§ 11-14 FZV (Kennzeichen)
+leika_id: '99036027011000'
+letzte-aktualisierung: '2026-08-03'
 ---
 # KFZ: Ummeldung (ohne Halterwechsel)
 
@@ -48,3 +49,7 @@ letzte-aktualisierung: 2026-04-06
 
 
 *Quelle: Allgemeine Verwaltungspraxis*
+
+## Korrektur 2026-08-03
+
+Regelungsliste ersetzt. Sie nannte das Bundesmeldegesetz, verteilt über einen Stringtreffer auf „Ummeldung". Die Ummeldung eines Fahrzeugs richtet sich nach FZV und StVG. Übernommen wurde der Block, den die übrigen 21 Zulassungsprozesse des Amts 34 tragen.

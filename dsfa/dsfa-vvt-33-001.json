@@ -1,0 +1,274 @@
+{
+  "id": "dsfa-vvt-33-001",
+  "schema_version": "1.0.0",
+  "meta": {
+    "erstellt_am": "2026-08-12",
+    "status": "entwurf",
+    "durchgefuehrt_von": "Generator (2026-08-07)",
+    "dsb_beteiligt": false
+  },
+  "vvt_referenz": {
+    "vvt_id": "vvt-33-001",
+    "bes_id": "bes-vvt-33-001",
+    "bezeichnung": "Melderegisterführung, -auskünfte und melderechtliche Aufgaben"
+  },
+  "risiko_referenz": {
+    "risiko_id": "risiko-vvt-33-001",
+    "risikowert": 12,
+    "schutzbedarf": "hoch",
+    "dsfa_grund_risiko": true,
+    "dsfa_grund_schwelle": true
+  },
+  "systembeschreibung": {
+    "zweck": "Melderegisterführung, -auskünfte und melderechtliche Aufgaben",
+    "rechtsgrundlage": "Art. 6 Abs. 1 lit. c) DSGVO, § 3 NDSG, Bundesmeldegesetz (BMG, insb. §§ 2, 3 speicherungsfähige Daten, § 17 Anmeldung und Abmeldung, § 19 Mitwirkung des Wohnungsgebers, §§ 44-52 Datenübermittlungen, § 51 Auskunftssperren)",
+    "betroffene": "< 100",
+    "daten": {
+      "schutzstufe": "E",
+      "schutzstufe_text": "sehr hoch",
+      "art9": false,
+      "art9_kategorien": [],
+      "art10": false,
+      "sozialdaten": false,
+      "betroffene_anzahl": "< 100",
+      "datenmenge": "gering",
+      "speicherdauer": "dauerhaft (> 10 jahre)"
+    },
+    "speicherdauer": "dauerhaft (> 10 jahre)",
+    "software": [
+      "Einwohnermeldewesen-Fachverfahren",
+      "Anbindung an das Bundesmelderegister für länderübergreifende Anfragen"
+    ]
+  },
+  "notwendigkeit": {
+    "aufgabentyp": "pflichtaufgabe",
+    "gesetzlicher_auftrag": "Gesetzlicher Auftrag: lit. c)",
+    "ueberschrift": "Prüfung der Notwendigkeit",
+    "pflicht_hinweis": "Als gesetzliche Pflichtaufgabe steht das ‚Ob' der Verarbeitung nicht zur Disposition — der Gesetzgeber hat die Aufgabe zugewiesen. Die Notwendigkeitsprüfung beschränkt sich auf das ‚Wie': Datenminimierung, mildere Mittel, Speicherbegrenzung.",
+    "pruefung_offen": "Manuell: Prüfung auf mildere Mittel — Anonymisierung, Pseudonymisierung, kürzere Speicherfristen, weniger Datenfelder."
+  },
+  "verhaeltnismassigkeit": {
+    "ueberschrift": "Prüfung der Verhältnismäßigkeit",
+    "geeignetheit": {
+      "ergebnis": "gegeben",
+      "begruendung": "Als gesetzliche Pflichtaufgabe ist von der Eignung der Datenverarbeitung zur Aufgabenerfüllung auszugehen."
+    },
+    "erforderlichkeit": {
+      "ergebnis": "kein_milderes_mittel",
+      "begruendung": "Bei Pflichtaufgaben kommt kein milderes Mittel in Betracht, weil die Aufgabe durch Gesetz zugewiesen ist und die Datenverarbeitung zwingend zur Aufgabenerfüllung erforderlich ist."
+    },
+    "angemessenheit": {
+      "ueberschrift": "Angemessenheit im engeren Sinne",
+      "eingriffstiefe": {
+        "schutzstufe": "sehr hoch",
+        "art9": false,
+        "art10": false,
+        "sozialdaten": false,
+        "betroffene": "< 100",
+        "datenmenge": "gering"
+      },
+      "zweckgewicht": "Gesetzlicher Auftrag",
+      "abmilderung_tom": {
+        "baseline_anzahl": 27,
+        "ergaenzend_anzahl": 31,
+        "ergaenzend_toms": [
+          {
+            "id": "TOM-ORG-056",
+            "name": "Durchführung einer Risikoanalyse und ggf. DSFA"
+          },
+          {
+            "id": "TOM-ORG-006",
+            "name": "Prozess zur VVT-Etablierung und -pflege"
+          },
+          {
+            "id": "TOM-SW-011",
+            "name": "Nutzung von Standard-Anforderungen"
+          },
+          {
+            "id": "TOM-SW-001",
+            "name": "Organisatorische Regelungen"
+          },
+          {
+            "id": "TOM-ORG-047",
+            "name": "Erlass eine speziellen Dienstanweisung oder Richtlinie"
+          },
+          {
+            "id": "TOM-ORG-001",
+            "name": "Organisatorische Maßnahmen zum Datenschutz"
+          },
+          {
+            "id": "TOM-ORG-002",
+            "name": "Richtlinienmanagement"
+          },
+          {
+            "id": "TOM-ORG-043",
+            "name": "Beteiligung des behördlichen Datenschutzbeauftragten"
+          },
+          {
+            "id": "TOM-ORG-040",
+            "name": "Diskretionszonen einrichten"
+          },
+          {
+            "id": "TOM-ORG-038",
+            "name": "Trennung sensibler Aufgabenbereiche"
+          }
+        ]
+      },
+      "bewertung_offen": "Manuell: Die Tiefe des Eingriffs in das informationelle Selbstbestimmungsrecht muss in angemessenem Verhältnis zum angestrebten Zweck stehen. Die Nachteile für die Betroffenen dürfen — auch unter Berücksichtigung der getroffenen TOM — nicht außer Verhältnis zum Zweck stehen. Bei pflichtigen Aufgaben ist zu prüfen, ob der Umfang der verarbeiteten personenbezogenen Daten dem Grundsatz der Erforderlichkeit entspricht und in Anbetracht der Sensitivität der Daten (Schutzstufe) angemessen ist."
+    }
+  },
+  "massnahmen": {
+    "baseline": [
+      {
+        "id": "TOM-ORG-007",
+        "name": "Prozess zur Gewährleistung der Datenschutzerklärung "
+      },
+      {
+        "id": "TOM-ORG-008",
+        "name": "Prozess zur Gewährleistung der Auskunft"
+      },
+      {
+        "id": "TOM-ORG-009",
+        "name": "Prozess zur Gewährleistung der Löschung"
+      },
+      {
+        "id": "TOM-ORG-010",
+        "name": "Prozess zur Gewährleistung der Berichtigung"
+      },
+      {
+        "id": "TOM-ORG-011",
+        "name": "Organisatorische Maßnahmen zur Archivierung"
+      },
+      {
+        "id": "TOM-ORG-012",
+        "name": "Prozess zur Weitergabe und zur Entscheidung  über die Weitergabe von Daten"
+      },
+      {
+        "id": "TOM-ORG-017",
+        "name": "Wechsel der Organisationseinheiten durch Beschäftigte"
+      },
+      {
+        "id": "TOM-ORG-018",
+        "name": "Ausscheiden von Beschäftigten"
+      },
+      {
+        "id": "TOM-ORG-020",
+        "name": "Technische und organisatorische Maßnahmen für das Homeoffice"
+      },
+      {
+        "id": "TOM-ORG-025",
+        "name": "Erweitere Schlüsselregelung"
+      },
+      {
+        "id": "TOM-ORG-027",
+        "name": "Festlegung befugter Personen"
+      },
+      {
+        "id": "TOM-ORG-036",
+        "name": "Organisatorische Regelungen für die Datenträgervernichtung"
+      },
+      {
+        "id": "TOM-ORG-037",
+        "name": "Keine Speicherung außerhalb des Fachamts"
+      },
+      {
+        "id": "TOM-ORG-039",
+        "name": "Klare Rollen- und Berechtigungskonzepte"
+      },
+      {
+        "id": "TOM-ORG-041",
+        "name": "Passwortschutz und Bildschirmsperre "
+      },
+      {
+        "id": "TOM-ORG-042",
+        "name": "Sichere Aktenaufbewahrung und Datenvernichtung"
+      },
+      {
+        "id": "TOM-ORG-044",
+        "name": "Möglichkeit zur alternativen Antragstellung"
+      },
+      {
+        "id": "TOM-ORG-057",
+        "name": "Einsatz kryptografischer Verfahren zur Integritätssicherung (Signaturen, Hashverfahren)"
+      },
+      {
+        "id": "TOM-SW-002",
+        "name": "Trennung von Produktiv- und Testsystem"
+      },
+      {
+        "id": "TOM-SW-003",
+        "name": "Erhebungsformulare mit Attributen"
+      },
+      {
+        "id": "TOM-SW-004",
+        "name": "Datenschutz durch Technikgestaltung"
+      },
+      {
+        "id": "TOM-SW-005",
+        "name": "Vornahme datenschutzrechtlicher Voreinstellungen "
+      },
+      {
+        "id": "TOM-SW-006",
+        "name": "Plausibilitätskontrolle zur Beschränkung der  Datenerhebung"
+      },
+      {
+        "id": "TOM-SW-007",
+        "name": "Pseudonymisierung der Daten bei Weiterverarbeitung oder Übermittlung"
+      },
+      {
+        "id": "TOM-SW-008",
+        "name": "Festlegung verbindlicher Löschfristen "
+      },
+      {
+        "id": "TOM-SW-009",
+        "name": "Frühzeitige Anonymisierung personenbezogener Daten"
+      },
+      {
+        "id": "TOM-SW-010",
+        "name": "Frühzeitige Pseudonymisierung personenbezogener  Daten"
+      }
+    ],
+    "baseline_anzahl": 27,
+    "ergaenzend": [
+      "TOM-ORG-056",
+      "TOM-ORG-006",
+      "TOM-SW-011",
+      "TOM-SW-001",
+      "TOM-ORG-047",
+      "TOM-ORG-001",
+      "TOM-ORG-002",
+      "TOM-ORG-043",
+      "TOM-ORG-040",
+      "TOM-ORG-038",
+      "TOM-ORG-003",
+      "TOM-SW-012",
+      "TOM-SW-015",
+      "TOM-SW-014",
+      "TOM-ORG-019",
+      "TOM-ORG-014",
+      "TOM-ORG-016",
+      "TOM-ORG-015",
+      "TOM-SW-013",
+      "TOM-ORG-021",
+      "TOM-ORG-022",
+      "TOM-ORG-046",
+      "TOM-ORG-045",
+      "TOM-ORG-055",
+      "TOM-ORG-026",
+      "TOM-ORG-013",
+      "TOM-ORG-024",
+      "TOM-ORG-023",
+      "TOM-SW-018",
+      "TOM-SW-016",
+      "TOM-SW-017"
+    ],
+    "ergaenzend_anzahl": 31
+  },
+  "ergebnis": {
+    "bewertung": "offen",
+    "begruendung": "Manuell nach Abschluss der Verhältnismäßigkeitsprüfung",
+    "auflagen": [],
+    "konsultation_art36": false,
+    "konsultation_begruendung": ""
+  }
+}

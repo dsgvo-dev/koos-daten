@@ -13,7 +13,7 @@ daten:
   - id: dstore-abfallbehaelter-gebuehrenobjekt
 regelungen:
 - § 20 Kreislaufwirtschaftsgesetz (KrWG)
-leika_id: '99001003004000'
+leika_id: '99001007004000'
 ozg_id: null
 letzte-aktualisierung: '2026-07-10'
 ---

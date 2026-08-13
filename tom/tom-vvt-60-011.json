@@ -1,0 +1,121 @@
+{
+  "id": "tom-vvt-60-011",
+  "vvt_referenz": {
+    "vvt_id": "vvt-60-011",
+    "bezeichnung": "Altlastenverzeichnis und Bodeninformationen (Registerführung)"
+  },
+  "erstellt_am": "2026-08-12",
+  "soll": [
+    {
+      "id": "TOM-ORG-007",
+      "name": "Prozess zur Gewährleistung der Datenschutzerklärung "
+    },
+    {
+      "id": "TOM-ORG-008",
+      "name": "Prozess zur Gewährleistung der Auskunft"
+    },
+    {
+      "id": "TOM-ORG-009",
+      "name": "Prozess zur Gewährleistung der Löschung"
+    },
+    {
+      "id": "TOM-ORG-010",
+      "name": "Prozess zur Gewährleistung der Berichtigung"
+    },
+    {
+      "id": "TOM-ORG-011",
+      "name": "Organisatorische Maßnahmen zur Archivierung"
+    },
+    {
+      "id": "TOM-ORG-012",
+      "name": "Prozess zur Weitergabe und zur Entscheidung  über die Weitergabe von Daten"
+    },
+    {
+      "id": "TOM-ORG-017",
+      "name": "Wechsel der Organisationseinheiten durch Beschäftigte"
+    },
+    {
+      "id": "TOM-ORG-018",
+      "name": "Ausscheiden von Beschäftigten"
+    },
+    {
+      "id": "TOM-ORG-020",
+      "name": "Technische und organisatorische Maßnahmen für das Homeoffice"
+    },
+    {
+      "id": "TOM-ORG-025",
+      "name": "Erweitere Schlüsselregelung"
+    },
+    {
+      "id": "TOM-ORG-027",
+      "name": "Festlegung befugter Personen"
+    },
+    {
+      "id": "TOM-ORG-036",
+      "name": "Organisatorische Regelungen für die Datenträgervernichtung"
+    },
+    {
+      "id": "TOM-ORG-037",
+      "name": "Keine Speicherung außerhalb des Fachamts"
+    },
+    {
+      "id": "TOM-ORG-039",
+      "name": "Klare Rollen- und Berechtigungskonzepte"
+    },
+    {
+      "id": "TOM-ORG-041",
+      "name": "Passwortschutz und Bildschirmsperre "
+    },
+    {
+      "id": "TOM-ORG-042",
+      "name": "Sichere Aktenaufbewahrung und Datenvernichtung"
+    },
+    {
+      "id": "TOM-ORG-044",
+      "name": "Möglichkeit zur alternativen Antragstellung"
+    },
+    {
+      "id": "TOM-ORG-057",
+      "name": "Einsatz kryptografischer Verfahren zur Integritätssicherung (Signaturen, Hashverfahren)"
+    },
+    {
+      "id": "TOM-SW-002",
+      "name": "Trennung von Produktiv- und Testsystem"
+    },
+    {
+      "id": "TOM-SW-003",
+      "name": "Erhebungsformulare mit Attributen"
+    },
+    {
+      "id": "TOM-SW-004",
+      "name": "Datenschutz durch Technikgestaltung"
+    },
+    {
+      "id": "TOM-SW-005",
+      "name": "Vornahme datenschutzrechtlicher Voreinstellungen "
+    },
+    {
+      "id": "TOM-SW-006",
+      "name": "Plausibilitätskontrolle zur Beschränkung der  Datenerhebung"
+    },
+    {
+      "id": "TOM-SW-007",
+      "name": "Pseudonymisierung der Daten bei Weiterverarbeitung oder Übermittlung"
+    },
+    {
+      "id": "TOM-SW-008",
+      "name": "Festlegung verbindlicher Löschfristen "
+    },
+    {
+      "id": "TOM-SW-009",
+      "name": "Frühzeitige Anonymisierung personenbezogener Daten"
+    },
+    {
+      "id": "TOM-SW-010",
+      "name": "Frühzeitige Pseudonymisierung personenbezogener  Daten"
+    }
+  ],
+  "ist": [],
+  "delta": 27,
+  "status": "offen"
+}

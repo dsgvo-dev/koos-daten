@@ -18,7 +18,7 @@ regelungen:
 - § 55 Absatz 1 Personenstandsgesetz (PStG)
 - § 62 Personenstandsgesetz (PStG)
 - § 50 Personenstandsverordnung (PStV)
-leika_id: '99027005000000'
+leika_id: '99027005250000'
 ozg_id: null
 letzte-aktualisierung: '2026-07-10'
 ---

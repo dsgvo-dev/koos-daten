@@ -15,11 +15,11 @@ daten:
   - id: dstore-identitaetsnachweis
   - id: dstore-personenstammdaten
   - id: dstore-kfz-daten
-  - § 30 FeV
-  - § 2 StVG
-  - § 25 VwVfG
-  - § 5 GebOSt
 regelungen:
+- § 30 FeV
+- § 2 StVG
+- § 25 VwVfG
+- § 5 GebOSt
 - § 28 Fahrerlaubnis-Verordnung (FeV)
 - § 30 Fahrerlaubnis-Verordnung (FeV)
 - § 31 Fahrerlaubnis-Verordnung (FeV)

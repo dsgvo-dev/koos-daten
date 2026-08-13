@@ -15,7 +15,7 @@ daten:
 regelungen:
 - §§ 23-44 LHO Nds. (Zuwendungen)
 - EFRE/ESF EU-Verordnungen (Strukturfondsprogramm)
-leika_id: '99144013000000'
+leika_id: '99144013058000'
 ozg_id: null
 letzte-aktualisierung: '2026-07-10'
 ---

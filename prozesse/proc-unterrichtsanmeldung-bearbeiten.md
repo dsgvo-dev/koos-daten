@@ -12,11 +12,8 @@ daten:
   - id: dstore-musikschul-kursanmeldung
   - id: dstore-personenstammdaten
   - id: dstore-abrechnungsdaten
-regelungen:
-  - '§§ 17-19 Bundesmeldegesetz (BMG) (An-/Ab-/Ummeldung)'
-  - '§ 34 BMG (Melderegisterauskunft)'
-  - '§ 51 BMG (Auskunftssperre)'
-letzte-aktualisierung: 2026-04-29
+regelungen: []
+letzte-aktualisierung: '2026-08-03'
 ---
 # Unterrichtsanmeldung bearbeiten
 
@@ -43,4 +40,6 @@ letzte-aktualisierung: 2026-04-29
 **07 Datenpflege**  
 *In Verwaltungssystem*
 
+## Korrektur 2026-08-03
 
+Regelungsliste geleert. Sie nannte das Bundesmeldegesetz, verteilt über einen Stringtreffer auf „Anmeldung". Einschlägig ist das Nds. Schulgesetz; noch nicht gesetzt.

@@ -17,16 +17,12 @@ daten:
   - id: dstore-registerbezug-personenstand
   - id: dstore-geburtsurkunde
   - id: dstore-antragsberechtigung-personenstand
-  - § 55 Absatz 1 Nummer 3 Personenstandsgesetz (PStG)
-  - § 59 Personenstandsgesetz (PStG)
-  - § 62 Personenstandsgesetz (PStG)
-  - § 50 Personenstandsverordnung (PStV)
 regelungen:
 - § 55 Absatz 1 Nummer 3 Personenstandsgesetz (PStG)
 - § 59 Personenstandsgesetz (PStG)
 - § 62 Personenstandsgesetz (PStG)
 - § 50 Personenstandsverordnung (PStV)
-leika_id: '99027002000000'
+leika_id: '99027002012000'
 ozg_id: '10557'
 letzte-aktualisierung: '2026-07-10'
 ---

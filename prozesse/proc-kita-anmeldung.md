@@ -14,11 +14,8 @@ daten:
   - id: dstore-kita-anmeldedaten
   - id: dstore-personenstammdaten
   - id: dstore-einkommensnachweise-haushalt
-regelungen:
-  - '§§ 17-19 Bundesmeldegesetz (BMG) (An-/Ab-/Ummeldung)'
-  - '§ 34 BMG (Melderegisterauskunft)'
-  - '§ 51 BMG (Auskunftssperre)'
-letzte-aktualisierung: 2026-04-06
+regelungen: []
+letzte-aktualisierung: '2026-08-03'
 ---
 
 # Kita-Anmeldung
@@ -43,3 +40,7 @@ letzte-aktualisierung: 2026-04-06
 
 **05 Betreuungsvertrag vorbereiten**
 *Rechtsgrundlage: § 45 SGB VIII*
+
+## Korrektur 2026-08-03
+
+Regelungsliste geleert. Sie nannte das Bundesmeldegesetz, verteilt über einen Stringtreffer auf „Anmeldung". Einschlägig sind §§ 22-24 SGB VIII; noch nicht gesetzt.

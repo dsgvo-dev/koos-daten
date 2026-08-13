@@ -11,10 +11,8 @@ daten:
   datenspeicher:
   - id: dstore-verwaltungsakte
   - id: dstore-bescheinigung
-regelungen:
-  - '§ 97 NKomVG (Annahme von Schenkungen)'
-  - '§§ 516-534 BGB (Schenkungsvertrag)'
-letzte-aktualisierung: 2026-04-29
+regelungen: []
+letzte-aktualisierung: '2026-08-03'
 ---
 # Leihgabe organisieren
 
@@ -41,4 +39,6 @@ letzte-aktualisierung: 2026-04-29
 **07 Zustandskontrolle**  
 *Bei Rückgabe*
 
+## Korrektur 2026-08-03
 
+Regelungsliste geleert. Sie nannte § 97 NKomVG (Annahme von Schenkungen) und §§ 516-534 BGB (Schenkungsvertrag). Eine Leihgabe ist keine Schenkung -- die Leihe ist in §§ 598 ff. BGB geregelt und lässt das Eigentum beim Verleiher. Der Block stammt aus `proc-sachspende-annehmen`; noch nicht neu gesetzt.

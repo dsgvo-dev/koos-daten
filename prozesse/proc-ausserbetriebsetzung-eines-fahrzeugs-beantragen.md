@@ -21,6 +21,7 @@ regelungen:
   - '§ 24 Verordnung über die Zulassung von Fahrzeugen zum Straßenverkehr (Fahrzeug-Zulassungsverordnung - FZV)'
   - '§ 25 Verordnung über die Zulassung von Fahrzeugen zum Straßenverkehr (Fahrzeug-Zulassungsverordnung - FZV)'
   - 'Anlage Gebührennummer 224 Gebührenordnung für Maßnahmen im Straßenverkehr (GebOSt)'
+leika_id: '99036026017000'
 letzte-aktualisierung: 2026-04-06
 ---
 # Außerbetriebsetzung eines Fahrzeugs beantragen

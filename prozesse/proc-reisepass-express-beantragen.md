@@ -18,9 +18,6 @@ daten:
   - id: dstore-sepa-lastschriftmandat
   - id: dstore-bankverbindung
   - id: dstore-meldeadresse-wohnsitz
-  - § 6 Absatz 1 Passgesetz (PassG)
-  - § 15 Verordnung zur Durchführung des Passgesetzes (Passverordnung - PassV)
-  - § 1 Verordnung zur Durchführung des Passgesetzes (Passverordnung - PassV)
 regelungen:
 - § 6 Absatz 1 Passgesetz (PassG)
 - § 15 Verordnung zur Durchführung des Passgesetzes (Passverordnung - PassV)

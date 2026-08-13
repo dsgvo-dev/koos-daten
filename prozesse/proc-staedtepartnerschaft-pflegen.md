@@ -11,11 +11,8 @@ daten:
   datenspeicher:
   - id: dstore-verwaltungsakte
   - id: dstore-kontaktdaten
-regelungen:
-  - '§ 71 SGB XII (Altenhilfe)'
-  - '§§ 28 ff. SGB XI (Pflegeleistungen)'
-  - '§ 37 SGB XI (Pflegegeld)'
-letzte-aktualisierung: 2026-04-29
+regelungen: []
+letzte-aktualisierung: '2026-08-03'
 ---
 # Städtepartnerschaft pflegen
 
@@ -42,4 +39,6 @@ letzte-aktualisierung: 2026-04-29
 **07 Evaluation**  
 *Partnerschaftserfolg*
 
+## Korrektur 2026-08-03
 
+Regelungsliste geleert. Sie nannte § 71 SGB XII (Altenhilfe), §§ 28 ff. und § 37 SGB XI -- der Block aus `proc-altenhilfe-beratung-antraege`, verteilt über einen Stringtreffer auf „pflegen" im Titel. Städtepartnerschaften sind eine freiwillige Selbstverwaltungsaufgabe; die einschlägige Norm ist zu bestimmen (Vorschlag: § 5 NKomVG, eigener Wirkungskreis, wie in `vvt-1-1-005` festgestellt).

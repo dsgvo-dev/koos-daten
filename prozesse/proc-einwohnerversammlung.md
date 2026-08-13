@@ -11,12 +11,10 @@ daten:
   datenspeicher:
   - id: dstore-sitzungsprotokoll
   - id: dstore-verwaltungsakte
-regelungen:
-- §§ 1-14 Nds. Versammlungsgesetz (NVersG)
-- Art. 8 GG (Versammlungsfreiheit)
-leika_id: '99030006000000'
+regelungen: []
+leika_id: '99030006058000'
 ozg_id: null
-letzte-aktualisierung: '2026-07-10'
+letzte-aktualisierung: '2026-08-03'
 ---
 
 # Einwohnerversammlung
@@ -43,3 +41,7 @@ letzte-aktualisierung: '2026-07-10'
 
 **07 Rückmeldung**  
 *An Bürger über Ergebnisse*
+
+## Korrektur 2026-08-03
+
+Regelungsliste geleert. Sie nannte §§ 1-14 Nds. Versammlungsgesetz und Art. 8 GG -- das Versammlungsrecht, verteilt über einen Stringtreffer auf „**Versammlung**". Die Einwohnerversammlung ist eine kommunalverfassungsrechtliche Einrichtung nach § 26 NKomVG und keine Versammlung im Sinne des Art. 8 GG; die Anzeigepflicht des NVersG gilt hier gerade nicht. Einschlägig ist § 26 NKomVG; noch nicht gesetzt.

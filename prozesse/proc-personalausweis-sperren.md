@@ -13,13 +13,17 @@ daten:
   - id: dstore-verlustanzeige-ausweisdokument
   - id: dstore-personenstammdaten
   - id: dstore-polizeiliche-verlustmeldung
+  - id: dstore-identitaetsnachweis
+  - id: dstore-meldeadresse-wohnsitz
 regelungen:
+- § 27 Abs. 1 Nr. 3 Gesetz über Personalausweise und den elektronischen Identitätsnachweis
+  (PAuswG)
 - §§ 1-5 Personalausweisgesetz (PAuswG)
 - §§ 1-4 Passgesetz (PassG)
 - § 6 PAuswG (Ausweispflicht)
-leika_id: '99008001000000'
+leika_id: '99008001014002'
 ozg_id: '10119'
-letzte-aktualisierung: '2026-07-10'
+letzte-aktualisierung: '2026-07-28'
 ---
 
 # Personalausweis sperren

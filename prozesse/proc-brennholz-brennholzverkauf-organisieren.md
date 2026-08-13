@@ -13,11 +13,8 @@ daten:
   datenspeicher:
   - id: dstore-kommunaler-miet-nutzungsvertrag
   - id: dstore-personenstammdaten
-regelungen:
-  - '§§ 17-21 Kreislaufwirtschaftsgesetz (KrWG) (Überlassungspflichten)'
-  - '§ 20 KrWG (Pflichten der öffentlich-rechtlichen Entsorgungsträger)'
-  - '§§ 11-12 Nds. Abfallgesetz (NAbfG)'
-letzte-aktualisierung: 2026-04-06
+regelungen: []
+letzte-aktualisierung: '2026-08-03'
 ---
 # Brennholz/Brennholzverkauf organisieren
 
@@ -43,3 +40,7 @@ letzte-aktualisierung: 2026-04-06
 
 
 *Quelle: Allgemeine Verwaltungspraxis*
+
+## Korrektur 2026-08-03
+
+Regelungsliste geleert. Sie nannte §§ 17-21 KrWG, § 20 KrWG und §§ 11-12 NAbfG -- das Abfallrecht, offenkundig aus der Abfallgruppe des Amts 60 übernommen. Der Verkauf von Brennholz aus dem Kommunalwald ist keine Abfallentsorgung; einschlägig sind NWaldLG und Kaufrecht; noch nicht gesetzt.

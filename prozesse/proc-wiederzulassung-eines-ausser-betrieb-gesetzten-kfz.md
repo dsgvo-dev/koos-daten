@@ -21,6 +21,7 @@ regelungen:
   - '§§ 3-6 Fahrzeug-Zulassungsverordnung (FZV) (Zulassung)'
   - '§ 6 Straßenverkehrsgesetz (StVG) (Fahrzeugregister)'
   - '§§ 11-14 FZV (Kennzeichen)'
+leika_id: '99036047001000'
 letzte-aktualisierung: 2026-04-06
 ---
 # Wiederzulassung eines außer Betrieb gesetzten Kfz

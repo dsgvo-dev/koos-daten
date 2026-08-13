@@ -17,7 +17,7 @@ daten:
   - id: dstore-identitaetsnachweis
 regelungen:
   - '§§ 1-4 Nds. Gaststättengesetz (NGastG)'
-  - '§ 12 NGastG (Sperrzeit)'
+  - '§ 10 NGastG (Sperrzeit)'
   - 'GewO §§ 14-15 (Gewerbeanzeige)'
 letzte-aktualisierung: 2026-04-06
 ---

@@ -15,7 +15,7 @@ daten:
 regelungen:
 - § 45 Straßenverkehrs-Ordnung (StVO)
 - § 39 Straßenverkehrs-Ordnung (StVO)
-leika_id: '99108014000000'
+leika_id: '99108014042000'
 ozg_id: null
 letzte-aktualisierung: '2026-07-10'
 ---

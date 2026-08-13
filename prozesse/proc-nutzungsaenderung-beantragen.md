@@ -18,7 +18,7 @@ daten:
 regelungen:
 - § 59 NBauO (Genehmigungspflicht)
 - § 29 BauGB (Vorhaben i.S.d. BauGB)
-leika_id: '99012071000000'
+leika_id: '99012071006000'
 ozg_id: null
 letzte-aktualisierung: '2026-07-10'
 ---

@@ -12,7 +12,7 @@ daten:
   - id: dstore-abfallentsorgungsrhythmus
 regelungen:
 - § 20 Kreislaufwirtschaftsgesetz (KrWG)
-leika_id: '99001009000000'
+leika_id: '99001009004000'
 ozg_id: null
 letzte-aktualisierung: '2026-07-10'
 ---

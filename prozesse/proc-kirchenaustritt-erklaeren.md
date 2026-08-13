@@ -17,7 +17,7 @@ regelungen:
 - §§ 1-5 Personenstandsgesetz (PStG) (Allgemeine Vorschriften)
 - Nds. AVO-PStG
 - § 1 Nds. Kirchenaustrittsgesetz (NKiAustrG)
-leika_id: '99073001000000'
+leika_id: '99073001022000'
 ozg_id: '10135'
 letzte-aktualisierung: '2026-07-10'
 ---

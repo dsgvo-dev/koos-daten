@@ -8,9 +8,15 @@ zuständige-einheit: oe-amt-32
 bpmn:
   typ: datenspeicher
 klassifizierung:
-  schutzstufe: C
-  schutzbedarf: normal
-  vertraulichkeit: vertraulich
+  # Datenschutz -- Schaden fuer die betroffene Person (LfD-Schutzstufenkonzept, SDM)
+  schutzstufe: D
+  schutzbedarf: hoch
+  vertraulichkeitsklasse: streng vertraulich
+  # Informationssicherheit -- Schaden fuer die Institution und die Aufgabenerfuellung (BSI)
+  bsi-vertraulichkeit: hoch
+  bsi-integritaet: hoch
+  bsi-verfuegbarkeit: hoch
+  bsi-schutzbedarf: hoch
   rechtsgrundlagen:
   - gesetz: BZRG
   - gesetz: GewO
@@ -20,7 +26,7 @@ klassifizierung:
     beginn: prozessabhängig
     hinweis: Aus kommunalen Serviceportaltexten abgeleiteter Datentyp; Frist und Beginn
       fachlich zu validieren.
-letzte-aktualisierung: '2026-04-09'
+letzte-aktualisierung: '2026-08-10'
 tags:
 - Führungszeugnis
 - Gewerbezentralregister
@@ -28,6 +34,8 @@ tags:
 - FAER
 - Zuverlässigkeit
 ---
+
+
 
 # Register- und Zuverlässigkeitsauskünfte
 
@@ -77,3 +85,17 @@ Die Auskünfte wurden zu einem Sammeltyp dedupliziert, da sie in mehreren Erlaub
 KOOS-konforme Konvertierung aus einer älteren Markdown-Sammlung.
 
 Zuständige OE, Klassifizierung und BPMN-Typ sind heuristisch vorbelegt und sollten fachlich überprüft werden.
+
+## BSI-Vektoren geprüft 2026-08-04
+
+**Verfügbarkeit hoch.** Der Speicher wird in so vielen Verfahren geführt, dass ein Ausfall nicht ein Verfahren verzögert, sondern den Publikumsverkehr insgesamt zum Erliegen bringt. Das ist der Maßstab des BSI: erhebliche Beeinträchtigung der Aufgabenerfüllung.
+
+10 Verwendungen in gewerblichen Erlaubnisverfahren, die unter Bearbeitungsfristen stehen.
+
+## Schutzstufe geprüft 2026-08-10
+
+**Bleibt bei D.** **Straffälligkeit, Verdacht und Zuverlässigkeitsprüfung.** Das LfD-Schutzstufenkonzept nennt Straffälligkeit bei Stufe D; Art. 10 DSGVO stellt Daten über strafrechtliche Verurteilungen und Straftaten unter einen eigenen Vorbehalt. Die Einstufung aus dem Import ist zutreffend und wird bestätigt.
+
+**Der Verdacht wiegt hier so schwer wie die Feststellung.** Wird bekannt, dass gegen jemanden ermittelt wird, wirkt das unabhängig vom Ausgang -- die spätere Einstellung erreicht selten dieselben Personen wie der ursprüngliche Vorwurf.
+
+*Sammelvermerk der Durchsicht vom 2026-08-10. In demselben Durchgang wurden 17 Speicher herabgestuft, die die Stufe D nicht trugen; dieser gehört nicht dazu.*

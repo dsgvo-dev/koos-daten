@@ -15,12 +15,14 @@ daten:
   - id: dstore-kfz-daten
   - id: dstore-identitaetsnachweis
   - id: dstore-personenstammdaten
+  - id: dstore-meldeadresse-wohnsitz
+  - id: dstore-bescheinigung
 regelungen:
 - § 45 Abs. 1b Nr. 2 Straßenverkehrs-Ordnung (StVO)
 - § 46 Abs. 1 Nr. 11 Straßenverkehrs-Ordnung (StVO)
-leika_id: '99108001000000'
+leika_id: '99108001001000'
 ozg_id: '10722'
-letzte-aktualisierung: '2026-07-10'
+letzte-aktualisierung: '2026-07-28'
 ---
 
 # Bewohnerparkausweis beantragen

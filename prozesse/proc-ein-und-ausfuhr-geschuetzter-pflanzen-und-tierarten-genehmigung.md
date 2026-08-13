@@ -15,10 +15,9 @@ daten:
   - id: dstore-identitaetsnachweis
 regelungen:
 - Verordnung (EG) 338/97 (Grundverordnung)
-- Council Regulation (EC) No 338/97 (basic regulation)
 leika_id: '99093005006000'
 ozg_id: '10382'
-letzte-aktualisierung: '2026-07-10'
+letzte-aktualisierung: '2026-08-03'
 ---
 
 # Ein- und Ausfuhr geschützter Pflanzen- und Tierarten: Genehmigung
@@ -48,3 +47,8 @@ letzte-aktualisierung: '2026-07-10'
 
 
 *Quelle: Allgemeine Verwaltungspraxis*
+
+## Korrektur 2026-08-03
+
+Englischsprachige Dubletten aus der Regelungsliste entfernt. Es handelt sich um Übersetzungen bereits vorhandener deutscher Fundstellen aus dem Quellkatalog, nicht um eigene Normen:
+- Council Regulation (EC) No 338/97 (basic regulation)

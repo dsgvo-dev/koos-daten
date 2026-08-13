@@ -1,0 +1,449 @@
+{
+  "erstellt_am": "2026-08-12",
+  "toms": {
+    "TOM-AV-003": {
+      "name": "Abschluss eines Vertrages zur Auftragsverarbeitung",
+      "kategorie": "AV",
+      "schutzziele": [],
+      "klassifikation": "bedingt_av"
+    },
+    "TOM-AV-002": {
+      "name": "Auswahl zuverlässiger Auftragnehmer",
+      "kategorie": "AV",
+      "schutzziele": [],
+      "klassifikation": "org_weit"
+    },
+    "TOM-AV-001": {
+      "name": "Organisatorische Maßnahmen für Auftragsverarbeitung",
+      "kategorie": "AV",
+      "schutzziele": [],
+      "klassifikation": "org_weit"
+    },
+    "TOM-CL-009": {
+      "name": "Abschluss eines Vertrages mit dem Cloud-Dienstleister",
+      "kategorie": "CL",
+      "schutzziele": [],
+      "klassifikation": "bedingt_cloud"
+    },
+    "TOM-CL-002": {
+      "name": "Dienstanweisung Cloud",
+      "kategorie": "CL",
+      "schutzziele": [],
+      "klassifikation": "org_weit"
+    },
+    "TOM-CL-004": {
+      "name": "Dienstvereinbarung Cloud",
+      "kategorie": "CL",
+      "schutzziele": [],
+      "klassifikation": "org_weit"
+    },
+    "TOM-CL-001": {
+      "name": "Erstellung einer Cloud-Strategie",
+      "kategorie": "CL",
+      "schutzziele": [],
+      "klassifikation": "org_weit"
+    },
+    "TOM-CL-005": {
+      "name": "Festlegung von Löschfristen (Cloud)",
+      "kategorie": "CL",
+      "schutzziele": [],
+      "klassifikation": "bedingt_cloud"
+    },
+    "TOM-CL-006": {
+      "name": "Festlegung von automatisierten Löschzyklen (Cloud)",
+      "kategorie": "CL",
+      "schutzziele": [],
+      "klassifikation": "bedingt_cloud"
+    },
+    "TOM-CL-003": {
+      "name": "Informationsklassifizierung",
+      "kategorie": "CL",
+      "schutzziele": [],
+      "klassifikation": "org_weit"
+    },
+    "TOM-DLohneAV-001": {
+      "name": "Auswahl zuverlässiger Auftragnehmer",
+      "kategorie": "DLohneAV",
+      "schutzziele": [],
+      "klassifikation": "org_weit"
+    },
+    "TOM-ORG-021": {
+      "name": "Alarmanlage",
+      "kategorie": "ORG",
+      "schutzziele": [],
+      "klassifikation": "org_weit"
+    },
+    "TOM-ORG-029": {
+      "name": "Auf Datenschutz verpflichtetes Reinigungspersonal",
+      "kategorie": "ORG",
+      "schutzziele": [],
+      "klassifikation": "org_weit"
+    },
+    "TOM-ORG-031": {
+      "name": "Auf Datenschutz verpflichtetes Wartungspersonal",
+      "kategorie": "ORG",
+      "schutzziele": [],
+      "klassifikation": "org_weit"
+    },
+    "TOM-ORG-018": {
+      "name": "Ausscheiden von Beschäftigten",
+      "kategorie": "ORG",
+      "schutzziele": [],
+      "klassifikation": "vvt_spezifisch"
+    },
+    "TOM-ORG-032": {
+      "name": "Beaufsichtigung von Wartungstätigkeiten",
+      "kategorie": "ORG",
+      "schutzziele": [],
+      "klassifikation": "org_weit"
+    },
+    "TOM-ORG-043": {
+      "name": "Beteiligung des behördlichen Datenschutzbeauftragten",
+      "kategorie": "ORG",
+      "schutzziele": [],
+      "klassifikation": "org_weit"
+    },
+    "TOM-ORG-005": {
+      "name": "Business Continuity Management - BCM",
+      "kategorie": "ORG",
+      "schutzziele": [],
+      "klassifikation": "org_weit"
+    },
+    "TOM-ORG-040": {
+      "name": "Diskretionszonen einrichten",
+      "kategorie": "ORG",
+      "schutzziele": [],
+      "klassifikation": "org_weit"
+    },
+    "TOM-ORG-052": {
+      "name": "Eignung der Räumlichkeiten oder der Gebäude",
+      "kategorie": "ORG",
+      "schutzziele": [],
+      "klassifikation": "org_weit"
+    },
+    "TOM-ORG-028": {
+      "name": "Einbruchhemmende Fenster und Türen",
+      "kategorie": "ORG",
+      "schutzziele": [],
+      "klassifikation": "org_weit"
+    },
+    "TOM-ORG-057": {
+      "name": "Einsatz kryptografischer Verfahren zur Integritätssicherung (Signaturen, Hashverfahren)",
+      "kategorie": "ORG",
+      "schutzziele": [],
+      "klassifikation": "vvt_spezifisch"
+    },
+    "TOM-ORG-022": {
+      "name": "Elektronisches Zugangskontrollsystem",
+      "kategorie": "ORG",
+      "schutzziele": [],
+      "klassifikation": "org_weit"
+    },
+    "TOM-ORG-025": {
+      "name": "Erweitere Schlüsselregelung",
+      "kategorie": "ORG",
+      "schutzziele": [],
+      "klassifikation": "vvt_spezifisch"
+    },
+    "TOM-ORG-030": {
+      "name": "Festgelegte Reinigungszeiten",
+      "kategorie": "ORG",
+      "schutzziele": [],
+      "klassifikation": "org_weit"
+    },
+    "TOM-ORG-027": {
+      "name": "Festlegung befugter Personen",
+      "kategorie": "ORG",
+      "schutzziele": [],
+      "klassifikation": "vvt_spezifisch"
+    },
+    "TOM-ORG-048": {
+      "name": "Feuer- und Rauchmeldeanlagen",
+      "kategorie": "ORG",
+      "schutzziele": [],
+      "klassifikation": "org_weit"
+    },
+    "TOM-ORG-049": {
+      "name": "Feuerlöscher oder automatisches Löschsystem",
+      "kategorie": "ORG",
+      "schutzziele": [],
+      "klassifikation": "org_weit"
+    },
+    "TOM-ORG-035": {
+      "name": "Identitätsnachweis des Transportpersonals",
+      "kategorie": "ORG",
+      "schutzziele": [],
+      "klassifikation": "org_weit"
+    },
+    "TOM-ORG-037": {
+      "name": "Keine Speicherung außerhalb des Fachamts",
+      "kategorie": "ORG",
+      "schutzziele": [],
+      "klassifikation": "vvt_spezifisch"
+    },
+    "TOM-ORG-039": {
+      "name": "Klare Rollen- und Berechtigungskonzepte",
+      "kategorie": "ORG",
+      "schutzziele": [],
+      "klassifikation": "vvt_spezifisch"
+    },
+    "TOM-ORG-044": {
+      "name": "Möglichkeit zur alternativen Antragstellung",
+      "kategorie": "ORG",
+      "schutzziele": [],
+      "klassifikation": "vvt_spezifisch"
+    },
+    "TOM-ORG-001": {
+      "name": "Organisatorische Maßnahmen zum Datenschutz",
+      "kategorie": "ORG",
+      "schutzziele": [],
+      "klassifikation": "org_weit"
+    },
+    "TOM-ORG-011": {
+      "name": "Organisatorische Maßnahmen zur Archivierung",
+      "kategorie": "ORG",
+      "schutzziele": [],
+      "klassifikation": "vvt_spezifisch"
+    },
+    "TOM-ORG-019": {
+      "name": "Organisatorische Maßnahmen zur Nutzung von Homeoffice",
+      "kategorie": "ORG",
+      "schutzziele": [],
+      "klassifikation": "org_weit"
+    },
+    "TOM-ORG-036": {
+      "name": "Organisatorische Regelungen für die Datenträgervernichtung",
+      "kategorie": "ORG",
+      "schutzziele": [],
+      "klassifikation": "vvt_spezifisch"
+    },
+    "TOM-ORG-041": {
+      "name": "Passwortschutz und Bildschirmsperre ",
+      "kategorie": "ORG",
+      "schutzziele": [],
+      "klassifikation": "vvt_spezifisch"
+    },
+    "TOM-ORG-026": {
+      "name": "Personenkontrolle",
+      "kategorie": "ORG",
+      "schutzziele": [],
+      "klassifikation": "org_weit"
+    },
+    "TOM-ORG-008": {
+      "name": "Prozess zur Gewährleistung der Auskunft",
+      "kategorie": "ORG",
+      "schutzziele": [],
+      "klassifikation": "vvt_spezifisch"
+    },
+    "TOM-ORG-010": {
+      "name": "Prozess zur Gewährleistung der Berichtigung",
+      "kategorie": "ORG",
+      "schutzziele": [],
+      "klassifikation": "vvt_spezifisch"
+    },
+    "TOM-ORG-007": {
+      "name": "Prozess zur Gewährleistung der Datenschutzerklärung ",
+      "kategorie": "ORG",
+      "schutzziele": [],
+      "klassifikation": "vvt_spezifisch"
+    },
+    "TOM-ORG-009": {
+      "name": "Prozess zur Gewährleistung der Löschung",
+      "kategorie": "ORG",
+      "schutzziele": [],
+      "klassifikation": "vvt_spezifisch"
+    },
+    "TOM-ORG-013": {
+      "name": "Prozess zur Prüfung des Verpflichtungsgesetzes",
+      "kategorie": "ORG",
+      "schutzziele": [],
+      "klassifikation": "org_weit"
+    },
+    "TOM-ORG-006": {
+      "name": "Prozess zur VVT-Etablierung und -pflege",
+      "kategorie": "ORG",
+      "schutzziele": [],
+      "klassifikation": "org_weit"
+    },
+    "TOM-ORG-012": {
+      "name": "Prozess zur Weitergabe und zur Entscheidung  über die Weitergabe von Daten",
+      "kategorie": "ORG",
+      "schutzziele": [],
+      "klassifikation": "vvt_spezifisch"
+    },
+    "TOM-ORG-014": {
+      "name": "Regelung zum Umgang mit mobilen Datenträgern",
+      "kategorie": "ORG",
+      "schutzziele": [],
+      "klassifikation": "org_weit"
+    },
+    "TOM-ORG-002": {
+      "name": "Richtlinienmanagement",
+      "kategorie": "ORG",
+      "schutzziele": [],
+      "klassifikation": "org_weit"
+    },
+    "TOM-ORG-004": {
+      "name": "Schaffung einer Organisationsstruktur für Informationssicherheit",
+      "kategorie": "ORG",
+      "schutzziele": [],
+      "klassifikation": "org_weit"
+    },
+    "TOM-ORG-003": {
+      "name": "Schaffung organisatorischer Maßnahmen für Datenschutzvorfälle",
+      "kategorie": "ORG",
+      "schutzziele": [],
+      "klassifikation": "org_weit"
+    },
+    "TOM-ORG-024": {
+      "name": "Schlüsselregelung",
+      "kategorie": "ORG",
+      "schutzziele": [],
+      "klassifikation": "org_weit"
+    },
+    "TOM-ORG-016": {
+      "name": "Schulung der Beschäftigten",
+      "kategorie": "ORG",
+      "schutzziele": [],
+      "klassifikation": "org_weit"
+    },
+    "TOM-ORG-051": {
+      "name": "Schutz vor Hochwasser",
+      "kategorie": "ORG",
+      "schutzziele": [],
+      "klassifikation": "org_weit"
+    },
+    "TOM-ORG-050": {
+      "name": "Schutz vor Wassereinbruch",
+      "kategorie": "ORG",
+      "schutzziele": [],
+      "klassifikation": "org_weit"
+    },
+    "TOM-ORG-042": {
+      "name": "Sichere Aktenaufbewahrung und Datenvernichtung",
+      "kategorie": "ORG",
+      "schutzziele": [],
+      "klassifikation": "vvt_spezifisch"
+    },
+    "TOM-ORG-033": {
+      "name": "Sichere Behältnisse bei Transport von Datenträgern",
+      "kategorie": "ORG",
+      "schutzziele": [],
+      "klassifikation": "org_weit"
+    },
+    "TOM-ORG-023": {
+      "name": "Sicherheitsschlösser",
+      "kategorie": "ORG",
+      "schutzziele": [],
+      "klassifikation": "org_weit"
+    },
+    "TOM-ORG-020": {
+      "name": "Technische und organisatorische Maßnahmen für das Homeoffice",
+      "kategorie": "ORG",
+      "schutzziele": [],
+      "klassifikation": "vvt_spezifisch"
+    },
+    "TOM-ORG-038": {
+      "name": "Trennung sensibler Aufgabenbereiche",
+      "kategorie": "ORG",
+      "schutzziele": [],
+      "klassifikation": "org_weit"
+    },
+    "TOM-ORG-053": {
+      "name": "Unterbrechungsfreie Stromversorgung",
+      "kategorie": "ORG",
+      "schutzziele": [],
+      "klassifikation": "org_weit"
+    },
+    "TOM-ORG-054": {
+      "name": "Überspannungsschutz",
+      "kategorie": "ORG",
+      "schutzziele": [],
+      "klassifikation": "org_weit"
+    },
+    "TOM-ORG-015": {
+      "name": "Verpflichtung der Beschäftigten",
+      "kategorie": "ORG",
+      "schutzziele": [],
+      "klassifikation": "org_weit"
+    },
+    "TOM-ORG-017": {
+      "name": "Wechsel der Organisationseinheiten durch Beschäftigte",
+      "kategorie": "ORG",
+      "schutzziele": [],
+      "klassifikation": "vvt_spezifisch"
+    },
+    "TOM-ORG-034": {
+      "name": "Zuverlässiges Transportpersonal",
+      "kategorie": "ORG",
+      "schutzziele": [],
+      "klassifikation": "org_weit"
+    },
+    "TOM-SW-004": {
+      "name": "Datenschutz durch Technikgestaltung",
+      "kategorie": "SW",
+      "schutzziele": [],
+      "klassifikation": "vvt_spezifisch"
+    },
+    "TOM-SW-003": {
+      "name": "Erhebungsformulare mit Attributen",
+      "kategorie": "SW",
+      "schutzziele": [],
+      "klassifikation": "vvt_spezifisch"
+    },
+    "TOM-SW-008": {
+      "name": "Festlegung verbindlicher Löschfristen ",
+      "kategorie": "SW",
+      "schutzziele": [],
+      "klassifikation": "vvt_spezifisch"
+    },
+    "TOM-SW-009": {
+      "name": "Frühzeitige Anonymisierung personenbezogener Daten",
+      "kategorie": "SW",
+      "schutzziele": [],
+      "klassifikation": "vvt_spezifisch"
+    },
+    "TOM-SW-010": {
+      "name": "Frühzeitige Pseudonymisierung personenbezogener  Daten",
+      "kategorie": "SW",
+      "schutzziele": [],
+      "klassifikation": "vvt_spezifisch"
+    },
+    "TOM-SW-001": {
+      "name": "Organisatorische Regelungen",
+      "kategorie": "SW",
+      "schutzziele": [],
+      "klassifikation": "org_weit"
+    },
+    "TOM-SW-006": {
+      "name": "Plausibilitätskontrolle zur Beschränkung der  Datenerhebung",
+      "kategorie": "SW",
+      "schutzziele": [],
+      "klassifikation": "vvt_spezifisch"
+    },
+    "TOM-SW-007": {
+      "name": "Pseudonymisierung der Daten bei Weiterverarbeitung oder Übermittlung",
+      "kategorie": "SW",
+      "schutzziele": [],
+      "klassifikation": "vvt_spezifisch"
+    },
+    "TOM-SW-002": {
+      "name": "Trennung von Produktiv- und Testsystem",
+      "kategorie": "SW",
+      "schutzziele": [],
+      "klassifikation": "vvt_spezifisch"
+    },
+    "TOM-SW-005": {
+      "name": "Vornahme datenschutzrechtlicher Voreinstellungen ",
+      "kategorie": "SW",
+      "schutzziele": [],
+      "klassifikation": "vvt_spezifisch"
+    }
+  },
+  "statistik": {
+    "org_weit": 42,
+    "vvt_spezifisch": 27,
+    "bedingt_av": 1,
+    "bedingt_cloud": 3
+  }
+}

@@ -22,7 +22,7 @@ regelungen:
 - Anlage 1 Besondere Gebührenverordnung des Bundesministeriums für Verkehr und digitale
   Infrastruktur für individuell zurechenbare öffentliche Leistungen des Eisenbahn-Bundesamtes
   – (EBABGebV)
-leika_id: '99159006000000'
+leika_id: '99159006001000'
 ozg_id: null
 letzte-aktualisierung: '2026-07-10'
 ---

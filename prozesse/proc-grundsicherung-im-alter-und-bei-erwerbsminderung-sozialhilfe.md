@@ -14,10 +14,9 @@ daten:
   - id: dstore-einkommensnachweise-haushalt
   - id: dstore-unterkunftskosten
   - id: dstore-personenstammdaten
-  - Viertes Kapitel Zwölftes Buch Sozialgesetzbuch (SGB XII)
 regelungen:
 - Viertes Kapitel Zwölftes Buch Sozialgesetzbuch (SGB XII)
-leika_id: '99107009000000'
+leika_id: '99107009017000'
 ozg_id: '10084'
 letzte-aktualisierung: '2026-07-10'
 ---

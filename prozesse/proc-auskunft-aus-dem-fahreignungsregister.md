@@ -15,7 +15,7 @@ regelungen:
 - §§ 2-6 Straßenverkehrsgesetz (StVG) (Fahrerlaubnis)
 - §§ 7 ff. Fahrerlaubnis-Verordnung (FeV)
 - § 4 StVG (Fahreignungs-Bewertungssystem)
-leika_id: '99029005000000'
+leika_id: '99029005001000'
 ozg_id: '10168'
 letzte-aktualisierung: '2026-07-10'
 ---

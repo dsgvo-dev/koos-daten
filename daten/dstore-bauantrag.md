@@ -8,9 +8,15 @@ zuständige-einheit: oe-amt-63
 bpmn:
   typ: datenobjekt
 klassifizierung:
-  schutzstufe: B
+  # Datenschutz -- Schaden fuer die betroffene Person (LfD-Schutzstufenkonzept, SDM)
+  schutzstufe: C
   schutzbedarf: normal
-  vertraulichkeit: intern
+  vertraulichkeitsklasse: vertraulich
+  # Informationssicherheit -- Schaden fuer die Institution und die Aufgabenerfuellung (BSI)
+  bsi-vertraulichkeit: normal
+  bsi-integritaet: normal
+  bsi-verfuegbarkeit: normal
+  bsi-schutzbedarf: normal
   rechtsgrundlagen:
   - gesetz: NBauO
     artikel: §63
@@ -28,8 +34,9 @@ klassifizierung:
     frist: 10 Jahre nach Abschluss des Verfahrens
     beginn: nach Bestandskraft des Bescheids oder Ablehnung
     hinweis: Bestandteil der Bauakte; Aufbewahrungsfrist kann je nach Gemeinde abweichen
-letzte-aktualisierung: 2026-04-07
+letzte-aktualisierung: '2026-08-10'
 ---
+
 
 # Bauantrag
 
@@ -52,3 +59,21 @@ mit den Antragsunterlagen das Kerndokument der Bauakte.
 Der Bauantrag ist zwingend durch eine bauvorlagenberechtigte Person (z.B. Architekt/in)
 zu unterschreiben (§ 53 NBauO). Unvollständige Anträge werden mit Nachforderungsschreiben
 zurückgegeben; die Frist zur Entscheidung beginnt erst mit vollständigen Unterlagen.
+
+## BSI-Vektoren geprüft 2026-08-04
+
+**Integrität bleibt normal.** Der Bestand ist ein **vorgelegter Nachweis**, keine Registerführung. Die Kommune prüft ihn im Verfahren und trifft auf seiner Grundlage eine Entscheidung; sie führt ihn aber nicht als Bestand, auf dessen Richtigkeit sich Dritte dauerhaft verlassen.
+
+Der Unterschied ist wesentlich: Wird ein Melderegister unbemerkt verfälscht, sind alle Folgeauskünfte falsch. Wird eine vorgelegte Verdienstbescheinigung verfälscht, wirkt sich das auf das eine Verfahren aus, in dem sie vorgelegt wurde -- und die ausstellende Stelle kann sie erneut ausstellen.
+
+**Verfügbarkeit bleibt unverändert.** Der Nachweis kann bei Verlust nachgefordert werden; ein Ausfall verzögert das Verfahren, verhindert es aber nicht.
+
+Geprüft im Durchgang „Register und Nachweise" vom 2026-08-04, in dem 38 Speicher mit Registercharakter, Rechtswirkung oder Gefahrenabwehrbezug auf hohe Integrität angehoben wurden. Dieser gehört nicht dazu.
+
+## Schutzstufe geprüft 2026-08-10
+
+**B → C.** Die Bau-Grunddaten sind mehr als Sachdaten.
+
+Der Antrag führt Bauherrschaft, Vorhaben und Grundstück zusammen und nimmt die Begründung des Vorhabens auf. Bei Anträgen für Anbauten zur Pflege von Angehörigen oder für barrierefreie Umbauten wird der Anlass mitgeteilt.
+
+**Kohärenz:** `dstore-bauakte` steht seit dem 2026-08-10 auf Stufe D, weil sie die Nachbareinwendung aufnimmt. Die Einzelbestandteile tragen diese Stufe nicht -- sie tragen aber auch nicht mehr die Stufe B, die sie aus dem Import mitgebracht hatten.

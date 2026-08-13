@@ -13,9 +13,9 @@ daten:
   - id: dstore-unternehmens-und-registerdaten
   - id: dstore-personenstammdaten
   - id: dstore-identitaetsnachweis
-  - § 14 Abs. 1 Gewerbeordnung (GewO)
-  - § 15 Abs. 1 Gewerbeordnung (GewO)
 regelungen:
+- § 14 Abs. 1 Gewerbeordnung (GewO)
+- § 15 Abs. 1 Gewerbeordnung (GewO)
 - § 11 Gewerbeordnung (GewO)
 - § 14 Gewerbeordnung (GewO)
 - § 15 Gewerbeordnung (GewO)

@@ -16,13 +16,10 @@ daten:
   - id: dstore-kita-anmeldedaten
   - id: dstore-personenstammdaten
   - id: dstore-kitadaten
-regelungen:
-- §§ 17-19 Bundesmeldegesetz (BMG) (An-/Ab-/Ummeldung)
-- § 34 BMG (Melderegisterauskunft)
-- § 51 BMG (Auskunftssperre)
+regelungen: []
 leika_id: null
 ozg_id: '10019'
-letzte-aktualisierung: '2026-07-10'
+letzte-aktualisierung: '2026-08-03'
 ---
 
 # Kindertagesbetreuung (Anmeldung/Bedarfsmanagement)
@@ -49,3 +46,7 @@ letzte-aktualisierung: '2026-07-10'
 
 
 *Quelle: Allgemeine Verwaltungspraxis*
+
+## Korrektur 2026-08-03
+
+Regelungsliste geleert. Sie nannte das Bundesmeldegesetz, verteilt über einen Stringtreffer auf „Anmeldung". Einschlägig sind §§ 22-24 SGB VIII; noch nicht gesetzt.

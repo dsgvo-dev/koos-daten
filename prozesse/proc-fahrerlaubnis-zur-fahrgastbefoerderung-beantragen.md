@@ -17,9 +17,9 @@ daten:
   - id: dstore-kfz-daten
 regelungen:
 - § 48 Absatz 1 und 4 Fahrerlaubnisverordnung (FeV)
-leika_id: '99108053000000'
+leika_id: '99108053001000'
 ozg_id: '10424'
-letzte-aktualisierung: '2026-07-10'
+letzte-aktualisierung: '2026-07-28'
 ---
 
 # Fahrerlaubnis zur Fahrgastbeförderung beantragen

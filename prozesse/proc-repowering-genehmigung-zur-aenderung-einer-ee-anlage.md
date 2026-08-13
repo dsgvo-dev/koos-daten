@@ -12,13 +12,13 @@ daten:
   - id: dstore-unternehmens-und-registerdaten
   - id: dstore-identitaetsnachweis
 regelungen:
-- § 59 LBauO M-V
-- §§ 3a VwVfG M-V
+- § 59 Niedersächsische Bauordnung (NBauO) - Genehmigungsvorbehalt
+- § 1 Niedersächsisches Verwaltungsverfahrensgesetz (NVwVfG) i. V. m. § 3a VwVfG
 - §§ 29 BauGB
-- §§ 1 BauVorlVO M-V
+- § 1 Niedersächsische Bauvorlagenverordnung (NBauVorlVO)
 leika_id: '99063001006000'
 ozg_id: null
-letzte-aktualisierung: '2026-07-10'
+letzte-aktualisierung: '2026-07-28'
 ---
 
 # Repowering: Genehmigung zur Änderung einer EE-Anlage

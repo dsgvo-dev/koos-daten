@@ -17,7 +17,7 @@ regelungen:
 - § 32 Absatz 1, Absatz 2 Satz 2 Nummer 2 Wohnungseigentumsgesetz (WEG)
 - Allgemeine Verwaltungsvorschrift für die Ausstellung von Bescheinigungen nach dem
   Wohnungseigentumsgesetz (AVA)
-leika_id: '99012002000000'
+leika_id: '99012002012000'
 ozg_id: '10514'
 letzte-aktualisierung: '2026-07-10'
 ---

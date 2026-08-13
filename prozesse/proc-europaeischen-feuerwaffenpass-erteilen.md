@@ -16,9 +16,9 @@ regelungen:
 - § 32 Absatz 6 Waffengesetz (WaffG)
 - § 33 Allgemeine Waffengesetz-Verordnung (AWaffV)
 - Allgemeine Verwaltungsvorschrift zum Waffengesetz (WaffVwV)
-leika_id: '99089010000000'
+leika_id: '99089010012000'
 ozg_id: null
-letzte-aktualisierung: '2026-07-10'
+letzte-aktualisierung: '2026-07-28'
 ---
 
 # Europäischen Feuerwaffenpass erteilen

@@ -1,46 +1,28 @@
 ---
 id: proc-geodaten-bereitstellen
-titel: Geodaten bereitstellen
+titel: Geodatendienstleistungen bereitstellen und abrechnen
 status: aktiv
-zustaendigeEinheit: oe-amt-62
-zustaendigeRolle: ''
-beteiligte: []
+zustaendigeEinheit: oe-amt-60
+zustaendigeRolle: sachbearbeiter
 daten:
-  input: []
-  output: []
   datenspeicher:
-  - id: dstore-lageplan-geobasisdaten
-  - id: dstore-grundstuecksdaten
-  - id: dstore-bescheinigung
+    - id: dstore-personenstammdaten
+    - id: dstore-kontaktdaten
+    - id: dstore-gebuehrenbescheid-zahlungsdaten
 regelungen:
-  - '§§ 1-5 Nds. Vermessungs- und Geoinformationsgesetz (NVermG)'
-  - '§ 6 NVermG (Aufgaben der Katasterbehörden)'
-  - '§ 14 NVermG (Liegenschaftskataster)'
-letzte-aktualisierung: 2026-04-29
+  - "NVermG (Nds. Vermessungs- und Katastergesetz)"
+  - "NKAG (Gebühren)"
+leika_id: ""
+ozg_id: ""
+letzte-aktualisierung: 2026-08-04
 ---
-# Geodaten bereitstellen
+
+# Geodatendienstleistungen bereitstellen und abrechnen
 
 ## Prozessschritte
 
-**01 Datenanfrage prüfen**  
-*Datensatz, Nutzungszweck*
+**01 Anfrage bearbeiten und Daten bereitstellen**
+*Anfragende (Bürger, Planer, Behörden) beantragen Geodaten. Prüfung des Verwendungszwecks und der Nutzungsrechte. Bereitstellung der Daten im gewünschten Format.*
 
-**02 Daten verfügbar machen**  
-*Aus Geodateninfrastruktur*
-
-**03 Format konvertieren**  
-*In gewünschtes Format*
-
-**04 Nutzungsbedingungen**  
-*Lizenzbedingungen mitteilen*
-
-**05 Datenübermittlung**  
-*An Anfragenden*
-
-**06 Dokumentation**  
-*Datenabgabe protokollieren*
-
-**07 Aktualisierung**  
-*Regelmäßige Datenpflege*
-
-
+**02 Gebühren abrechnen**
+*Gebührenbescheid nach NKAG erstellen. Ausgleichsüberwachung.*

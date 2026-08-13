@@ -18,7 +18,7 @@ daten:
 regelungen:
 - §§ 123-135 Baugesetzbuch (BauGB)
 - § 25 Bundes-Bodenschutzgesetz (BBodSchG)
-leika_id: '99012003000000'
+leika_id: '99012003012000'
 ozg_id: '10515'
 letzte-aktualisierung: '2026-07-10'
 ---

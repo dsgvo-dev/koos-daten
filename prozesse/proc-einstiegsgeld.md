@@ -15,7 +15,7 @@ daten:
 regelungen:
 - §16b Sozialgesetzbuch Zweites Buch (SGB II)
 - §16 Sozialgesetzbuch Zweites Buch (SGB II)
-leika_id: '99007030000000'
+leika_id: '99007030017000'
 ozg_id: null
 letzte-aktualisierung: '2026-07-10'
 ---

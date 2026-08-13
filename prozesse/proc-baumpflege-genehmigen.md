@@ -13,11 +13,8 @@ daten:
   - id: dstore-lageplan-geobasisdaten
   - id: dstore-verwaltungsakte
   - id: dstore-bescheid
-regelungen:
-  - '§ 71 SGB XII (Altenhilfe)'
-  - '§§ 28 ff. SGB XI (Pflegeleistungen)'
-  - '§ 37 SGB XI (Pflegegeld)'
-letzte-aktualisierung: 2026-04-29
+regelungen: []
+letzte-aktualisierung: '2026-08-03'
 ---
 # Baumpflege genehmigen
 
@@ -44,4 +41,6 @@ letzte-aktualisierung: 2026-04-29
 **07 Nachkontrolle**  
 *Erfolg der Maßnahme*
 
+## Korrektur 2026-08-03
 
+Regelungsliste geleert. Sie nannte den Altenhilfe-/Pflegeversicherungs-Block, verteilt über einen Stringtreffer auf „Baum**pflege**". Einschlägig sind § 39 BNatSchG und die kommunale Baumschutzsatzung; noch nicht gesetzt.

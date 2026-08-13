@@ -14,7 +14,7 @@ daten:
   - id: dstore-identitaetsnachweis
 regelungen:
 - § 14 Versammlungsgesetz (VersammlG)
-leika_id: '99089016000000'
+leika_id: '99089016008000'
 ozg_id: '10142'
 letzte-aktualisierung: '2026-07-10'
 ---

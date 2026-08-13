@@ -1,7 +1,8 @@
 ---
 id: proc-wohngeld-bewilligen
 titel: Wohngeld bewilligen
-status: aktiv
+status: ersetzt
+ersetzt-durch: proc-wohngeld-beantragen
 zustaendigeEinheit: oe-amt-50
 zustaendigeRolle: ''
 beteiligte: []
@@ -17,9 +18,9 @@ regelungen:
 - Wohngeldverordnung (WoGV)
 - Allgemeine Verwaltungsvorschrift zur Durchführung des Wohngeldgesetzes (Wohngeld-Verwaltungsvorschrift
   - WoGVwV)
-leika_id: '99107023000000'
+leika_id: '99107023037000'
 ozg_id: '10092'
-letzte-aktualisierung: '2026-07-10'
+letzte-aktualisierung: '2026-07-28'
 ---
 
 # Wohngeld bewilligen

@@ -23,7 +23,7 @@ regelungen:
 - §§ 61 bis 66 Personenstandsgesetz (PStG)
 - § 48 Absatz 1 Personenstandsverordnung (PStV)
 - § 50 Absatz 1 Personenstandsverordnung (PStV)
-leika_id: '99059004000000'
+leika_id: '99059004012000'
 ozg_id: null
 letzte-aktualisierung: '2026-07-10'
 ---

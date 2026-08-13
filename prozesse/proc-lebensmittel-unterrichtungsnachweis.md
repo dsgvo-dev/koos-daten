@@ -17,8 +17,7 @@ daten:
   - id: dstore-personenstammdaten
 regelungen:
   - '§ 4 Absatz 1 Gaststättengesetz (GastG)'
-  - 'Article 4 (1) Catering Act (GastG)'
-letzte-aktualisierung: 2026-04-06
+letzte-aktualisierung: '2026-08-03'
 ---
 # Lebensmittel – Unterrichtungsnachweis
 
@@ -44,3 +43,8 @@ letzte-aktualisierung: 2026-04-06
 
 
 *Quelle: Allgemeine Verwaltungspraxis*
+
+## Korrektur 2026-08-03
+
+Englischsprachige Dubletten aus der Regelungsliste entfernt. Es handelt sich um Übersetzungen bereits vorhandener deutscher Fundstellen aus dem Quellkatalog, nicht um eigene Normen:
+- 'Article 4 (1) Catering Act (GastG)'

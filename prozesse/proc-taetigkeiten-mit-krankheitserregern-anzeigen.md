@@ -23,10 +23,12 @@ regelungen:
   Anforderungen an den Organisationsplan
 - DIN 58956-5 - Medizinische Mikrobiologie; Medizinisch-mikrobiologische Laboratorien;
   Anforderungen an den Hygieneplan
-- § 44 Infektionsschutzgesetz (IfSG)
-leika_id: '99003021000000'
+- § 49 Absatz 1 Infektionsschutzgesetz (IfSG) - Anzeigepflicht
+- § 44 Infektionsschutzgesetz (IfSG) - erlaubnispflichtige Taetigkeiten, auf die sich die
+  Anzeige bezieht
+leika_id: '99003021169000'
 ozg_id: null
-letzte-aktualisierung: '2026-07-10'
+letzte-aktualisierung: '2026-07-28'
 ---
 
 # Tätigkeiten mit Krankheitserregern anzeigen

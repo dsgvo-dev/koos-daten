@@ -18,7 +18,7 @@ regelungen:
 - § 29 Waffengesetz (WaffG)
 - § 29 Allgemeine Waffengesetz-Verordnung (AWaffV)
 - zu §§ 29 ff. Allgemeine Verwaltungsvorschrift zum Waffengesetz (WaffVwV)
-leika_id: '99089188000000'
+leika_id: '99089188001000'
 ozg_id: null
 letzte-aktualisierung: '2026-07-10'
 ---

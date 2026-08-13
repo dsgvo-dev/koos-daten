@@ -19,7 +19,7 @@ regelungen:
 - § 57 i. V. m. § 34b Abs. 1 Satz 1 Gewerbeordnung (GewO)
 - § 70a Abs. 3 i.V.m. § 34b Abs. 1 Satz 1 Gewerbeordnung (GewO)
 - § 61a Abs. 2 Satz 2 Gewerbeordnung (GewO)
-leika_id: '99050102000000'
+leika_id: '99050102007000'
 ozg_id: null
 letzte-aktualisierung: '2026-07-10'
 ---

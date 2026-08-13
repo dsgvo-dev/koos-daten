@@ -15,16 +15,16 @@ daten:
   - id: dstore-gebuehrenbescheid-zahlungsdaten
   - id: dstore-personenstammdaten
   - id: dstore-identitaetsnachweis
-  - Gewerbesteuergesetz (GewStG)
-  - Gewerbesteuer-Durchführungsverordnung (GewStDV)
-  - § 7 GewStG
-  - § 16 GewStG
 regelungen:
+- Gewerbesteuergesetz (GewStG)
+- Gewerbesteuer-Durchführungsverordnung (GewStDV)
+- § 7 GewStG
+- § 16 GewStG
 - §§ 7 bis 9 Gewerbesteuergesetz (GewStG)
 - § 11 Gewerbesteuergesetz (GewStG)
 - § 16 Gewerbesteuergesetz (GewStG)
 - § 25 Gewerbesteuer-Durchführungsverordnung (GewStDV)
-leika_id: '99102010000000'
+leika_id: '99102010002000'
 ozg_id: '10364'
 letzte-aktualisierung: '2026-07-10'
 ---
@@ -40,7 +40,7 @@ letzte-aktualisierung: '2026-07-10'
 *Nach GewStG*
 
 **03 Hebesatz anwenden**  
-*Kommune Oldenburg*
+*Kommune*
 
 **04 Steuermessbetrag**  
 *Berechnung*

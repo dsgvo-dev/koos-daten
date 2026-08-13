@@ -16,3 +16,6 @@
 
 # Interne Werkzeuge (nicht Teil des öffentlichen Repos)
 _tools/
+
+# FUSE-/Cloud-Mount-Artefakte (transienter Dateisystem-Müll)
+.fuse_hidden*

@@ -16,7 +16,7 @@ regelungen:
 - §§ 28-35 Personenstandsgesetz (PStG) (Sterbefälle)
 - §§ 47-49 PStG (Sterberegister)
 - Nds. AVO-PStG
-leika_id: '99101006000000'
+leika_id: '99101006026000'
 ozg_id: null
 letzte-aktualisierung: '2026-07-10'
 ---

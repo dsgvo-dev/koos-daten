@@ -1,0 +1,47 @@
+{
+  "id": "risiko-vvt-11-003",
+  "schema_version": "1.0.0",
+  "meta": {
+    "erstellt_am": "2026-08-12",
+    "status": "entwurf",
+    "durchgefuehrt_von": "Generator (2026-08-05, 4D)",
+    "dsb_beteiligt": true,
+    "isb_beteiligt": true
+  },
+  "vvt_referenz": {
+    "vvt_id": "vvt-11-003",
+    "bezeichnung": "Urlaubsverwaltung"
+  },
+  "besonderheiten_referenz": {
+    "bes_id": "bes-vvt-11-003",
+    "schadenshoehe_aus_besonderheiten": 3
+  },
+  "basis_risiko": {
+    "eintrittswahrscheinlichkeit": 3,
+    "eintrittswahrscheinlichkeit_begruendung": "Basis: mittel (2) → Art.9/10 (+1) → Gesamt: 3",
+    "dsgvo": {
+      "beschreibung": "Schadenshöhe nach DSGVO (Art/Umfang/Umstände der Verarbeitung)",
+      "schadenshoehe": 3,
+      "risikowert": 9
+    },
+    "bsi_vertraulichkeit": {
+      "beschreibung": "BSI-Grundwert Vertraulichkeit (Schutz vor unbefugtem Zugang)",
+      "schadenshoehe": 2,
+      "risikowert": 6
+    },
+    "bsi_integritaet": {
+      "beschreibung": "BSI-Grundwert Integrität (Schutz vor unbefugter/unerkannter Änderung)",
+      "schadenshoehe": 3,
+      "risikowert": 9
+    },
+    "bsi_verfuegbarkeit": {
+      "beschreibung": "BSI-Grundwert Verfügbarkeit (Schutz vor Ausfall/Unterbrechung)",
+      "schadenshoehe": 2,
+      "risikowert": 6
+    },
+    "gesamtwert": 9,
+    "schutzbedarf": "hoch",
+    "dsfa_pflicht": true,
+    "dsfa_hinweis": "DSFA zwingend (DSGVO=9/V=6/I=9/A=6)"
+  }
+}

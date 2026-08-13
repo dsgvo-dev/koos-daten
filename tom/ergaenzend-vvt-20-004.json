@@ -1,0 +1,49 @@
+{
+  "id": "ergaenzend-vvt-20-004",
+  "vvt_referenz": {
+    "vvt_id": "vvt-20-004",
+    "bezeichnung": "Verarbeiten und Begleichen von Rechnungen"
+  },
+  "erstellt_am": "2026-08-12",
+  "risiko_aktuell": {
+    "dsgvo": 4,
+    "bsi_v": 2,
+    "bsi_i": 6,
+    "bsi_a": 4
+  },
+  "schutzziele_hoch": [
+    "Integrität",
+    "Richtigkeit"
+  ],
+  "zusatz_toms": [
+    {
+      "id": "TOM-ORG-053",
+      "name": "Unterbrechungsfreie Stromversorgung",
+      "kategorie": "ORG",
+      "typ": "Grundmaßnahme",
+      "schutzziele_ueberlappung": [
+        "Integrität"
+      ],
+      "score": 33,
+      "wirkung": 2
+    },
+    {
+      "id": "TOM-ORG-054",
+      "name": "Überspannungsschutz",
+      "kategorie": "ORG",
+      "typ": "Grundmaßnahme",
+      "schutzziele_ueberlappung": [
+        "Integrität"
+      ],
+      "score": 33,
+      "wirkung": 1
+    }
+  ],
+  "anzahl_zusatz": 2,
+  "baseline_angerechnet": 27,
+  "restrisiko": {
+    "bewertung": "offen",
+    "begruendung": "Manuell nach TOM-Umsetzung"
+  },
+  "status": "entwurf"
+}

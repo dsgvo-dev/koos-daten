@@ -21,7 +21,7 @@ regelungen:
 - §§ 12-13 Bundeswahlgesetz (BWahlG) (Wahlrecht)
 - §§ 1-5 Nds. Kommunalwahlgesetz (NKWG)
 - § 6 NKWG (Wählbarkeit)
-leika_id: '99128025000000'
+leika_id: '99128025012000'
 ozg_id: null
 letzte-aktualisierung: '2026-07-10'
 ---

@@ -15,10 +15,8 @@ daten:
   - id: dstore-personenstammdaten
   - id: dstore-einkommensnachweise-haushalt
 regelungen:
-  - '§ 71 SGB XII (Altenhilfe)'
-  - '§§ 28 ff. SGB XI (Pflegeleistungen)'
-  - '§ 37 SGB XI (Pflegegeld)'
-letzte-aktualisierung: 2026-04-06
+- § 43 Sozialgesetzbuch (SGB) - Achtes Buch (VIII)
+letzte-aktualisierung: '2026-08-03'
 ---
 # Familienbüro / Kindertagespflege: Beratung/Information
 
@@ -44,3 +42,7 @@ letzte-aktualisierung: 2026-04-06
 
 
 *Quelle: Allgemeine Verwaltungspraxis*
+
+## Korrektur 2026-08-03
+
+Regelungsliste ersetzt. Sie nannte § 71 SGB XII und §§ 28 ff., § 37 SGB XI -- Leistungen der Pflegeversicherung, verteilt über einen Stringtreffer auf „Kindertages**pflege**". Kindertagespflege ist Jugendhilfe nach SGB VIII, nicht Pflegeversicherung. Übernommen wurde die im Bestand bereits belegte Fundstelle aus `proc-kindertagespflege-beantragen`.

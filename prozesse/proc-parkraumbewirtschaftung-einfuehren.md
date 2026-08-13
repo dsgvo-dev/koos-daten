@@ -13,10 +13,8 @@ daten:
   - id: dstore-verwaltungsakte
   - id: dstore-bescheid
 regelungen:
-  - '§ 45 Abs. 1b StVO (Parkerleichterungen für Behinderte)'
-  - '§§ 228-231 SGB IX (Nachteilsausgleiche/Merkzeichen)'
-  - '§§ 45-46 StVO'
-letzte-aktualisierung: 2026-04-29
+- §§ 45-46 StVO
+letzte-aktualisierung: '2026-08-03'
 ---
 # Parkraumbewirtschaftung einführen
 
@@ -43,4 +41,6 @@ letzte-aktualisierung: 2026-04-29
 **07 Evaluation**  
 *Nach Einführungsphase*
 
+## Korrektur 2026-08-03
 
+Regelungsliste bereinigt. Sie nannte zusätzlich § 45 Abs. 1b StVO (Parkerleichterungen für Behinderte) und §§ 228-231 SGB IX (Nachteilsausgleiche/Merkzeichen) -- verteilt über einen Stringtreffer auf „**Park**". Die Bewirtschaftung von Parkraum ist keine Nachteilsausgleichsleistung; die Schwerbehindertennormen sind gestrichen.

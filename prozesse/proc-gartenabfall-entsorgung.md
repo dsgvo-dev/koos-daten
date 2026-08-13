@@ -1,7 +1,8 @@
 ---
 id: proc-gartenabfall-entsorgung
 titel: Gartenabfall Entsorgung
-status: aktiv
+status: ersetzt
+ersetzt-durch: proc-abfall-gartenabfaelle-entsorgen
 zustaendigeEinheit: oe-amt-60
 zustaendigeRolle: ''
 beteiligte:
@@ -18,7 +19,7 @@ regelungen:
 - Niedersächsisches Abfallgesetz (NAbfG)
 leika_id: '99001005004000'
 ozg_id: null
-letzte-aktualisierung: '2026-07-10'
+letzte-aktualisierung: '2026-07-28'
 ---
 
 # Gartenabfall Entsorgung

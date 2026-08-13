@@ -20,8 +20,9 @@ daten:
   - id: dstore-personenstammdaten
   - id: dstore-identitaetsnachweis
 regelungen:
-  - 'Dritter Absatz des Bundeszentralregistergesetzes (BZRG)'
-letzte-aktualisierung: 2026-04-06
+- § 30 Bundeszentralregistergesetz (BZRG) (Führungszeugnis auf Antrag)
+- § 31 BZRG (Führungszeugnis für Behörden)
+letzte-aktualisierung: '2026-08-03'
 ---
 
 # Führungszeugnis beantragen (Entgegennahme/Weiterleitung)
@@ -40,3 +41,7 @@ letzte-aktualisierung: 2026-04-06
 
 **03 Antrag an Bundesamt für Justiz weiterleiten**
 *Rechtsgrundlage: § 31 BZRG*
+
+## Korrektur 2026-08-03
+
+Regelungsliste ersetzt. Sie nannte „Dritter Absatz des Bundeszentralregistergesetzes (BZRG)" -- kein Normzitat, sondern ein verstümmeltes Fragment (gemeint ist der Dritte Abschnitt, §§ 30 ff. BZRG). Ersetzt durch die Einzelnormen.

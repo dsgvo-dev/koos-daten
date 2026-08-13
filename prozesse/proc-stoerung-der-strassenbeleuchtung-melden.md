@@ -12,12 +12,10 @@ daten:
   output: []
   datenspeicher:
   - id: dstore-sicherheitsmangelmeldung
-regelungen:
-- §§ 92-100 NKomVG (Kommunale Liegenschaften)
-- §§ 1 ff. GEG (Gebäudeenergiegesetz)
-leika_id: '99108020000000'
+regelungen: []
+leika_id: '99108020224000'
 ozg_id: null
-letzte-aktualisierung: '2026-07-10'
+letzte-aktualisierung: '2026-08-03'
 ---
 
 # Störung der Straßenbeleuchtung melden
@@ -44,3 +42,7 @@ letzte-aktualisierung: '2026-07-10'
 
 
 *Quelle: Allgemeine Verwaltungspraxis*
+
+## Korrektur 2026-08-03
+
+Regelungsliste geleert. Sie nannte §§ 92-100 NKomVG (Kommunale Liegenschaften) und das Gebäudeenergiegesetz -- verteilt aus der Gebäudegruppe. Straßenbeleuchtung ist Bestandteil der Straße nach § 2 NStrG, kein Gebäude; das GEG gilt für Gebäude und ist hier nicht anwendbar. Noch nicht neu gesetzt.

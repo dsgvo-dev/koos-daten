@@ -17,7 +17,7 @@ regelungen:
 - §§ 27-40 SGB XII (Sozialhilfe)
 - §§ 53-60 SGB XII (Eingliederungshilfe)
 - § 19 SGB XII (Leistungsberechtigte)
-leika_id: '99107005000000'
+leika_id: '99107005080000'
 ozg_id: '10206'
 letzte-aktualisierung: '2026-07-10'
 ---

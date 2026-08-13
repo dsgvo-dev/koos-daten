@@ -19,8 +19,10 @@ daten:
   - id: dstore-identitaetsnachweis
   - id: dstore-meldeadresse-wohnsitz
 regelungen:
-  - 'Dritter Absatz des Bundeszentralregistergesetzes (BZRG)'
-letzte-aktualisierung: 2026-04-06
+- § 30 Bundeszentralregistergesetz (BZRG) (Führungszeugnis auf Antrag)
+- § 30a BZRG (Erweitertes Führungszeugnis)
+- § 30b BZRG (Europäisches Führungszeugnis)
+letzte-aktualisierung: '2026-08-03'
 ---
 
 # Führungszeugnis beantragen (online/analog)
@@ -42,3 +44,7 @@ letzte-aktualisierung: 2026-04-06
 
 **04 Führungszeugnis aushändigen oder postalisch zustellen**
 *(Information bereitstellen)*
+
+## Korrektur 2026-08-03
+
+Regelungsliste ersetzt. Sie nannte „Dritter Absatz des Bundeszentralregistergesetzes (BZRG)" -- kein Normzitat, sondern ein verstümmeltes Fragment (gemeint ist der Dritte Abschnitt, §§ 30 ff. BZRG). Ersetzt durch die Einzelnormen.

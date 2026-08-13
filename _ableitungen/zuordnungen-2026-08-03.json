@@ -1,0 +1,3166 @@
+{
+ "vvt-32-007": {
+  "ds": [
+   [
+    "dstore-kfz-daten",
+    "Amtliches Kennzeichen"
+   ],
+   [
+    "dstore-personenstammdaten",
+    "Halterdaten (Anfrage beim Kraftfahrt-Bundesamt)"
+   ],
+   [
+    "dstore-verwahrgut-sicherstellung",
+    "§§ 26, 27 NPOG (Sicherstellung/Verwahrung)"
+   ],
+   [
+    "dstore-gebuehrenbescheid-zahlungsdaten",
+    "Kosten"
+   ],
+   [
+    "dstore-abschleppmassnahme",
+    "Standort und Zeitpunkt der Maßnahme"
+   ]
+  ]
+ },
+ "vvt-32-016": {
+  "ds": [
+   [
+    "dstore-unternehmens-und-registerdaten",
+    "Name/Firma, Anschrift"
+   ],
+   [
+    "dstore-betriebsdaten",
+    "interne Sicherungsmaßnahmen/Risikomanagement"
+   ],
+   [
+    "dstore-verdachtsmeldung-geldwaesche",
+    "ggf. Verdachtsmeldungen"
+   ]
+  ]
+ },
+ "vvt-32-023": {
+  "ds": [
+   [
+    "dstore-unternehmens-und-registerdaten",
+    "Name/Firma, Anschrift"
+   ],
+   [
+    "dstore-bescheinigung",
+    "Ausstellung von Unbedenklichkeitsbescheinigungen"
+   ],
+   [
+    "dstore-steuerdaten",
+    "Prüfergebnis (Steuerrückstände"
+   ],
+   [
+    "dstore-register-und-zuverlaessigkeitsauskuenfte",
+    "gewerberechtliche Beanstandungen"
+   ]
+  ]
+ },
+ "vvt-33-005": {
+  "ds": [
+   [
+    "dstore-personenstammdaten",
+    "Name, Anschrift, Geburtsdatum"
+   ],
+   [
+    "dstore-fischereischein-sachkunde",
+    "Nachweis der Fischerprüfung, Gültigkeitsdauer"
+   ],
+   [
+    "dstore-gebuehrenbescheid-zahlungsdaten",
+    "Gebührenzahlung"
+   ]
+  ]
+ },
+ "vvt-34-004": {
+  "ds": [
+   [
+    "dstore-personenstammdaten-vertraulich",
+    "Name, Anschrift"
+   ],
+   [
+    "dstore-kontaktdaten-vertraulich",
+    "Kontaktdaten"
+   ],
+   [
+    "dstore-sicherheitsmangelmeldung",
+    "Ort und Beschreibung der Gefahrenstelle/des Mangels, Bearbeitungsstatus"
+   ]
+  ]
+ },
+ "vvt-34-006": {
+  "ds": [
+   [
+    "dstore-videoueberwachungsaufzeichnung",
+    "§ 14 NDSG (Videoüberwachung öffentlich zugänglicher Räume)"
+   ]
+  ]
+ },
+ "vvt-40-003": {
+  "ds": [
+   [
+    "dstore-personenstammdaten-vertraulich",
+    "Name"
+   ],
+   [
+    "dstore-schulbesuch-ausbildungsstatus",
+    "Schulklasse"
+   ],
+   [
+    "dstore-gemeinschaftliche-mittagsverpflegung",
+    "Essensbestellungen"
+   ],
+   [
+    "dstore-bildungs-und-teilhabebedarf",
+    "inkl. BuT"
+   ],
+   [
+    "dstore-sepa-lastschriftmandat",
+    "Zahlungsdaten einschließlich SEPA-Lastschriftmandat"
+   ]
+  ]
+ },
+ "vvt-40-004": {
+  "ds": [
+   [
+    "dstore-personenstammdaten",
+    "Name"
+   ],
+   [
+    "dstore-kontaktdaten",
+    "Kontaktdaten"
+   ],
+   [
+    "dstore-aufwandsentschaedigung-ehrenamt",
+    "Fahrtkostenerstattung mit Bankverbindung"
+   ]
+  ]
+ },
+ "vvt-40-005": {
+  "ds": [
+   [
+    "dstore-personenstammdaten",
+    "Name, Adresse, ggf. Geburtsdatum"
+   ],
+   [
+    "dstore-schulbesuch-ausbildungsstatus",
+    "Klasse, Ausbildungsgang"
+   ],
+   [
+    "dstore-betriebsdaten",
+    "Betrieb"
+   ],
+   [
+    "dstore-gebuehrenbescheid-zahlungsdaten",
+    "Erhebung von Beiträgen"
+   ]
+  ]
+ },
+ "vvt-40-006": {
+  "ds": [
+   [
+    "dstore-personenstammdaten",
+    "Name"
+   ],
+   [
+    "dstore-bankverbindung",
+    "Kontodaten"
+   ],
+   [
+    "dstore-kontaktdaten",
+    "Ansprechpartner"
+   ],
+   [
+    "dstore-foerderantrag",
+    "Verwaltung und Bearbeitung von Fördermitteln"
+   ]
+  ]
+ },
+ "vvt-40-007": {
+  "ds": [
+   [
+    "dstore-meldeadresse-wohnsitz",
+    "§ 34 Abs. 1 BMG (Meldedaten)"
+   ],
+   [
+    "dstore-personenstammdaten",
+    "Geburtsdaten"
+   ],
+   [
+    "dstore-religionszugehoerigkeit",
+    "Konfession"
+   ]
+  ]
+ },
+ "vvt-40-008": {
+  "ds": [
+   [
+    "dstore-kommunaler-miet-nutzungsvertrag",
+    "Art der Vermietung"
+   ],
+   [
+    "dstore-adresse",
+    "Adressdaten"
+   ],
+   [
+    "dstore-personenstammdaten",
+    "Name und Anschrift der vertragschließenden Person"
+   ]
+  ]
+ },
+ "vvt-40-009": {
+  "ds": [
+   [
+    "dstore-unternehmens-und-registerdaten",
+    "Arbeitgeber, Vertragspartner"
+   ],
+   [
+    "dstore-adresse",
+    "Adressdaten"
+   ],
+   [
+    "dstore-vergabe-auftragsbezug",
+    "ergänzend Vergaberecht (GWB, UVgO, VgV je nach Auftragswert)"
+   ],
+   [
+    "dstore-vergabeunterlagen",
+    "Vergabeunterlagen einschließlich Angeboten und Referenzen"
+   ]
+  ]
+ },
+ "vvt-40-010": {
+  "ds": [
+   [
+    "dstore-personenstammdaten-vertraulich",
+    "Name, Kontakt-, Adress-, Geburtsdaten"
+   ],
+   [
+    "dstore-kontaktdaten-vertraulich",
+    "Kontakt-"
+   ],
+   [
+    "dstore-schulbesuch-ausbildungsstatus",
+    "Entscheidung über den Ort des Schulbesuchs"
+   ],
+   [
+    "dstore-antragsbegruendung-schulbezirk",
+    "Situationsschilderungen einschließlich gesundheitlicher und familiärer Notlagen"
+   ]
+  ]
+ },
+ "vvt-47-004": {
+  "ds": [
+   [
+    "dstore-termin-und-vorsprachedaten",
+    "Vergabe von Terminen im Ausländerwesen"
+   ],
+   [
+    "dstore-personenstammdaten-vertraulich",
+    "Name"
+   ],
+   [
+    "dstore-kontaktdaten-vertraulich",
+    "Kontaktdaten"
+   ]
+  ]
+ },
+ "vvt-47-005": {
+  "ds": [
+   [
+    "dstore-verpflichtungserklaerung",
+    "§ 68 AufenthG (Verpflichtungserklärung)"
+   ],
+   [
+    "dstore-personenstammdaten-vertraulich",
+    "Name"
+   ],
+   [
+    "dstore-kontaktdaten-vertraulich",
+    "Kontaktdaten"
+   ],
+   [
+    "dstore-einkommensnachweise-haushalt",
+    "Einkommensnachweise zur Prüfung der Lebensunterhaltssicherung"
+   ]
+  ]
+ },
+ "vvt-47-006": {
+  "ds": [
+   [
+    "dstore-personenstammdaten-vertraulich",
+    "Name"
+   ],
+   [
+    "dstore-wohnraumnachweis-aufenthalt",
+    "Mietersituation"
+   ],
+   [
+    "dstore-leistungsbezug-sozialleistung",
+    "AsylbLG (soweit Leistungsstatus fortbesteht)"
+   ],
+   [
+    "dstore-einwilligung-widerruf",
+    "Art. 6 Abs. 1 lit. a) DSGVO"
+   ]
+  ]
+ },
+ "vvt-50-002": {
+  "ds": [
+   [
+    "dstore-personenstammdaten-vertraulich",
+    "Name, Adresse"
+   ],
+   [
+    "dstore-leistungsbezug-sozialleistung",
+    "§§ 93, 94 SGB XII"
+   ],
+   [
+    "dstore-mahn-vollstreckungsstatus",
+    "Zahlungsverlauf"
+   ],
+   [
+    "dstore-forderungstitel-vollstreckung",
+    "Rückforderung unrechtmäßig gezahlter Leistungen"
+   ],
+   [
+    "dstore-nachlass-erbendaten",
+    "Nachlassdaten"
+   ]
+  ]
+ },
+ "vvt-50-003": {
+  "ds": [
+   [
+    "dstore-personenstammdaten",
+    "Name, Adresse"
+   ],
+   [
+    "dstore-kommunaler-miet-nutzungsvertrag",
+    "lit. b) DSGVO (Mietvertrag mit Vermieter:innen)"
+   ],
+   [
+    "dstore-unterkunftskosten",
+    "Mietkosten"
+   ]
+  ]
+ },
+ "vvt-50-008": {
+  "ds": [
+   [
+    "dstore-personenstammdaten-vertraulich",
+    "Name"
+   ],
+   [
+    "dstore-kontaktdaten-vertraulich",
+    "Kontaktdaten"
+   ],
+   [
+    "dstore-ehrenamtsdaten",
+    "Mitglieder des Behindertenbeirats"
+   ],
+   [
+    "dstore-aufwandsentschaedigung-ehrenamt",
+    "Abrechnungsdaten"
+   ]
+  ]
+ },
+ "vvt-50-009": {
+  "ds": [
+   [
+    "dstore-personenstammdaten-vertraulich",
+    "Name"
+   ],
+   [
+    "dstore-kontaktdaten-vertraulich",
+    "Kontaktdaten"
+   ],
+   [
+    "dstore-leistungsbezug-sozialleistung",
+    "§ 16d SGB II (Arbeitsgelegenheiten)"
+   ]
+  ]
+ },
+ "vvt-51-001": {
+  "ds": [
+   [
+    "dstore-personenstammdaten-vertraulich",
+    "Name, Adresse, Geburtsdatum"
+   ],
+   [
+    "dstore-elternbezug-abstammung",
+    "Familienverhältnisse"
+   ],
+   [
+    "dstore-sozialdaten",
+    "Sozialdaten"
+   ],
+   [
+    "dstore-jugendhilfeakte",
+    "Hilfeplan-Inhalte (erzieherischer Bedarf, Zielvereinbarungen, Verlaufsberichte)"
+   ]
+  ]
+ },
+ "vvt-51-002": {
+  "ds": [
+   [
+    "dstore-personenstammdaten-vertraulich",
+    "Name, Adresse"
+   ],
+   [
+    "dstore-jugendhilfeakte",
+    "Verlaufsdokumentation der Hilfe"
+   ],
+   [
+    "dstore-gesundheitsdaten",
+    "Gesundheits-/Entwicklungsdaten bei entwicklungsbezogenen Auffälligkeiten"
+   ],
+   [
+    "dstore-haushaltsmitglieder",
+    "Familiensituation (im Haushalt lebende Personen)"
+   ]
+  ]
+ },
+ "vvt-51-003": {
+  "ds": [
+   [
+    "dstore-personenstammdaten-vertraulich",
+    "Name, Adresse, Geburtsdatum"
+   ],
+   [
+    "dstore-jugendhilfeakte",
+    "Betreuungsverlauf"
+   ],
+   [
+    "dstore-gesundheitsdaten",
+    "Gesundheitsdaten des Kindes"
+   ],
+   [
+    "dstore-fuehrungszeugnis",
+    "erweitertem Führungszeugnis nach § 72a SGB VIII"
+   ]
+  ]
+ },
+ "vvt-51-006": {
+  "ds": [
+   [
+    "dstore-personenstammdaten",
+    "Name"
+   ],
+   [
+    "dstore-lebenslauf-qualifikationsnachweis",
+    "Qualifikationen"
+   ],
+   [
+    "dstore-beratungsdokumentation",
+    "Beratungsgespräche"
+   ]
+  ]
+ },
+ "vvt-51-010": {
+  "ds": [
+   [
+    "dstore-personenstammdaten-vertraulich",
+    "Name, Anschrift, Geburtsdatum"
+   ],
+   [
+    "dstore-sozialdaten",
+    "soziale Verhältnisse"
+   ],
+   [
+    "dstore-familienstand-ehebezug",
+    "Familienstand"
+   ],
+   [
+    "dstore-einkommensdaten",
+    "Einkommen"
+   ],
+   [
+    "dstore-sorgerechtsnachweis",
+    "Gerichtsbeschluss"
+   ],
+   [
+    "dstore-jugendhilfeakte",
+    "§ 55 SGB VIII (Amtsvormundschaft"
+   ],
+   [
+    "dstore-gesundheitsdaten",
+    "Gesundheitsdaten des Mündels"
+   ],
+   [
+    "dstore-aufenthaltstitel",
+    "Aufenthaltsstatus bei unbegleiteten minderjährigen Ausländern"
+   ],
+   [
+    "dstore-krankenversicherungsbeitraege",
+    "Krankenversicherung des Mündels"
+   ]
+  ]
+ },
+ "vvt-51-012": {
+  "ds": [
+   [
+    "dstore-personenstammdaten-vertraulich",
+    "Name, Geburtsdatum"
+   ],
+   [
+    "dstore-sozialdaten",
+    "Sozialdaten"
+   ],
+   [
+    "dstore-jugendhilfeakte",
+    "§ 50 SGB VIII"
+   ],
+   [
+    "dstore-jugendgerichtshilfe-tatvorwurf",
+    "Tatvorwurf"
+   ]
+  ]
+ },
+ "vvt-51-014": {
+  "ds": [
+   [
+    "dstore-personenstammdaten-vertraulich",
+    "Name, Anschrift, Geburtsdatum"
+   ],
+   [
+    "dstore-einkommensnachweise-haushalt",
+    "Einkommensnachweise"
+   ],
+   [
+    "dstore-sozialdaten",
+    "Sozialdaten"
+   ],
+   [
+    "dstore-gesundheitsdaten",
+    "medizinische Gutachten"
+   ],
+   [
+    "dstore-jugendhilfeakte",
+    "§§ 91-97c SGB VIII (Kostenbeteiligung"
+   ],
+   [
+    "dstore-einkommensdaten",
+    "Einkommensdaten"
+   ]
+  ]
+ },
+ "vvt-51-015": {
+  "ds": [
+   [
+    "dstore-personenstammdaten",
+    "Name, Adresse"
+   ],
+   [
+    "dstore-kitadaten",
+    "Betreuungsdaten"
+   ],
+   [
+    "dstore-einkommensnachweise-haushalt",
+    "Einkommensnachweise"
+   ],
+   [
+    "dstore-gebuehrenbescheid-zahlungsdaten",
+    "Festsetzung von Beiträgen"
+   ]
+  ]
+ },
+ "vvt-51-016": {
+  "ds": [
+   [
+    "dstore-personenstammdaten",
+    "Name"
+   ],
+   [
+    "dstore-kontaktdaten",
+    "Kontaktdaten"
+   ],
+   [
+    "dstore-leistungsvereinbarung-freier-traeger",
+    "Leistungsumfang"
+   ]
+  ]
+ },
+ "vvt-51-017": {
+  "ds": [
+   [
+    "dstore-personenstammdaten-vertraulich",
+    "Name"
+   ],
+   [
+    "dstore-familienstand-ehebezug",
+    "Familienstand"
+   ],
+   [
+    "dstore-gesundheitsdaten",
+    "medizinische Angaben"
+   ],
+   [
+    "dstore-elternbezug-abstammung",
+    "Herkunftseltern"
+   ],
+   [
+    "dstore-fuehrungszeugnis",
+    "Führungszeugnis"
+   ],
+   [
+    "dstore-einkommensnachweise-haushalt",
+    "wirtschaftliche Verhältnisse"
+   ]
+  ]
+ },
+ "vvt-53-002": {
+  "ds": [
+   [
+    "dstore-personenstammdaten-vertraulich",
+    "Name, Geburtsdatum"
+   ],
+   [
+    "dstore-gesundheitszeugnis",
+    "Gesundheitszeugnis"
+   ],
+   [
+    "dstore-gesundheitsdaten",
+    "Beratungsinhalt"
+   ],
+   [
+    "dstore-anmeldebescheinigung-prostschg",
+    "Alias"
+   ]
+  ]
+ },
+ "vvt-53-003": {
+  "ds": [
+   [
+    "dstore-personenstammdaten",
+    "Name, Tätigkeit, Qualifikation, Adresse"
+   ],
+   [
+    "dstore-lebenslauf-qualifikationsnachweis",
+    "Qualifikation"
+   ],
+   [
+    "dstore-heilpraktikererlaubnisverfahren",
+    "Erlaubnisstatus"
+   ],
+   [
+    "dstore-hebammenanzeige",
+    "Nds. HebG (Niedersächsisches Hebammengesetz)"
+   ]
+  ]
+ },
+ "vvt-53-004": {
+  "ds": [
+   [
+    "dstore-personenstammdaten-vertraulich",
+    "Name"
+   ],
+   [
+    "dstore-vollmacht-vertretung-berechtigung",
+    "Verwandtschaftverhältnis, Nachweisinteresse"
+   ],
+   [
+    "dstore-todesbescheinigung",
+    "§ 6 Abs. 3 Nds. BestattG (Todesbescheinigung)"
+   ]
+  ]
+ },
+ "vvt-53-005": {
+  "ds": [
+   [
+    "dstore-personenstammdaten-vertraulich",
+    "Name"
+   ],
+   [
+    "dstore-kontaktdaten-vertraulich",
+    "Telefonnummer"
+   ],
+   [
+    "dstore-gesundheitsdaten",
+    "Gesundheitsprävention"
+   ],
+   [
+    "dstore-beratungsdokumentation",
+    "Anliegen"
+   ],
+   [
+    "dstore-einwilligung-widerruf",
+    "Art. 9 Abs. 2 lit. a) DSGVO (ausdrückliche Einwilligung"
+   ]
+  ]
+ },
+ "vvt-53-008": {
+  "ds": [
+   [
+    "dstore-personenstammdaten-vertraulich",
+    "Name"
+   ],
+   [
+    "dstore-kontaktdaten-vertraulich",
+    "Kontakt"
+   ],
+   [
+    "dstore-gesundheitsdaten",
+    "Gesundheitsdaten"
+   ],
+   [
+    "dstore-infektionsschutzdaten",
+    "§ 56 IfSG (Entschädigung für Verdienstausfall"
+   ],
+   [
+    "dstore-bankverbindung-vertraulich",
+    "Bankdaten"
+   ],
+   [
+    "dstore-einkommensdaten",
+    "Einkommen"
+   ],
+   [
+    "dstore-haushaltsmitglieder",
+    "Kinderangaben"
+   ]
+  ]
+ },
+ "vvt-53-010": {
+  "ds": [
+   [
+    "dstore-hiv-beratung-pseudonym",
+    "§ 19 IfSG"
+   ],
+   [
+    "dstore-gesundheitsdaten",
+    "Art. 9 Abs. 2 lit. h) und lit. i) DSGVO"
+   ]
+  ]
+ },
+ "vvt-60-006": {
+  "ds": [
+   [
+    "dstore-personenstammdaten",
+    "Name"
+   ],
+   [
+    "dstore-kontaktdaten",
+    "Kontaktdaten"
+   ]
+  ]
+ },
+ "vvt-60-007": {
+  "ds": [
+   [
+    "dstore-personenstammdaten",
+    "Name"
+   ],
+   [
+    "dstore-kontaktdaten",
+    "Kontaktdaten"
+   ],
+   [
+    "dstore-kehrbezirk-bestellung",
+    "Zuständigkeiten"
+   ],
+   [
+    "dstore-kehrbuch-feuerstaettenschau",
+    "Grundstück und Eigentümerdaten, Feuerstätten, Termine und Ergebnisse der Feuerstättenschau"
+   ]
+  ]
+ },
+ "vvt-60-008": {
+  "ds": [
+   [
+    "dstore-personenstammdaten",
+    "Name, Kontakt, Adresse"
+   ],
+   [
+    "dstore-kontaktdaten",
+    "Kontakt"
+   ],
+   [
+    "dstore-gebuehrenbescheid-zahlungsdaten",
+    "Gebührenabrechnung"
+   ]
+  ]
+ },
+ "vvt-63-002": {
+  "ds": [
+   [
+    "dstore-personenstammdaten",
+    "Name, Adresse"
+   ],
+   [
+    "dstore-flur-flurstueck-lagebezeichnung",
+    "Flurstücksdaten"
+   ],
+   [
+    "dstore-grundstuecksdaten",
+    "BauGB §§ 45-79 (amtliche Umlegung)"
+   ]
+  ]
+ },
+ "vvt-63-005": {
+  "ds": [
+   [
+    "dstore-personenstammdaten",
+    "Name, Adresse"
+   ],
+   [
+    "dstore-bauvorhabensdaten",
+    "Bauobjektdaten"
+   ]
+  ]
+ },
+ "vvt-64-001": {
+  "ds": [
+   [
+    "dstore-personenstammdaten",
+    "Name, Anschrift"
+   ],
+   [
+    "dstore-foerderantrag",
+    "Fördermittel"
+   ],
+   [
+    "dstore-darlehensverpflichtung-eigenheim",
+    "Grundbuchamt (Grundschuldeintragung bei Förderdarlehen)"
+   ],
+   [
+    "dstore-einkommensnachweise-haushalt",
+    "Einkommensnachweise nach §§ 9, 20 WoFG"
+   ],
+   [
+    "dstore-wohnflaeche-nutzflaeche",
+    "Anzahl und Fläche der geförderten Wohneinheiten"
+   ]
+  ]
+ },
+ "vvt-64-002": {
+  "ds": [
+   [
+    "dstore-personenstammdaten",
+    "Name, Adresse"
+   ],
+   [
+    "dstore-kaufvertragsdaten-immobilie",
+    "Kaufverträge"
+   ],
+   [
+    "dstore-grundstuecksdaten",
+    "§ 138 BauGB (Auskunftspflichten der Eigentümer"
+   ],
+   [
+    "dstore-mietvertrag-miethoehe",
+    "Miet- und Nutzungsverhältnisse"
+   ]
+  ]
+ },
+ "vvt-66-001": {
+  "ds": [
+   [
+    "dstore-personenstammdaten",
+    "Name, Vorname, Adresse"
+   ],
+   [
+    "dstore-sterbeurkunde",
+    "Sterbedaten"
+   ],
+   [
+    "dstore-kommunaler-miet-nutzungsvertrag",
+    "lit. b) DSGVO (Nutzungsvertrag mit Nutzungsberechtigten)"
+   ],
+   [
+    "dstore-grabstaette-belegung",
+    "Verwaltung von Friedhofs- und Krematoriumsdaten"
+   ]
+  ]
+ },
+ "vvt-66-004": {
+  "ds": [
+   [
+    "dstore-personenstammdaten",
+    "Name, Adresse"
+   ],
+   [
+    "dstore-foerderantrag",
+    "Förderberechtigte, Antragstellende"
+   ]
+  ]
+ },
+ "vvt-80-003": {
+  "ds": [
+   [
+    "dstore-personenstammdaten",
+    "Personenstammdaten (Titel, Name, Vorname, Kontaktdaten)"
+   ],
+   [
+    "dstore-kontaktdaten",
+    "Kontaktdaten"
+   ],
+   [
+    "dstore-unternehmens-und-registerdaten",
+    "Vertretungsberechtigte und Ansprechpartner:innen bei Telekommunikationsnetzbetreibern"
+   ],
+   [
+    "dstore-kommunaler-miet-nutzungsvertrag",
+    "Vertragsdaten (Vertragspartner, Laufzeit, Nutzungsentgelt)"
+   ],
+   [
+    "dstore-flur-flurstueck-lagebezeichnung",
+    "Flurstücksdaten"
+   ]
+  ]
+ },
+ "vvt-86-001": {
+  "ds": [
+   [
+    "dstore-personenstammdaten",
+    "Personenstammdaten (Name, Vorname, Anschrift, Kontaktdaten)"
+   ],
+   [
+    "dstore-bankverbindung",
+    "Bank- und Kontodaten (bei Gebührenerhebung/Ersatzvornahme)"
+   ],
+   [
+    "dstore-flur-flurstueck-lagebezeichnung",
+    "Grundstücks- und Objektdaten (Flurnummer, Gemarkung, Standortdaten/Adressbezug)"
+   ],
+   [
+    "dstore-gebuehrenbescheid-zahlungsdaten",
+    "bei Gebührenerhebung/Ersatzvornahme"
+   ],
+   [
+    "dstore-bild-und-tonaufnahmen",
+    "Schadensdokumentation (Fotos, Skizzen, Kostenaufstellungen)"
+   ],
+   [
+    "dstore-zeugenangaben-schadensfall",
+    "Zeug:innen bei Schadensfeststellung"
+   ]
+  ]
+ },
+ "vvt-86-002": {
+  "ds": [
+   [
+    "dstore-personenstammdaten",
+    "Personenstammdaten (Name, Vorname, Anschrift, Kontaktdaten)"
+   ],
+   [
+    "dstore-flur-flurstueck-lagebezeichnung",
+    "Flurstücksdaten (Gemarkung, Flur, Flurstück)"
+   ],
+   [
+    "dstore-sitzungsprotokoll",
+    "Sitzungsprotokolle und Beschlüsse"
+   ],
+   [
+    "dstore-mitgliedschaft-realverband",
+    "Mitgliedschafts- und Beitragsdaten"
+   ]
+  ]
+ },
+ "vvt-1-1-001": {
+  "ds": [
+   [
+    "dstore-personenstammdaten",
+    "Personenstammdaten (Name, Vorname, dienstliche Kontaktdaten, Funktion, Fachbereich)"
+   ],
+   [
+    "dstore-kontaktdaten",
+    "dienstliche Kontaktdaten"
+   ],
+   [
+    "dstore-sitzungsprotokoll",
+    "Kommunikationsprotokolle, Sitzungsprotokolle, Statusberichte"
+   ]
+  ]
+ },
+ "vvt-1-2-001": {
+  "ds": [
+   [
+    "dstore-personenstammdaten-vertraulich",
+    "Personenstammdaten (Name, Vorname, Anschrift, Kontaktdaten)"
+   ],
+   [
+    "dstore-kontaktdaten-vertraulich",
+    "Kontaktdaten"
+   ],
+   [
+    "dstore-staatsangehoerigkeit",
+    "Nationalität"
+   ],
+   [
+    "dstore-lebenslauf-qualifikationsnachweis-vertraulich",
+    "Angaben zum schulischen/beruflichen Werdegang"
+   ],
+   [
+    "dstore-gesundheitsdaten",
+    "Gesundheitsdaten und Informationen zum familiären Umfeld (Art. 9 DSGVO)"
+   ],
+   [
+    "dstore-beschwerde-anregungsdaten",
+    "Beratungsinhalte und Anliegen"
+   ],
+   [
+    "dstore-arbeitsverhaeltnis-beschaeftigung",
+    "Beschäftigte und Bewerber:innen der Kommunalverwaltung"
+   ]
+  ]
+ },
+ "vvt-10-001": {
+  "ds": [
+   [
+    "dstore-personenstammdaten",
+    "Personenstammdaten (Titel, Name, Vorname, Anschrift, ggf. Geburtsdatum und Beruf, Kontaktdaten)"
+   ],
+   [
+    "dstore-kontaktdaten",
+    "Kontaktdaten"
+   ],
+   [
+    "dstore-meldeadresse-wohnsitz",
+    "Nachweise zur Wählbarkeit/Wahlberechtigung"
+   ],
+   [
+    "dstore-bankverbindung",
+    "ggf. Bank-/Kontodaten (Auszahlung von Erfrischungsgeld/Aufwandsentschädigung)"
+   ],
+   [
+    "dstore-ehrenamtsdaten",
+    "Wahlhelferdatei"
+   ],
+   [
+    "dstore-wahlunterlagen",
+    "Angaben zur Kandidatur (Wahlvorschlag, Listenplatz)"
+   ]
+  ]
+ },
+ "vvt-10-006": {
+  "ds": [
+   [
+    "dstore-personenstammdaten",
+    "Personenstammdaten (Titel, Name, Vorname, Anschrift, ggf. Geburtsdatum und Beruf, Kontaktdaten)"
+   ],
+   [
+    "dstore-kontaktdaten",
+    "Kontaktdaten"
+   ],
+   [
+    "dstore-meldeadresse-wohnsitz",
+    "Nachweise zur Wählbarkeit/Wahlberechtigung"
+   ],
+   [
+    "dstore-bankverbindung",
+    "ggf. Bank-/Kontodaten (Auszahlung von Erfrischungsgeld/Aufwandsentschädigung)"
+   ],
+   [
+    "dstore-ehrenamtsdaten",
+    "Wahlhelferdatei"
+   ],
+   [
+    "dstore-wahlunterlagen",
+    "Angaben zur Kandidatur (Wahlvorschlag, Listenplatz)"
+   ]
+  ]
+ },
+ "vvt-10-007": {
+  "ds": [
+   [
+    "dstore-personenstammdaten",
+    "Personenstammdaten (Titel, Name, Vorname, Anschrift, ggf. Geburtsdatum und Beruf, Kontaktdaten)"
+   ],
+   [
+    "dstore-kontaktdaten",
+    "Kontaktdaten"
+   ],
+   [
+    "dstore-meldeadresse-wohnsitz",
+    "Nachweise zur Wählbarkeit/Wahlberechtigung"
+   ],
+   [
+    "dstore-bankverbindung",
+    "ggf. Bank-/Kontodaten (Auszahlung von Erfrischungsgeld/Aufwandsentschädigung)"
+   ],
+   [
+    "dstore-ehrenamtsdaten",
+    "Wahlhelferdatei"
+   ],
+   [
+    "dstore-wahlunterlagen",
+    "Angaben zur Kandidatur (Wahlvorschlag, Listenplatz)"
+   ]
+  ]
+ },
+ "vvt-10-008": {
+  "ds": [
+   [
+    "dstore-personenstammdaten",
+    "Personenstammdaten (Titel, Name, Vorname, Anschrift, ggf. Geburtsdatum und Beruf, Kontaktdaten)"
+   ],
+   [
+    "dstore-kontaktdaten",
+    "Kontaktdaten"
+   ],
+   [
+    "dstore-meldeadresse-wohnsitz",
+    "Nachweise zur Wählbarkeit/Wahlberechtigung"
+   ],
+   [
+    "dstore-bankverbindung",
+    "ggf. Bank-/Kontodaten (Auszahlung von Erfrischungsgeld/Aufwandsentschädigung)"
+   ],
+   [
+    "dstore-ehrenamtsdaten",
+    "Wahlhelferdatei"
+   ],
+   [
+    "dstore-wahlunterlagen",
+    "Angaben zur Kandidatur (Wahlvorschlag, Listenplatz)"
+   ]
+  ]
+ },
+ "vvt-10-004": {
+  "ds": [
+   [
+    "dstore-personenstammdaten",
+    "Personenstammdaten (Titel, Name, Vorname, Geburts-/Sterbedatum, Anschrift, Kontaktdaten)"
+   ],
+   [
+    "dstore-ehrenamtsdaten",
+    "Angaben zur Funktion und Institution"
+   ],
+   [
+    "dstore-bild-und-tonaufnahmen",
+    "ggf. Foto-, Video- und Tonaufnahmen (mit Einwilligung)"
+   ],
+   [
+    "dstore-einwilligung-widerruf",
+    "mit Einwilligung"
+   ]
+  ]
+ },
+ "vvt-10-005": {
+  "ds": [
+   [
+    "dstore-personenstammdaten",
+    "Personenstammdaten (Name, Vorname, Funktion, Anschrift, Kontaktdaten)"
+   ],
+   [
+    "dstore-kontaktdaten",
+    "Kontaktdaten"
+   ],
+   [
+    "dstore-unternehmens-und-registerdaten",
+    "Angaben zum Verein/Träger (Rechtsform, Gemeinnützigkeit, Vereinsregister-Nr., Steuernummer)"
+   ],
+   [
+    "dstore-bankverbindung",
+    "Bank-/Kontodaten (Auszahlung)"
+   ],
+   [
+    "dstore-foerderantrag",
+    "Projekt- und Verwendungsangaben (Antrag, Kostenplan, Rechnungen, Verwendungsnachweis)"
+   ]
+  ]
+ },
+ "vvt-10-009": {
+  "ds": [
+   [
+    "dstore-personenstammdaten",
+    "Firmen- und Personenstammdaten (Name, Vorname, Anschrift, Kontaktdaten)"
+   ],
+   [
+    "dstore-unternehmens-und-registerdaten",
+    "Angaben zum Unternehmen (Rechtsform, HR-Nummer, Steuer-Nr.)"
+   ],
+   [
+    "dstore-lebenslauf-qualifikationsnachweis",
+    "Eignungsnachweise (Qualifikationen, Zertifikate, Referenzen)"
+   ],
+   [
+    "dstore-vergabeunterlagen",
+    "Angebotsdaten (Preis, technische Lösung, Verhandlungsergebnisse)"
+   ],
+   [
+    "dstore-vergabe-auftragsbezug",
+    "Durchführung von Ausschreibungen für Bau-, Liefer- und Dienstleistungen"
+   ],
+   [
+    "dstore-bankverbindung",
+    "Bank-/Kontodaten"
+   ],
+   [
+    "dstore-fuehrungszeugnis",
+    "ggf. Führungszeugnis und Auskunft aus dem Gewerbezentralregister"
+   ],
+   [
+    "dstore-register-und-zuverlaessigkeitsauskuenfte",
+    "Auskunft aus dem Gewerbezentralregister"
+   ]
+  ]
+ },
+ "vvt-10-011": {
+  "ds": [
+   [
+    "dstore-personenstammdaten",
+    "Personenstammdaten (Name, Vorname, Geburtsdatum, Anschrift, Kontaktdaten)"
+   ],
+   [
+    "dstore-kontaktdaten",
+    "Kontaktdaten"
+   ],
+   [
+    "dstore-ehrenamtsdaten",
+    "Angaben zur ehrenamtlichen Tätigkeit (Funktion, Zeitraum, Fachgebiet)"
+   ],
+   [
+    "dstore-lebenslauf-qualifikationsnachweis",
+    "Qualifikations-/Ausbildungsnachweise"
+   ],
+   [
+    "dstore-datenschutzeinweisung",
+    "Pflichtenbelehrung nach § 43 NKomVG über die Amtsverschwiegenheit nach § 40 NKomVG"
+   ],
+   [
+    "dstore-fuehrungszeugnis",
+    "erweitertes Führungszeugnis bei Tätigkeiten mit Kindern und Jugendlichen (§ 72a SGB VIII)"
+   ],
+   [
+    "dstore-bankverbindung",
+    "Bank-/Kontodaten (Auszahlung Aufwandsentschädigung)"
+   ]
+  ]
+ },
+ "vvt-10-014": {
+  "ds": [
+   [
+    "dstore-personenstammdaten",
+    "Personenstammdaten (Titel, Name, Vorname, Geburtsdatum, Anschrift)"
+   ],
+   [
+    "dstore-kontaktdaten",
+    "private, geschäftliche oder ehrenamtliche Kontaktdaten (Telefon, E-Mail)"
+   ],
+   [
+    "dstore-sitzungsprotokoll",
+    "Protokollierung"
+   ],
+   [
+    "dstore-mandatstraeger-parteizugehoerigkeit",
+    "Daten der politischen Meinung und Parteizugehörigkeit"
+   ]
+  ]
+ },
+ "vvt-10-016": {
+  "ds": [
+   [
+    "dstore-kontaktdaten",
+    "E-Mail-Adresse"
+   ],
+   [
+    "dstore-personenstammdaten",
+    "ggf. Anrede, Name, Themen-Präferenzen"
+   ],
+   [
+    "dstore-einwilligung-widerruf",
+    "Bestätigungs-Zeitstempel für Double-Opt-In-Nachweis (§ 7 Abs. 3 UWG)"
+   ]
+  ]
+ },
+ "vvt-10-017": {
+  "ds": [
+   [
+    "dstore-personenstammdaten",
+    "Personenstammdaten (Name, Vorname, Anschrift, Kontaktdaten)"
+   ],
+   [
+    "dstore-kontaktdaten",
+    "Kontaktdaten"
+   ],
+   [
+    "dstore-bankverbindung",
+    "Bank-/Kontodaten (bei Rücküberweisungen)"
+   ],
+   [
+    "dstore-steuerdaten",
+    "Steueranschrift für Zuwendungsbestätigung nach § 50 EStDV"
+   ],
+   [
+    "dstore-bescheinigung",
+    "Zuwendungsbestätigung nach § 50 EStDV"
+   ],
+   [
+    "dstore-spende-zuwendung",
+    "Spendenbetrag, Datum, Zahlungsart; Zweckbindung"
+   ]
+  ]
+ },
+ "vvt-10-018": {
+  "ds": [
+   [
+    "dstore-personenstammdaten",
+    "Personenstammdaten (Titel, Name, Vorname, Anschrift, Kontaktdaten)"
+   ],
+   [
+    "dstore-kontaktdaten",
+    "Kontaktdaten"
+   ],
+   [
+    "dstore-beschwerde-anregungsdaten",
+    "Inhalt der Anfrage"
+   ]
+  ]
+ },
+ "vvt-11-001": {
+  "ds": [
+   [
+    "dstore-personenstammdaten-vertraulich",
+    "Personenstammdaten (Name, Vorname, Geburtsdatum/-ort, Anschrift, Kontaktdaten, Staatsangehörigkeit)"
+   ],
+   [
+    "dstore-staatsangehoerigkeit",
+    "Staatsangehörigkeit"
+   ],
+   [
+    "dstore-bewerbungsunterlagen",
+    "Bewerbungsunterlagen (Anschreiben, Lebenslauf, Zeugnisse, Zertifikate, Arbeits- und Ausbildungszeugnisse"
+   ],
+   [
+    "dstore-lebenslauf-qualifikationsnachweis-vertraulich",
+    "Nachweise besonderer Qualifikationen"
+   ],
+   [
+    "dstore-schwerbehindertennachweis",
+    "Schwerbehindertenausweis für § 165 SGB IX-Bevorzugung"
+   ],
+   [
+    "dstore-gesundheitsdaten",
+    "Gesundheitsdaten bei einstellungsärztlicher Untersuchung"
+   ],
+   [
+    "dstore-fuehrungszeugnis",
+    "Führungszeugnis bei Erforderlichkeit"
+   ]
+  ]
+ },
+ "vvt-11-002": {
+  "ds": [
+   [
+    "dstore-personenstammdaten-vertraulich",
+    "Personalstammdaten (Name, Anschrift, Familienstand, Kinder, Bankverbindung, Steuer-ID, Sozialversicherungsnummer)"
+   ],
+   [
+    "dstore-personalakte",
+    "Personalaktenführung (Ernennungs-/Arbeitsvertragsdaten, Eingruppierung/Besoldung, Zulagen, Nebentätigkeiten)"
+   ],
+   [
+    "dstore-arbeitsverhaeltnis-beschaeftigung",
+    "Ernennungs-/Arbeitsvertragsdaten"
+   ],
+   [
+    "dstore-familienstand-ehebezug",
+    "Familienstand"
+   ],
+   [
+    "dstore-bankverbindung-vertraulich",
+    "Bankverbindung"
+   ],
+   [
+    "dstore-kindergeldbezug",
+    "Kinder"
+   ],
+   [
+    "dstore-einkommens-und-leistungsdaten",
+    "Eingruppierung/Besoldung, Zulagen"
+   ],
+   [
+    "dstore-lebenslauf-qualifikationsnachweis-vertraulich",
+    "Personalentwicklungsangaben (Fortbildung, Personalgespräche)"
+   ],
+   [
+    "dstore-gesundheitsdaten",
+    "Gesundheitsdaten (Krankheits-, Kur-, BEM-Vorgänge"
+   ],
+   [
+    "dstore-schwerbehindertennachweis",
+    "Angaben zum Nachweis besonderer Voraussetzungen (Schwerbehinderung, Elternzeit, Pflegezeit)"
+   ],
+   [
+    "dstore-disziplinarvorgang",
+    "ggf. Disziplinarakte separat"
+   ],
+   [
+    "dstore-datenschutzeinweisung",
+    "Datenschutzeinweisung und Verpflichtung auf weisungsgebundene Verarbeitung nach Art. 29 DSGVO"
+   ],
+   [
+    "dstore-it-berechtigungsantrag",
+    "IT-Berechtigungen (beantragte Rollen, Einrichtung, Entzug beim Ausscheiden)"
+   ]
+  ]
+ },
+ "vvt-11-006": {
+  "ds": [
+   [
+    "dstore-personenstammdaten",
+    "Personenstammdaten (Name, Vorname, Geburtsdatum, Anschrift, Kontaktdaten)"
+   ],
+   [
+    "dstore-kontaktdaten",
+    "Kontaktdaten"
+   ],
+   [
+    "dstore-lebenslauf-qualifikationsnachweis",
+    "Angaben zur (schulischen) Ausbildung"
+   ],
+   [
+    "dstore-schulbesuch-ausbildungsstatus",
+    "Berufsschulzeugnisse"
+   ],
+   [
+    "dstore-arbeitsverhaeltnis-beschaeftigung",
+    "Ausbildungsvertragsdaten (Beginn, Ende, Vergütung)"
+   ],
+   [
+    "dstore-abrechnungsdaten",
+    "Vergütung"
+   ],
+   [
+    "dstore-bankverbindung",
+    "Bank-/Kontodaten (Ausbildungsvergütung)"
+   ],
+   [
+    "dstore-gesundheitsdaten",
+    "gesundheitliche Angaben zur Berufseignung"
+   ]
+  ]
+ },
+ "vvt-12-002": {
+  "ds": [
+   [
+    "dstore-meldedaten",
+    "Aus dem Melderegister abgeleitete Merkmale nach § 3 NStatG"
+   ],
+   [
+    "dstore-personenstammdaten",
+    "Alter, Geschlecht, Familienstand, Staatsangehörigkeit, Adresse"
+   ],
+   [
+    "dstore-staatsangehoerigkeit",
+    "Staatsangehörigkeit"
+   ]
+  ]
+ },
+ "vvt-20-001": {
+  "ds": [
+   [
+    "dstore-kassenzeichen-buchungsreferenz",
+    "Zahlungsreferenz/Kassenzeichen"
+   ],
+   [
+    "dstore-gebuehrenbescheid-zahlungsdaten",
+    "Zahlungsstatus/Buchungsbestätigung"
+   ]
+  ]
+ },
+ "vvt-20-004": {
+  "ds": [
+   [
+    "dstore-personenstammdaten",
+    "Name/Firma, Anschrift"
+   ],
+   [
+    "dstore-debitoren-kreditorendaten",
+    "Name/Firma, Anschrift, Bankverbindung (IBAN/BIC)"
+   ],
+   [
+    "dstore-bankverbindung",
+    "Bankverbindung (IBAN/BIC)"
+   ],
+   [
+    "dstore-rechnungsdaten",
+    "Rechnungsnummer und -inhalt"
+   ],
+   [
+    "dstore-steuerdaten",
+    "Steuernummer/USt-IdNr."
+   ],
+   [
+    "dstore-vergabe-auftragsbezug",
+    "Auftrags-/Vertragsbezug"
+   ],
+   [
+    "dstore-zahlungsziel-faelligkeit",
+    "Zahlungsstatus"
+   ],
+   [
+    "dstore-elektronische-rechnungsstellung",
+    "Eingang als elektronische Rechnung nach der ERechV im Format XRechnung"
+   ],
+   [
+    "dstore-leitwegid-peppolid",
+    "Leitweg-ID und Peppol-ID"
+   ],
+   [
+    "dstore-rechnungsadressierung-kommune",
+    "Rechnungsadressierung je Organisationseinheit"
+   ],
+   [
+    "dstore-rechnungskorrektur-storno",
+    "Korrektur- und Stornobelege"
+   ]
+  ]
+ },
+ "vvt-20-006": {
+  "ds": [
+   [
+    "dstore-personenstammdaten",
+    "Name"
+   ],
+   [
+    "dstore-bankverbindung",
+    "Bankverbindung (IBAN/BIC)"
+   ],
+   [
+    "dstore-kassenzeichen-buchungsreferenz",
+    "Kontierung (Haushaltsstelle/Produkt)"
+   ]
+  ]
+ },
+ "vvt-21-001": {
+  "ds": [
+   [
+    "dstore-personenstammdaten-vertraulich",
+    "Name, Anschrift"
+   ],
+   [
+    "dstore-kontaktdaten-vertraulich",
+    "Kontaktdaten"
+   ],
+   [
+    "dstore-forderungstitel-vollstreckung",
+    "Forderungshöhe und -grund"
+   ],
+   [
+    "dstore-mahn-vollstreckungsstatus",
+    "Vollstreckungsmaßnahmen und deren Verlauf"
+   ],
+   [
+    "dstore-pfaendung-drittschuldnerdaten",
+    "Vermögens-/Einkommensauskünfte (bei Pfändung)"
+   ],
+   [
+    "dstore-einkommensdaten",
+    "Vermögens-/Einkommensauskünfte"
+   ],
+   [
+    "dstore-bankverbindung-vertraulich",
+    "Kontodaten"
+   ]
+  ]
+ },
+ "vvt-23-003": {
+  "ds": [
+   [
+    "dstore-personenstammdaten",
+    "Name, Anschrift"
+   ],
+   [
+    "dstore-grundstuecksbezug",
+    "Vergabe allgemeiner Baugrundstücke (gewerblich/gemischt genutzt)"
+   ],
+   [
+    "dstore-kaufvertragsdaten-immobilie",
+    "Vertragsdaten"
+   ]
+  ]
+ },
+ "vvt-23-006": {
+  "ds": [
+   [
+    "dstore-personenstammdaten",
+    "Name, Vorname"
+   ],
+   [
+    "dstore-grundstuecksbezug",
+    "Grundstück"
+   ],
+   [
+    "dstore-kaufvertragsdaten-immobilie",
+    "Umstände des Vorkaufsrechts"
+   ]
+  ]
+ },
+ "vvt-23-007": {
+  "ds": [
+   [
+    "dstore-personenstammdaten",
+    "Name, Adresse"
+   ],
+   [
+    "dstore-grundstuecksbezug",
+    "Vergabe städtischer Wohnbaugrundstücke im Rahmen der kommunalen Wohnbaulandentwicklung"
+   ],
+   [
+    "dstore-vergabekriterien-einheimischenmodell",
+    "Vergabekriterien wie Einheimischenmodell"
+   ]
+  ]
+ },
+ "vvt-23-008": {
+  "ds": [
+   [
+    "dstore-personenstammdaten",
+    "Name, Adresse"
+   ],
+   [
+    "dstore-grundstuecksdaten",
+    "Grundstücks-/Flurstücksdaten"
+   ],
+   [
+    "dstore-flur-flurstueck-lagebezeichnung",
+    "Flurstücksdaten"
+   ],
+   [
+    "dstore-kaufvertragsdaten-immobilie",
+    "Vertragsdaten, Grundstücks-/Flurstücksdaten, Kaufpreis"
+   ]
+  ]
+ },
+ "vvt-23-009": {
+  "ds": [
+   [
+    "dstore-personenstammdaten",
+    "Name, Adresse, Geburtsdatum"
+   ],
+   [
+    "dstore-grundstuecksdaten",
+    "Grundstücksdaten"
+   ],
+   [
+    "dstore-kaufvertragsdaten-immobilie",
+    "An- und Verkauf von Verkehrsflächen"
+   ]
+  ]
+ },
+ "vvt-30-003": {
+  "ds": [
+   [
+    "dstore-personenstammdaten",
+    "Name, dienstliche Kontaktdaten"
+   ],
+   [
+    "dstore-kontaktdaten",
+    "dienstliche Kontaktdaten"
+   ],
+   [
+    "dstore-beratungsdokumentation",
+    "Sachverhaltsschilderung/Anfrageinhalt"
+   ],
+   [
+    "dstore-vergabeunterlagen",
+    "ggf. vergaberelevante Unterlagen (Angebote, Referenzen)"
+   ]
+  ]
+ },
+ "vvt-31-001": {
+  "ds": [
+   [
+    "dstore-personenstammdaten-vertraulich",
+    "Name (alt/neu)"
+   ],
+   [
+    "dstore-namensaenderungsnachweis",
+    "Name (alt/neu)"
+   ],
+   [
+    "dstore-geburtsurkunde",
+    "Geburtsurkunde und sonstige Personenstandsnachweise"
+   ],
+   [
+    "dstore-registerbezug-personenstand",
+    "Mitteilung an die berührten Stellen"
+   ],
+   [
+    "dstore-namensaenderungsgrund",
+    "Begründung/wichtiger Grund, Anhörungsergebnisse"
+   ],
+   [
+    "dstore-fuehrungszeugnis",
+    "ggf. polizeiliches Führungszeugnis"
+   ]
+  ]
+ },
+ "vvt-31-002": {
+  "ds": [
+   [
+    "dstore-personenstammdaten",
+    "Name, Geburtsdatum"
+   ],
+   [
+    "dstore-familienstand-ehebezug",
+    "Familienstand"
+   ],
+   [
+    "dstore-personenstand",
+    "Ausstellung von Personenstandsurkunden"
+   ],
+   [
+    "dstore-registerbezug-personenstand",
+    "Angaben zur Personenstandsurkunde (Register, laufende Nummer)"
+   ],
+   [
+    "dstore-antragsberechtigung-personenstand",
+    "Empfangsberechtigung/rechtliches Interesse bei Auskunftsersuchen Dritter"
+   ],
+   [
+    "dstore-geburtsurkunde",
+    "Geburts-, Ehe-, Sterbeurkunden"
+   ],
+   [
+    "dstore-heiratsurkunde",
+    "Geburts-, Ehe-, Sterbeurkunden"
+   ],
+   [
+    "dstore-sterbeurkunde",
+    "Geburts-, Ehe-, Sterbeurkunden"
+   ],
+   [
+    "dstore-eheurkunde-nachweis",
+    "Geburts-, Ehe-, Sterbeurkunden"
+   ],
+   [
+    "dstore-lebenspartnerschaftsurkunde-nachweis",
+    "Ausstellung von Personenstandsurkunden"
+   ],
+   [
+    "dstore-religionszugehoerigkeit",
+    "Religionszugehörigkeit (bei Kirchenaustritt)"
+   ]
+  ]
+ },
+ "vvt-31-003": {
+  "ds": [
+   [
+    "dstore-personenstammdaten",
+    "Name, Geburtsdaten"
+   ],
+   [
+    "dstore-familienstand-ehebezug",
+    "Familienstand"
+   ],
+   [
+    "dstore-staatsangehoerigkeit",
+    "Staatsangehörigkeit"
+   ],
+   [
+    "dstore-elternbezug-abstammung",
+    "Angaben zu Eltern/Ehegatt:innen"
+   ],
+   [
+    "dstore-geburtsdaten-kind",
+    "Geburtsdaten"
+   ],
+   [
+    "dstore-geburtsurkunde-eltern",
+    "Angaben zu Eltern/Ehegatt:innen"
+   ],
+   [
+    "dstore-geburtsanzeige-unterlagenpaket",
+    "Beurkundung und Fortführung des Personenstands (Eheschließungen, Geburten, Sterbefälle)"
+   ],
+   [
+    "dstore-heiratsurkunde",
+    "Eheschließung"
+   ],
+   [
+    "dstore-eheurkunde-nachweis",
+    "Eheschließung/Lebenspartnerschaft"
+   ],
+   [
+    "dstore-auslaendische-personenstandsurkunde",
+    "Staatsangehörigkeit"
+   ],
+   [
+    "dstore-identitaetsnachweis",
+    "Personen, deren Geburt, Eheschließung/Lebenspartnerschaft oder Tod beurkundet wird"
+   ],
+   [
+    "dstore-registerbezug-personenstand",
+    "Hinweis-/Randvermerke (z. B. spätere Eheschließung, Namensänderung, Adoption)"
+   ],
+   [
+    "dstore-verstorbenenhinweis-melderegister",
+    "Sterbedatum und -ort"
+   ],
+   [
+    "dstore-zweckgebundene-urkunde",
+    "Hinweis-/Randvermerke"
+   ]
+  ]
+ },
+ "vvt-34-007": {
+  "ds": [
+   [
+    "dstore-personenstammdaten-vertraulich",
+    "Name, Geburtsdatum, Anschrift"
+   ],
+   [
+    "dstore-kontaktdaten-vertraulich",
+    "Anschrift"
+   ],
+   [
+    "dstore-identitaetsnachweis",
+    "Fahrerlaubnisbewerber:innen und -inhaber:innen"
+   ],
+   [
+    "dstore-ausweisdokument",
+    "Lichtbild, biometrisches Passfoto für Kartenführerschein"
+   ],
+   [
+    "dstore-fuehrerscheindaten",
+    "Führerscheinklassen, Prüfungsergebnisse"
+   ],
+   [
+    "dstore-biometrische-daten-lichtbild",
+    "Lichtbild, biometrisches Passfoto für Kartenführerschein"
+   ],
+   [
+    "dstore-gesundheitsdaten",
+    "medizinisch-psychologische Gutachten (MPU) bei Eignungszweifeln"
+   ],
+   [
+    "dstore-lebenslauf-qualifikationsnachweis-vertraulich",
+    "Prüfungsergebnisse"
+   ],
+   [
+    "dstore-unternehmens-und-registerdaten",
+    "Ausstellung von Führerscheinen und digitalen Fahrerkarten"
+   ]
+  ]
+ },
+ "vvt-34-008": {
+  "ds": [
+   [
+    "dstore-personenstammdaten",
+    "Name, Anschrift"
+   ],
+   [
+    "dstore-meldeadresse-wohnsitz",
+    "Anschrift"
+   ],
+   [
+    "dstore-identitaetsnachweis",
+    "Fahrzeughalter:innen und deren Bevollmächtigte"
+   ],
+   [
+    "dstore-kfz-daten",
+    "Fahrzeug-Identifizierungsnummer (FIN), amtliches Kennzeichen, Fahrzeugdaten (Typ, Hersteller, Erstzulassung)"
+   ],
+   [
+    "dstore-unternehmens-und-registerdaten",
+    "Fahrzeughalter:innen und deren Bevollmächtigte"
+   ],
+   [
+    "dstore-bankverbindung",
+    "Sicherungsübereignungsdaten (Bank)"
+   ]
+  ]
+ },
+ "vvt-32-003": {
+  "ds": [
+   [
+    "dstore-personenstammdaten",
+    "Name/Firma, Anschrift"
+   ],
+   [
+    "dstore-unternehmens-und-registerdaten",
+    "Transportunternehmen, Spediteure"
+   ],
+   [
+    "dstore-kfz-daten",
+    "Fahrzeug-/Ladungsdaten"
+   ],
+   [
+    "dstore-grossraum-schwertransportdaten",
+    "Streckenführung, Abmessungen und Gewichte des Transports"
+   ],
+   [
+    "dstore-ausnahmegenehmigung-schwerverkehr",
+    "Erteilung von Ausnahmegenehmigungen für Großraum- und Schwertransporte"
+   ]
+  ]
+ },
+ "vvt-32-004": {
+  "ds": [
+   [
+    "dstore-personenstammdaten",
+    "Name, Anschrift"
+   ],
+   [
+    "dstore-lebenslauf-qualifikationsnachweis",
+    "Qualifikationsnachweise (Fahrlehrerausweis)"
+   ],
+   [
+    "dstore-fuehrungszeugnis",
+    "Zuverlässigkeitsprüfung (Führungszeugnis)"
+   ],
+   [
+    "dstore-unternehmens-und-registerdaten",
+    "Fahrschulstandort und -zweigstellen"
+   ]
+  ]
+ },
+ "vvt-32-005": {
+  "ds": [
+   [
+    "dstore-personenstammdaten",
+    "Name, Geburtsdatum, Staatsangehörigkeit"
+   ],
+   [
+    "dstore-staatsangehoerigkeit",
+    "Staatsangehörigkeit"
+   ],
+   [
+    "dstore-aufenthaltserlaubnis-erwerbstaetigkeit",
+    "Aufenthalts-/Arbeitserlaubnis"
+   ],
+   [
+    "dstore-arbeitsverhaeltnis-beschaeftigung",
+    "Beschäftigungsnachweis des Arbeitgebers"
+   ],
+   [
+    "dstore-lebenslauf-qualifikationsnachweis",
+    "Qualifikationsnachweise"
+   ],
+   [
+    "dstore-unternehmens-und-registerdaten",
+    "Ausbildungsstättenbetreiber:innen"
+   ]
+  ]
+ },
+ "vvt-32-006": {
+  "ds": [
+   [
+    "dstore-personenstammdaten-vertraulich",
+    "Name, Anschrift, Geburtsdatum"
+   ],
+   [
+    "dstore-schwerbehindertennachweis",
+    "Schwerbehindertenausweis-Merkzeichen"
+   ],
+   [
+    "dstore-biometrische-daten-lichtbild",
+    "Lichtbild"
+   ],
+   [
+    "dstore-parkberechtigungszone",
+    "Ausstellung von Parkausweisen für Menschen mit Schwerbehinderung"
+   ]
+  ]
+ },
+ "vvt-32-008": {
+  "ds": [
+   [
+    "dstore-personenstammdaten-vertraulich",
+    "Halterdaten"
+   ],
+   [
+    "dstore-kfz-daten",
+    "Kennzeichen"
+   ],
+   [
+    "dstore-bild-und-tonaufnahmen",
+    "Messfoto/-video (bei Geschwindigkeits-/Rotlichtverstößen)"
+   ],
+   [
+    "dstore-bussgeldakte",
+    "Überwachung des ruhenden und fließenden Verkehrs"
+   ],
+   [
+    "dstore-parkverstossanzeige",
+    "Parkraumüberwachung"
+   ]
+  ]
+ },
+ "vvt-32-009": {
+  "ds": [
+   [
+    "dstore-personenstammdaten",
+    "Name/Firma, Anschrift"
+   ],
+   [
+    "dstore-unternehmens-und-registerdaten",
+    "Name/Firma, Anschrift"
+   ],
+   [
+    "dstore-register-und-zuverlaessigkeitsauskuenfte",
+    "Zuverlässigkeits- und Fachkundenachweise"
+   ],
+   [
+    "dstore-lebenslauf-qualifikationsnachweis",
+    "Fachkundenachweise"
+   ],
+   [
+    "dstore-kfz-daten",
+    "Fahrzeugflotte"
+   ],
+   [
+    "dstore-finanzielle-leistungsfaehigkeit",
+    "finanzielle Leistungsfähigkeit"
+   ]
+  ]
+ },
+ "vvt-32-010": {
+  "ds": [
+   [
+    "dstore-personenstammdaten",
+    "Name, Anschrift"
+   ],
+   [
+    "dstore-unternehmens-und-registerdaten",
+    "Unternehmer:innen, Fahrer:innen im Taxi-/Mietwagengewerbe"
+   ],
+   [
+    "dstore-fuehrerscheindaten",
+    "Führerschein/Personenbeförderungsschein"
+   ],
+   [
+    "dstore-lebenslauf-qualifikationsnachweis",
+    "Fachkundenachweis (Ortskundeprüfung)"
+   ],
+   [
+    "dstore-register-und-zuverlaessigkeitsauskuenfte",
+    "Auskunft aus dem Fahreignungsregister"
+   ],
+   [
+    "dstore-gesundheitsdaten",
+    "Führerschein/Personenbeförderungsschein"
+   ],
+   [
+    "dstore-kfz-daten",
+    "Fahrzeugdaten"
+   ],
+   [
+    "dstore-fuehrungszeugnis",
+    "Führungszeugnis nach § 30 Abs. 5 BZRG"
+   ]
+  ]
+ },
+ "vvt-32-011": {
+  "ds": [
+   [
+    "dstore-personenstammdaten-vertraulich",
+    "Name, Anschrift"
+   ],
+   [
+    "dstore-gewerbedaten",
+    "Gewerbeart"
+   ],
+   [
+    "dstore-gewerbeanzeige-betriebsstaette",
+    "Betriebsstätte"
+   ],
+   [
+    "dstore-gewerbeummeldung-aenderungsdaten",
+    "Entgegennahme von Gewerbean-/-um-/-abmeldungen"
+   ],
+   [
+    "dstore-gewerbeabmeldung-betriebsaufgabe",
+    "Entgegennahme von Gewerbean-/-um-/-abmeldungen"
+   ],
+   [
+    "dstore-unternehmens-und-registerdaten",
+    "Gewerbetreibende, vertretungsberechtigte Personen"
+   ],
+   [
+    "dstore-fuehrungszeugnis",
+    "Zuverlässigkeitsnachweise (Führungszeugnis"
+   ],
+   [
+    "dstore-register-und-zuverlaessigkeitsauskuenfte",
+    "Auskünfte aus Schuldnerverzeichnis/Gewerbezentralregister"
+   ],
+   [
+    "dstore-gewerbeuntersagung",
+    "Untersagungsgründe"
+   ]
+  ]
+ },
+ "vvt-32-012": {
+  "ds": [
+   [
+    "dstore-personenstammdaten",
+    "Name, Anschrift, Geburtsdatum"
+   ],
+   [
+    "dstore-gewerbedaten",
+    "Gewerbeart/Warensortiment"
+   ],
+   [
+    "dstore-reisegewerbekarte",
+    "Erteilung von Reisegewerbekarten für das ambulante Gewerbe"
+   ],
+   [
+    "dstore-fuehrungszeugnis",
+    "Zuverlässigkeitsnachweise (Führungszeugnis, Gewerbezentralregisterauszug)"
+   ],
+   [
+    "dstore-register-und-zuverlaessigkeitsauskuenfte",
+    "Gewerbezentralregisterauszug"
+   ]
+  ]
+ },
+ "vvt-32-013": {
+  "ds": [
+   [
+    "dstore-personenstammdaten",
+    "Name, Anschrift"
+   ],
+   [
+    "dstore-gewerbedaten",
+    "Gewerbenachweis"
+   ],
+   [
+    "dstore-unternehmens-und-registerdaten",
+    "Marktbeschicker:innen/Standbetreiber:innen"
+   ],
+   [
+    "dstore-veranstalterdaten",
+    "Veranstalter:innen"
+   ],
+   [
+    "dstore-marktveranstaltungsdaten",
+    "Standplatzzuweisung, Warensortiment"
+   ],
+   [
+    "dstore-gebuehrenbescheid-zahlungsdaten",
+    "Gebührenkonto"
+   ]
+  ]
+ },
+ "vvt-32-014": {
+  "ds": [
+   [
+    "dstore-personenstammdaten",
+    "Name, Geburtsdatum, Anschrift"
+   ],
+   [
+    "dstore-identitaetsnachweis",
+    "Ausweiskopie"
+   ],
+   [
+    "dstore-lebenslauf-qualifikationsnachweis",
+    "Sachkunde-/Unterrichtungsnachweise"
+   ],
+   [
+    "dstore-unternehmens-und-registerdaten",
+    "Bewachungsunternehmer:innen, angestelltes Wachpersonal"
+   ],
+   [
+    "dstore-register-und-zuverlaessigkeitsauskuenfte",
+    "Zuverlässigkeitsprüfung (polizeiliche Auskunft"
+   ],
+   [
+    "dstore-zuverlaessigkeitsanfrage-sicherheitsbehoerden",
+    "Verfassungsschutz-Anfrage bei bestimmten Tätigkeiten"
+   ]
+  ]
+ },
+ "vvt-32-015": {
+  "ds": [
+   [
+    "dstore-personenstammdaten",
+    "Name, Anschrift"
+   ],
+   [
+    "dstore-gewerbedaten",
+    "Standort und Anzahl der Spielhallen/-geräte"
+   ],
+   [
+    "dstore-gewerbeanzeige-betriebsstaette",
+    "Standort und Anzahl der Spielhallen/-geräte"
+   ],
+   [
+    "dstore-unternehmens-und-registerdaten",
+    "Spielhallen-/Spielgerätebetreiber:innen, verantwortliche Aufsichtspersonen"
+   ],
+   [
+    "dstore-register-und-zuverlaessigkeitsauskuenfte",
+    "Zuverlässigkeitsnachweise"
+   ]
+  ]
+ },
+ "vvt-32-017": {
+  "ds": [
+   [
+    "dstore-personenstammdaten",
+    "Name, Geburtsdatum, Anschrift"
+   ],
+   [
+    "dstore-lebenslauf-qualifikationsnachweis",
+    "Sachkundenachweis (Jägerprüfung, Waffensachkunde)"
+   ],
+   [
+    "dstore-fuehrungszeugnis",
+    "Zuverlässigkeits-/Bedürfnisprüfung"
+   ],
+   [
+    "dstore-register-und-zuverlaessigkeitsauskuenfte",
+    "Zuverlässigkeits-/Bedürfnisprüfung"
+   ],
+   [
+    "dstore-zuverlaessigkeitsanfrage-sicherheitsbehoerden",
+    "Zuverlässigkeits-/Bedürfnisprüfung"
+   ],
+   [
+    "dstore-waffenrechtliche-erlaubnis",
+    "Waffenbesitzkarten-/Jagdscheindaten, Aufbewahrungsnachweis"
+   ]
+  ]
+ },
+ "vvt-1-001": {
+  "ds": [
+   [
+    "dstore-personenstammdaten",
+    "Personenstammdaten (Titel, Name, Vorname, ggf. Geburts- und Sterbedatum, Anschrift, Kontaktdaten)"
+   ],
+   [
+    "dstore-kontaktdaten",
+    "Kontaktdaten"
+   ],
+   [
+    "dstore-ehrenamtsdaten",
+    "Angaben zur Funktion und Institution"
+   ],
+   [
+    "dstore-bild-und-tonaufnahmen",
+    "ggf. Foto-, Video- und Tonaufnahmen (mit Einwilligung)"
+   ],
+   [
+    "dstore-einwilligung-widerruf",
+    "mit Einwilligung"
+   ],
+   [
+    "dstore-veranstaltungsteilnahme",
+    "Sitzordnung"
+   ]
+  ]
+ },
+ "vvt-15-002": {
+  "ds": [
+   [
+    "dstore-chatverlauf-freitext",
+    "Freitext-Eingaben im Chatverlauf (ggf. mit personenbezogenen Angaben, sofern von Nutzenden selbst mitgeteilt)"
+   ],
+   [
+    "dstore-technische-nutzungsdaten-webangebot",
+    "technische Verbindungsdaten (IP-Adresse, Zeitstempel, Session-/Konversations-ID, Browsertyp)"
+   ],
+   [
+    "dstore-einwilligung-widerruf",
+    "für optionale Bewertungs-/Feedbackfunktion"
+   ]
+  ]
+ },
+ "vvt-23-001": {
+  "ds": [
+   [
+    "dstore-personenstammdaten",
+    "Name, Adresse"
+   ],
+   [
+    "dstore-grundstuecksbezug",
+    "kommunaler Wohn- und Gewerbeobjekte sowie Grundstücke"
+   ],
+   [
+    "dstore-kommunaler-miet-nutzungsvertrag",
+    "Vertragsdaten"
+   ],
+   [
+    "dstore-grundstuecks-pachtverhaeltnis",
+    "Verpachtung"
+   ],
+   [
+    "dstore-bankverbindung",
+    "Kontodaten"
+   ]
+  ]
+ },
+ "vvt-32-018": {
+  "ds": [
+   [
+    "dstore-personenstammdaten",
+    "Name, Vorname, Geburtsdatum"
+   ],
+   [
+    "dstore-kontaktdaten",
+    "Kontaktdaten der versammlungsleitenden Person"
+   ],
+   [
+    "dstore-versammlungsanzeige",
+    "Ort, Route, Zeit und Thema der Versammlung"
+   ]
+  ]
+ },
+ "vvt-32-019": {
+  "ds": [
+   [
+    "dstore-personenstammdaten-vertraulich",
+    "Name, ggf. Alias-Name (Anmeldebescheinigung), Geburtsdatum, Anschrift"
+   ],
+   [
+    "dstore-ausweisdokument",
+    "Ausweisdokument"
+   ],
+   [
+    "dstore-anmeldebescheinigung-prostschg",
+    "ggf. Alias-Name (Anmeldebescheinigung)"
+   ],
+   [
+    "dstore-gesundheitszeugnis",
+    "Nachweis der Gesundheitsberatung (getrennt verarbeitet, siehe OE 53)"
+   ],
+   [
+    "dstore-prostitutionsstaettenbetrieb",
+    "Betriebsstättendaten"
+   ],
+   [
+    "dstore-stellvertretungserlaubnis-prostitutionsstaette",
+    "Erlaubniserteilung für Prostitutionsgewerbebetriebe"
+   ]
+  ]
+ },
+ "vvt-32-020": {
+  "ds": [
+   [
+    "dstore-personenstammdaten-vertraulich",
+    "Name, Anschrift, Geburtsdatum"
+   ],
+   [
+    "dstore-kfz-daten",
+    "amtliches Kennzeichen"
+   ],
+   [
+    "dstore-bussgeldakte",
+    "Tatvorwurf/Tatbestand"
+   ],
+   [
+    "dstore-ordnungswidrigkeitenanzeige",
+    "Bearbeitung und Verfolgung von Ordnungswidrigkeiten"
+   ],
+   [
+    "dstore-parkverstossanzeige",
+    "Verkehrsteilnehmende bei Verkehrsordnungswidrigkeiten"
+   ],
+   [
+    "dstore-bild-und-tonaufnahmen",
+    "Beweismittel (Beweisfotos, Messdaten)"
+   ],
+   [
+    "dstore-gebuehrenbescheid-zahlungsdaten",
+    "Zahlungsinformationen zum Bußgeld"
+   ]
+  ]
+ },
+ "vvt-32-021": {
+  "ds": [
+   [
+    "dstore-personenstammdaten-vertraulich",
+    "Name, Anschrift der Erziehungsberechtigten und des Kindes"
+   ],
+   [
+    "dstore-elternbezug-abstammung",
+    "Erziehungsberechtigten und des Kindes"
+   ],
+   [
+    "dstore-schulbesuch-ausbildungsstatus",
+    "Fehlzeiten/Schulbesuchsdaten"
+   ],
+   [
+    "dstore-ordnungswidrigkeitenanzeige",
+    "Tatvorwurf"
+   ],
+   [
+    "dstore-gesundheitsdaten",
+    "gesundheitliche Angaben bei Krankheitsmeldungen"
+   ]
+  ]
+ },
+ "vvt-32-022": {
+  "ds": [
+   [
+    "dstore-personenstammdaten-vertraulich",
+    "Name/Firma, Anschrift"
+   ],
+   [
+    "dstore-unternehmens-und-registerdaten",
+    "Fahrer:innen und Unternehmen im Gefahrguttransport"
+   ],
+   [
+    "dstore-kfz-daten",
+    "Fahrzeug-/Ladungsdaten"
+   ],
+   [
+    "dstore-ordnungswidrigkeitenanzeige",
+    "Art des Verstoßes"
+   ],
+   [
+    "dstore-bussgeldakte",
+    "OWiG"
+   ],
+   [
+    "dstore-bild-und-tonaufnahmen",
+    "Beweismittel"
+   ]
+  ]
+ },
+ "vvt-33-001": {
+  "ds": [
+   [
+    "dstore-personenstammdaten",
+    "Vor- und Familienname, Anschrift(en), Geburtsdatum und -ort"
+   ],
+   [
+    "dstore-meldedaten",
+    "Erfassung und Verwaltung von Meldedaten zur Erfüllung meldegesetzlicher Pflichten"
+   ],
+   [
+    "dstore-meldeadresse-wohnsitz",
+    "Anschrift(en)"
+   ],
+   [
+    "dstore-adresse",
+    "Anschrift(en)"
+   ],
+   [
+    "dstore-wohnstatus-haupt-nebenwohnung",
+    "Tag des Ein-/Auszugs"
+   ],
+   [
+    "dstore-staatsangehoerigkeit",
+    "Staatsangehörigkeit"
+   ],
+   [
+    "dstore-familienstand-ehebezug",
+    "Familienstand"
+   ],
+   [
+    "dstore-vollmacht-vertretung-berechtigung",
+    "gesetzliche Vertretung"
+   ],
+   [
+    "dstore-auskunftssperre-melderegister",
+    "ggf. Auskunftssperren nach § 51 BMG"
+   ],
+   [
+    "dstore-uebermittlungssperre-melderegister",
+    "§§ 44-52 Datenübermittlungen"
+   ],
+   [
+    "dstore-meldeschein",
+    "Angaben des Meldescheins bei An- und Abmeldung nach § 17 BMG"
+   ],
+   [
+    "dstore-wohnungsgeberbestaetigung",
+    "Wohnungsgeberbestätigung nach § 19 Abs. 3 BMG"
+   ],
+   [
+    "dstore-steuerdaten",
+    "Steuer-Identifikationsnummer nach § 139b AO"
+   ]
+  ]
+ },
+ "vvt-33-002": {
+  "ds": [
+   [
+    "dstore-personenstammdaten",
+    "Name, Geburtsdatum/-ort, Anschrift"
+   ],
+   [
+    "dstore-meldeadresse-wohnsitz",
+    "Anschrift"
+   ],
+   [
+    "dstore-staatsangehoerigkeit",
+    "Staatsangehörigkeit"
+   ],
+   [
+    "dstore-identitaetsnachweis",
+    "Antragstellende auf Personalausweis/Reisepass (deutsche Staatsangehörige)"
+   ],
+   [
+    "dstore-ausweisdokument",
+    "Seriennummer des Dokuments"
+   ],
+   [
+    "dstore-biometrische-daten-lichtbild",
+    "Lichtbild, Unterschrift"
+   ],
+   [
+    "dstore-fingerabdruckdaten",
+    "Fingerabdrücke (bei Reisepass ab 6 Jahren sowie eID-Funktion)"
+   ]
+  ]
+ },
+ "vvt-33-003": {
+  "ds": [
+   [
+    "dstore-personenstammdaten",
+    "Name"
+   ],
+   [
+    "dstore-kontaktdaten",
+    "Kontaktdaten (Telefon/E-Mail)"
+   ],
+   [
+    "dstore-termin-und-vorsprachedaten",
+    "gewünschtes Anliegen/Dienstleistung, Termindatum und -uhrzeit"
+   ]
+  ]
+ },
+ "vvt-33-004": {
+  "ds": [
+   [
+    "dstore-personenstammdaten",
+    "Name"
+   ],
+   [
+    "dstore-kontaktdaten",
+    "Kontaktdaten"
+   ],
+   [
+    "dstore-fundsache",
+    "Fundgegenstand und -beschreibung, Fundort und -datum, Wert (bei Wertgegenständen)"
+   ]
+  ]
+ },
+ "vvt-33-006": {
+  "ds": [
+   [
+    "dstore-personenstammdaten",
+    "Name"
+   ],
+   [
+    "dstore-kontaktdaten",
+    "Kontaktdaten (E-Mail/Telefon)"
+   ],
+   [
+    "dstore-beschwerde-anregungsdaten",
+    "Anfrageinhalt"
+   ],
+   [
+    "dstore-anlage-buergerupload",
+    "ggf. hochgeladene Dokumente/Anlagen"
+   ]
+  ]
+ },
+ "vvt-33-007": {
+  "ds": [
+   [
+    "dstore-personenstammdaten",
+    "Name, Anschrift"
+   ],
+   [
+    "dstore-meldeadresse-wohnsitz",
+    "Nachweis des Wohnsitzes"
+   ],
+   [
+    "dstore-kfz-daten",
+    "Fahrzeugdaten (Kennzeichen, Fahrzeugschein)"
+   ],
+   [
+    "dstore-parkberechtigungszone",
+    "Bewohner:innen mit Hauptwohnsitz im Bewohnerparkgebiet"
+   ]
+  ]
+ },
+ "vvt-34-001": {
+  "ds": [
+   [
+    "dstore-personenstammdaten",
+    "Name, Anschrift"
+   ],
+   [
+    "dstore-unternehmens-und-registerdaten",
+    "Gewerbetreibende, Bauunternehmen"
+   ],
+   [
+    "dstore-sondernutzung-oeffentlicher-raum",
+    "Art und Umfang der Flächennutzung, Zeitraum"
+   ],
+   [
+    "dstore-lageplan-geobasisdaten",
+    "Lageplan"
+   ],
+   [
+    "dstore-gebuehrenbescheid-zahlungsdaten",
+    "Gebührenberechnung"
+   ]
+  ]
+ },
+ "vvt-34-002": {
+  "ds": [
+   [
+    "dstore-personenstammdaten",
+    "Name, Anschrift"
+   ],
+   [
+    "dstore-unternehmens-und-registerdaten",
+    "Veranstalter:innen, Bauunternehmen, sonstige Antragstellende"
+   ]
+  ]
+ },
+ "vvt-34-003": {
+  "ds": [
+   [
+    "dstore-personenstammdaten",
+    "Name, Anschrift"
+   ],
+   [
+    "dstore-meldeadresse-wohnsitz",
+    "Anschrift"
+   ],
+   [
+    "dstore-kfz-daten",
+    "Kfz-Kennzeichen"
+   ],
+   [
+    "dstore-genehmigung",
+    "Erteilung für Halten, Parken, Sonntagsfahrverbot u.ä."
+   ]
+  ]
+ },
+ "vvt-37-001": {
+  "ds": [
+   [
+    "dstore-personenstammdaten-vertraulich",
+    "Notrufdaten (Anrufer:in, Standort, Meldebild)"
+   ],
+   [
+    "dstore-kontaktdaten-vertraulich",
+    "Anrufer:in"
+   ],
+   [
+    "dstore-gesundheitsdaten",
+    "bei Personenschäden Gesundheitsdaten (Art. 9 DSGVO)"
+   ],
+   [
+    "dstore-einsatzdokumentation-notruf",
+    "Einsatzort und -zeit, Art des Einsatzes, eingesetzte Kräfte/Fahrzeuge, Einsatzverlauf und -ergebnis"
+   ]
+  ]
+ },
+ "vvt-37-002": {
+  "ds": [
+   [
+    "dstore-personenstammdaten",
+    "Name"
+   ],
+   [
+    "dstore-kontaktdaten",
+    "Kontaktdaten"
+   ],
+   [
+    "dstore-lebenslauf-qualifikationsnachweis",
+    "Qualifikation/Funktion"
+   ],
+   [
+    "dstore-ehrenamtsdaten",
+    "Einsatzkräfte"
+   ]
+  ]
+ },
+ "vvt-38-001": {
+  "ds": [
+   [
+    "dstore-personenstammdaten",
+    "Name, Anschrift, Kontaktdaten"
+   ],
+   [
+    "dstore-kontaktdaten",
+    "Kontaktdaten"
+   ],
+   [
+    "dstore-unternehmens-und-registerdaten",
+    "Gewerbetreibende"
+   ],
+   [
+    "dstore-gewerbedaten",
+    "Gewerbeanzeige/Reisegewerbekarte als Zulassungsvoraussetzung"
+   ],
+   [
+    "dstore-reisegewerbekarte",
+    "Reisegewerbekarte als Zulassungsvoraussetzung"
+   ],
+   [
+    "dstore-veranstalterdaten",
+    "Veranstalter (Festsetzungsverfahren)"
+   ],
+   [
+    "dstore-marktveranstaltungsdaten",
+    "zugewiesener Standplatz und Standgröße"
+   ],
+   [
+    "dstore-gebuehrenbescheid-zahlungsdaten",
+    "Zahlungsdaten (Standgebühren)"
+   ],
+   [
+    "dstore-ordnungswidrigkeitenanzeige",
+    "ggf. Beanstandungen/Ordnungswidrigkeiten bei Verstößen gegen die Marktordnung"
+   ]
+  ]
+ },
+ "vvt-40-001": {
+  "ds": [
+   [
+    "dstore-personenstammdaten",
+    "Name, Geburtsdatum, Wohnort"
+   ],
+   [
+    "dstore-meldeadresse-wohnsitz",
+    "Wohnort"
+   ],
+   [
+    "dstore-schulbesuch-ausbildungsstatus",
+    "Schule, Klassenstufe"
+   ],
+   [
+    "dstore-schuelerbefoerderungskosten",
+    "Anspruchsprüfung und Bearbeitung von Anträgen zur Schülerbeförderung"
+   ],
+   [
+    "dstore-gesundheitsdaten",
+    "Gesundheitsinformationen"
+   ]
+  ]
+ },
+ "vvt-40-002": {
+  "ds": [
+   [
+    "dstore-personenstammdaten-vertraulich",
+    "Name, Adresse, Geburtsdatum, Nationalität"
+   ],
+   [
+    "dstore-meldeadresse-wohnsitz",
+    "Meldeadresse"
+   ],
+   [
+    "dstore-staatsangehoerigkeit",
+    "Nationalität"
+   ],
+   [
+    "dstore-elternbezug-abstammung",
+    "Erziehungsberechtigte"
+   ],
+   [
+    "dstore-schulbesuch-ausbildungsstatus",
+    "Sicherstellung der Schulpflicht"
+   ],
+   [
+    "dstore-religionszugehoerigkeit",
+    "Religion"
+   ]
+  ]
+ },
+ "vvt-41-001": {
+  "ds": [
+   [
+    "dstore-personenstammdaten-vertraulich",
+    "Name, Adresse, Geburtsdatum"
+   ],
+   [
+    "dstore-kontaktdaten-vertraulich",
+    "Kontaktdaten"
+   ],
+   [
+    "dstore-ausleihvorgang-bibliothek",
+    "Ausleihdaten (entliehenes Medium mit Titel und Signatur"
+   ]
+  ]
+ },
+ "vvt-41-002": {
+  "ds": [
+   [
+    "dstore-personenstammdaten",
+    "Name, Adresse"
+   ],
+   [
+    "dstore-musikschul-kursanmeldung",
+    "Unterrichtsfach"
+   ],
+   [
+    "dstore-einwilligung-widerruf",
+    "ggf. Einwilligung zur Pressearbeit"
+   ],
+   [
+    "dstore-bild-und-tonaufnahmen",
+    "Für Pressearbeit-Foto"
+   ],
+   [
+    "dstore-bankverbindung",
+    "Bankverbindung"
+   ],
+   [
+    "dstore-gebuehrenbescheid-zahlungsdaten",
+    "Entgelt- und Zahlungsdaten (Unterrichtsentgelt, Ermäßigung"
+   ]
+  ]
+ },
+ "vvt-47-001": {
+  "ds": [
+   [
+    "dstore-personenstammdaten-vertraulich",
+    "Name, Adresse, Identitätsdaten"
+   ],
+   [
+    "dstore-identitaetsnachweis",
+    "Identitätsdaten"
+   ],
+   [
+    "dstore-familienstand-ehebezug",
+    "Familienstand"
+   ],
+   [
+    "dstore-aufenthaltstitel",
+    "Aufenthaltstitel"
+   ],
+   [
+    "dstore-staatsangehoerigkeit-aufenthaltsstatus",
+    "Aufenthaltsstatus"
+   ],
+   [
+    "dstore-biometrische-daten-lichtbild",
+    "bei biometrischen Daten (Fingerabdruck, Lichtbild)"
+   ],
+   [
+    "dstore-strafverfahrensmitteilung-auslaenderrecht",
+    "Mitteilungen anderer Stellen nach § 87 AufenthG"
+   ]
+  ]
+ },
+ "vvt-47-002": {
+  "ds": [
+   [
+    "dstore-personenstammdaten-vertraulich",
+    "Name, Adresse"
+   ],
+   [
+    "dstore-staatsangehoerigkeit",
+    "Staatsangehörigkeit"
+   ],
+   [
+    "dstore-aufenthaltstitel",
+    "Aufenthaltstitel"
+   ],
+   [
+    "dstore-einbuergerungszusicherung",
+    "Einbürgerungsdaten"
+   ],
+   [
+    "dstore-leistungsbezug-sozialleistung",
+    "Sozialdaten"
+   ],
+   [
+    "dstore-zuverlaessigkeitsanfrage-sicherheitsbehoerden",
+    "Regelanfragen bei Sicherheitsbehörden"
+   ]
+  ]
+ },
+ "vvt-47-003": {
+  "ds": [
+   [
+    "dstore-personenstammdaten-vertraulich",
+    "Name, Geburtsdatum"
+   ],
+   [
+    "dstore-staatsangehoerigkeit-aufenthaltsstatus",
+    "Asylbewerber:innen"
+   ],
+   [
+    "dstore-einkommens-und-leistungsdaten",
+    "Einkommensdaten"
+   ],
+   [
+    "dstore-leistungsbezug-sozialleistung",
+    "Leistungsdaten"
+   ],
+   [
+    "dstore-sozialdaten",
+    "Sozialdaten"
+   ],
+   [
+    "dstore-gesundheitsdaten",
+    "Gesundheitsdaten"
+   ],
+   [
+    "dstore-haushaltsmitglieder",
+    "familiäre Verhältnisse"
+   ]
+  ]
+ },
+ "vvt-50-001": {
+  "ds": [
+   [
+    "dstore-personenstammdaten-vertraulich",
+    "Antragstellende, Angehörige, gesetzliche Vertreter"
+   ],
+   [
+    "dstore-sozialdaten",
+    "Sozialdaten"
+   ],
+   [
+    "dstore-gesundheitsdaten",
+    "Gesundheitsdaten"
+   ],
+   [
+    "dstore-einkommensdaten",
+    "Einkommensdaten"
+   ],
+   [
+    "dstore-einkommens-und-leistungsdaten",
+    "Einkommens- und Vermögensdaten"
+   ],
+   [
+    "dstore-leistungsbezug-sozialleistung",
+    "Prüfung und Gewährung von Leistungen nach SGB"
+   ],
+   [
+    "dstore-haushaltsmitglieder",
+    "familiäre Verhältnisse"
+   ],
+   [
+    "dstore-pflegegrad-pflegeleistungen",
+    "Pflegebedürftige"
+   ]
+  ]
+ },
+ "vvt-50-004": {
+  "ds": [
+   [
+    "dstore-personenstammdaten-vertraulich",
+    "Name, Adresse"
+   ],
+   [
+    "dstore-ehrenamtsdaten",
+    "ergänzend ehrenamtsrechtliche Vereinbarungen"
+   ],
+   [
+    "dstore-einwilligung-widerruf",
+    "Art. 6 Abs. 1 lit. a) DSGVO (Einwilligung der Pflegepatinnen und Pflegepaten)"
+   ]
+  ]
+ },
+ "vvt-50-005": {
+  "ds": [
+   [
+    "dstore-personenstammdaten-vertraulich",
+    "Name, Geburtsdatum"
+   ],
+   [
+    "dstore-wohnraumnachweis-aufenthalt",
+    "Unterkunftsadresse"
+   ],
+   [
+    "dstore-sozialdaten",
+    "Sozialstatus"
+   ]
+  ]
+ },
+ "vvt-50-006": {
+  "ds": [
+   [
+    "dstore-personenstammdaten-vertraulich",
+    "Pflegebedürftige und Angehörige"
+   ],
+   [
+    "dstore-kontaktdaten-vertraulich",
+    "Kontaktdaten"
+   ],
+   [
+    "dstore-sozialdaten",
+    "Sozialdaten"
+   ],
+   [
+    "dstore-gesundheitsdaten",
+    "Gesundheitsinformationen"
+   ],
+   [
+    "dstore-pflegegrad-pflegeleistungen",
+    "§ 7a SGB XI"
+   ],
+   [
+    "dstore-beratungsdokumentation",
+    "Pflegeberatung für Pflegebedürftige und Angehörige"
+   ]
+  ]
+ },
+ "vvt-50-007": {
+  "ds": [
+   [
+    "dstore-personenstammdaten-vertraulich",
+    "Name"
+   ],
+   [
+    "dstore-kontaktdaten-vertraulich",
+    "Kontaktdaten"
+   ],
+   [
+    "dstore-termin-und-vorsprachedaten",
+    "Vereinbarung von Beratungsterminen"
+   ],
+   [
+    "dstore-beratungsdokumentation",
+    "Beratungssachverhalt"
+   ],
+   [
+    "dstore-gesundheitsdaten",
+    "Beratungssachverhalt einschließlich der Behinderung"
+   ],
+   [
+    "dstore-schwerbehindertennachweis",
+    "der daraus folgenden Teilhabebedarfe"
+   ]
+  ]
+ },
+ "vvt-51-004": {
+  "ds": [
+   [
+    "dstore-personenstammdaten",
+    "Name, Geburtsdatum"
+   ],
+   [
+    "dstore-meldeadresse-wohnsitz",
+    "Adressdaten"
+   ],
+   [
+    "dstore-elternbezug-abstammung",
+    "Kinder, Erziehungsberechtigte"
+   ],
+   [
+    "dstore-kita-anmeldedaten",
+    "Anmeldedaten"
+   ],
+   [
+    "dstore-kitadaten",
+    "Betreuungszeiten"
+   ]
+  ]
+ },
+ "vvt-51-005": {
+  "ds": [
+   [
+    "dstore-personenstammdaten",
+    "Name, Adresse, Geburtsdaten"
+   ],
+   [
+    "dstore-kontaktdaten",
+    "Kontaktdaten"
+   ],
+   [
+    "dstore-einkommensnachweise-haushalt",
+    "Einkommen"
+   ],
+   [
+    "dstore-kita-anmeldedaten",
+    "Betreuungsbedarf"
+   ],
+   [
+    "dstore-lebenslauf-qualifikationsnachweis",
+    "Qualifikation"
+   ],
+   [
+    "dstore-fuehrungszeugnis",
+    "Eignungsprüfung"
+   ]
+  ]
+ },
+ "vvt-51-007": {
+  "ds": [
+   [
+    "dstore-personenstammdaten-vertraulich",
+    "Name, Anschrift, Geburtsdatum, Staatsangehörigkeit"
+   ],
+   [
+    "dstore-kontaktdaten-vertraulich",
+    "Kontaktdaten"
+   ],
+   [
+    "dstore-staatsangehoerigkeit",
+    "Staatsangehörigkeit"
+   ],
+   [
+    "dstore-familienstand-ehebezug",
+    "Familienstandsdaten"
+   ],
+   [
+    "dstore-personenstand",
+    "Personenstand"
+   ],
+   [
+    "dstore-elternbezug-abstammung",
+    "Feststellung Vaterschaft"
+   ],
+   [
+    "dstore-vaterschaftsanerkennung",
+    "Mögliche Väter"
+   ],
+   [
+    "dstore-sorgerechtserklaerung",
+    "Beistandschaft"
+   ],
+   [
+    "dstore-sorgerechtsnachweis",
+    "Elternteile, Kinder"
+   ],
+   [
+    "dstore-einkommensdaten",
+    "Einkommen"
+   ],
+   [
+    "dstore-sozialdaten",
+    "Sozialdaten"
+   ],
+   [
+    "dstore-bankverbindung-vertraulich",
+    "Bankverbindung"
+   ],
+   [
+    "dstore-unterhaltszahlungen-ansprueche",
+    "Geltendmachung von Unterhalt"
+   ]
+  ]
+ },
+ "vvt-51-008": {
+  "ds": [
+   [
+    "dstore-personenstammdaten-vertraulich",
+    "Name"
+   ],
+   [
+    "dstore-elternbezug-abstammung",
+    "Kinder, unterhaltsverpflichtete Elternteile"
+   ],
+   [
+    "dstore-einkommensdaten",
+    "Einkommen"
+   ],
+   [
+    "dstore-bankverbindung-vertraulich",
+    "Kontoverbindung"
+   ],
+   [
+    "dstore-staatsangehoerigkeit-aufenthaltsstatus",
+    "Aufenthaltsstatus"
+   ],
+   [
+    "dstore-sozialdaten",
+    "Sozialdaten"
+   ],
+   [
+    "dstore-unterhaltszahlungen-ansprueche",
+    "Gewährung von Unterhaltsleistungen für alleinerziehende Eltern"
+   ]
+  ]
+ }
+}

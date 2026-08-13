@@ -16,8 +16,8 @@ daten:
   - id: dstore-sepa-lastschriftmandat
   - id: dstore-bankverbindung
   - id: dstore-meldeadresse-wohnsitz
-  - § 15 Nr. 3 Passgesetz (PaßG)
 regelungen:
+- § 15 Nr. 3 Passgesetz (PaßG)
 - § 6 Passgesetz (PassG) (Ausstellung eines Passes)
 - Gesetz zur Modernisierung des Pass-, des Ausweis- und des ausländerrechtlichen Dokumentenwesens
   (BGBl. I 2023 Nr. 271, vom 8. Oktober 2023)

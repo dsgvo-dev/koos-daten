@@ -17,7 +17,7 @@ daten:
 regelungen:
 - § 27 Absatz 1 Waffengesetz (WaffG)
 - § 27a Waffengesetz (WaffG)
-leika_id: '99089056000000'
+leika_id: '99089056001000'
 ozg_id: null
 letzte-aktualisierung: '2026-07-10'
 ---

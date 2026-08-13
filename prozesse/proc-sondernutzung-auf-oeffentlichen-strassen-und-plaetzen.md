@@ -1,7 +1,8 @@
 ---
 id: proc-sondernutzung-auf-oeffentlichen-strassen-und-plaetzen
 titel: Sondernutzung auf öffentlichen Straßen und Plätzen
-status: aktiv
+status: ersetzt
+ersetzt-durch: proc-sondernutzungserlaubnis-oeffentliche-flaechen-beantragen
 zustaendigeEinheit: oe-amt-32
 zustaendigeRolle: ''
 beteiligte:
@@ -18,9 +19,9 @@ regelungen:
 - § 18 Nds. Straßengesetz (NStrG) (Sondernutzungserlaubnis)
 - §§ 45-46 StVO (Anordnungen der Straßenverkehrsbehörde)
 - Kommunale Sondernutzungssatzung
-leika_id: '99108012000000'
+leika_id: '99108012005000'
 ozg_id: '10348'
-letzte-aktualisierung: '2026-07-10'
+letzte-aktualisierung: '2026-07-28'
 ---
 
 # Gehwegereinigung überwachen / Straßensondernutzung

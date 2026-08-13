@@ -1,6 +1,6 @@
 # Organisationsstruktur
-# Gemeindeverwaltung, angelehnt an NKomVG
-# Ämterstruktur nach Celle/Springe-Katalog (April 2026)
+# Kommunalverwaltung, angelehnt an NKomVG
+# Ämterstruktur nach gängigem kommunalem Ämterkatalog (Stand April 2026)
 #
 # id:              stabile Kennung — NIEMALS ändern.
 # name:            Anzeigename — kann jederzeit geändert werden (nur hier).
@@ -15,7 +15,7 @@
 #
 # Reorganisation: parent: einer Einheit ändern — alle Prozessverknüpfungen bleiben unberührt.
 
-name: Gemeindeverwaltung
+name: Kommunalverwaltung
 
 einheiten:
 
@@ -342,10 +342,10 @@ einheiten:
       - Umwelt- und Klimaschutzbeauftragte/r
 
   - id: oe-amt-61
-    name: 61 – Stadtplanungsamt
+    name: 61 – Planungsamt
     parent: oe-fb5
     rollen:
-      - Leitung Stadtplanung
+      - Leitung Planung
       - Stadtplaner/in
       - Sachbearbeitung Bauleitplanung
 

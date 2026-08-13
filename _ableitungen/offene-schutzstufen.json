@@ -1,0 +1,2833 @@
+[
+  {
+    "id": "dstore-arbeitgeberzuschuss-mutterschaft",
+    "name": "Arbeitgeberzuschuss zum Mutterschaftsgeld",
+    "kategorie": "Familie & Soziales",
+    "einheit": "oe-amt-50",
+    "schutzstufe": "C",
+    "schutzbedarf": "normal",
+    "vertraulichkeitsklasse": "vertraulich",
+    "bsi-vertraulichkeit": "normal",
+    "bsi-integritaet": "normal",
+    "bsi-verfuegbarkeit": "normal",
+    "bsi-schutzbedarf": "normal",
+    "datenschutz_geprueft": false,
+    "bsi_geprueft": true,
+    "verwendungen": 0,
+    "beschreibung": "Daten zum Zuschuss des Arbeitgebers zum Mutterschaftsgeld.",
+    "felder": [
+      "Arbeitgeber",
+      "Zeitraum",
+      "Zuschusshöhe",
+      "Bescheinigung",
+      "Beschäftigungsverhältnis",
+      "Auszahlungsrhythmus"
+    ],
+    "rechtsgrundlagen": [
+      {
+        "gesetz": "MuSchG"
+      }
+    ],
+    "verwendet_in": []
+  },
+  {
+    "id": "dstore-arbeitsverhaeltnis-beschaeftigung",
+    "name": "Arbeitsverhältnis und Beschäftigung",
+    "kategorie": "Arbeit & Einkommen",
+    "einheit": "oe-amt-11",
+    "schutzstufe": "C",
+    "schutzbedarf": "normal",
+    "vertraulichkeitsklasse": "vertraulich",
+    "bsi-vertraulichkeit": "normal",
+    "bsi-integritaet": "normal",
+    "bsi-verfuegbarkeit": "normal",
+    "bsi-schutzbedarf": "normal",
+    "datenschutz_geprueft": false,
+    "bsi_geprueft": true,
+    "verwendungen": 7,
+    "beschreibung": "Daten zu bestehenden oder früheren Beschäftigungsverhältnissen für Leistungs- und Antragsverfahren.",
+    "felder": [
+      "Arbeitgeber",
+      "Beschäftigungsbeginn",
+      "Beschäftigungsende",
+      "Wochenstunden",
+      "Beschäftigungsart",
+      "Verdienstnachweis"
+    ],
+    "rechtsgrundlagen": [
+      {
+        "gesetz": "BEEG"
+      },
+      {
+        "gesetz": "WoGG"
+      }
+    ],
+    "verwendet_in": [
+      "vvt-1-2-001",
+      "vvt-11-002",
+      "vvt-11-003",
+      "vvt-11-004",
+      "vvt-11-005",
+      "vvt-11-006",
+      "vvt-32-005"
+    ]
+  },
+  {
+    "id": "dstore-arbeitszeitaufzeichnung",
+    "name": "Arbeitszeitaufzeichnung",
+    "kategorie": "Personal",
+    "einheit": "oe-amt-11",
+    "schutzstufe": "C",
+    "schutzbedarf": "hoch",
+    "vertraulichkeitsklasse": "vertraulich",
+    "bsi-vertraulichkeit": "normal",
+    "bsi-integritaet": "normal",
+    "bsi-verfuegbarkeit": "normal",
+    "bsi-schutzbedarf": "normal",
+    "datenschutz_geprueft": false,
+    "bsi_geprueft": true,
+    "verwendungen": 1,
+    "beschreibung": "Aufzeichnung der geleisteten Arbeitszeit der Beschäftigten im Zeitmanagementsystem, geführt zur Erfüllung der Aufzeichnungspflicht nach § 3 Abs. 2 Nr. 1 ArbSchG und § 16 Abs. 2 ArbZG.",
+    "felder": [
+      "Personalnummer und Name",
+      "Organisationseinheit",
+      "Kommt- und Gehtzeiten",
+      "Pausenzeiten",
+      "Zeitsaldo und Zeitausgleich",
+      "Bereitschaftsdienst und Rufbereitschaft",
+      "Anwesenheitsstatus",
+      "Korrekturvermerke mit Grund und korrigierender Person"
+    ],
+    "rechtsgrundlagen": [
+      {
+        "gesetz": "DSGVO",
+        "artikel": "Art. 6 Abs. 1 lit. b und lit. c"
+      },
+      {
+        "gesetz": "DSGVO",
+        "artikel": "Art. 88"
+      },
+      {
+        "gesetz": "NDSG",
+        "artikel": "§ 12"
+      },
+      {
+        "gesetz": "NBG",
+        "artikel": "§ 88"
+      },
+      {
+        "gesetz": "ArbZG",
+        "artikel": "§ 16 Abs. 2"
+      },
+      {
+        "gesetz": "ArbSchG",
+        "artikel": "§ 3 Abs. 2 Nr. 1"
+      },
+      {
+        "gesetz": "NPersVG",
+        "artikel": "§§ 67, 78"
+      }
+    ],
+    "verwendet_in": [
+      "vvt-11-004"
+    ]
+  },
+  {
+    "id": "dstore-aufenthaltserlaubnis-erwerbstaetigkeit",
+    "name": "Aufenthaltserlaubnis Erwerbstätigkeit",
+    "kategorie": "Migration & Arbeit",
+    "einheit": "oe-amt-47",
+    "schutzstufe": "C",
+    "schutzbedarf": "hoch",
+    "vertraulichkeitsklasse": "vertraulich",
+    "bsi-vertraulichkeit": "normal",
+    "bsi-integritaet": "hoch",
+    "bsi-verfuegbarkeit": "normal",
+    "bsi-schutzbedarf": "hoch",
+    "datenschutz_geprueft": false,
+    "bsi_geprueft": true,
+    "verwendungen": 1,
+    "beschreibung": "Daten zur aufenthaltsrechtlichen Erlaubnis für Beschäftigung oder selbständige Tätigkeit.",
+    "felder": [
+      "Person",
+      "Arbeitgeber oder Tätigkeit",
+      "Erlaubnisumfang",
+      "Befristung",
+      "Nebenbestimmungen",
+      "Nachweise"
+    ],
+    "rechtsgrundlagen": [
+      {
+        "gesetz": "AufenthG"
+      }
+    ],
+    "verwendet_in": [
+      "vvt-32-005"
+    ]
+  },
+  {
+    "id": "dstore-aufwandsentschaedigung-ehrenamt",
+    "name": "Aufwandsentschädigung und Reisekosten im Ehrenamt",
+    "kategorie": "Finanzen & Zahlung",
+    "einheit": "oe-amt-50",
+    "schutzstufe": "C",
+    "schutzbedarf": "normal",
+    "vertraulichkeitsklasse": "vertraulich",
+    "bsi-vertraulichkeit": "normal",
+    "bsi-integritaet": "hoch",
+    "bsi-verfuegbarkeit": "hoch",
+    "bsi-schutzbedarf": "hoch",
+    "datenschutz_geprueft": false,
+    "bsi_geprueft": true,
+    "verwendungen": 3,
+    "beschreibung": "Abrechnung von Reisekosten und Aufwandsentschädigungen für ehrenamtlich tätige Personen in Beiräten, Ausschüssen und Gremien.",
+    "felder": [
+      "Ehrenamtlich tätige Person",
+      "Gremium oder Anlass",
+      "Sitzungs- oder Reisedatum",
+      "Strecke und Verkehrsmittel",
+      "Betrag der Entschädigung",
+      "Bankverbindung",
+      "steuerliche Behandlung"
+    ],
+    "rechtsgrundlagen": [
+      {
+        "gesetz": "DSGVO",
+        "artikel": "Art. 6 Abs. 1 lit. c und lit. e"
+      },
+      {
+        "gesetz": "EStG",
+        "artikel": "§ 3 Nr. 26a"
+      },
+      {
+        "gesetz": "NKomHKVO"
+      },
+      {
+        "gesetz": "AO",
+        "artikel": "§ 147"
+      }
+    ],
+    "verwendet_in": [
+      "vvt-11-010",
+      "vvt-40-004",
+      "vvt-50-008"
+    ]
+  },
+  {
+    "id": "dstore-baubeschreibung",
+    "name": "Baubeschreibung",
+    "kategorie": "Bauen & Grundstück",
+    "einheit": "oe-amt-63",
+    "schutzstufe": "C",
+    "schutzbedarf": "normal",
+    "vertraulichkeitsklasse": "vertraulich",
+    "bsi-vertraulichkeit": "normal",
+    "bsi-integritaet": "normal",
+    "bsi-verfuegbarkeit": "normal",
+    "bsi-schutzbedarf": "normal",
+    "datenschutz_geprueft": false,
+    "bsi_geprueft": true,
+    "verwendungen": 0,
+    "beschreibung": "Beschreibende Daten zum Bauvorhaben, zu Nutzung, Bauart und wesentlichen Merkmalen.",
+    "felder": [
+      "Vorhabensart",
+      "Nutzung",
+      "Bauweise",
+      "Materialien",
+      "Geschossigkeit",
+      "Kurzbeschreibung"
+    ],
+    "rechtsgrundlagen": [
+      {
+        "gesetz": "NBauO"
+      }
+    ],
+    "verwendet_in": []
+  },
+  {
+    "id": "dstore-bauvorhabensdaten",
+    "name": "Bauvorhabens- und Objektdaten",
+    "kategorie": "Bauen & Grundstücke",
+    "einheit": "oe-amt-63",
+    "schutzstufe": "C",
+    "schutzbedarf": "normal",
+    "vertraulichkeitsklasse": "vertraulich",
+    "bsi-vertraulichkeit": "normal",
+    "bsi-integritaet": "normal",
+    "bsi-verfuegbarkeit": "normal",
+    "bsi-schutzbedarf": "normal",
+    "datenschutz_geprueft": false,
+    "bsi_geprueft": true,
+    "verwendungen": 2,
+    "beschreibung": "Daten zur Beschreibung eines baulichen Vorhabens, seiner Nutzung und der Lage des betroffenen Objekts.",
+    "felder": [
+      "Art des Bauvorhabens",
+      "Nutzungsänderung",
+      "Lageplan",
+      "Gebäudedaten",
+      "Werbeanlage",
+      "Standort des Vorhabens"
+    ],
+    "rechtsgrundlagen": [
+      {
+        "gesetz": "NBauO"
+      },
+      {
+        "gesetz": "NStrG"
+      }
+    ],
+    "verwendet_in": [
+      "vvt-63-001",
+      "vvt-63-005"
+    ]
+  },
+  {
+    "id": "dstore-bauzeichnung-planunterlagen",
+    "name": "Bauzeichnungen und Planunterlagen",
+    "kategorie": "Bauen & Grundstück",
+    "einheit": "oe-amt-63",
+    "schutzstufe": "C",
+    "schutzbedarf": "normal",
+    "vertraulichkeitsklasse": "vertraulich",
+    "bsi-vertraulichkeit": "normal",
+    "bsi-integritaet": "normal",
+    "bsi-verfuegbarkeit": "normal",
+    "bsi-schutzbedarf": "normal",
+    "datenschutz_geprueft": false,
+    "bsi_geprueft": true,
+    "verwendungen": 1,
+    "beschreibung": "Planunterlagen wie Grundrisse, Ansichten und Schnitte zur baulichen Prüfung eines Vorhabens.",
+    "felder": [
+      "Grundriss",
+      "Ansicht",
+      "Schnitt",
+      "Maßstab",
+      "Planverfasser",
+      "Revisionsstand"
+    ],
+    "rechtsgrundlagen": [
+      {
+        "gesetz": "NBauO"
+      }
+    ],
+    "verwendet_in": [
+      "vvt-63-001"
+    ]
+  },
+  {
+    "id": "dstore-betriebskostenabrechnung-wohnen",
+    "name": "Betriebskostenabrechnung Wohnen",
+    "kategorie": "Wohnen & Soziales",
+    "einheit": "oe-amt-64",
+    "schutzstufe": "C",
+    "schutzbedarf": "hoch",
+    "vertraulichkeitsklasse": "vertraulich",
+    "bsi-vertraulichkeit": "normal",
+    "bsi-integritaet": "normal",
+    "bsi-verfuegbarkeit": "hoch",
+    "bsi-schutzbedarf": "hoch",
+    "datenschutz_geprueft": false,
+    "bsi_geprueft": true,
+    "verwendungen": 0,
+    "beschreibung": "Abrechnung der umlagefähigen Betriebskosten für eine Wohnung oder ein Eigenheim.",
+    "felder": [
+      "Abrechnungszeitraum",
+      "Vorauszahlungen",
+      "Betriebskostenarten",
+      "Nachzahlung",
+      "Guthaben",
+      "Absender"
+    ],
+    "rechtsgrundlagen": [
+      {
+        "gesetz": "WoGG"
+      }
+    ],
+    "verwendet_in": []
+  },
+  {
+    "id": "dstore-bild-und-tonaufnahmen",
+    "name": "Bild- und Tonaufnahmen",
+    "kategorie": "Öffentlichkeitsarbeit",
+    "einheit": "oe-amt-10",
+    "schutzstufe": "C",
+    "schutzbedarf": "hoch",
+    "vertraulichkeitsklasse": "vertraulich",
+    "bsi-vertraulichkeit": "normal",
+    "bsi-integritaet": "hoch",
+    "bsi-verfuegbarkeit": "normal",
+    "bsi-schutzbedarf": "hoch",
+    "datenschutz_geprueft": false,
+    "bsi_geprueft": true,
+    "verwendungen": 12,
+    "beschreibung": "Foto-, Video- und Tonaufnahmen von Personen, die bei Veranstaltungen und Anlässen der Verwaltung entstehen und für die Öffentlichkeitsarbeit, die Presse und das Bildarchiv verwendet werden.",
+    "felder": [
+      "Aufnahme (Bild, Video, Ton)",
+      "Anlass und Veranstaltung",
+      "Aufnahmedatum und -ort",
+      "abgebildete Person, soweit benannt",
+      "Bildunterschrift",
+      "Einwilligungsstatus und Datum der Einwilligung",
+      "Widerrufsvermerk",
+      "Verwendungszweck und erfolgte Veröffentlichungen",
+      "Urheber beziehungsweise Fototeam"
+    ],
+    "rechtsgrundlagen": [
+      {
+        "gesetz": "DSGVO",
+        "artikel": "Art. 6 Abs. 1 lit. a"
+      },
+      {
+        "gesetz": "DSGVO",
+        "artikel": "Art. 6 Abs. 1 lit. e"
+      },
+      {
+        "gesetz": "KUG",
+        "artikel": "§§ 22, 23"
+      },
+      {
+        "gesetz": "NDSG",
+        "artikel": "§ 3"
+      }
+    ],
+    "verwendet_in": [
+      "vvt-1-001",
+      "vvt-1-1-003",
+      "vvt-1-1-005",
+      "vvt-10-004",
+      "vvt-10-012",
+      "vvt-10-013",
+      "vvt-15-001",
+      "vvt-32-008",
+      "vvt-32-020",
+      "vvt-32-022",
+      "vvt-41-002",
+      "vvt-86-001"
+    ]
+  },
+  {
+    "id": "dstore-brandschutznachweis",
+    "name": "Brandschutznachweis",
+    "kategorie": "Bauen & Grundstück",
+    "einheit": "oe-amt-37",
+    "schutzstufe": "C",
+    "schutzbedarf": "normal",
+    "vertraulichkeitsklasse": "vertraulich",
+    "bsi-vertraulichkeit": "normal",
+    "bsi-integritaet": "hoch",
+    "bsi-verfuegbarkeit": "hoch",
+    "bsi-schutzbedarf": "hoch",
+    "datenschutz_geprueft": false,
+    "bsi_geprueft": true,
+    "verwendungen": 2,
+    "beschreibung": "Nachweisdaten zu brandschutzrechtlichen Anforderungen eines Bauvorhabens.",
+    "felder": [
+      "Brandschutzkonzept",
+      "erstellende Person",
+      "Prüfdatum",
+      "Gebäudeklasse",
+      "Maßnahmen",
+      "Unterlagenverweis"
+    ],
+    "rechtsgrundlagen": [
+      {
+        "gesetz": "NBauO"
+      }
+    ],
+    "verwendet_in": [
+      "vvt-10-026",
+      "vvt-63-001"
+    ]
+  },
+  {
+    "id": "dstore-darlehensverpflichtung-eigenheim",
+    "name": "Darlehensverpflichtung Eigenheim",
+    "kategorie": "Wohnen & Eigentum",
+    "einheit": "oe-amt-64",
+    "schutzstufe": "C",
+    "schutzbedarf": "hoch",
+    "vertraulichkeitsklasse": "vertraulich",
+    "bsi-vertraulichkeit": "normal",
+    "bsi-integritaet": "normal",
+    "bsi-verfuegbarkeit": "normal",
+    "bsi-schutzbedarf": "normal",
+    "datenschutz_geprueft": false,
+    "bsi_geprueft": true,
+    "verwendungen": 1,
+    "beschreibung": "Daten zu Darlehen und Kreditverpflichtungen für Kauf, Bau oder Modernisierung eines Eigenheims.",
+    "felder": [
+      "Darlehensgeber",
+      "Darlehenssumme",
+      "Zins",
+      "Tilgung",
+      "Restschuld",
+      "Verwendungszweck"
+    ],
+    "rechtsgrundlagen": [
+      {
+        "gesetz": "WoGG"
+      }
+    ],
+    "verwendet_in": [
+      "vvt-64-001"
+    ]
+  },
+  {
+    "id": "dstore-debitoren-kreditorendaten",
+    "name": "Debitoren- und Kreditorendaten",
+    "kategorie": "Finanzen & Zahlung",
+    "einheit": "oe-amt-20",
+    "schutzstufe": "C",
+    "schutzbedarf": "hoch",
+    "vertraulichkeitsklasse": "vertraulich",
+    "bsi-vertraulichkeit": "normal",
+    "bsi-integritaet": "hoch",
+    "bsi-verfuegbarkeit": "hoch",
+    "bsi-schutzbedarf": "hoch",
+    "datenschutz_geprueft": false,
+    "bsi_geprueft": true,
+    "verwendungen": 3,
+    "beschreibung": "Stamm- und Buchungsdaten von Zahlungspflichtigen und Zahlungsempfängern.",
+    "felder": [
+      "Name oder Firma",
+      "Buchungskonto",
+      "Anschrift",
+      "Steuernummer",
+      "Zahlungsbedingung",
+      "Status"
+    ],
+    "rechtsgrundlagen": [
+      {
+        "gesetz": "HGB"
+      },
+      {
+        "gesetz": "KomHKVO"
+      }
+    ],
+    "verwendet_in": [
+      "vvt-10-025",
+      "vvt-20-004",
+      "vvt-66-003"
+    ]
+  },
+  {
+    "id": "dstore-ehrenamtsdaten",
+    "name": "Ehrenamtsdaten",
+    "kategorie": "Wahlen & Gremien",
+    "einheit": "oe-amt-10",
+    "schutzstufe": "C",
+    "schutzbedarf": "hoch",
+    "vertraulichkeitsklasse": "vertraulich",
+    "bsi-vertraulichkeit": "normal",
+    "bsi-integritaet": "normal",
+    "bsi-verfuegbarkeit": "hoch",
+    "bsi-schutzbedarf": "hoch",
+    "datenschutz_geprueft": false,
+    "bsi_geprueft": true,
+    "verwendungen": 13,
+    "beschreibung": "Daten zu ehrenamtlich tätigen Personen in der Kommunalverwaltung.",
+    "felder": [
+      "Name",
+      "Einsatzbereich",
+      "Qualifikationen",
+      "Verfügbarkeit",
+      "Kontakt"
+    ],
+    "rechtsgrundlagen": [
+      {
+        "gesetz": "DSGVO",
+        "artikel": "Art. 6"
+      }
+    ],
+    "verwendet_in": [
+      "vvt-1-001",
+      "vvt-10-001",
+      "vvt-10-003",
+      "vvt-10-004",
+      "vvt-10-006",
+      "vvt-10-007",
+      "vvt-10-008",
+      "vvt-10-011",
+      "vvt-10-015",
+      "vvt-10-022",
+      "vvt-37-002",
+      "vvt-50-004",
+      "vvt-50-008"
+    ]
+  },
+  {
+    "id": "dstore-elektronische-rechnungsstellung",
+    "name": "Elektronische Rechnungsstellung",
+    "kategorie": "Finanzen & E-Government",
+    "einheit": "oe-amt-20",
+    "schutzstufe": "C",
+    "schutzbedarf": "hoch",
+    "vertraulichkeitsklasse": "vertraulich",
+    "bsi-vertraulichkeit": "normal",
+    "bsi-integritaet": "hoch",
+    "bsi-verfuegbarkeit": "hoch",
+    "bsi-schutzbedarf": "hoch",
+    "datenschutz_geprueft": false,
+    "bsi_geprueft": true,
+    "verwendungen": 1,
+    "beschreibung": "Strukturierte Daten einer elektronischen Rechnung an die Kommune.",
+    "felder": [
+      "Rechnungsnummer",
+      "Rechnungsdatum",
+      "Leitweg-ID",
+      "Betrag",
+      "Leistungsempfänger",
+      "Format"
+    ],
+    "rechtsgrundlagen": [
+      {
+        "gesetz": "ERechV"
+      }
+    ],
+    "verwendet_in": [
+      "vvt-20-004"
+    ]
+  },
+  {
+    "id": "dstore-entwaesserungsantrag-kanalanschluss",
+    "name": "Entwässerungsantrag und Kanalanschluss",
+    "kategorie": "Entwässerung & Anschluss",
+    "einheit": "oe-amt-67",
+    "schutzstufe": "C",
+    "schutzbedarf": "hoch",
+    "vertraulichkeitsklasse": "vertraulich",
+    "bsi-vertraulichkeit": "normal",
+    "bsi-integritaet": "normal",
+    "bsi-verfuegbarkeit": "normal",
+    "bsi-schutzbedarf": "normal",
+    "datenschutz_geprueft": false,
+    "bsi_geprueft": true,
+    "verwendungen": 0,
+    "beschreibung": "Antrags- und Anschlussdaten zur Grundstücksentwässerung.",
+    "felder": [
+      "Grundstück",
+      "Anschlussart",
+      "Schmutzwasser",
+      "Niederschlagswasser",
+      "Planunterlagen",
+      "Antragsteller/in"
+    ],
+    "rechtsgrundlagen": [
+      {
+        "gesetz": "kommunale Satzung"
+      }
+    ],
+    "verwendet_in": []
+  },
+  {
+    "id": "dstore-entwurfsverfasser-nachweis",
+    "name": "Nachweis Entwurfsverfasser",
+    "kategorie": "Bauen & Grundstück",
+    "einheit": "oe-amt-63",
+    "schutzstufe": "C",
+    "schutzbedarf": "normal",
+    "vertraulichkeitsklasse": "vertraulich",
+    "bsi-vertraulichkeit": "normal",
+    "bsi-integritaet": "normal",
+    "bsi-verfuegbarkeit": "normal",
+    "bsi-schutzbedarf": "normal",
+    "datenschutz_geprueft": false,
+    "bsi_geprueft": true,
+    "verwendungen": 0,
+    "beschreibung": "Personen- und Qualifikationsdaten der für Bauvorlagen verantwortlichen Entwurfsverfasserinnen und Entwurfsverfasser.",
+    "felder": [
+      "Name",
+      "Berufsbezeichnung",
+      "Kammerzugehörigkeit",
+      "Unterschrift",
+      "Kontaktdaten",
+      "Bauvorlagenberechtigung"
+    ],
+    "rechtsgrundlagen": [
+      {
+        "gesetz": "NBauO"
+      }
+    ],
+    "verwendet_in": []
+  },
+  {
+    "id": "dstore-fahrzeugnutzungserklaerung",
+    "name": "Fahrzeugnutzungserklärung",
+    "kategorie": "Fahrzeug- und Mobilitätsdaten",
+    "einheit": "oe-amt-34",
+    "schutzstufe": "C",
+    "schutzbedarf": "normal",
+    "vertraulichkeitsklasse": "vertraulich",
+    "bsi-vertraulichkeit": "normal",
+    "bsi-integritaet": "normal",
+    "bsi-verfuegbarkeit": "normal",
+    "bsi-schutzbedarf": "normal",
+    "datenschutz_geprueft": false,
+    "bsi_geprueft": true,
+    "verwendungen": 1,
+    "beschreibung": "Erklärung, dass ein Fahrzeug dauerhaft von der antragstellenden Person genutzt wird.",
+    "felder": [
+      "Nutzungsberechtigte Person",
+      "Fahrzeughalter",
+      "Kennzeichen",
+      "Beginn Nutzung",
+      "Erklärungsdatum",
+      "Unterschrift"
+    ],
+    "rechtsgrundlagen": [
+      {
+        "gesetz": "StVO"
+      }
+    ],
+    "verwendet_in": [
+      "vvt-11-011"
+    ]
+  },
+  {
+    "id": "dstore-familienstand-ehebezug",
+    "name": "Familienstand und Ehebezug",
+    "kategorie": "Personenstandsdaten",
+    "einheit": "oe-amt-31",
+    "schutzstufe": "C",
+    "schutzbedarf": "hoch",
+    "vertraulichkeitsklasse": "vertraulich",
+    "bsi-vertraulichkeit": "normal",
+    "bsi-integritaet": "hoch",
+    "bsi-verfuegbarkeit": "normal",
+    "bsi-schutzbedarf": "hoch",
+    "datenschutz_geprueft": false,
+    "bsi_geprueft": true,
+    "verwendungen": 9,
+    "beschreibung": "Daten und Nachweise zum aktuellen oder früheren Familienstand sowie zur Ehefähigkeit.",
+    "felder": [
+      "Familienstand",
+      "Eheurkunde",
+      "Scheidungsurteil",
+      "Ehefähigkeitszeugnis",
+      "Auflösung der Lebenspartnerschaft",
+      "Sterbeurkunde früherer Partner"
+    ],
+    "rechtsgrundlagen": [
+      {
+        "gesetz": "PStG"
+      },
+      {
+        "gesetz": "PStV"
+      },
+      {
+        "gesetz": "BGB"
+      }
+    ],
+    "verwendet_in": [
+      "vvt-10-002",
+      "vvt-11-002",
+      "vvt-31-002",
+      "vvt-31-003",
+      "vvt-33-001",
+      "vvt-47-001",
+      "vvt-51-007",
+      "vvt-51-010",
+      "vvt-51-017"
+    ]
+  },
+  {
+    "id": "dstore-feuerwehrzufahrt-aufstellflaechen",
+    "name": "Feuerwehrzufahrt und Aufstellflächen",
+    "kategorie": "Feuerwehr & Brandschutz",
+    "einheit": "oe-amt-37",
+    "schutzstufe": "C",
+    "schutzbedarf": "hoch",
+    "vertraulichkeitsklasse": "vertraulich",
+    "bsi-vertraulichkeit": "normal",
+    "bsi-integritaet": "normal",
+    "bsi-verfuegbarkeit": "hoch",
+    "bsi-schutzbedarf": "hoch",
+    "datenschutz_geprueft": false,
+    "bsi_geprueft": true,
+    "verwendungen": 1,
+    "beschreibung": "Daten zu Zufahrten und Flächen für Feuerwehrfahrzeuge.",
+    "felder": [
+      "Objekt",
+      "Zufahrtsbreite",
+      "Aufstellfläche",
+      "Erreichbarkeit",
+      "Planbezug",
+      "Auflagen"
+    ],
+    "rechtsgrundlagen": [
+      {
+        "gesetz": "NBauO"
+      }
+    ],
+    "verwendet_in": [
+      "vvt-10-026"
+    ]
+  },
+  {
+    "id": "dstore-flur-flurstueck-lagebezeichnung",
+    "name": "Flur, Flurstück und Lagebezeichnung",
+    "kategorie": "Bauen & Grundstück",
+    "einheit": "oe-amt-62",
+    "schutzstufe": "C",
+    "schutzbedarf": "normal",
+    "vertraulichkeitsklasse": "vertraulich",
+    "bsi-vertraulichkeit": "normal",
+    "bsi-integritaet": "hoch",
+    "bsi-verfuegbarkeit": "normal",
+    "bsi-schutzbedarf": "hoch",
+    "datenschutz_geprueft": false,
+    "bsi_geprueft": true,
+    "verwendungen": 10,
+    "beschreibung": "Katasterbezogene Identifikationsdaten eines Grundstücks.",
+    "felder": [
+      "Gemarkung",
+      "Flur",
+      "Flurstück",
+      "Lagebezeichnung",
+      "Katasteramt",
+      "Nachweisdatum"
+    ],
+    "rechtsgrundlagen": [
+      {
+        "gesetz": "NBauO"
+      },
+      {
+        "gesetz": "Vermessungsrecht"
+      }
+    ],
+    "verwendet_in": [
+      "vvt-15-003",
+      "vvt-22-004",
+      "vvt-22-005",
+      "vvt-23-008",
+      "vvt-60-011",
+      "vvt-62-001",
+      "vvt-63-002",
+      "vvt-80-003",
+      "vvt-86-001",
+      "vvt-86-002"
+    ]
+  },
+  {
+    "id": "dstore-foerderantrag",
+    "name": "Förderantrag",
+    "kategorie": "Finanzen & Steuern",
+    "einheit": "oe-amt-80",
+    "schutzstufe": "C",
+    "schutzbedarf": "hoch",
+    "vertraulichkeitsklasse": "vertraulich",
+    "bsi-vertraulichkeit": "normal",
+    "bsi-integritaet": "hoch",
+    "bsi-verfuegbarkeit": "hoch",
+    "bsi-schutzbedarf": "hoch",
+    "datenschutz_geprueft": false,
+    "bsi_geprueft": true,
+    "verwendungen": 11,
+    "beschreibung": "Antrag auf kommunale Förderung oder Zuwendung.",
+    "felder": [
+      "Antragsteller",
+      "Fördergegenstand",
+      "Fördersumme",
+      "Verwendungsnachweis",
+      "Bewilligungsbescheid"
+    ],
+    "rechtsgrundlagen": [
+      {
+        "gesetz": "NVwVfG"
+      },
+      {
+        "gesetz": "Haushaltsrecht"
+      }
+    ],
+    "verwendet_in": [
+      "vvt-10-005",
+      "vvt-40-006",
+      "vvt-41-004",
+      "vvt-41-005",
+      "vvt-51-013",
+      "vvt-60-005",
+      "vvt-61-004",
+      "vvt-64-001",
+      "vvt-66-004",
+      "vvt-80-002",
+      "vvt-80-004"
+    ]
+  },
+  {
+    "id": "dstore-fuehrerscheindaten",
+    "name": "Führerscheindaten",
+    "kategorie": "Ordnung & Sicherheit",
+    "einheit": "oe-amt-34",
+    "schutzstufe": "C",
+    "schutzbedarf": "hoch",
+    "vertraulichkeitsklasse": "vertraulich",
+    "bsi-vertraulichkeit": "normal",
+    "bsi-integritaet": "hoch",
+    "bsi-verfuegbarkeit": "hoch",
+    "bsi-schutzbedarf": "hoch",
+    "datenschutz_geprueft": false,
+    "bsi_geprueft": true,
+    "verwendungen": 2,
+    "beschreibung": "Daten zur Fahrerlaubnis: Klassen, Ausstellungsdatum, Einschränkungen.",
+    "felder": [
+      "Fahrerlaubnisklassen",
+      "Ausstellungsdatum",
+      "Ablaufdatum",
+      "Einschränkungen",
+      "Führerscheinnummer"
+    ],
+    "rechtsgrundlagen": [
+      {
+        "gesetz": "FeV"
+      },
+      {
+        "gesetz": "StVG"
+      }
+    ],
+    "verwendet_in": [
+      "vvt-32-010",
+      "vvt-34-007"
+    ]
+  },
+  {
+    "id": "dstore-gebuehrenbescheid-zahlungsdaten",
+    "name": "Gebührenbescheid und Zahlungsdaten",
+    "kategorie": "Finanzen & Zahlung",
+    "einheit": "oe-amt-20",
+    "schutzstufe": "C",
+    "schutzbedarf": "normal",
+    "vertraulichkeitsklasse": "vertraulich",
+    "bsi-vertraulichkeit": "normal",
+    "bsi-integritaet": "normal",
+    "bsi-verfuegbarkeit": "hoch",
+    "bsi-schutzbedarf": "hoch",
+    "datenschutz_geprueft": false,
+    "bsi_geprueft": true,
+    "verwendungen": 16,
+    "beschreibung": "Bescheid- und Zahlungsdaten zu Gebühren im Verwaltungsverfahren.",
+    "felder": [
+      "Gebührenart",
+      "Betrag",
+      "Bescheiddatum",
+      "Fälligkeit",
+      "Kassenzeichen",
+      "Zahlungsstatus"
+    ],
+    "rechtsgrundlagen": [
+      {
+        "gesetz": "VwKostR"
+      },
+      {
+        "gesetz": "Kommunalabgabenrecht"
+      }
+    ],
+    "verwendet_in": [
+      "vvt-20-001",
+      "vvt-22-004",
+      "vvt-32-007",
+      "vvt-32-013",
+      "vvt-32-020",
+      "vvt-33-005",
+      "vvt-34-001",
+      "vvt-38-001",
+      "vvt-40-005",
+      "vvt-41-002",
+      "vvt-51-015",
+      "vvt-53-006",
+      "vvt-60-008",
+      "vvt-60-009",
+      "vvt-62-001",
+      "vvt-86-001"
+    ]
+  },
+  {
+    "id": "dstore-genehmigung",
+    "name": "Genehmigung",
+    "kategorie": "Verwaltungsakte & Dokumente",
+    "einheit": "oe-amt-30",
+    "schutzstufe": "C",
+    "schutzbedarf": "hoch",
+    "vertraulichkeitsklasse": "vertraulich",
+    "bsi-vertraulichkeit": "normal",
+    "bsi-integritaet": "hoch",
+    "bsi-verfuegbarkeit": "normal",
+    "bsi-schutzbedarf": "hoch",
+    "datenschutz_geprueft": false,
+    "bsi_geprueft": true,
+    "verwendungen": 5,
+    "beschreibung": "Behördliche Genehmigung für eine beantragte Tätigkeit oder Maßnahme.",
+    "felder": [
+      "Genehmigungsnummer",
+      "Datum",
+      "Genehmigungsinhaber",
+      "Gegenstand",
+      "Auflagen",
+      "Gültigkeit"
+    ],
+    "rechtsgrundlagen": [
+      {
+        "gesetz": "NVwVfG"
+      },
+      {
+        "gesetz": "je nach Fachrecht"
+      }
+    ],
+    "verwendet_in": [
+      "vvt-34-003",
+      "vvt-41-006",
+      "vvt-53-006",
+      "vvt-60-001",
+      "vvt-60-003"
+    ]
+  },
+  {
+    "id": "dstore-geschlechtseintrag-erklaerung",
+    "name": "Geschlechtseintrag und Erklärung",
+    "kategorie": "Personenstand & Selbstbestimmung",
+    "einheit": "oe-amt-31",
+    "schutzstufe": "C",
+    "schutzbedarf": "hoch",
+    "vertraulichkeitsklasse": "vertraulich",
+    "bsi-vertraulichkeit": "normal",
+    "bsi-integritaet": "hoch",
+    "bsi-verfuegbarkeit": "normal",
+    "bsi-schutzbedarf": "hoch",
+    "datenschutz_geprueft": false,
+    "bsi_geprueft": true,
+    "verwendungen": 0,
+    "beschreibung": "Erklärungsdaten zur Änderung des Geschlechtseintrags und der Vornamen.",
+    "felder": [
+      "Erklärende Person",
+      "Bisheriger Eintrag",
+      "Neuer Eintrag",
+      "Vornamen",
+      "Erklärungsdatum",
+      "Standesamt"
+    ],
+    "rechtsgrundlagen": [
+      {
+        "gesetz": "SBGG"
+      }
+    ],
+    "verwendet_in": []
+  },
+  {
+    "id": "dstore-grabstaette-belegung",
+    "name": "Grabstätte, Nutzungsrecht und Belegung",
+    "kategorie": "Friedhof & Bestattung",
+    "einheit": "oe-amt-66",
+    "schutzstufe": "C",
+    "schutzbedarf": "normal",
+    "vertraulichkeitsklasse": "vertraulich",
+    "bsi-vertraulichkeit": "normal",
+    "bsi-integritaet": "normal",
+    "bsi-verfuegbarkeit": "normal",
+    "bsi-schutzbedarf": "normal",
+    "datenschutz_geprueft": false,
+    "bsi_geprueft": true,
+    "verwendungen": 1,
+    "beschreibung": "Zuordnung von Grabstätten zu Nutzungsberechtigten und Verstorbenen einschließlich Belegung, Laufzeit und Pflegevereinbarungen.",
+    "felder": [
+      "Grabstättenbezeichnung (Feld, Reihe, Nummer)",
+      "Grabart",
+      "Nutzungsberechtigte Person",
+      "Laufzeit des Nutzungsrechts",
+      "Bestattete Person mit Geburts- und Sterbedatum",
+      "Datum der Bestattung",
+      "Art der Bestattung einschließlich Einäscherung",
+      "Pflegevereinbarung"
+    ],
+    "rechtsgrundlagen": [
+      {
+        "gesetz": "DSGVO",
+        "artikel": "Art. 6 Abs. 1 lit. b, lit. c und lit. e"
+      },
+      {
+        "gesetz": "Nds. BestattG"
+      },
+      {
+        "gesetz": "Kommunale Friedhofssatzung"
+      }
+    ],
+    "verwendet_in": [
+      "vvt-66-001"
+    ]
+  },
+  {
+    "id": "dstore-grundsteuerbescheid-eigentum",
+    "name": "Grundsteuerbescheid Eigentum",
+    "kategorie": "Steuern & Eigentum",
+    "einheit": "oe-amt-22",
+    "schutzstufe": "C",
+    "schutzbedarf": "hoch",
+    "vertraulichkeitsklasse": "vertraulich",
+    "bsi-vertraulichkeit": "normal",
+    "bsi-integritaet": "hoch",
+    "bsi-verfuegbarkeit": "normal",
+    "bsi-schutzbedarf": "hoch",
+    "datenschutz_geprueft": false,
+    "bsi_geprueft": true,
+    "verwendungen": 1,
+    "beschreibung": "Bescheiddaten zur Grundsteuer für selbst genutztes oder vermietetes Wohneigentum.",
+    "felder": [
+      "Steuerobjekt",
+      "Aktenzeichen",
+      "Steuerjahr",
+      "Festgesetzter Betrag",
+      "Fälligkeit",
+      "Eigentümer"
+    ],
+    "rechtsgrundlagen": [
+      {
+        "gesetz": "GrStG"
+      }
+    ],
+    "verwendet_in": [
+      "vvt-22-004"
+    ]
+  },
+  {
+    "id": "dstore-grundstuecksbezug",
+    "name": "Grundstücksbezug",
+    "kategorie": "Bauen & Grundstück",
+    "einheit": "oe-amt-63",
+    "schutzstufe": "C",
+    "schutzbedarf": "normal",
+    "vertraulichkeitsklasse": "vertraulich",
+    "bsi-vertraulichkeit": "normal",
+    "bsi-integritaet": "hoch",
+    "bsi-verfuegbarkeit": "normal",
+    "bsi-schutzbedarf": "hoch",
+    "datenschutz_geprueft": false,
+    "bsi_geprueft": true,
+    "verwendungen": 12,
+    "beschreibung": "Grundstücksbezogene Daten zur Identifikation des Bau- oder Nutzungsvorhabens.",
+    "felder": [
+      "Straße",
+      "Hausnummer",
+      "Gemarkung",
+      "Flur",
+      "Flurstück",
+      "Lagebezeichnung"
+    ],
+    "rechtsgrundlagen": [
+      {
+        "gesetz": "NBauO"
+      }
+    ],
+    "verwendet_in": [
+      "vvt-23-001",
+      "vvt-23-003",
+      "vvt-23-006",
+      "vvt-23-007",
+      "vvt-60-011",
+      "vvt-60-012",
+      "vvt-61-001",
+      "vvt-61-003",
+      "vvt-61-004",
+      "vvt-61-005",
+      "vvt-63-003",
+      "vvt-63-004"
+    ]
+  },
+  {
+    "id": "dstore-haushaltsbescheinigung",
+    "name": "Haushaltsbescheinigung",
+    "kategorie": "Wohnen & Soziales",
+    "einheit": "oe-amt-50",
+    "schutzstufe": "C",
+    "schutzbedarf": "hoch",
+    "vertraulichkeitsklasse": "vertraulich",
+    "bsi-vertraulichkeit": "normal",
+    "bsi-integritaet": "normal",
+    "bsi-verfuegbarkeit": "hoch",
+    "bsi-schutzbedarf": "hoch",
+    "datenschutz_geprueft": false,
+    "bsi_geprueft": true,
+    "verwendungen": 0,
+    "beschreibung": "Behördliche Bescheinigung über die Zusammensetzung eines Haushalts.",
+    "felder": [
+      "Haushaltsvorstand",
+      "Haushaltsmitglieder",
+      "Anschrift",
+      "Ausstellungsdatum",
+      "Ausstellende Stelle",
+      "Gültigkeitsbezug"
+    ],
+    "rechtsgrundlagen": [
+      {
+        "gesetz": "WoGG"
+      }
+    ],
+    "verwendet_in": []
+  },
+  {
+    "id": "dstore-haushaltsmitglieder",
+    "name": "Haushaltsmitglieder und Haushaltsgröße",
+    "kategorie": "Wohnen & Soziales",
+    "einheit": "oe-amt-50",
+    "schutzstufe": "C",
+    "schutzbedarf": "normal",
+    "vertraulichkeitsklasse": "vertraulich",
+    "bsi-vertraulichkeit": "normal",
+    "bsi-integritaet": "normal",
+    "bsi-verfuegbarkeit": "normal",
+    "bsi-schutzbedarf": "normal",
+    "datenschutz_geprueft": false,
+    "bsi_geprueft": true,
+    "verwendungen": 4,
+    "beschreibung": "Daten zu den im Haushalt lebenden Personen und ihrer Anzahl.",
+    "felder": [
+      "Anzahl Haushaltsmitglieder",
+      "Person im Haushalt",
+      "Verwandtschaftsverhältnis",
+      "Geburtsdatum",
+      "Haushaltszugehörigkeit",
+      "Auszugs-/Einzugsdatum"
+    ],
+    "rechtsgrundlagen": [
+      {
+        "gesetz": "WoGG"
+      }
+    ],
+    "verwendet_in": [
+      "vvt-47-003",
+      "vvt-50-001",
+      "vvt-51-002",
+      "vvt-53-008"
+    ]
+  },
+  {
+    "id": "dstore-hebammenanzeige",
+    "name": "Anzeige und Aufsicht Hebammen",
+    "kategorie": "Gesundheitsberufe & Aufsicht",
+    "einheit": "oe-amt-53",
+    "schutzstufe": "C",
+    "schutzbedarf": "normal",
+    "vertraulichkeitsklasse": "vertraulich",
+    "bsi-vertraulichkeit": "normal",
+    "bsi-integritaet": "normal",
+    "bsi-verfuegbarkeit": "hoch",
+    "bsi-schutzbedarf": "hoch",
+    "datenschutz_geprueft": false,
+    "bsi_geprueft": true,
+    "verwendungen": 1,
+    "beschreibung": "Angaben zur Anzeige der Berufsausübung und zur Aufsicht über Hebammen nach dem Niedersächsischen Hebammengesetz.",
+    "felder": [
+      "Hebamme",
+      "Berufsbezeichnung und Erlaubnis",
+      "Anzeige der Tätigkeitsaufnahme mit Datum",
+      "Tätigkeitsort",
+      "Fortbildungsnachweis",
+      "Aufsichtsvorgänge und Beanstandungen"
+    ],
+    "rechtsgrundlagen": [
+      {
+        "gesetz": "DSGVO",
+        "artikel": "Art. 6 Abs. 1 lit. c und lit. e"
+      },
+      {
+        "gesetz": "Nds. HebG",
+        "artikel": "§ 7"
+      },
+      {
+        "gesetz": "Nds. HebG",
+        "artikel": "§ 8"
+      }
+    ],
+    "verwendet_in": [
+      "vvt-53-003"
+    ]
+  },
+  {
+    "id": "dstore-heiratsurkunde",
+    "name": "Heiratsurkunde",
+    "kategorie": "Standesamt",
+    "einheit": "oe-amt-31",
+    "schutzstufe": "C",
+    "schutzbedarf": "hoch",
+    "vertraulichkeitsklasse": "vertraulich",
+    "bsi-vertraulichkeit": "normal",
+    "bsi-integritaet": "hoch",
+    "bsi-verfuegbarkeit": "normal",
+    "bsi-schutzbedarf": "hoch",
+    "datenschutz_geprueft": false,
+    "bsi_geprueft": true,
+    "verwendungen": 2,
+    "beschreibung": "Personenstandsdokument über die Eheschließung zweier Personen.",
+    "felder": [
+      "Name Ehepartner 1",
+      "Name Ehepartner 2",
+      "Heiratsdatum",
+      "Heiratsort",
+      "Standesamtsnummer"
+    ],
+    "rechtsgrundlagen": [
+      {
+        "gesetz": "PStG"
+      },
+      {
+        "gesetz": "BGB"
+      }
+    ],
+    "verwendet_in": [
+      "vvt-31-002",
+      "vvt-31-003"
+    ]
+  },
+  {
+    "id": "dstore-integrationskursnachweis",
+    "name": "Integrationskursnachweis",
+    "kategorie": "Migration & Integration",
+    "einheit": "oe-amt-47",
+    "schutzstufe": "C",
+    "schutzbedarf": "hoch",
+    "vertraulichkeitsklasse": "vertraulich",
+    "bsi-vertraulichkeit": "normal",
+    "bsi-integritaet": "normal",
+    "bsi-verfuegbarkeit": "normal",
+    "bsi-schutzbedarf": "normal",
+    "datenschutz_geprueft": false,
+    "bsi_geprueft": true,
+    "verwendungen": 0,
+    "beschreibung": "Nachweise über Teilnahme oder Abschluss eines Integrationskurses.",
+    "felder": [
+      "Kursträger",
+      "Teilnahmezeitraum",
+      "Abschlussstatus",
+      "Zertifikat",
+      "Person",
+      "Prüfdatum"
+    ],
+    "rechtsgrundlagen": [
+      {
+        "gesetz": "AufenthG"
+      }
+    ],
+    "verwendet_in": []
+  },
+  {
+    "id": "dstore-kapitalertraege-zinsertraege",
+    "name": "Kapitalerträge und Zinserträge",
+    "kategorie": "Arbeit & Einkommen",
+    "einheit": "oe-amt-50",
+    "schutzstufe": "C",
+    "schutzbedarf": "hoch",
+    "vertraulichkeitsklasse": "vertraulich",
+    "bsi-vertraulichkeit": "normal",
+    "bsi-integritaet": "normal",
+    "bsi-verfuegbarkeit": "normal",
+    "bsi-schutzbedarf": "normal",
+    "datenschutz_geprueft": false,
+    "bsi_geprueft": true,
+    "verwendungen": 0,
+    "beschreibung": "Einkünfte aus Kapitalvermögen, die für Leistungs- oder Aufenthaltsverfahren relevant sein können.",
+    "felder": [
+      "Ertragsart",
+      "Kreditinstitut",
+      "Zeitraum",
+      "Bruttobetrag",
+      "Steuerbescheinigung",
+      "Kontoinhaber"
+    ],
+    "rechtsgrundlagen": [
+      {
+        "gesetz": "WoGG"
+      },
+      {
+        "gesetz": "EStG"
+      }
+    ],
+    "verwendet_in": []
+  },
+  {
+    "id": "dstore-kassenzeichen-buchungsreferenz",
+    "name": "Kassenzeichen und Buchungsreferenz",
+    "kategorie": "Finanzen & Zahlung",
+    "einheit": "oe-amt-20",
+    "schutzstufe": "C",
+    "schutzbedarf": "hoch",
+    "vertraulichkeitsklasse": "vertraulich",
+    "bsi-vertraulichkeit": "normal",
+    "bsi-integritaet": "hoch",
+    "bsi-verfuegbarkeit": "hoch",
+    "bsi-schutzbedarf": "hoch",
+    "datenschutz_geprueft": false,
+    "bsi_geprueft": true,
+    "verwendungen": 3,
+    "beschreibung": "Referenzkennzeichen zur Zuordnung von Forderungen und Zahlungen.",
+    "felder": [
+      "Kassenzeichen",
+      "Buchungsreferenz",
+      "Forderungsart",
+      "Betrag",
+      "Fälligkeit",
+      "Schuldner/in"
+    ],
+    "rechtsgrundlagen": [
+      {
+        "gesetz": "KomHKVO"
+      }
+    ],
+    "verwendet_in": [
+      "vvt-20-001",
+      "vvt-20-006",
+      "vvt-60-009"
+    ]
+  },
+  {
+    "id": "dstore-kfz-daten",
+    "name": "KFZ-Daten",
+    "kategorie": "Ordnung & Sicherheit",
+    "einheit": "oe-amt-34",
+    "schutzstufe": "C",
+    "schutzbedarf": "hoch",
+    "vertraulichkeitsklasse": "vertraulich",
+    "bsi-vertraulichkeit": "normal",
+    "bsi-integritaet": "hoch",
+    "bsi-verfuegbarkeit": "hoch",
+    "bsi-schutzbedarf": "hoch",
+    "datenschutz_geprueft": false,
+    "bsi_geprueft": true,
+    "verwendungen": 12,
+    "beschreibung": "Daten zur Kfz-Zulassung: Fahrzeughalter, Kennzeichen, Fahrzeugdaten.",
+    "felder": [
+      "Kennzeichen",
+      "Fahrzeughalter",
+      "FIN",
+      "Fahrzeugtyp",
+      "Zulassungsdatum",
+      "HU-Datum"
+    ],
+    "rechtsgrundlagen": [
+      {
+        "gesetz": "FZV"
+      },
+      {
+        "gesetz": "StVG"
+      }
+    ],
+    "verwendet_in": [
+      "vvt-10-010",
+      "vvt-32-003",
+      "vvt-32-007",
+      "vvt-32-008",
+      "vvt-32-009",
+      "vvt-32-010",
+      "vvt-32-020",
+      "vvt-32-022",
+      "vvt-33-007",
+      "vvt-34-003",
+      "vvt-34-008",
+      "vvt-66-003"
+    ]
+  },
+  {
+    "id": "dstore-kindergeldbezug",
+    "name": "Kindergeldbezug",
+    "kategorie": "Familie & Soziales",
+    "einheit": "oe-amt-50",
+    "schutzstufe": "C",
+    "schutzbedarf": "normal",
+    "vertraulichkeitsklasse": "vertraulich",
+    "bsi-vertraulichkeit": "normal",
+    "bsi-integritaet": "normal",
+    "bsi-verfuegbarkeit": "normal",
+    "bsi-schutzbedarf": "normal",
+    "datenschutz_geprueft": false,
+    "bsi_geprueft": true,
+    "verwendungen": 1,
+    "beschreibung": "Angaben zu Anspruch, Bezug und Nachweisen von Kindergeld.",
+    "felder": [
+      "Kindergeldbezug ja/nein",
+      "Kindergeldnummer",
+      "Bewilligungsstelle",
+      "Bewilligungszeitraum",
+      "Kindbezug",
+      "Nachweisart"
+    ],
+    "rechtsgrundlagen": [
+      {
+        "gesetz": "EStG"
+      },
+      {
+        "gesetz": "BKGG"
+      }
+    ],
+    "verwendet_in": [
+      "vvt-11-002"
+    ]
+  },
+  {
+    "id": "dstore-lageplan-geobasisdaten",
+    "name": "Lageplan und Geobasisdaten",
+    "kategorie": "Bauen & Grundstück",
+    "einheit": "oe-amt-62",
+    "schutzstufe": "C",
+    "schutzbedarf": "normal",
+    "vertraulichkeitsklasse": "vertraulich",
+    "bsi-vertraulichkeit": "normal",
+    "bsi-integritaet": "normal",
+    "bsi-verfuegbarkeit": "normal",
+    "bsi-schutzbedarf": "normal",
+    "datenschutz_geprueft": false,
+    "bsi_geprueft": true,
+    "verwendungen": 2,
+    "beschreibung": "Plan- und Kartengrundlagen zur räumlichen Einordnung eines Bauvorhabens.",
+    "felder": [
+      "Lageplan",
+      "Maßstab",
+      "Ausfertigungsdatum",
+      "vermessende Stelle",
+      "Koordinatenbezug",
+      "Grundstücksbezug"
+    ],
+    "rechtsgrundlagen": [
+      {
+        "gesetz": "NBauO"
+      }
+    ],
+    "verwendet_in": [
+      "vvt-15-003",
+      "vvt-34-001"
+    ]
+  },
+  {
+    "id": "dstore-lebensmittelhygienekontrolle",
+    "name": "Lebensmittelhygienekontrolle",
+    "kategorie": "Lebensmittelüberwachung",
+    "einheit": "oe-amt-71",
+    "schutzstufe": "C",
+    "schutzbedarf": "hoch",
+    "vertraulichkeitsklasse": "vertraulich",
+    "bsi-vertraulichkeit": "normal",
+    "bsi-integritaet": "hoch",
+    "bsi-verfuegbarkeit": "hoch",
+    "bsi-schutzbedarf": "hoch",
+    "datenschutz_geprueft": false,
+    "bsi_geprueft": true,
+    "verwendungen": 1,
+    "beschreibung": "Daten zu Hygienekontrollen in Lebensmittelbetrieben.",
+    "felder": [
+      "Betrieb",
+      "Kontrolltermin",
+      "Prüffeld",
+      "Feststellungen",
+      "Mängel",
+      "Auflagen"
+    ],
+    "rechtsgrundlagen": [
+      {
+        "gesetz": "LFGB"
+      },
+      {
+        "gesetz": "VO (EG) 852/2004"
+      }
+    ],
+    "verwendet_in": [
+      "vvt-71-003"
+    ]
+  },
+  {
+    "id": "dstore-lebensmittelunternehmerdaten",
+    "name": "Lebensmittelunternehmerdaten",
+    "kategorie": "Lebensmittelüberwachung",
+    "einheit": "oe-amt-71",
+    "schutzstufe": "C",
+    "schutzbedarf": "hoch",
+    "vertraulichkeitsklasse": "vertraulich",
+    "bsi-vertraulichkeit": "normal",
+    "bsi-integritaet": "normal",
+    "bsi-verfuegbarkeit": "normal",
+    "bsi-schutzbedarf": "normal",
+    "datenschutz_geprueft": false,
+    "bsi_geprueft": true,
+    "verwendungen": 1,
+    "beschreibung": "Stammdaten von Lebensmittelunternehmern und ihren Betrieben.",
+    "felder": [
+      "Unternehmen",
+      "Betriebsstätte",
+      "Verantwortliche Person",
+      "Tätigkeitsart",
+      "Registrierdatum",
+      "Kontakt"
+    ],
+    "rechtsgrundlagen": [
+      {
+        "gesetz": "LFGB"
+      }
+    ],
+    "verwendet_in": [
+      "vvt-71-003"
+    ]
+  },
+  {
+    "id": "dstore-leitwegid-peppolid",
+    "name": "Leitweg-ID und Peppol-ID",
+    "kategorie": "Finanzen & E-Government",
+    "einheit": "oe-amt-20",
+    "schutzstufe": "C",
+    "schutzbedarf": "hoch",
+    "vertraulichkeitsklasse": "vertraulich",
+    "bsi-vertraulichkeit": "normal",
+    "bsi-integritaet": "hoch",
+    "bsi-verfuegbarkeit": "normal",
+    "bsi-schutzbedarf": "hoch",
+    "datenschutz_geprueft": false,
+    "bsi_geprueft": true,
+    "verwendungen": 1,
+    "beschreibung": "Kennungen für die elektronische Übermittlung strukturierter Rechnungen.",
+    "felder": [
+      "Leitweg-ID",
+      "Peppol-ID",
+      "Gültigkeit",
+      "Zugeordnete Stelle",
+      "Format",
+      "Verwendung"
+    ],
+    "rechtsgrundlagen": [
+      {
+        "gesetz": "ERechV"
+      }
+    ],
+    "verwendet_in": [
+      "vvt-20-004"
+    ]
+  },
+  {
+    "id": "dstore-marktveranstaltungsdaten",
+    "name": "Marktveranstaltungsdaten",
+    "kategorie": "Veranstaltungen & Gewerbe",
+    "einheit": "oe-amt-38",
+    "schutzstufe": "C",
+    "schutzbedarf": "normal",
+    "vertraulichkeitsklasse": "vertraulich",
+    "bsi-vertraulichkeit": "normal",
+    "bsi-integritaet": "normal",
+    "bsi-verfuegbarkeit": "normal",
+    "bsi-schutzbedarf": "normal",
+    "datenschutz_geprueft": false,
+    "bsi_geprueft": true,
+    "verwendungen": 2,
+    "beschreibung": "Grunddaten einer Veranstaltung, für die eine Marktfestsetzung beantragt wird.",
+    "felder": [
+      "Veranstaltungsart",
+      "Titel",
+      "Ort",
+      "Beginn",
+      "Ende",
+      "Öffnungszeiten"
+    ],
+    "rechtsgrundlagen": [
+      {
+        "gesetz": "GewO"
+      }
+    ],
+    "verwendet_in": [
+      "vvt-32-013",
+      "vvt-38-001"
+    ]
+  },
+  {
+    "id": "dstore-mietbescheinigung",
+    "name": "Mietbescheinigung",
+    "kategorie": "Wohnen & Soziales",
+    "einheit": "oe-amt-64",
+    "schutzstufe": "C",
+    "schutzbedarf": "hoch",
+    "vertraulichkeitsklasse": "vertraulich",
+    "bsi-vertraulichkeit": "normal",
+    "bsi-integritaet": "normal",
+    "bsi-verfuegbarkeit": "hoch",
+    "bsi-schutzbedarf": "hoch",
+    "datenschutz_geprueft": false,
+    "bsi_geprueft": true,
+    "verwendungen": 0,
+    "beschreibung": "Bescheinigung des Vermieters zu Mietverhältnis, Wohnungsgröße und Nebenkosten.",
+    "felder": [
+      "Vermieter",
+      "Mietobjekt",
+      "Wohnfläche",
+      "Grundmiete",
+      "Nebenkosten",
+      "Einzugsdatum"
+    ],
+    "rechtsgrundlagen": [
+      {
+        "gesetz": "WoGG"
+      }
+    ],
+    "verwendet_in": []
+  },
+  {
+    "id": "dstore-miete-und-belastung",
+    "name": "Miete und Belastung",
+    "kategorie": "Wohnen & Soziales",
+    "einheit": "oe-amt-64",
+    "schutzstufe": "C",
+    "schutzbedarf": "normal",
+    "vertraulichkeitsklasse": "vertraulich",
+    "bsi-vertraulichkeit": "normal",
+    "bsi-integritaet": "normal",
+    "bsi-verfuegbarkeit": "normal",
+    "bsi-schutzbedarf": "normal",
+    "datenschutz_geprueft": false,
+    "bsi_geprueft": true,
+    "verwendungen": 0,
+    "beschreibung": "Daten zu monatlicher Miete oder Belastung bei selbstgenutztem Wohneigentum.",
+    "felder": [
+      "Bruttokaltmiete",
+      "Nebenkosten",
+      "Belastung",
+      "Wohnfläche",
+      "Zahlungsintervall",
+      "Beginn Mietverhältnis"
+    ],
+    "rechtsgrundlagen": [
+      {
+        "gesetz": "WoGG"
+      }
+    ],
+    "verwendet_in": []
+  },
+  {
+    "id": "dstore-musikschul-kursanmeldung",
+    "name": "Musikschul- und Kursanmeldung",
+    "kategorie": "Kultur & Bildung",
+    "einheit": "oe-amt-41",
+    "schutzstufe": "C",
+    "schutzbedarf": "normal",
+    "vertraulichkeitsklasse": "vertraulich",
+    "bsi-vertraulichkeit": "normal",
+    "bsi-integritaet": "normal",
+    "bsi-verfuegbarkeit": "normal",
+    "bsi-schutzbedarf": "normal",
+    "datenschutz_geprueft": false,
+    "bsi_geprueft": true,
+    "verwendungen": 1,
+    "beschreibung": "Daten zur Anmeldung für Musik-, Kunst- oder Kulturkurse.",
+    "felder": [
+      "Teilnehmer/in",
+      "Kurs",
+      "Instrument oder Fach",
+      "Gebührenstufe",
+      "Erziehungsberechtigte",
+      "Kontakt"
+    ],
+    "rechtsgrundlagen": [
+      {
+        "gesetz": "kommunale Satzung"
+      }
+    ],
+    "verwendet_in": [
+      "vvt-41-002"
+    ]
+  },
+  {
+    "id": "dstore-namensfuehrung-selbstbestimmung",
+    "name": "Namensführung und Selbstbestimmung",
+    "kategorie": "Personenstand & Namensrecht",
+    "einheit": "oe-amt-31",
+    "schutzstufe": "C",
+    "schutzbedarf": "hoch",
+    "vertraulichkeitsklasse": "vertraulich",
+    "bsi-vertraulichkeit": "normal",
+    "bsi-integritaet": "hoch",
+    "bsi-verfuegbarkeit": "normal",
+    "bsi-schutzbedarf": "hoch",
+    "datenschutz_geprueft": false,
+    "bsi_geprueft": true,
+    "verwendungen": 0,
+    "beschreibung": "Daten zur Namensführung in Verfahren der Selbstbestimmung oder Namensänderung.",
+    "felder": [
+      "Bisheriger Name",
+      "Neuer Name",
+      "Anlass",
+      "Wirksamkeitsdatum",
+      "Nachweis",
+      "Person"
+    ],
+    "rechtsgrundlagen": [
+      {
+        "gesetz": "SBGG"
+      },
+      {
+        "gesetz": "NamÄndG"
+      }
+    ],
+    "verwendet_in": []
+  },
+  {
+    "id": "dstore-parkberechtigungszone",
+    "name": "Parkberechtigungszone",
+    "kategorie": "Mobilität & Ordnung",
+    "einheit": "oe-amt-34",
+    "schutzstufe": "C",
+    "schutzbedarf": "hoch",
+    "vertraulichkeitsklasse": "vertraulich",
+    "bsi-vertraulichkeit": "normal",
+    "bsi-integritaet": "normal",
+    "bsi-verfuegbarkeit": "normal",
+    "bsi-schutzbedarf": "normal",
+    "datenschutz_geprueft": false,
+    "bsi_geprueft": true,
+    "verwendungen": 2,
+    "beschreibung": "Räumliche Zuordnungsdaten einer Parkberechtigung zu einer bestimmten Bewohnerparkzone.",
+    "felder": [
+      "Zonennummer",
+      "Straßenbezug",
+      "Antragsadresse",
+      "Gültigkeitsbereich",
+      "Ausstellungsdatum",
+      "Status"
+    ],
+    "rechtsgrundlagen": [
+      {
+        "gesetz": "StVO"
+      }
+    ],
+    "verwendet_in": [
+      "vvt-32-006",
+      "vvt-33-007"
+    ]
+  },
+  {
+    "id": "dstore-passersatzpapier",
+    "name": "Passersatzpapier",
+    "kategorie": "Identitätsdaten",
+    "einheit": "oe-amt-47",
+    "schutzstufe": "C",
+    "schutzbedarf": "hoch",
+    "vertraulichkeitsklasse": "vertraulich",
+    "bsi-vertraulichkeit": "normal",
+    "bsi-integritaet": "hoch",
+    "bsi-verfuegbarkeit": "normal",
+    "bsi-schutzbedarf": "hoch",
+    "datenschutz_geprueft": false,
+    "bsi_geprueft": true,
+    "verwendungen": 0,
+    "beschreibung": "Daten zu Passersatzpapieren oder Notreisedokumenten.",
+    "felder": [
+      "Dokumentart",
+      "Ausstellende Stelle",
+      "Gültigkeit",
+      "Seriennummer",
+      "Inhaber/in",
+      "Grund"
+    ],
+    "rechtsgrundlagen": [
+      {
+        "gesetz": "AufenthG"
+      }
+    ],
+    "verwendet_in": []
+  },
+  {
+    "id": "dstore-rechnungsadressierung-kommune",
+    "name": "Rechnungsadressierung Kommune",
+    "kategorie": "Finanzen & E-Government",
+    "einheit": "oe-amt-20",
+    "schutzstufe": "C",
+    "schutzbedarf": "hoch",
+    "vertraulichkeitsklasse": "vertraulich",
+    "bsi-vertraulichkeit": "normal",
+    "bsi-integritaet": "hoch",
+    "bsi-verfuegbarkeit": "normal",
+    "bsi-schutzbedarf": "hoch",
+    "datenschutz_geprueft": false,
+    "bsi_geprueft": true,
+    "verwendungen": 1,
+    "beschreibung": "Adressierungsdaten der Kommune für den elektronischen Rechnungsempfang.",
+    "felder": [
+      "Organisationseinheit",
+      "Rechnungsadresse",
+      "E-Mail oder Portal",
+      "Leitweg-ID",
+      "Ansprechpartner/in",
+      "Gültigkeit"
+    ],
+    "rechtsgrundlagen": [
+      {
+        "gesetz": "ERechV"
+      }
+    ],
+    "verwendet_in": [
+      "vvt-20-004"
+    ]
+  },
+  {
+    "id": "dstore-rechnungsdaten",
+    "name": "Rechnungsdaten",
+    "kategorie": "Finanzen & Steuern",
+    "einheit": "oe-amt-20",
+    "schutzstufe": "C",
+    "schutzbedarf": "hoch",
+    "vertraulichkeitsklasse": "vertraulich",
+    "bsi-vertraulichkeit": "normal",
+    "bsi-integritaet": "hoch",
+    "bsi-verfuegbarkeit": "normal",
+    "bsi-schutzbedarf": "hoch",
+    "datenschutz_geprueft": false,
+    "bsi_geprueft": true,
+    "verwendungen": 4,
+    "beschreibung": "Rechnungen und Buchungsdaten der Kommunalverwaltung.",
+    "felder": [
+      "Rechnungsnummer",
+      "Datum",
+      "Aussteller",
+      "Empfänger",
+      "Betrag",
+      "MwSt"
+    ],
+    "rechtsgrundlagen": [
+      {
+        "gesetz": "HGB"
+      },
+      {
+        "gesetz": "GoBD"
+      }
+    ],
+    "verwendet_in": [
+      "vvt-10-025",
+      "vvt-15-003",
+      "vvt-20-004",
+      "vvt-66-003"
+    ]
+  },
+  {
+    "id": "dstore-rechnungskorrektur-storno",
+    "name": "Rechnungskorrektur und Storno",
+    "kategorie": "Finanzen & Buchung",
+    "einheit": "oe-amt-20",
+    "schutzstufe": "C",
+    "schutzbedarf": "hoch",
+    "vertraulichkeitsklasse": "vertraulich",
+    "bsi-vertraulichkeit": "normal",
+    "bsi-integritaet": "hoch",
+    "bsi-verfuegbarkeit": "normal",
+    "bsi-schutzbedarf": "hoch",
+    "datenschutz_geprueft": false,
+    "bsi_geprueft": true,
+    "verwendungen": 1,
+    "beschreibung": "Daten zu Korrektur-, Gutschrift- oder Stornovorgängen bei Rechnungen.",
+    "felder": [
+      "Ursprungsrechnung",
+      "Korrekturgrund",
+      "Korrekturbetrag",
+      "Datum",
+      "Bezug",
+      "Bearbeitungsstatus"
+    ],
+    "rechtsgrundlagen": [
+      {
+        "gesetz": "ERechV"
+      }
+    ],
+    "verwendet_in": [
+      "vvt-20-004"
+    ]
+  },
+  {
+    "id": "dstore-reisekosten-aufenthaltsverfahren",
+    "name": "Reisekosten Aufenthaltsverfahren",
+    "kategorie": "Migration & Kosten",
+    "einheit": "oe-amt-47",
+    "schutzstufe": "C",
+    "schutzbedarf": "hoch",
+    "vertraulichkeitsklasse": "vertraulich",
+    "bsi-vertraulichkeit": "normal",
+    "bsi-integritaet": "normal",
+    "bsi-verfuegbarkeit": "normal",
+    "bsi-schutzbedarf": "normal",
+    "datenschutz_geprueft": false,
+    "bsi_geprueft": true,
+    "verwendungen": 0,
+    "beschreibung": "Kosten- und Erstattungsdaten im Zusammenhang mit ausländerrechtlichen Verfahren.",
+    "felder": [
+      "Reiseanlass",
+      "Strecke",
+      "Betrag",
+      "Nachweis",
+      "Person",
+      "Datum"
+    ],
+    "rechtsgrundlagen": [
+      {
+        "gesetz": "AufenthG"
+      }
+    ],
+    "verwendet_in": []
+  },
+  {
+    "id": "dstore-scheidungsnachweis",
+    "name": "Scheidungsnachweis",
+    "kategorie": "Personenstandsdaten",
+    "einheit": "oe-amt-31",
+    "schutzstufe": "C",
+    "schutzbedarf": "normal",
+    "vertraulichkeitsklasse": "vertraulich",
+    "bsi-vertraulichkeit": "normal",
+    "bsi-integritaet": "hoch",
+    "bsi-verfuegbarkeit": "normal",
+    "bsi-schutzbedarf": "hoch",
+    "datenschutz_geprueft": false,
+    "bsi_geprueft": true,
+    "verwendungen": 0,
+    "beschreibung": "Gerichtliche oder registerbezogene Nachweise über die Auflösung einer Ehe.",
+    "felder": [
+      "Gericht",
+      "Aktenzeichen",
+      "Rechtskraftdatum",
+      "Datum Entscheidung",
+      "betroffene Ehe",
+      "Nachweisart"
+    ],
+    "rechtsgrundlagen": [
+      {
+        "gesetz": "FamFG"
+      },
+      {
+        "gesetz": "BGB"
+      }
+    ],
+    "verwendet_in": []
+  },
+  {
+    "id": "dstore-sepa-lastschriftmandat",
+    "name": "SEPA-Lastschriftmandat",
+    "kategorie": "Finanzen & Zahlung",
+    "einheit": "oe-amt-20",
+    "schutzstufe": "C",
+    "schutzbedarf": "normal",
+    "vertraulichkeitsklasse": "vertraulich",
+    "bsi-vertraulichkeit": "normal",
+    "bsi-integritaet": "normal",
+    "bsi-verfuegbarkeit": "normal",
+    "bsi-schutzbedarf": "normal",
+    "datenschutz_geprueft": false,
+    "bsi_geprueft": true,
+    "verwendungen": 2,
+    "beschreibung": "Mandatsdaten zur Einziehung von Gebühren oder laufenden Abgaben per Lastschrift.",
+    "felder": [
+      "Mandatsreferenz",
+      "Gläubiger-ID",
+      "Kontoinhaber",
+      "IBAN",
+      "Erteilungsdatum",
+      "Unterschrift"
+    ],
+    "rechtsgrundlagen": [
+      {
+        "gesetz": "SEPA-Regelwerk"
+      }
+    ],
+    "verwendet_in": [
+      "vvt-40-003",
+      "vvt-60-009"
+    ]
+  },
+  {
+    "id": "dstore-servicekonto-nutzeridentitaet",
+    "name": "Servicekonto und Nutzeridentität",
+    "kategorie": "Digitale Verwaltung",
+    "einheit": "oe-amt-1-6",
+    "schutzstufe": "C",
+    "schutzbedarf": "hoch",
+    "vertraulichkeitsklasse": "vertraulich",
+    "bsi-vertraulichkeit": "normal",
+    "bsi-integritaet": "hoch",
+    "bsi-verfuegbarkeit": "normal",
+    "bsi-schutzbedarf": "hoch",
+    "datenschutz_geprueft": false,
+    "bsi_geprueft": true,
+    "verwendungen": 1,
+    "beschreibung": "Konten- und Identitätsdaten eines verwaltungsbezogenen Online-Servicekontos.",
+    "felder": [
+      "Kontotyp",
+      "Nutzerkennung",
+      "Authentifizierungsniveau",
+      "Verknüpfte Person",
+      "Kontaktadresse",
+      "Registrierungsdatum"
+    ],
+    "rechtsgrundlagen": [
+      {
+        "gesetz": "OZG"
+      },
+      {
+        "gesetz": "EGovG"
+      }
+    ],
+    "verwendet_in": [
+      "vvt-15-003"
+    ]
+  },
+  {
+    "id": "dstore-sitzungsprotokoll",
+    "name": "Sitzungsprotokoll",
+    "kategorie": "Wahlen & Gremien",
+    "einheit": "oe-amt-10",
+    "schutzstufe": "C",
+    "schutzbedarf": "hoch",
+    "vertraulichkeitsklasse": "vertraulich",
+    "bsi-vertraulichkeit": "normal",
+    "bsi-integritaet": "normal",
+    "bsi-verfuegbarkeit": "hoch",
+    "bsi-schutzbedarf": "hoch",
+    "datenschutz_geprueft": false,
+    "bsi_geprueft": true,
+    "verwendungen": 8,
+    "beschreibung": "Protokoll einer Rats- oder Ausschusssitzung.",
+    "felder": [
+      "Gremium",
+      "Sitzungsdatum",
+      "Teilnehmer",
+      "Tagesordnung",
+      "Beschlüsse",
+      "Abstimmungsergebnisse"
+    ],
+    "rechtsgrundlagen": [
+      {
+        "gesetz": "NKomVG"
+      }
+    ],
+    "verwendet_in": [
+      "vvt-1-1-001",
+      "vvt-1-1-002",
+      "vvt-1-1-003",
+      "vvt-10-013",
+      "vvt-10-014",
+      "vvt-10-015",
+      "vvt-10-022",
+      "vvt-86-002"
+    ]
+  },
+  {
+    "id": "dstore-spende-zuwendung",
+    "name": "Spende und Zuwendung",
+    "kategorie": "Finanzen & Zahlung",
+    "einheit": "oe-amt-10",
+    "schutzstufe": "C",
+    "schutzbedarf": "normal",
+    "vertraulichkeitsklasse": "vertraulich",
+    "bsi-vertraulichkeit": "normal",
+    "bsi-integritaet": "hoch",
+    "bsi-verfuegbarkeit": "hoch",
+    "bsi-schutzbedarf": "hoch",
+    "datenschutz_geprueft": false,
+    "bsi_geprueft": true,
+    "verwendungen": 1,
+    "beschreibung": "Angaben zu einer Spende oder Zuwendung an die Kommune einschließlich Zweckbindung und Zuwendungsbestätigung.",
+    "felder": [
+      "Zuwendende Person oder Organisation",
+      "Spendenbetrag",
+      "Datum und Zahlungsart",
+      "Zweckbindung",
+      "Sachspende mit Bezeichnung und Wert",
+      "ausgestellte Zuwendungsbestätigung",
+      "Annahmebeschluss nach § 97 NKomVG"
+    ],
+    "rechtsgrundlagen": [
+      {
+        "gesetz": "DSGVO",
+        "artikel": "Art. 6 Abs. 1 lit. c und lit. e"
+      },
+      {
+        "gesetz": "NKomVG",
+        "artikel": "§ 97"
+      },
+      {
+        "gesetz": "EStDV",
+        "artikel": "§ 50"
+      },
+      {
+        "gesetz": "AO",
+        "artikel": "§ 147"
+      }
+    ],
+    "verwendet_in": [
+      "vvt-10-017"
+    ]
+  },
+  {
+    "id": "dstore-sprachkenntnisnachweis",
+    "name": "Sprachkenntnisnachweis",
+    "kategorie": "Migration & Bildung",
+    "einheit": "oe-amt-47",
+    "schutzstufe": "C",
+    "schutzbedarf": "hoch",
+    "vertraulichkeitsklasse": "vertraulich",
+    "bsi-vertraulichkeit": "normal",
+    "bsi-integritaet": "normal",
+    "bsi-verfuegbarkeit": "normal",
+    "bsi-schutzbedarf": "normal",
+    "datenschutz_geprueft": false,
+    "bsi_geprueft": true,
+    "verwendungen": 0,
+    "beschreibung": "Nachweise über Sprachkenntnisse, insbesondere für Aufenthalts- und Einbürgerungsverfahren.",
+    "felder": [
+      "Sprache",
+      "Niveau",
+      "Prüfungsstelle",
+      "Prüfdatum",
+      "Zertifikat",
+      "Person"
+    ],
+    "rechtsgrundlagen": [
+      {
+        "gesetz": "AufenthG"
+      },
+      {
+        "gesetz": "StAG"
+      }
+    ],
+    "verwendet_in": []
+  },
+  {
+    "id": "dstore-standsicherheitsnachweis",
+    "name": "Standsicherheitsnachweis",
+    "kategorie": "Bauen & Grundstück",
+    "einheit": "oe-amt-63",
+    "schutzstufe": "C",
+    "schutzbedarf": "normal",
+    "vertraulichkeitsklasse": "vertraulich",
+    "bsi-vertraulichkeit": "normal",
+    "bsi-integritaet": "hoch",
+    "bsi-verfuegbarkeit": "normal",
+    "bsi-schutzbedarf": "hoch",
+    "datenschutz_geprueft": false,
+    "bsi_geprueft": true,
+    "verwendungen": 0,
+    "beschreibung": "Nachweisdaten zur Tragfähigkeit und Standsicherheit eines Bauwerks.",
+    "felder": [
+      "Nachweisart",
+      "erstellende Person",
+      "Prüfdatum",
+      "Prüfstatus",
+      "Bauwerksbezug",
+      "Unterlagenverweis"
+    ],
+    "rechtsgrundlagen": [
+      {
+        "gesetz": "NBauO"
+      }
+    ],
+    "verwendet_in": []
+  },
+  {
+    "id": "dstore-steuerdaten",
+    "name": "Steuerdaten",
+    "kategorie": "Finanzen & Steuern",
+    "einheit": "oe-amt-22",
+    "schutzstufe": "C",
+    "schutzbedarf": "hoch",
+    "vertraulichkeitsklasse": "vertraulich",
+    "bsi-vertraulichkeit": "normal",
+    "bsi-integritaet": "sehr hoch",
+    "bsi-verfuegbarkeit": "normal",
+    "bsi-schutzbedarf": "sehr hoch",
+    "datenschutz_geprueft": false,
+    "bsi_geprueft": true,
+    "verwendungen": 6,
+    "beschreibung": "Steuerrelevante Daten für kommunale Steuern: Grundsteuer, Gewerbesteuer, Hundesteuer.",
+    "felder": [
+      "Steuernummer",
+      "Steuerart",
+      "Bemessungsgrundlage",
+      "Steuerbescheid",
+      "Fälligkeit"
+    ],
+    "rechtsgrundlagen": [
+      {
+        "gesetz": "AO"
+      },
+      {
+        "gesetz": "GrStG"
+      },
+      {
+        "gesetz": "GewStG"
+      }
+    ],
+    "verwendet_in": [
+      "vvt-10-015",
+      "vvt-10-017",
+      "vvt-20-004",
+      "vvt-22-004",
+      "vvt-32-023",
+      "vvt-33-001"
+    ]
+  },
+  {
+    "id": "dstore-technische-nutzungsdaten-webangebot",
+    "name": "Technische Nutzungsdaten eines Webangebots",
+    "kategorie": "Digitale Verwaltung",
+    "einheit": "oe-amt-15",
+    "schutzstufe": "C",
+    "schutzbedarf": "normal",
+    "vertraulichkeitsklasse": "vertraulich",
+    "bsi-vertraulichkeit": "normal",
+    "bsi-integritaet": "normal",
+    "bsi-verfuegbarkeit": "normal",
+    "bsi-schutzbedarf": "normal",
+    "datenschutz_geprueft": false,
+    "bsi_geprueft": true,
+    "verwendungen": 1,
+    "beschreibung": "Verbindungs- und Sitzungsdaten, die beim Aufruf eines Webangebots der Kommune technisch anfallen.",
+    "felder": [
+      "IP-Adresse",
+      "Zeitstempel",
+      "Session-ID",
+      "Browsertyp und Betriebssystem",
+      "aufgerufene Funktion",
+      "Fehler- und Störungsmeldungen"
+    ],
+    "rechtsgrundlagen": [
+      {
+        "gesetz": "DSGVO",
+        "artikel": "Art. 6 Abs. 1 lit. e"
+      },
+      {
+        "gesetz": "DSGVO",
+        "artikel": "Art. 6 Abs. 1 lit. f"
+      },
+      {
+        "gesetz": "TDDDG",
+        "artikel": "§ 25"
+      },
+      {
+        "gesetz": "NDSG",
+        "artikel": "§ 3"
+      }
+    ],
+    "verwendet_in": [
+      "vvt-15-002"
+    ]
+  },
+  {
+    "id": "dstore-uebersetzung-apostille-legalisation",
+    "name": "Übersetzung, Apostille und Legalisation",
+    "kategorie": "Auslandsbezug & Dokumente",
+    "einheit": "oe-amt-30",
+    "schutzstufe": "C",
+    "schutzbedarf": "normal",
+    "vertraulichkeitsklasse": "vertraulich",
+    "bsi-vertraulichkeit": "normal",
+    "bsi-integritaet": "hoch",
+    "bsi-verfuegbarkeit": "normal",
+    "bsi-schutzbedarf": "hoch",
+    "datenschutz_geprueft": false,
+    "bsi_geprueft": true,
+    "verwendungen": 0,
+    "beschreibung": "Begleit- und Echtheitsnachweise für ausländische Dokumente im deutschen Verwaltungsverfahren.",
+    "felder": [
+      "beeidigte Übersetzung",
+      "Apostille",
+      "Legalisation",
+      "Ausstellungsstaat",
+      "Prüfvermerk",
+      "Beglaubigungsdatum"
+    ],
+    "rechtsgrundlagen": [
+      {
+        "gesetz": "VwVfG"
+      },
+      {
+        "gesetz": "PStG"
+      }
+    ],
+    "verwendet_in": []
+  },
+  {
+    "id": "dstore-umweltdaten",
+    "name": "Umweltdaten",
+    "kategorie": "Umwelt & Gesundheit",
+    "einheit": "oe-amt-60",
+    "schutzstufe": "C",
+    "schutzbedarf": "hoch",
+    "vertraulichkeitsklasse": "vertraulich",
+    "bsi-vertraulichkeit": "normal",
+    "bsi-integritaet": "hoch",
+    "bsi-verfuegbarkeit": "hoch",
+    "bsi-schutzbedarf": "hoch",
+    "datenschutz_geprueft": false,
+    "bsi_geprueft": true,
+    "verwendungen": 7,
+    "beschreibung": "Daten zu Umweltschutzmaßnahmen: Naturschutz, Immissionsschutz, Gewässerschutz.",
+    "felder": [
+      "Schutzgebiet",
+      "Messwerte",
+      "Grenzwerte",
+      "Maßnahmen",
+      "Genehmigung"
+    ],
+    "rechtsgrundlagen": [
+      {
+        "gesetz": "BNatSchG"
+      },
+      {
+        "gesetz": "BImSchG"
+      },
+      {
+        "gesetz": "WHG"
+      }
+    ],
+    "verwendet_in": [
+      "vvt-60-001",
+      "vvt-60-002",
+      "vvt-60-003",
+      "vvt-60-004",
+      "vvt-60-005",
+      "vvt-60-011",
+      "vvt-60-012"
+    ]
+  },
+  {
+    "id": "dstore-veranstalterdaten",
+    "name": "Veranstalterdaten",
+    "kategorie": "Veranstaltungen & Gewerbe",
+    "einheit": "oe-amt-38",
+    "schutzstufe": "C",
+    "schutzbedarf": "normal",
+    "vertraulichkeitsklasse": "vertraulich",
+    "bsi-vertraulichkeit": "normal",
+    "bsi-integritaet": "normal",
+    "bsi-verfuegbarkeit": "normal",
+    "bsi-schutzbedarf": "normal",
+    "datenschutz_geprueft": false,
+    "bsi_geprueft": true,
+    "verwendungen": 2,
+    "beschreibung": "Identitäts-, Kontakt- und Organisationsdaten einer veranstaltenden Person oder Stelle.",
+    "felder": [
+      "Name oder Firma",
+      "Anschrift",
+      "Ansprechperson",
+      "Telefon",
+      "E-Mail",
+      "Rechtsform"
+    ],
+    "rechtsgrundlagen": [
+      {
+        "gesetz": "GewO"
+      }
+    ],
+    "verwendet_in": [
+      "vvt-32-013",
+      "vvt-38-001"
+    ]
+  },
+  {
+    "id": "dstore-vergabe-auftragsbezug",
+    "name": "Vergabe- und Auftragsbezug",
+    "kategorie": "Beschaffung & Finanzen",
+    "einheit": "oe-amt-10",
+    "schutzstufe": "C",
+    "schutzbedarf": "hoch",
+    "vertraulichkeitsklasse": "vertraulich",
+    "bsi-vertraulichkeit": "normal",
+    "bsi-integritaet": "hoch",
+    "bsi-verfuegbarkeit": "normal",
+    "bsi-schutzbedarf": "hoch",
+    "datenschutz_geprueft": false,
+    "bsi_geprueft": true,
+    "verwendungen": 6,
+    "beschreibung": "Daten zum Bezug einer Rechnung oder Zahlung auf Vergabe- und Auftragsvorgänge.",
+    "felder": [
+      "Vergabenummer",
+      "Auftragnehmer/in",
+      "Leistungsbeschreibung",
+      "Bestelldatum",
+      "Auftragswert",
+      "Rechnungsbezug"
+    ],
+    "rechtsgrundlagen": [
+      {
+        "gesetz": "VgV"
+      },
+      {
+        "gesetz": "UVgO"
+      }
+    ],
+    "verwendet_in": [
+      "vvt-10-009",
+      "vvt-10-012",
+      "vvt-10-025",
+      "vvt-15-004",
+      "vvt-20-004",
+      "vvt-40-009"
+    ]
+  },
+  {
+    "id": "dstore-vergabekriterien-einheimischenmodell",
+    "name": "Vergabekriterien Wohnbaugrundstücke (Einheimischenmodell)",
+    "kategorie": "Bauen & Grundstück",
+    "einheit": "oe-amt-23",
+    "schutzstufe": "C",
+    "schutzbedarf": "normal",
+    "vertraulichkeitsklasse": "vertraulich",
+    "bsi-vertraulichkeit": "normal",
+    "bsi-integritaet": "normal",
+    "bsi-verfuegbarkeit": "normal",
+    "bsi-schutzbedarf": "normal",
+    "datenschutz_geprueft": false,
+    "bsi_geprueft": true,
+    "verwendungen": 1,
+    "beschreibung": "Angaben zur Bewertung von Bewerbungen um städtische Wohnbaugrundstücke nach den Kriterien der kommunalen Vergaberichtlinie.",
+    "felder": [
+      "Bewerbende Person",
+      "Dauer der Ortsbindung (Wohnsitz oder Arbeitsstätte)",
+      "Zahl der im Haushalt lebenden Kinder",
+      "Haushaltseinkommen",
+      "erreichte Punktzahl",
+      "Rangfolge im Vergabeverfahren",
+      "Zu- oder Absage"
+    ],
+    "rechtsgrundlagen": [
+      {
+        "gesetz": "DSGVO",
+        "artikel": "Art. 6 Abs. 1 lit. e"
+      },
+      {
+        "gesetz": "NKomVG",
+        "artikel": "§ 125"
+      },
+      {
+        "gesetz": "NDSG",
+        "artikel": "§ 3"
+      }
+    ],
+    "verwendet_in": [
+      "vvt-23-007"
+    ]
+  },
+  {
+    "id": "dstore-vergabeunterlagen",
+    "name": "Vergabeunterlagen",
+    "kategorie": "Finanzen & Steuern",
+    "einheit": "oe-amt-10",
+    "schutzstufe": "C",
+    "schutzbedarf": "hoch",
+    "vertraulichkeitsklasse": "vertraulich",
+    "bsi-vertraulichkeit": "normal",
+    "bsi-integritaet": "hoch",
+    "bsi-verfuegbarkeit": "normal",
+    "bsi-schutzbedarf": "hoch",
+    "datenschutz_geprueft": false,
+    "bsi_geprueft": true,
+    "verwendungen": 3,
+    "beschreibung": "Unterlagen zu öffentlichen Ausschreibungen und Vergabeverfahren.",
+    "felder": [
+      "Ausschreibungsnummer",
+      "Leistungsbeschreibung",
+      "Angebotsdaten",
+      "Eignungsnachweise",
+      "Zuschlag"
+    ],
+    "rechtsgrundlagen": [
+      {
+        "gesetz": "GWB"
+      },
+      {
+        "gesetz": "VgV"
+      },
+      {
+        "gesetz": "UVgO"
+      }
+    ],
+    "verwendet_in": [
+      "vvt-10-009",
+      "vvt-30-003",
+      "vvt-40-009"
+    ]
+  },
+  {
+    "id": "dstore-verwahrgut-sicherstellung",
+    "name": "Verwahrgut aus Sicherstellung",
+    "kategorie": "Sicherheit & Ordnung",
+    "einheit": "oe-amt-20",
+    "schutzstufe": "C",
+    "schutzbedarf": "hoch",
+    "vertraulichkeitsklasse": "vertraulich",
+    "bsi-vertraulichkeit": "normal",
+    "bsi-integritaet": "hoch",
+    "bsi-verfuegbarkeit": "hoch",
+    "bsi-schutzbedarf": "hoch",
+    "datenschutz_geprueft": false,
+    "bsi_geprueft": true,
+    "verwendungen": 2,
+    "beschreibung": "Nachweis über Gegenstände, die nach § 26 NPOG sichergestellt und nach § 27 NPOG in Verwahrung genommen wurden, bis zu ihrer Herausgabe nach § 29 NPOG oder ihrer Verwertung nach § 28 NPOG.",
+    "felder": [
+      "laufende Nummer des Verwahrvorgangs",
+      "Grund und Zeitpunkt der Sicherstellung, anordnende Stelle",
+      "Person, gegenüber der sichergestellt wurde",
+      "berechtigte Person, soweit sie von dieser abweicht",
+      "Beschreibung und geschätzter Wert des Gegenstands",
+      "Verwahrort",
+      "Herausgabevermerk mit Datum und empfangender Person",
+      "Verwertungs- oder Vernichtungsvermerk mit Erlös",
+      "Kostenforderung nach § 29 NPOG und deren Erledigung"
+    ],
+    "rechtsgrundlagen": [
+      {
+        "gesetz": "DSGVO",
+        "artikel": "Art. 6 Abs. 1 lit. c und lit. e"
+      },
+      {
+        "gesetz": "NDSG",
+        "artikel": "§ 3"
+      },
+      {
+        "gesetz": "NPOG",
+        "artikel": "§§ 26 bis 29"
+      }
+    ],
+    "verwendet_in": [
+      "vvt-20-003",
+      "vvt-32-007"
+    ]
+  },
+  {
+    "id": "dstore-vollmacht",
+    "name": "Vollmacht",
+    "kategorie": "Verwaltungsakte & Dokumente",
+    "einheit": "oe-amt-10",
+    "schutzstufe": "C",
+    "schutzbedarf": "hoch",
+    "vertraulichkeitsklasse": "vertraulich",
+    "bsi-vertraulichkeit": "normal",
+    "bsi-integritaet": "normal",
+    "bsi-verfuegbarkeit": "normal",
+    "bsi-schutzbedarf": "normal",
+    "datenschutz_geprueft": false,
+    "bsi_geprueft": true,
+    "verwendungen": 0,
+    "beschreibung": "Vollmacht zur Vertretung einer Person gegenüber einer Behörde.",
+    "felder": [
+      "Vollmachtgeber",
+      "Bevollmächtigter",
+      "Umfang",
+      "Datum",
+      "Unterschrift"
+    ],
+    "rechtsgrundlagen": [
+      {
+        "gesetz": "BGB"
+      },
+      {
+        "gesetz": "NVwVfG"
+      }
+    ],
+    "verwendet_in": []
+  },
+  {
+    "id": "dstore-wahlunterlagen",
+    "name": "Wahlunterlagen",
+    "kategorie": "Wahlen & Gremien",
+    "einheit": "oe-amt-10",
+    "schutzstufe": "C",
+    "schutzbedarf": "hoch",
+    "vertraulichkeitsklasse": "vertraulich",
+    "bsi-vertraulichkeit": "normal",
+    "bsi-integritaet": "normal",
+    "bsi-verfuegbarkeit": "hoch",
+    "bsi-schutzbedarf": "hoch",
+    "datenschutz_geprueft": false,
+    "bsi_geprueft": true,
+    "verwendungen": 6,
+    "beschreibung": "Unterlagen zu Wahlen: Wählerverzeichnis, Wahlschein, Briefwahlunterlagen.",
+    "felder": [
+      "Wähler",
+      "Wahlbezirk",
+      "Wahlschein",
+      "Stimmzettel",
+      "Briefwahlunterlagen"
+    ],
+    "rechtsgrundlagen": [
+      {
+        "gesetz": "NKomVG"
+      },
+      {
+        "gesetz": "BWG"
+      },
+      {
+        "gesetz": "NKWG"
+      }
+    ],
+    "verwendet_in": [
+      "vvt-10-001",
+      "vvt-10-003",
+      "vvt-10-006",
+      "vvt-10-007",
+      "vvt-10-008",
+      "vvt-33-008"
+    ]
+  },
+  {
+    "id": "dstore-werbeanlage-beschilderung",
+    "name": "Werbeanlage und Beschilderung",
+    "kategorie": "Öffentlicher Raum & Ordnung",
+    "einheit": "oe-amt-63",
+    "schutzstufe": "C",
+    "schutzbedarf": "normal",
+    "vertraulichkeitsklasse": "vertraulich",
+    "bsi-vertraulichkeit": "normal",
+    "bsi-integritaet": "normal",
+    "bsi-verfuegbarkeit": "normal",
+    "bsi-schutzbedarf": "normal",
+    "datenschutz_geprueft": false,
+    "bsi_geprueft": true,
+    "verwendungen": 0,
+    "beschreibung": "Daten zu Gestaltung, Standort und Dimension einer Werbeanlage.",
+    "felder": [
+      "Art der Werbeanlage",
+      "Standort",
+      "Maße",
+      "Beleuchtung",
+      "Befestigungsart",
+      "Gestaltung"
+    ],
+    "rechtsgrundlagen": [
+      {
+        "gesetz": "NBauO"
+      }
+    ],
+    "verwendet_in": []
+  },
+  {
+    "id": "dstore-wohnflaeche-nutzflaeche",
+    "name": "Wohnfläche und Nutzfläche",
+    "kategorie": "Bauen & Grundstück",
+    "einheit": "oe-amt-64",
+    "schutzstufe": "C",
+    "schutzbedarf": "normal",
+    "vertraulichkeitsklasse": "vertraulich",
+    "bsi-vertraulichkeit": "normal",
+    "bsi-integritaet": "normal",
+    "bsi-verfuegbarkeit": "normal",
+    "bsi-schutzbedarf": "normal",
+    "datenschutz_geprueft": false,
+    "bsi_geprueft": true,
+    "verwendungen": 1,
+    "beschreibung": "Flächenbezogene Angaben eines Gebäudes oder einer Nutzungseinheit.",
+    "felder": [
+      "Wohnfläche",
+      "Nutzfläche",
+      "Teilflächen",
+      "Berechnungsmethode",
+      "Einheit",
+      "Bezugsobjekt"
+    ],
+    "rechtsgrundlagen": [
+      {
+        "gesetz": "NBauO"
+      },
+      {
+        "gesetz": "WoFG"
+      }
+    ],
+    "verwendet_in": [
+      "vvt-64-001"
+    ]
+  },
+  {
+    "id": "dstore-wohnraumnachweis-aufenthalt",
+    "name": "Wohnraumnachweis Aufenthalt",
+    "kategorie": "Migration & Aufenthalt",
+    "einheit": "oe-amt-47",
+    "schutzstufe": "C",
+    "schutzbedarf": "hoch",
+    "vertraulichkeitsklasse": "vertraulich",
+    "bsi-vertraulichkeit": "normal",
+    "bsi-integritaet": "normal",
+    "bsi-verfuegbarkeit": "normal",
+    "bsi-schutzbedarf": "normal",
+    "datenschutz_geprueft": false,
+    "bsi_geprueft": true,
+    "verwendungen": 2,
+    "beschreibung": "Nachweise zum verfügbaren Wohnraum für aufenthaltsrechtliche Verfahren.",
+    "felder": [
+      "Anschrift",
+      "Wohnfläche",
+      "Bewohnerzahl",
+      "Mietverhältnis",
+      "Eigentumsbezug",
+      "Nachweis"
+    ],
+    "rechtsgrundlagen": [
+      {
+        "gesetz": "AufenthG"
+      }
+    ],
+    "verwendet_in": [
+      "vvt-47-006",
+      "vvt-50-005"
+    ]
+  },
+  {
+    "id": "dstore-wohnungszuordnungsmerkmal",
+    "name": "Wohnungszuordnungsmerkmal",
+    "kategorie": "Wohnen & Melderecht",
+    "einheit": "oe-amt-64",
+    "schutzstufe": "C",
+    "schutzbedarf": "normal",
+    "vertraulichkeitsklasse": "vertraulich",
+    "bsi-vertraulichkeit": "normal",
+    "bsi-integritaet": "normal",
+    "bsi-verfuegbarkeit": "normal",
+    "bsi-schutzbedarf": "normal",
+    "datenschutz_geprueft": false,
+    "bsi_geprueft": true,
+    "verwendungen": 1,
+    "beschreibung": "Technisches oder organisatorisches Merkmal zur eindeutigen Zuordnung einer Wohnung im Meldeverfahren.",
+    "felder": [
+      "Zuordnungsmerkmal",
+      "Objektkennung",
+      "Wohnungs-ID",
+      "Anschrift",
+      "Vergabestelle"
+    ],
+    "rechtsgrundlagen": [
+      {
+        "gesetz": "BMG"
+      }
+    ],
+    "verwendet_in": [
+      "vvt-23-004"
+    ]
+  },
+  {
+    "id": "dstore-zahlungsziel-faelligkeit",
+    "name": "Zahlungsziel und Fälligkeit",
+    "kategorie": "Finanzen & Zahlung",
+    "einheit": "oe-amt-20",
+    "schutzstufe": "C",
+    "schutzbedarf": "hoch",
+    "vertraulichkeitsklasse": "vertraulich",
+    "bsi-vertraulichkeit": "normal",
+    "bsi-integritaet": "hoch",
+    "bsi-verfuegbarkeit": "hoch",
+    "bsi-schutzbedarf": "hoch",
+    "datenschutz_geprueft": false,
+    "bsi_geprueft": true,
+    "verwendungen": 1,
+    "beschreibung": "Daten zu Fälligkeiten, Zahlungszielen und Skontoregelungen.",
+    "felder": [
+      "Fälligkeit",
+      "Zahlungsziel",
+      "Skonto",
+      "Bezugsvorgang",
+      "Betrag",
+      "Status"
+    ],
+    "rechtsgrundlagen": [
+      {
+        "gesetz": "BGB"
+      },
+      {
+        "gesetz": "KomHKVO"
+      }
+    ],
+    "verwendet_in": [
+      "vvt-20-004"
+    ]
+  }
+]

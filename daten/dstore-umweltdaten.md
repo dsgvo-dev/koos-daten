@@ -8,9 +8,15 @@ zuständige-einheit: oe-amt-60
 bpmn:
   typ: datenobjekt
 klassifizierung:
+  # Datenschutz -- Schaden fuer die betroffene Person (LfD-Schutzstufenkonzept, SDM)
   schutzstufe: C
   schutzbedarf: hoch
-  vertraulichkeit: vertraulich
+  vertraulichkeitsklasse: vertraulich
+  # Informationssicherheit -- Schaden fuer die Institution und die Aufgabenerfuellung (BSI)
+  bsi-vertraulichkeit: normal
+  bsi-integritaet: hoch
+  bsi-verfuegbarkeit: hoch
+  bsi-schutzbedarf: hoch
   rechtsgrundlagen:
   - gesetz: BNatSchG
   - gesetz: BImSchG
@@ -18,14 +24,15 @@ klassifizierung:
   aufbewahrung:
     frist: 30 Jahre
     beginn: prozessabhängig
-    hinweis: Aus daten1/-Konvertierung; fachlich zu validieren.
-letzte-aktualisierung: '2026-04-09'
+letzte-aktualisierung: '2026-08-04'
 tags:
 - Umwelt
 - Naturschutz
 - Immissionsschutz
 konvertiert-aus: daten1/dtype-umweltdaten.md
 ---
+
+
 
 ## Beschreibung
 
@@ -54,3 +61,9 @@ BNatSchG, BImSchG, WHG
 ## Hinweise
 
 *(Bitte ergänzen)*
+
+## BSI-Vektoren geprüft 2026-08-04
+
+**Integrität und Verfügbarkeit hoch.** Der Bestand dient der Gefahrenabwehr. Ist er verfälscht oder im entscheidenden Moment nicht abrufbar, kann die Kommune ihre Schutzaufgabe nicht erfüllen -- mit möglichen Folgen für Leib und Leben.
+
+Altlasten- und Messwerte sind Grundlage für Sanierungsanordnungen und Nutzungsbeschränkungen. Ein verfälschter Wert kann eine Gefährdung verdecken.

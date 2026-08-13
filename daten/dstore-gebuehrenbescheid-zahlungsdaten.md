@@ -8,9 +8,15 @@ zuständige-einheit: oe-amt-20
 bpmn:
   typ: datenobjekt
 klassifizierung:
+  # Datenschutz -- Schaden fuer die betroffene Person (LfD-Schutzstufenkonzept, SDM)
   schutzstufe: C
   schutzbedarf: normal
-  vertraulichkeit: intern
+  vertraulichkeitsklasse: vertraulich
+  # Informationssicherheit -- Schaden fuer die Institution und die Aufgabenerfuellung (BSI)
+  bsi-vertraulichkeit: normal
+  bsi-integritaet: normal
+  bsi-verfuegbarkeit: hoch
+  bsi-schutzbedarf: hoch
   rechtsgrundlagen:
   - gesetz: VwKostR
   - gesetz: Kommunalabgabenrecht
@@ -19,12 +25,13 @@ klassifizierung:
     beginn: prozessabhängig
     hinweis: Aus kommunalen Serviceportaltexten abgeleiteter Datentyp; Frist und Beginn
       fachlich zu validieren.
-letzte-aktualisierung: '2026-04-09'
+letzte-aktualisierung: '2026-08-04'
 tags:
 - Gebühr
 - Bescheid
 - Zahlung
 ---
+
 
 # Gebührenbescheid und Zahlungsdaten
 
@@ -74,3 +81,9 @@ Abgeleiteter Datentyp aus kommunalen Serviceportal-Texten in Niedersachsen; kein
 KOOS-konforme Konvertierung aus einer älteren Markdown-Sammlung.
 
 Zuständige OE, Klassifizierung und BPMN-Typ sind heuristisch vorbelegt und sollten fachlich überprüft werden.
+
+## BSI-Vektoren geprüft 2026-08-04
+
+**Verfügbarkeit hoch.** Der Speicher wird in so vielen Verfahren geführt, dass ein Ausfall nicht ein Verfahren verzögert, sondern den Publikumsverkehr insgesamt zum Erliegen bringt. Das ist der Maßstab des BSI: erhebliche Beeinträchtigung der Aufgabenerfüllung.
+
+16 Verwendungen. Kassengeschäft und Vollstreckung setzen den Zugriff voraus.

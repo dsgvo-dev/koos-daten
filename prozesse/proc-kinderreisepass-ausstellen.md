@@ -18,7 +18,7 @@ regelungen:
 - § 6 Passgesetz (PassG) (Ausstellung eines Passes)
 - Gesetz zur Modernisierung des Pass-, des Ausweis- und des ausländerrechtlichen Dokumentenwesens
   (BGBl. I 2023 Nr. 271, vom 8. Oktober 2023)
-leika_id: '99085003000000'
+leika_id: '99085003012000'
 ozg_id: null
 letzte-aktualisierung: '2026-07-10'
 ---

@@ -22,13 +22,13 @@ daten:
   - id: dstore-energieeffizienz-waermeschutznachweis
   - id: dstore-fachstellungnahme
 regelungen:
-- § 59 LBauO M-V
-- §§ 27a VwVfG M-V
+- § 59 Niedersächsische Bauordnung (NBauO) - Genehmigungsvorbehalt
+- § 1 Niedersächsisches Verwaltungsverfahrensgesetz (NVwVfG) i. V. m. § 27a VwVfG
 - §§ 29 BauGB
-- §§ 3 BauVorlV M-V
+- § 1 Niedersächsische Bauvorlagenverordnung (NBauVorlVO)
 leika_id: null
 ozg_id: '10519'
-letzte-aktualisierung: '2026-07-10'
+letzte-aktualisierung: '2026-07-28'
 ---
 
 # Baugenehmigung erteilen

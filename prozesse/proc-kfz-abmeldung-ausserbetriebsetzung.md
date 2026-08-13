@@ -15,7 +15,7 @@ daten:
   - id: dstore-identitaetsnachweis
 regelungen:
 - § 14 Abs. 1 FZV
-leika_id: '99036008070002'
+leika_id: '99036026017000'
 ozg_id: null
 letzte-aktualisierung: '2026-07-10'
 ---

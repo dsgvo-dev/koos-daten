@@ -18,8 +18,9 @@ daten:
   - id: dstore-personenstammdaten
   - id: dstore-identitaetsnachweis
 regelungen:
-  - Verordnung über die Zulassung von Fahrzeugen zum Straßenverkehr (Fahrzeug-Zulassungsverordnung - FZV) § 8 Zulassung in der Bundesrepublik Deutschland nach vorheriger Zulassung in einem anderen Staat
-letzte-aktualisierung: 2026-04-06
+- § 8 Fahrzeug-Zulassungsverordnung (FZV) (Kennzeichen)
+leika_id: '99036049069000'
+letzte-aktualisierung: '2026-08-03'
 ---
 # Wunschkennzeichen für ein Fahrzeug reservieren
 
@@ -45,3 +46,7 @@ letzte-aktualisierung: 2026-04-06
 
 
 *Quelle: Allgemeine Verwaltungspraxis*
+
+## Korrektur 2026-08-03
+
+Regelungsliste bereinigt. Der Eintrag trug an die Fundstelle die Überschrift „Zulassung in der Bundesrepublik Deutschland nach vorheriger Zulassung in einem anderen Staat" angehängt -- die gehört zu einer anderen Vorschrift und hat mit der Reservierung eines Wunschkennzeichens nichts zu tun. Überschrift korrigiert.

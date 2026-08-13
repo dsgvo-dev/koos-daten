@@ -14,18 +14,14 @@ daten:
   - id: dstore-personenstammdaten
   - id: dstore-registerbezug-personenstand
   - id: dstore-sterbeurkunde
-  - § 55 Personenstandsgesetz (PStG)
-  - § 60 Personenstandsgesetz (PStG)
-  - § 62 Personenstandsgesetz (PStG)
 regelungen:
+- § 55 Personenstandsgesetz (PStG)
 - § 55 Absatz 1 Nummer 4 Personenstandsgesetz (PStG)
 - § 60 Personenstandsgesetz (PStG)
-- § 55 Civil Status Act (PStG)
-- § 60 Civil Status Act (PStG)
 - § 62 Personenstandsgesetz (PStG)
-leika_id: '99101004000000'
+leika_id: '99101004012000'
 ozg_id: '10237'
-letzte-aktualisierung: '2026-07-10'
+letzte-aktualisierung: '2026-08-03'
 ---
 
 # Sterbeurkunde beantragen
@@ -52,3 +48,9 @@ letzte-aktualisierung: '2026-07-10'
 
 **07 Statistiken aktualisieren**  
 *Landes-/Bundesstatistik*
+
+## Korrektur 2026-08-03
+
+Englischsprachige Dubletten aus der Regelungsliste entfernt. Es handelt sich um Übersetzungen bereits vorhandener deutscher Fundstellen aus dem Quellkatalog, nicht um eigene Normen:
+- § 55 Civil Status Act (PStG)
+- § 60 Civil Status Act (PStG)

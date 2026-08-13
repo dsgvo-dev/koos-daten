@@ -8,9 +8,15 @@ zuständige-einheit: oe-amt-63
 bpmn:
   typ: datenobjekt
 klassifizierung:
-  schutzstufe: A
+  # Datenschutz -- Schaden fuer die betroffene Person (LfD-Schutzstufenkonzept, SDM)
+  schutzstufe: C
   schutzbedarf: normal
-  vertraulichkeit: öffentlich
+  vertraulichkeitsklasse: vertraulich
+  # Informationssicherheit -- Schaden fuer die Institution und die Aufgabenerfuellung (BSI)
+  bsi-vertraulichkeit: normal
+  bsi-integritaet: hoch
+  bsi-verfuegbarkeit: normal
+  bsi-schutzbedarf: hoch
   rechtsgrundlagen:
   - gesetz: NBauO
     artikel: §70
@@ -25,8 +31,9 @@ klassifizierung:
     frist: dauerhaft
     beginn: null
     hinweis: Dauerhafter Bestandteil der Bauakte; Genehmigung bleibt rechtlich relevant
-letzte-aktualisierung: 2026-04-07
+letzte-aktualisierung: '2026-08-10'
 ---
+
 
 # Baugenehmigung
 
@@ -49,3 +56,17 @@ für den Baubeginn (§ 70 NBauO).
 Die Baugenehmigung erlischt, wenn mit dem Bau nicht innerhalb der Geltungsdauer begonnen
 wird oder das Vorhaben für mehr als ein Jahr unterbrochen wird (§ 79 NBauO).
 Verlängerung ist auf Antrag möglich (proc-verlaengerung-der-geltungsdauer-von-baugenehmigung).
+
+## BSI-Vektoren geprüft 2026-08-04
+
+**Integrität hoch.** Auf die Richtigkeit dieses Datenbestands verlassen sich andere -- Behörden, Gerichte oder die betroffene Person selbst. Eine unbemerkte Verfälschung führt nicht zu einem Fehler im Einzelfall, sondern zu falschen Folgeentscheidungen, die auf dem Bestand aufbauen.
+
+Sie begründet Bestandsschutz und wird noch nach Jahrzehnten herangezogen.
+
+## Schutzstufe geprüft 2026-08-10
+
+**B → C.** Die Bau-Grunddaten sind mehr als Sachdaten.
+
+Der Bescheid enthält Auflagen und, bei einer Abweichung nach § 66 NBauO, die Begründung des Einzelfalls. Ablehnungen und Rücknahmen dokumentieren ein Scheitern, das mit erheblichen Kosten verbunden ist.
+
+**Kohärenz:** `dstore-bauakte` steht seit dem 2026-08-10 auf Stufe D, weil sie die Nachbareinwendung aufnimmt. Die Einzelbestandteile tragen diese Stufe nicht -- sie tragen aber auch nicht mehr die Stufe B, die sie aus dem Import mitgebracht hatten.

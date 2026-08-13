@@ -25,7 +25,7 @@ regelungen:
 - §§ 1-5 Personalausweisgesetz (PAuswG)
 - §§ 1-4 Passgesetz (PassG)
 - § 6 PAuswG (Ausweispflicht)
-leika_id: null
+leika_id: '99008001013000'
 ozg_id: '10119'
 letzte-aktualisierung: '2026-07-10'
 ---

@@ -19,13 +19,9 @@ regelungen:
 - § 150 Gewerbeordnung (GewO) - Auskunft auf Antrag betroffener Personen
 - § 150a Gewerbeordnung (GewO) - Auskunft an Behörden oder öffentliche Auftraggeber
 - § 150e Gewerbeordnung (GewO) - Elektronische Antragstellung
-- Section 150 of the Trade Regulation (GewO) (information at the request of the data
-  subject)
-- Section 150a of the Trade Regulation [Gewerbeordnung (GewO)] (information for authorities)
-- Section 150e of the Trade Regulation (GewO) (submitting an electronic request)
-leika_id: '99052002000000'
+leika_id: '99052002109000'
 ozg_id: '10565'
-letzte-aktualisierung: '2026-07-10'
+letzte-aktualisierung: '2026-08-03'
 ---
 
 # Auskunft aus dem Gewerbezentralregister beantragen
@@ -52,3 +48,10 @@ letzte-aktualisierung: '2026-07-10'
 
 
 *Quelle: Allgemeine Verwaltungspraxis*
+
+## Korrektur 2026-08-03
+
+Englischsprachige Dubletten aus der Regelungsliste entfernt. Es handelt sich um Übersetzungen bereits vorhandener deutscher Fundstellen aus dem Quellkatalog, nicht um eigene Normen:
+- Section 150 of the Trade Regulation (GewO) (information at the request of the data subject)
+- Section 150a of the Trade Regulation [Gewerbeordnung (GewO)] (information for authorities)
+- Section 150e of the Trade Regulation (GewO) (submitting an electronic request)

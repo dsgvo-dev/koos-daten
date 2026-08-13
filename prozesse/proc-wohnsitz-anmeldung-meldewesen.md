@@ -1,7 +1,8 @@
 ---
 id: proc-wohnsitz-anmeldung-meldewesen
 titel: Wohnsitz Anmeldung (Meldewesen)
-status: aktiv
+status: ersetzt
+ersetzt-durch: proc-wohnsitz-anmelden
 zustaendigeEinheit: oe-amt-33
 zustaendigeRolle: ''
 beteiligte:
@@ -24,7 +25,7 @@ regelungen:
 - https://www.gesetze-im-internet.de/bmg/__23.html
 leika_id: '99115005104000'
 ozg_id: null
-letzte-aktualisierung: '2026-07-10'
+letzte-aktualisierung: '2026-07-28'
 ---
 
 # Wohnsitz Anmeldung (Meldewesen)

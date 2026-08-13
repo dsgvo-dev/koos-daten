@@ -18,7 +18,7 @@ daten:
 regelungen:
 - § 25a der Fahrerlaubnis-Verordnung (FeV)
 - § 25 b Fahrerlaubnis-Verordnung (FeV)
-leika_id: '99108062000000'
+leika_id: '99108062012000'
 ozg_id: null
 letzte-aktualisierung: '2026-07-10'
 ---

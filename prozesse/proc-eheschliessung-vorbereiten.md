@@ -1,7 +1,8 @@
 ---
 id: proc-eheschliessung-vorbereiten
 titel: Eheschließung vorbereiten
-status: aktiv
+status: ersetzt
+ersetzt-durch: proc-eheschliessung-anmelden
 zustaendigeEinheit: oe-amt-31
 zustaendigeRolle: ''
 beteiligte: []
@@ -18,9 +19,9 @@ regelungen:
 - §§ 11-17 Personenstandsgesetz (PStG) (Anmeldung der Eheschließung)
 - §§ 28-30 PStG (Eheschließung)
 - Nds. AVO-PStG
-leika_id: '99059001000000'
+leika_id: '99059001104000'
 ozg_id: '10026'
-letzte-aktualisierung: '2026-07-10'
+letzte-aktualisierung: '2026-07-28'
 ---
 
 # Eheschließung vorbereiten

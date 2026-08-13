@@ -17,9 +17,9 @@ regelungen:
 - §§ 17-21 Kreislaufwirtschaftsgesetz (KrWG) (Überlassungspflichten)
 - § 20 KrWG (Pflichten der öffentlich-rechtlichen Entsorgungsträger)
 - §§ 11-12 Nds. Abfallgesetz (NAbfG)
-leika_id: '99001009004002'
+leika_id: '99001009004000'
 ozg_id: null
-letzte-aktualisierung: '2026-07-10'
+letzte-aktualisierung: '2026-07-28'
 ---
 
 # Sperrmüll abholen

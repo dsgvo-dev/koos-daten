@@ -16,6 +16,7 @@ daten:
   - id: dstore-identitaetsnachweis
 regelungen:
   - '§ 19 Fahrzeug-Zulassungsverordnung (FZV)'
+leika_id: '99036040069000'
 letzte-aktualisierung: 2026-04-06
 ---
 # Ausfuhrkennzeichen beantragen

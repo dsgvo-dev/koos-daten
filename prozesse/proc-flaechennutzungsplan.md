@@ -1,7 +1,8 @@
 ---
 id: proc-flaechennutzungsplan
 titel: Flächennutzungsplan
-status: aktiv
+status: ersetzt
+ersetzt-durch: proc-flaechennutzungsplan-einsehen
 zustaendigeEinheit: oe-amt-61
 zustaendigeRolle: ''
 beteiligte:
@@ -15,7 +16,7 @@ regelungen:
 - § 6 Absatz 5 Satz 4 Baugesetzbuch (BauGB)
 leika_id: '99012012000000'
 ozg_id: null
-letzte-aktualisierung: '2026-07-10'
+letzte-aktualisierung: '2026-07-28'
 ---
 
 # Flächennutzungsplan

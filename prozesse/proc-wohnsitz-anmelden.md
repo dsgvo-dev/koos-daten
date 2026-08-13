@@ -4,13 +4,16 @@ titel: Wohnsitz anmelden
 status: aktiv
 zustaendigeEinheit: oe-amt-33
 zustaendigeRolle: ''
-beteiligte: []
+beteiligte:
+- einheit: oe-amt-15
+  aufgabe: ''
 daten:
   input: []
   output: []
   datenspeicher:
   - id: dstore-meldeadresse-wohnsitz
   - id: dstore-meldeschein
+  - id: dstore-wohnstatus-haupt-nebenwohnung
   - id: dstore-personenstammdaten
   - id: dstore-identitaetsnachweis
   - id: dstore-wohnungsgeberbestaetigung
@@ -23,7 +26,7 @@ regelungen:
 - https://www.gesetze-im-internet.de/bmg/__23.html
 leika_id: '99115005104000'
 ozg_id: null
-letzte-aktualisierung: '2026-07-10'
+letzte-aktualisierung: '2026-07-28'
 ---
 
 # Wohnsitz anmelden

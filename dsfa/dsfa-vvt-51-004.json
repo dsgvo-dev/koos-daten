@@ -1,0 +1,279 @@
+{
+  "id": "dsfa-vvt-51-004",
+  "schema_version": "1.0.0",
+  "meta": {
+    "erstellt_am": "2026-08-12",
+    "status": "entwurf",
+    "durchgefuehrt_von": "Generator (2026-08-07)",
+    "dsb_beteiligt": false
+  },
+  "vvt_referenz": {
+    "vvt_id": "vvt-51-004",
+    "bes_id": "bes-vvt-51-004",
+    "bezeichnung": "Kindertagesbetreuung (Anmeldeservice, Vermittlung Kita-Plätze, Servicebüro, Förderung in Tageseinrichtungen)"
+  },
+  "risiko_referenz": {
+    "risiko_id": "risiko-vvt-51-004",
+    "risikowert": 6,
+    "schutzbedarf": "hoch",
+    "dsfa_grund_risiko": true,
+    "dsfa_grund_schwelle": true
+  },
+  "systembeschreibung": {
+    "zweck": "Kindertagesbetreuung (Anmeldeservice, Vermittlung Kita-Plätze, Servicebüro, Förderung in Tageseinrichtungen)",
+    "rechtsgrundlage": "Art. 6 Abs. 1 lit. c) und lit. e) DSGVO, § 3 NDSG; § 24 SGB VIII (Anspruch auf Förderung in Tageseinrichtungen), §§ 22, 22a SGB VIII (Grundsätze), §§ 43, 44 SGB VIII (Kindertagespflege), §§ 61-68 SGB VIII (spezialgesetzlicher Sozialdatenschutz Jugendhilfe); § 35 SGB I; NKiTaG (Niedersächsisches Kind",
+    "betroffene": "< 100",
+    "daten": {
+      "schutzstufe": "D",
+      "schutzstufe_text": "hoch",
+      "art9": false,
+      "art9_kategorien": [],
+      "art10": false,
+      "sozialdaten": true,
+      "betroffene_anzahl": "< 100",
+      "datenmenge": "gering",
+      "speicherdauer": "lang (1–10 jahre)"
+    },
+    "speicherdauer": "lang (1–10 jahre)",
+    "software": [
+      "Jugendhilfe-Fachverfahren",
+      "Kita-Anmeldeportal/Platzvergabesoftware"
+    ]
+  },
+  "notwendigkeit": {
+    "aufgabentyp": "pflichtaufgabe",
+    "gesetzlicher_auftrag": "Gesetzlicher Auftrag: lit. c)",
+    "ueberschrift": "Prüfung der Notwendigkeit",
+    "pflicht_hinweis": "Als gesetzliche Pflichtaufgabe steht das ‚Ob' der Verarbeitung nicht zur Disposition — der Gesetzgeber hat die Aufgabe zugewiesen. Die Notwendigkeitsprüfung beschränkt sich auf das ‚Wie': Datenminimierung, mildere Mittel, Speicherbegrenzung.",
+    "pruefung_offen": "Manuell: Prüfung auf mildere Mittel — Anonymisierung, Pseudonymisierung, kürzere Speicherfristen, weniger Datenfelder."
+  },
+  "verhaeltnismassigkeit": {
+    "ueberschrift": "Prüfung der Verhältnismäßigkeit",
+    "geeignetheit": {
+      "ergebnis": "gegeben",
+      "begruendung": "Als gesetzliche Pflichtaufgabe ist von der Eignung der Datenverarbeitung zur Aufgabenerfüllung auszugehen."
+    },
+    "erforderlichkeit": {
+      "ergebnis": "kein_milderes_mittel",
+      "begruendung": "Bei Pflichtaufgaben kommt kein milderes Mittel in Betracht, weil die Aufgabe durch Gesetz zugewiesen ist und die Datenverarbeitung zwingend zur Aufgabenerfüllung erforderlich ist."
+    },
+    "angemessenheit": {
+      "ueberschrift": "Angemessenheit im engeren Sinne",
+      "eingriffstiefe": {
+        "schutzstufe": "hoch",
+        "art9": false,
+        "art10": false,
+        "sozialdaten": true,
+        "betroffene": "< 100",
+        "datenmenge": "gering"
+      },
+      "zweckgewicht": "Gesetzlicher Auftrag",
+      "abmilderung_tom": {
+        "baseline_anzahl": 27,
+        "ergaenzend_anzahl": 36,
+        "ergaenzend_toms": [
+          {
+            "id": "TOM-KI-004",
+            "name": "Deaktivierbarkeit des Chatverlaufs (KI)"
+          },
+          {
+            "id": "TOM-KI-008",
+            "name": "Einbindung Datenschutzbeauftragte (KI)"
+          },
+          {
+            "id": "TOM-KI-006",
+            "name": "Festlegung von Zuständigkeiten für die Prüfung und Freigabe von KI-Systemen"
+          },
+          {
+            "id": "TOM-KI-015",
+            "name": "Opt-out des Trainings des KI-Models"
+          },
+          {
+            "id": "TOM-KI-005",
+            "name": "Strategie für den Einsatz Künstlicher Intelligenz"
+          },
+          {
+            "id": "TOM-KI-007",
+            "name": "Zuständigkeit und Durchführung der Datenschutzprüfung inkl. Dokumentation für das KI-System"
+          },
+          {
+            "id": "TOM-KI-014",
+            "name": "Informationen für Beschäftigte (KI)"
+          },
+          {
+            "id": "TOM-KI-011",
+            "name": "Schaffung einer Dienstvereinbarung (KI)"
+          },
+          {
+            "id": "TOM-KI-012",
+            "name": "Schaffung einer verbindlichen Dienstanweisung (KI)"
+          },
+          {
+            "id": "TOM-KI-013",
+            "name": "Schulung von Beschäftigten (KI)"
+          }
+        ]
+      },
+      "bewertung_offen": "Manuell: Die Tiefe des Eingriffs in das informationelle Selbstbestimmungsrecht muss in angemessenem Verhältnis zum angestrebten Zweck stehen. Die Nachteile für die Betroffenen dürfen — auch unter Berücksichtigung der getroffenen TOM — nicht außer Verhältnis zum Zweck stehen. Bei pflichtigen Aufgaben ist zu prüfen, ob der Umfang der verarbeiteten personenbezogenen Daten dem Grundsatz der Erforderlichkeit entspricht und in Anbetracht der Sensitivität der Daten (Schutzstufe) angemessen ist."
+    }
+  },
+  "massnahmen": {
+    "baseline": [
+      {
+        "id": "TOM-ORG-007",
+        "name": "Prozess zur Gewährleistung der Datenschutzerklärung "
+      },
+      {
+        "id": "TOM-ORG-008",
+        "name": "Prozess zur Gewährleistung der Auskunft"
+      },
+      {
+        "id": "TOM-ORG-009",
+        "name": "Prozess zur Gewährleistung der Löschung"
+      },
+      {
+        "id": "TOM-ORG-010",
+        "name": "Prozess zur Gewährleistung der Berichtigung"
+      },
+      {
+        "id": "TOM-ORG-011",
+        "name": "Organisatorische Maßnahmen zur Archivierung"
+      },
+      {
+        "id": "TOM-ORG-012",
+        "name": "Prozess zur Weitergabe und zur Entscheidung  über die Weitergabe von Daten"
+      },
+      {
+        "id": "TOM-ORG-017",
+        "name": "Wechsel der Organisationseinheiten durch Beschäftigte"
+      },
+      {
+        "id": "TOM-ORG-018",
+        "name": "Ausscheiden von Beschäftigten"
+      },
+      {
+        "id": "TOM-ORG-020",
+        "name": "Technische und organisatorische Maßnahmen für das Homeoffice"
+      },
+      {
+        "id": "TOM-ORG-025",
+        "name": "Erweitere Schlüsselregelung"
+      },
+      {
+        "id": "TOM-ORG-027",
+        "name": "Festlegung befugter Personen"
+      },
+      {
+        "id": "TOM-ORG-036",
+        "name": "Organisatorische Regelungen für die Datenträgervernichtung"
+      },
+      {
+        "id": "TOM-ORG-037",
+        "name": "Keine Speicherung außerhalb des Fachamts"
+      },
+      {
+        "id": "TOM-ORG-039",
+        "name": "Klare Rollen- und Berechtigungskonzepte"
+      },
+      {
+        "id": "TOM-ORG-041",
+        "name": "Passwortschutz und Bildschirmsperre "
+      },
+      {
+        "id": "TOM-ORG-042",
+        "name": "Sichere Aktenaufbewahrung und Datenvernichtung"
+      },
+      {
+        "id": "TOM-ORG-044",
+        "name": "Möglichkeit zur alternativen Antragstellung"
+      },
+      {
+        "id": "TOM-ORG-057",
+        "name": "Einsatz kryptografischer Verfahren zur Integritätssicherung (Signaturen, Hashverfahren)"
+      },
+      {
+        "id": "TOM-SW-002",
+        "name": "Trennung von Produktiv- und Testsystem"
+      },
+      {
+        "id": "TOM-SW-003",
+        "name": "Erhebungsformulare mit Attributen"
+      },
+      {
+        "id": "TOM-SW-004",
+        "name": "Datenschutz durch Technikgestaltung"
+      },
+      {
+        "id": "TOM-SW-005",
+        "name": "Vornahme datenschutzrechtlicher Voreinstellungen "
+      },
+      {
+        "id": "TOM-SW-006",
+        "name": "Plausibilitätskontrolle zur Beschränkung der  Datenerhebung"
+      },
+      {
+        "id": "TOM-SW-007",
+        "name": "Pseudonymisierung der Daten bei Weiterverarbeitung oder Übermittlung"
+      },
+      {
+        "id": "TOM-SW-008",
+        "name": "Festlegung verbindlicher Löschfristen "
+      },
+      {
+        "id": "TOM-SW-009",
+        "name": "Frühzeitige Anonymisierung personenbezogener Daten"
+      },
+      {
+        "id": "TOM-SW-010",
+        "name": "Frühzeitige Pseudonymisierung personenbezogener  Daten"
+      }
+    ],
+    "baseline_anzahl": 27,
+    "ergaenzend": [
+      "TOM-KI-004",
+      "TOM-KI-008",
+      "TOM-KI-006",
+      "TOM-KI-015",
+      "TOM-KI-005",
+      "TOM-KI-007",
+      "TOM-KI-014",
+      "TOM-KI-011",
+      "TOM-KI-012",
+      "TOM-KI-013",
+      "TOM-KI-010",
+      "TOM-ORG-056",
+      "TOM-ORG-006",
+      "TOM-SW-011",
+      "TOM-SW-001",
+      "TOM-SW-015",
+      "TOM-SW-014",
+      "TOM-ORG-046",
+      "TOM-ORG-045",
+      "TOM-ORG-055",
+      "TOM-ORG-047",
+      "TOM-ORG-001",
+      "TOM-ORG-002",
+      "TOM-SW-013",
+      "TOM-KI-003",
+      "TOM-KI-002",
+      "TOM-KI-001",
+      "TOM-SW-012",
+      "TOM-KI-009",
+      "TOM-ORG-043",
+      "TOM-ORG-040",
+      "TOM-ORG-038",
+      "TOM-ORG-019",
+      "TOM-ORG-016",
+      "TOM-ORG-015",
+      "TOM-ORG-003"
+    ],
+    "ergaenzend_anzahl": 36
+  },
+  "ergebnis": {
+    "bewertung": "offen",
+    "begruendung": "Manuell nach Abschluss der Verhältnismäßigkeitsprüfung",
+    "auflagen": [],
+    "konsultation_art36": false,
+    "konsultation_begruendung": ""
+  }
+}

@@ -18,7 +18,7 @@ daten:
 regelungen:
 - §§ 67 ff. Sozialgesetzbuch (SGB) Zwölftes Buch (XII)
 - § 68 Sozialgesetzbuch (SGB) Zwölftes Buch (XII)
-leika_id: '99107015000000'
+leika_id: '99107015017000'
 ozg_id: '10087'
 letzte-aktualisierung: '2026-07-10'
 ---

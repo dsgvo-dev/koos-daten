@@ -21,7 +21,7 @@ daten:
   - id: dstore-pflegeversicherungsbeitraege
 regelungen:
 - §§ 61 bis 66a Zwölftes Buch Sozialgesetzbuch (SGB XII)
-leika_id: '99107014000000'
+leika_id: '99107014017000'
 ozg_id: '10218'
 letzte-aktualisierung: '2026-07-10'
 ---
