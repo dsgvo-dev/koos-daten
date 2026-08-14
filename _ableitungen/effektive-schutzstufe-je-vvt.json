@@ -113,7 +113,7 @@
     "organisationseinheit": "oe-amt-10",
     "verfahren_vertraulich": false,
     "fallgruppe": null,
-    "effektive_schutzstufe": "C",
+    "effektive_schutzstufe": "D",
     "datenspeicher": [
       "dstore-personenstammdaten",
       "dstore-meldedaten",

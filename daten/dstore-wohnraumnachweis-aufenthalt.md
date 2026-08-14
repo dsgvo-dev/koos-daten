@@ -9,14 +9,14 @@ bpmn:
   typ: datenobjekt
 klassifizierung:
   # Datenschutz -- Schaden fuer die betroffene Person (LfD-Schutzstufenkonzept, SDM)
-  schutzstufe: C
+  schutzstufe: D
   schutzbedarf: hoch
-  vertraulichkeitsklasse: vertraulich
+  vertraulichkeitsklasse: streng vertraulich
   # Informationssicherheit -- Schaden fuer die Institution und die Aufgabenerfuellung (BSI)
-  bsi-vertraulichkeit: normal
+  bsi-vertraulichkeit: hoch
   bsi-integritaet: normal
   bsi-verfuegbarkeit: normal
-  bsi-schutzbedarf: normal
+  bsi-schutzbedarf: hoch
   rechtsgrundlagen:
   - gesetz: AufenthG
   aufbewahrung:
@@ -59,3 +59,10 @@ Der Unterschied ist wesentlich: Wird ein Melderegister unbemerkt verfälscht, si
 **Verfügbarkeit bleibt unverändert.** Der Nachweis kann bei Verlust nachgefordert werden; ein Ausfall verzögert das Verfahren, verhindert es aber nicht.
 
 Geprüft im Durchgang „Register und Nachweise" vom 2026-08-04, in dem 38 Speicher mit Registercharakter, Rechtswirkung oder Gefahrenabwehrbezug auf hohe Integrität angehoben wurden. Dieser gehört nicht dazu.
+
+## Schutzstufe geprüft 2026-08-14
+
+**C → D.** Die Zugehörigkeit zum Speicher offenbart das Aufenthaltsverfahren — ein
+Wohnraumnachweis *für aufenthaltsrechtliche Verfahren* wird nicht neutral geführt. Genutzt in
+`vvt-47-006` und `vvt-50-005` (beide vertraulich). Dieselbe Logik wie
+`dstore-termin-und-vorsprachedaten` (D). Die BSI-Vertraulichkeit folgt auf `hoch`.

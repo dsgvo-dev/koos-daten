@@ -9,11 +9,11 @@ bpmn:
   typ: datenobjekt
 klassifizierung:
   # Datenschutz -- Schaden fuer die betroffene Person (LfD-Schutzstufenkonzept, SDM)
-  schutzstufe: C
+  schutzstufe: D
   schutzbedarf: hoch
-  vertraulichkeitsklasse: vertraulich
+  vertraulichkeitsklasse: streng vertraulich
   # Informationssicherheit -- Schaden fuer die Institution und die Aufgabenerfuellung (BSI)
-  bsi-vertraulichkeit: normal
+  bsi-vertraulichkeit: hoch
   bsi-integritaet: hoch
   bsi-verfuegbarkeit: normal
   bsi-schutzbedarf: hoch
@@ -69,4 +69,10 @@ widersprach den Werten im Frontmatter dieser Datei. Der Baustein war am 2026-08-
 eingesetzt worden, ohne ihn an die tatsächlichen Werte anzupassen — in 105 Dateien.
 **Die Werte selbst wurden nicht geändert**; maßgeblich ist das Frontmatter, und die
 Kettenprüfung E3 rechnet mit ihm.
+
+## Schutzstufe geprüft 2026-08-14
+
+**C → D.** Die Aufenthaltserlaubnis offenbart den Aufenthaltsstatus — und der offenbart
+mittelbar die ausländische Herkunft. Konsistent mit `dstore-aufenthaltstitel` (D) und
+`dstore-staatsangehoerigkeit` (D). Die BSI-Vertraulichkeit folgt auf `hoch`.
 

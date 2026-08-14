@@ -59,3 +59,8 @@ Der Unterschied ist wesentlich: Wird ein Melderegister unbemerkt verfälscht, si
 **Verfügbarkeit bleibt unverändert.** Der Nachweis kann bei Verlust nachgefordert werden; ein Ausfall verzögert das Verfahren, verhindert es aber nicht.
 
 Geprüft im Durchgang „Register und Nachweise" vom 2026-08-04, in dem 38 Speicher mit Registercharakter, Rechtswirkung oder Gefahrenabwehrbezug auf hohe Integrität angehoben wurden. Dieser gehört nicht dazu.
+
+## Schutzstufe geprüft 2026-08-14
+
+**Bleibt bei C.** Kostendaten (Strecke, Betrag, Nachweis); der sensible Inhalt liegt in den
+übrigen Speichern des Aufenthaltsverfahrens.

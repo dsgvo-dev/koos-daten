@@ -2,7 +2,7 @@
   "id": "dsfa-vvt-10-002",
   "schema_version": "1.0.0",
   "meta": {
-    "erstellt_am": "2026-08-12",
+    "erstellt_am": "2026-08-14",
     "status": "entwurf",
     "durchgefuehrt_von": "Generator (2026-08-07)",
     "dsb_beteiligt": false
@@ -24,8 +24,8 @@
     "rechtsgrundlage": "Art. 6 Abs. 1 lit. e) DSGVO, § 3 NDSG, § 37 BMG, § 50 Abs. 2 BMG (Melderegisterauskunft bei Alters- und Ehejubiläen). Die Verarbeitung ist nur zulässig, solange kein Widerspruch nach § 50 Abs. 5 BMG vorliegt; Auskunfts- und Übermittlungssperren nach § 51 BMG sind zu beachten",
     "betroffene": "< 100",
     "daten": {
-      "schutzstufe": "C",
-      "schutzstufe_text": "mittel",
+      "schutzstufe": "D",
+      "schutzstufe_text": "hoch",
       "art9": false,
       "art9_kategorien": [],
       "art10": false,
@@ -60,7 +60,7 @@
     "angemessenheit": {
       "ueberschrift": "Angemessenheit im engeren Sinne",
       "eingriffstiefe": {
-        "schutzstufe": "mittel",
+        "schutzstufe": "hoch",
         "art9": false,
         "art10": false,
         "sozialdaten": false,
@@ -70,47 +70,47 @@
       "zweckgewicht": "Freiwillige Aufgabe",
       "abmilderung_tom": {
         "baseline_anzahl": 27,
-        "ergaenzend_anzahl": 29,
+        "ergaenzend_anzahl": 22,
         "ergaenzend_toms": [
           {
-            "id": "TOM-ORG-053",
-            "name": "Unterbrechungsfreie Stromversorgung"
+            "id": "TOM-ORG-056",
+            "name": "Durchführung einer Risikoanalyse und ggf. DSFA"
           },
           {
-            "id": "TOM-ORG-054",
-            "name": "Überspannungsschutz"
+            "id": "TOM-ORG-006",
+            "name": "Prozess zur VVT-Etablierung und -pflege"
           },
           {
-            "id": "TOM-ORG-029",
-            "name": "Auf Datenschutz verpflichtetes Reinigungspersonal"
+            "id": "TOM-SW-011",
+            "name": "Nutzung von Standard-Anforderungen"
           },
           {
-            "id": "TOM-ORG-031",
-            "name": "Auf Datenschutz verpflichtetes Wartungspersonal"
+            "id": "TOM-SW-001",
+            "name": "Organisatorische Regelungen"
           },
           {
-            "id": "TOM-ORG-032",
-            "name": "Beaufsichtigung von Wartungstätigkeiten"
+            "id": "TOM-ORG-047",
+            "name": "Erlass eine speziellen Dienstanweisung oder Richtlinie"
           },
           {
-            "id": "TOM-ORG-005",
-            "name": "Business Continuity Management - BCM"
+            "id": "TOM-ORG-001",
+            "name": "Organisatorische Maßnahmen zum Datenschutz"
           },
           {
-            "id": "TOM-ORG-052",
-            "name": "Eignung der Räumlichkeiten oder der Gebäude"
+            "id": "TOM-ORG-002",
+            "name": "Richtlinienmanagement"
           },
           {
-            "id": "TOM-ORG-028",
-            "name": "Einbruchhemmende Fenster und Türen"
+            "id": "TOM-ORG-043",
+            "name": "Beteiligung des behördlichen Datenschutzbeauftragten"
           },
           {
-            "id": "TOM-ORG-030",
-            "name": "Festgelegte Reinigungszeiten"
+            "id": "TOM-ORG-040",
+            "name": "Diskretionszonen einrichten"
           },
           {
-            "id": "TOM-ORG-048",
-            "name": "Feuer- und Rauchmeldeanlagen"
+            "id": "TOM-ORG-038",
+            "name": "Trennung sensibler Aufgabenbereiche"
           }
         ]
       },
@@ -230,37 +230,30 @@
     ],
     "baseline_anzahl": 27,
     "ergaenzend": [
-      "TOM-ORG-053",
-      "TOM-ORG-054",
-      "TOM-ORG-029",
-      "TOM-ORG-031",
-      "TOM-ORG-032",
-      "TOM-ORG-005",
-      "TOM-ORG-052",
-      "TOM-ORG-028",
-      "TOM-ORG-030",
-      "TOM-ORG-048",
-      "TOM-ORG-049",
-      "TOM-ORG-035",
-      "TOM-ORG-004",
-      "TOM-ORG-051",
-      "TOM-ORG-050",
-      "TOM-ORG-033",
-      "TOM-ORG-034",
-      "TOM-ORG-021",
-      "TOM-ORG-022",
-      "TOM-ORG-026",
-      "TOM-ORG-024",
-      "TOM-ORG-023",
-      "TOM-SW-018",
-      "TOM-SW-016",
-      "TOM-SW-017",
-      "TOM-ORG-014",
+      "TOM-ORG-056",
+      "TOM-ORG-006",
+      "TOM-SW-011",
+      "TOM-SW-001",
       "TOM-ORG-047",
       "TOM-ORG-001",
-      "TOM-ORG-002"
+      "TOM-ORG-002",
+      "TOM-ORG-043",
+      "TOM-ORG-040",
+      "TOM-ORG-038",
+      "TOM-ORG-003",
+      "TOM-SW-012",
+      "TOM-SW-015",
+      "TOM-SW-014",
+      "TOM-ORG-046",
+      "TOM-ORG-045",
+      "TOM-ORG-055",
+      "TOM-ORG-019",
+      "TOM-ORG-014",
+      "TOM-ORG-016",
+      "TOM-ORG-015",
+      "TOM-SW-013"
     ],
-    "ergaenzend_anzahl": 29
+    "ergaenzend_anzahl": 22
   },
   "ergebnis": {
     "bewertung": "offen",

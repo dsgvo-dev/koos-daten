@@ -102,39 +102,6 @@
     ]
   },
   {
-    "id": "dstore-aufenthaltserlaubnis-erwerbstaetigkeit",
-    "name": "Aufenthaltserlaubnis Erwerbstätigkeit",
-    "kategorie": "Migration & Arbeit",
-    "einheit": "oe-amt-47",
-    "schutzstufe": "C",
-    "schutzbedarf": "hoch",
-    "vertraulichkeitsklasse": "vertraulich",
-    "bsi-vertraulichkeit": "normal",
-    "bsi-integritaet": "hoch",
-    "bsi-verfuegbarkeit": "normal",
-    "bsi-schutzbedarf": "hoch",
-    "datenschutz_geprueft": false,
-    "bsi_geprueft": true,
-    "verwendungen": 1,
-    "beschreibung": "Daten zur aufenthaltsrechtlichen Erlaubnis für Beschäftigung oder selbständige Tätigkeit.",
-    "felder": [
-      "Person",
-      "Arbeitgeber oder Tätigkeit",
-      "Erlaubnisumfang",
-      "Befristung",
-      "Nebenbestimmungen",
-      "Nachweise"
-    ],
-    "rechtsgrundlagen": [
-      {
-        "gesetz": "AufenthG"
-      }
-    ],
-    "verwendet_in": [
-      "vvt-32-005"
-    ]
-  },
-  {
     "id": "dstore-brandschutznachweis",
     "name": "Brandschutznachweis",
     "kategorie": "Bauen & Grundstück",
@@ -230,53 +197,6 @@
     ],
     "verwendet_in": [
       "vvt-11-011"
-    ]
-  },
-  {
-    "id": "dstore-familienstand-ehebezug",
-    "name": "Familienstand und Ehebezug",
-    "kategorie": "Personenstandsdaten",
-    "einheit": "oe-amt-31",
-    "schutzstufe": "C",
-    "schutzbedarf": "hoch",
-    "vertraulichkeitsklasse": "vertraulich",
-    "bsi-vertraulichkeit": "normal",
-    "bsi-integritaet": "hoch",
-    "bsi-verfuegbarkeit": "normal",
-    "bsi-schutzbedarf": "hoch",
-    "datenschutz_geprueft": false,
-    "bsi_geprueft": true,
-    "verwendungen": 9,
-    "beschreibung": "Daten und Nachweise zum aktuellen oder früheren Familienstand sowie zur Ehefähigkeit.",
-    "felder": [
-      "Familienstand",
-      "Eheurkunde",
-      "Scheidungsurteil",
-      "Ehefähigkeitszeugnis",
-      "Auflösung der Lebenspartnerschaft",
-      "Sterbeurkunde früherer Partner"
-    ],
-    "rechtsgrundlagen": [
-      {
-        "gesetz": "PStG"
-      },
-      {
-        "gesetz": "PStV"
-      },
-      {
-        "gesetz": "BGB"
-      }
-    ],
-    "verwendet_in": [
-      "vvt-10-002",
-      "vvt-11-002",
-      "vvt-31-002",
-      "vvt-31-003",
-      "vvt-33-001",
-      "vvt-47-001",
-      "vvt-51-007",
-      "vvt-51-010",
-      "vvt-51-017"
     ]
   },
   {
@@ -434,37 +354,6 @@
     ]
   },
   {
-    "id": "dstore-geschlechtseintrag-erklaerung",
-    "name": "Geschlechtseintrag und Erklärung",
-    "kategorie": "Personenstand & Selbstbestimmung",
-    "einheit": "oe-amt-31",
-    "schutzstufe": "C",
-    "schutzbedarf": "hoch",
-    "vertraulichkeitsklasse": "vertraulich",
-    "bsi-vertraulichkeit": "normal",
-    "bsi-integritaet": "hoch",
-    "bsi-verfuegbarkeit": "normal",
-    "bsi-schutzbedarf": "hoch",
-    "datenschutz_geprueft": false,
-    "bsi_geprueft": true,
-    "verwendungen": 0,
-    "beschreibung": "Erklärungsdaten zur Änderung des Geschlechtseintrags und der Vornamen.",
-    "felder": [
-      "Erklärende Person",
-      "Bisheriger Eintrag",
-      "Neuer Eintrag",
-      "Vornamen",
-      "Erklärungsdatum",
-      "Standesamt"
-    ],
-    "rechtsgrundlagen": [
-      {
-        "gesetz": "SBGG"
-      }
-    ],
-    "verwendet_in": []
-  },
-  {
     "id": "dstore-grabstaette-belegung",
     "name": "Grabstätte, Nutzungsrecht und Belegung",
     "kategorie": "Friedhof & Bestattung",
@@ -580,73 +469,6 @@
     "verwendet_in": [
       "vvt-53-003"
     ]
-  },
-  {
-    "id": "dstore-heiratsurkunde",
-    "name": "Heiratsurkunde",
-    "kategorie": "Standesamt",
-    "einheit": "oe-amt-31",
-    "schutzstufe": "C",
-    "schutzbedarf": "hoch",
-    "vertraulichkeitsklasse": "vertraulich",
-    "bsi-vertraulichkeit": "normal",
-    "bsi-integritaet": "hoch",
-    "bsi-verfuegbarkeit": "normal",
-    "bsi-schutzbedarf": "hoch",
-    "datenschutz_geprueft": false,
-    "bsi_geprueft": true,
-    "verwendungen": 2,
-    "beschreibung": "Personenstandsdokument über die Eheschließung zweier Personen.",
-    "felder": [
-      "Name Ehepartner 1",
-      "Name Ehepartner 2",
-      "Heiratsdatum",
-      "Heiratsort",
-      "Standesamtsnummer"
-    ],
-    "rechtsgrundlagen": [
-      {
-        "gesetz": "PStG"
-      },
-      {
-        "gesetz": "BGB"
-      }
-    ],
-    "verwendet_in": [
-      "vvt-31-002",
-      "vvt-31-003"
-    ]
-  },
-  {
-    "id": "dstore-integrationskursnachweis",
-    "name": "Integrationskursnachweis",
-    "kategorie": "Migration & Integration",
-    "einheit": "oe-amt-47",
-    "schutzstufe": "C",
-    "schutzbedarf": "hoch",
-    "vertraulichkeitsklasse": "vertraulich",
-    "bsi-vertraulichkeit": "normal",
-    "bsi-integritaet": "normal",
-    "bsi-verfuegbarkeit": "normal",
-    "bsi-schutzbedarf": "normal",
-    "datenschutz_geprueft": false,
-    "bsi_geprueft": true,
-    "verwendungen": 0,
-    "beschreibung": "Nachweise über Teilnahme oder Abschluss eines Integrationskurses.",
-    "felder": [
-      "Kursträger",
-      "Teilnahmezeitraum",
-      "Abschlussstatus",
-      "Zertifikat",
-      "Person",
-      "Prüfdatum"
-    ],
-    "rechtsgrundlagen": [
-      {
-        "gesetz": "AufenthG"
-      }
-    ],
-    "verwendet_in": []
   },
   {
     "id": "dstore-kfz-daten",
@@ -832,40 +654,6 @@
     ]
   },
   {
-    "id": "dstore-namensfuehrung-selbstbestimmung",
-    "name": "Namensführung und Selbstbestimmung",
-    "kategorie": "Personenstand & Namensrecht",
-    "einheit": "oe-amt-31",
-    "schutzstufe": "C",
-    "schutzbedarf": "hoch",
-    "vertraulichkeitsklasse": "vertraulich",
-    "bsi-vertraulichkeit": "normal",
-    "bsi-integritaet": "hoch",
-    "bsi-verfuegbarkeit": "normal",
-    "bsi-schutzbedarf": "hoch",
-    "datenschutz_geprueft": false,
-    "bsi_geprueft": true,
-    "verwendungen": 0,
-    "beschreibung": "Daten zur Namensführung in Verfahren der Selbstbestimmung oder Namensänderung.",
-    "felder": [
-      "Bisheriger Name",
-      "Neuer Name",
-      "Anlass",
-      "Wirksamkeitsdatum",
-      "Nachweis",
-      "Person"
-    ],
-    "rechtsgrundlagen": [
-      {
-        "gesetz": "SBGG"
-      },
-      {
-        "gesetz": "NamÄndG"
-      }
-    ],
-    "verwendet_in": []
-  },
-  {
     "id": "dstore-parkberechtigungszone",
     "name": "Parkberechtigungszone",
     "kategorie": "Mobilität & Ordnung",
@@ -898,102 +686,6 @@
       "vvt-32-006",
       "vvt-33-007"
     ]
-  },
-  {
-    "id": "dstore-passersatzpapier",
-    "name": "Passersatzpapier",
-    "kategorie": "Identitätsdaten",
-    "einheit": "oe-amt-47",
-    "schutzstufe": "C",
-    "schutzbedarf": "hoch",
-    "vertraulichkeitsklasse": "vertraulich",
-    "bsi-vertraulichkeit": "normal",
-    "bsi-integritaet": "hoch",
-    "bsi-verfuegbarkeit": "normal",
-    "bsi-schutzbedarf": "hoch",
-    "datenschutz_geprueft": false,
-    "bsi_geprueft": true,
-    "verwendungen": 0,
-    "beschreibung": "Daten zu Passersatzpapieren oder Notreisedokumenten.",
-    "felder": [
-      "Dokumentart",
-      "Ausstellende Stelle",
-      "Gültigkeit",
-      "Seriennummer",
-      "Inhaber/in",
-      "Grund"
-    ],
-    "rechtsgrundlagen": [
-      {
-        "gesetz": "AufenthG"
-      }
-    ],
-    "verwendet_in": []
-  },
-  {
-    "id": "dstore-reisekosten-aufenthaltsverfahren",
-    "name": "Reisekosten Aufenthaltsverfahren",
-    "kategorie": "Migration & Kosten",
-    "einheit": "oe-amt-47",
-    "schutzstufe": "C",
-    "schutzbedarf": "hoch",
-    "vertraulichkeitsklasse": "vertraulich",
-    "bsi-vertraulichkeit": "normal",
-    "bsi-integritaet": "normal",
-    "bsi-verfuegbarkeit": "normal",
-    "bsi-schutzbedarf": "normal",
-    "datenschutz_geprueft": false,
-    "bsi_geprueft": true,
-    "verwendungen": 0,
-    "beschreibung": "Kosten- und Erstattungsdaten im Zusammenhang mit ausländerrechtlichen Verfahren.",
-    "felder": [
-      "Reiseanlass",
-      "Strecke",
-      "Betrag",
-      "Nachweis",
-      "Person",
-      "Datum"
-    ],
-    "rechtsgrundlagen": [
-      {
-        "gesetz": "AufenthG"
-      }
-    ],
-    "verwendet_in": []
-  },
-  {
-    "id": "dstore-scheidungsnachweis",
-    "name": "Scheidungsnachweis",
-    "kategorie": "Personenstandsdaten",
-    "einheit": "oe-amt-31",
-    "schutzstufe": "C",
-    "schutzbedarf": "normal",
-    "vertraulichkeitsklasse": "vertraulich",
-    "bsi-vertraulichkeit": "normal",
-    "bsi-integritaet": "hoch",
-    "bsi-verfuegbarkeit": "normal",
-    "bsi-schutzbedarf": "hoch",
-    "datenschutz_geprueft": false,
-    "bsi_geprueft": true,
-    "verwendungen": 0,
-    "beschreibung": "Gerichtliche oder registerbezogene Nachweise über die Auflösung einer Ehe.",
-    "felder": [
-      "Gericht",
-      "Aktenzeichen",
-      "Rechtskraftdatum",
-      "Datum Entscheidung",
-      "betroffene Ehe",
-      "Nachweisart"
-    ],
-    "rechtsgrundlagen": [
-      {
-        "gesetz": "FamFG"
-      },
-      {
-        "gesetz": "BGB"
-      }
-    ],
-    "verwendet_in": []
   },
   {
     "id": "dstore-servicekonto-nutzeridentitaet",
@@ -1030,40 +722,6 @@
     "verwendet_in": [
       "vvt-15-003"
     ]
-  },
-  {
-    "id": "dstore-sprachkenntnisnachweis",
-    "name": "Sprachkenntnisnachweis",
-    "kategorie": "Migration & Bildung",
-    "einheit": "oe-amt-47",
-    "schutzstufe": "C",
-    "schutzbedarf": "hoch",
-    "vertraulichkeitsklasse": "vertraulich",
-    "bsi-vertraulichkeit": "normal",
-    "bsi-integritaet": "normal",
-    "bsi-verfuegbarkeit": "normal",
-    "bsi-schutzbedarf": "normal",
-    "datenschutz_geprueft": false,
-    "bsi_geprueft": true,
-    "verwendungen": 0,
-    "beschreibung": "Nachweise über Sprachkenntnisse, insbesondere für Aufenthalts- und Einbürgerungsverfahren.",
-    "felder": [
-      "Sprache",
-      "Niveau",
-      "Prüfungsstelle",
-      "Prüfdatum",
-      "Zertifikat",
-      "Person"
-    ],
-    "rechtsgrundlagen": [
-      {
-        "gesetz": "AufenthG"
-      },
-      {
-        "gesetz": "StAG"
-      }
-    ],
-    "verwendet_in": []
   },
   {
     "id": "dstore-steuerdaten",
@@ -1307,40 +965,6 @@
     ],
     "verwendet_in": [
       "vvt-23-007"
-    ]
-  },
-  {
-    "id": "dstore-wohnraumnachweis-aufenthalt",
-    "name": "Wohnraumnachweis Aufenthalt",
-    "kategorie": "Migration & Aufenthalt",
-    "einheit": "oe-amt-47",
-    "schutzstufe": "C",
-    "schutzbedarf": "hoch",
-    "vertraulichkeitsklasse": "vertraulich",
-    "bsi-vertraulichkeit": "normal",
-    "bsi-integritaet": "normal",
-    "bsi-verfuegbarkeit": "normal",
-    "bsi-schutzbedarf": "normal",
-    "datenschutz_geprueft": false,
-    "bsi_geprueft": true,
-    "verwendungen": 2,
-    "beschreibung": "Nachweise zum verfügbaren Wohnraum für aufenthaltsrechtliche Verfahren.",
-    "felder": [
-      "Anschrift",
-      "Wohnfläche",
-      "Bewohnerzahl",
-      "Mietverhältnis",
-      "Eigentumsbezug",
-      "Nachweis"
-    ],
-    "rechtsgrundlagen": [
-      {
-        "gesetz": "AufenthG"
-      }
-    ],
-    "verwendet_in": [
-      "vvt-47-006",
-      "vvt-50-005"
     ]
   }
 ]

@@ -3,7 +3,7 @@
   "id": "bes-vvt-10-002",
   "schema_version": "1.0.0",
   "meta": {
-    "erstellt_am": "2026-08-12",
+    "erstellt_am": "2026-08-14",
     "aktualisiert_am": "",
     "geprueft_am": "",
     "status": "entwurf",
@@ -16,8 +16,8 @@
   },
   "art": {
     "schutzstufe": {
-      "stufe": "C",
-      "risiko": 2
+      "stufe": "D",
+      "risiko": 3
     },
     "sensitive_daten": {
       "art9": {
@@ -55,10 +55,10 @@
         "risiko": 1
       }
     },
-    "risiko_art": 2,
+    "risiko_art": 3,
     "vertraulichkeit_bsi": {
-      "wert": "normal",
-      "risiko": 1
+      "wert": "hoch",
+      "risiko": 2
     },
     "integritaet": {
       "wert": "sehr hoch",
@@ -193,8 +193,8 @@
     "risiko_umstaende": 1
   },
   "gesamt": {
-    "schadenshoehe": 2,
-    "risiko_art": 2,
+    "schadenshoehe": 3,
+    "risiko_art": 3,
     "risiko_umfang": 2,
     "risiko_umstaende": 1
   }

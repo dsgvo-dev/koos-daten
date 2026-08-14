@@ -81,3 +81,9 @@ eingesetzt worden, ohne ihn an die tatsächlichen Werte anzupassen — in 105 Da
 **Die Werte selbst wurden nicht geändert**; maßgeblich ist das Frontmatter, und die
 Kettenprüfung E3 rechnet mit ihm.
 
+## Schutzstufe geprüft 2026-08-14
+
+**Bleibt bei C.** Die Heiratsurkunde offenbart den Familienstand, kein Art.-9-Datum. Die Ehe
+ist seit 2017 geschlechtsoffen; die Urkunde nennt kein „gleichgeschlechtlich". Der Rückschluss
+über die Vornamen ist mittelbar und begründet keine D-Einstufung.
+

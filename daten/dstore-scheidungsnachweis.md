@@ -86,3 +86,8 @@ Zuständige OE, Klassifizierung und BPMN-Typ sind heuristisch vorbelegt und soll
 **Integrität hoch.** Auf die Richtigkeit dieses Datenbestands verlassen sich andere -- Behörden, Gerichte oder die betroffene Person selbst. Eine unbemerkte Verfälschung führt nicht zu einem Fehler im Einzelfall, sondern zu falschen Folgeentscheidungen, die auf dem Bestand aufbauen.
 
 Personenstandsrelevant, Grundlage für Namensführung, Unterhalt und Erbfolge.
+
+## Schutzstufe geprüft 2026-08-14
+
+**Bleibt bei C.** Der Nachweis offenbart die Auflösung der Ehe — einen Familienstand. Kein
+Art.-9-Datum.

@@ -70,3 +70,9 @@ eingesetzt worden, ohne ihn an die tatsächlichen Werte anzupassen — in 105 Da
 **Die Werte selbst wurden nicht geändert**; maßgeblich ist das Frontmatter, und die
 Kettenprüfung E3 rechnet mit ihm.
 
+## Schutzstufe geprüft 2026-08-14
+
+**Bleibt bei C.** Das Passersatzpapier ist ein Reisedokument-Ersatz und wird nach
+Fachbereichsentscheid als Identitätsdokument (C) gewertet — vergleichbar
+`dstore-identitaetsnachweis` (C), keine D-Einstufung.
+
