@@ -20,7 +20,6 @@ daten:
   - id: dstore-wohnflaeche-nutzflaeche
   - id: dstore-wohnungszuordnungsmerkmal
   - id: dstore-mietvertrag-miethoehe
-  - id: dstore-miete-und-belastung
 regelungen:
 - WoGG (Wohngeldgesetz)
 - WoGV (Wohngeldverordnung)

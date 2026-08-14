@@ -92,3 +92,10 @@ Zuständige OE, Klassifizierung und BPMN-Typ sind heuristisch vorbelegt und soll
 **Die Vertraulichkeit richtet sich nach der Datenschutz-Schutzstufe** und ist dort begründet; der BSI-Wert ist die Vorbelegung daraus.
 
 *Sammelvermerk der Durchsicht vom 2026-08-04. In demselben Durchgang wurden 67 Speicher mit Register-, Entscheidungs- oder Gefahrenabwehrbezug angehoben; dieser gehört nicht dazu.*
+
+## Schutzstufe geprüft 2026-08-14
+
+**Bleibt bei C.** Die Flächenangaben offenbaren Größe und damit Wert der Wohnung —
+wirtschaftliche Verhältnisse. Kein Gesundheits- oder Sozialdatum. Genutzt in `vvt-64-001`
+(Wohnungsbauförderung).
+

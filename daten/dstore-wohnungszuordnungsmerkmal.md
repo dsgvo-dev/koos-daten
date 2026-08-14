@@ -9,9 +9,9 @@ bpmn:
   typ: datenobjekt
 klassifizierung:
   # Datenschutz -- Schaden fuer die betroffene Person (LfD-Schutzstufenkonzept, SDM)
-  schutzstufe: C
+  schutzstufe: B
   schutzbedarf: normal
-  vertraulichkeitsklasse: vertraulich
+  vertraulichkeitsklasse: intern
   # Informationssicherheit -- Schaden fuer die Institution und die Aufgabenerfuellung (BSI)
   bsi-vertraulichkeit: normal
   bsi-integritaet: normal
@@ -48,7 +48,7 @@ Technisches oder organisatorisches Merkmal zur eindeutigen Zuordnung einer Wohnu
 
 ## Klassifizierung
 
-- Schutzstufe: C
+- Schutzstufe: B
 - Schutzbedarf: normal
 - Vertraulichkeit: intern
 - BPMN-Typ: datenobjekt
@@ -89,3 +89,13 @@ Zuständige OE, Klassifizierung und BPMN-Typ sind heuristisch vorbelegt und soll
 **Die Vertraulichkeit richtet sich nach der Datenschutz-Schutzstufe** und ist dort begründet; der BSI-Wert ist die Vorbelegung daraus.
 
 *Sammelvermerk der Durchsicht vom 2026-08-04. In demselben Durchgang wurden 67 Speicher mit Register-, Entscheidungs- oder Gefahrenabwehrbezug angehoben; dieser gehört nicht dazu.*
+
+## Schutzstufe geprüft 2026-08-14
+
+**C → B.** Der Speicher führt ein technisches Zuordnungsmerkmal (Wohnungs-ID, Objektkennung),
+keinen sensiblen Inhalt. Er identifiziert eine **Wohnung**, nicht eine Person; der Missbrauch
+eines Zuordnungsmerkmals hat keine besondere Beeinträchtigung der gesellschaftlichen Stellung
+oder der wirtschaftlichen Verhältnisse zur Folge. Die sensiblen Angaben der Mietbewerberliste
+tragen `dstore-wohnberechtigung` und `dstore-einkommensnachweise-haushalt` (beide D), nicht
+dieses Merkmal.
+

@@ -135,37 +135,6 @@
     ]
   },
   {
-    "id": "dstore-betriebskostenabrechnung-wohnen",
-    "name": "Betriebskostenabrechnung Wohnen",
-    "kategorie": "Wohnen & Soziales",
-    "einheit": "oe-amt-64",
-    "schutzstufe": "C",
-    "schutzbedarf": "hoch",
-    "vertraulichkeitsklasse": "vertraulich",
-    "bsi-vertraulichkeit": "normal",
-    "bsi-integritaet": "normal",
-    "bsi-verfuegbarkeit": "hoch",
-    "bsi-schutzbedarf": "hoch",
-    "datenschutz_geprueft": false,
-    "bsi_geprueft": true,
-    "verwendungen": 0,
-    "beschreibung": "Abrechnung der umlagefähigen Betriebskosten für eine Wohnung oder ein Eigenheim.",
-    "felder": [
-      "Abrechnungszeitraum",
-      "Vorauszahlungen",
-      "Betriebskostenarten",
-      "Nachzahlung",
-      "Guthaben",
-      "Absender"
-    ],
-    "rechtsgrundlagen": [
-      {
-        "gesetz": "WoGG"
-      }
-    ],
-    "verwendet_in": []
-  },
-  {
     "id": "dstore-brandschutznachweis",
     "name": "Brandschutznachweis",
     "kategorie": "Bauen & Grundstück",
@@ -197,39 +166,6 @@
     "verwendet_in": [
       "vvt-10-026",
       "vvt-63-001"
-    ]
-  },
-  {
-    "id": "dstore-darlehensverpflichtung-eigenheim",
-    "name": "Darlehensverpflichtung Eigenheim",
-    "kategorie": "Wohnen & Eigentum",
-    "einheit": "oe-amt-64",
-    "schutzstufe": "C",
-    "schutzbedarf": "hoch",
-    "vertraulichkeitsklasse": "vertraulich",
-    "bsi-vertraulichkeit": "normal",
-    "bsi-integritaet": "normal",
-    "bsi-verfuegbarkeit": "normal",
-    "bsi-schutzbedarf": "normal",
-    "datenschutz_geprueft": false,
-    "bsi_geprueft": true,
-    "verwendungen": 1,
-    "beschreibung": "Daten zu Darlehen und Kreditverpflichtungen für Kauf, Bau oder Modernisierung eines Eigenheims.",
-    "felder": [
-      "Darlehensgeber",
-      "Darlehenssumme",
-      "Zins",
-      "Tilgung",
-      "Restschuld",
-      "Verwendungszweck"
-    ],
-    "rechtsgrundlagen": [
-      {
-        "gesetz": "WoGG"
-      }
-    ],
-    "verwendet_in": [
-      "vvt-64-001"
     ]
   },
   {
@@ -374,51 +310,6 @@
     ],
     "verwendet_in": [
       "vvt-10-026"
-    ]
-  },
-  {
-    "id": "dstore-flur-flurstueck-lagebezeichnung",
-    "name": "Flur, Flurstück und Lagebezeichnung",
-    "kategorie": "Bauen & Grundstück",
-    "einheit": "oe-amt-62",
-    "schutzstufe": "C",
-    "schutzbedarf": "normal",
-    "vertraulichkeitsklasse": "vertraulich",
-    "bsi-vertraulichkeit": "normal",
-    "bsi-integritaet": "hoch",
-    "bsi-verfuegbarkeit": "normal",
-    "bsi-schutzbedarf": "hoch",
-    "datenschutz_geprueft": false,
-    "bsi_geprueft": true,
-    "verwendungen": 10,
-    "beschreibung": "Katasterbezogene Identifikationsdaten eines Grundstücks.",
-    "felder": [
-      "Gemarkung",
-      "Flur",
-      "Flurstück",
-      "Lagebezeichnung",
-      "Katasteramt",
-      "Nachweisdatum"
-    ],
-    "rechtsgrundlagen": [
-      {
-        "gesetz": "NBauO"
-      },
-      {
-        "gesetz": "Vermessungsrecht"
-      }
-    ],
-    "verwendet_in": [
-      "vvt-15-003",
-      "vvt-22-004",
-      "vvt-22-005",
-      "vvt-23-008",
-      "vvt-60-011",
-      "vvt-62-001",
-      "vvt-63-002",
-      "vvt-80-003",
-      "vvt-86-001",
-      "vvt-86-002"
     ]
   },
   {
@@ -805,40 +696,6 @@
     ]
   },
   {
-    "id": "dstore-lageplan-geobasisdaten",
-    "name": "Lageplan und Geobasisdaten",
-    "kategorie": "Bauen & Grundstück",
-    "einheit": "oe-amt-62",
-    "schutzstufe": "C",
-    "schutzbedarf": "normal",
-    "vertraulichkeitsklasse": "vertraulich",
-    "bsi-vertraulichkeit": "normal",
-    "bsi-integritaet": "normal",
-    "bsi-verfuegbarkeit": "normal",
-    "bsi-schutzbedarf": "normal",
-    "datenschutz_geprueft": false,
-    "bsi_geprueft": true,
-    "verwendungen": 2,
-    "beschreibung": "Plan- und Kartengrundlagen zur räumlichen Einordnung eines Bauvorhabens.",
-    "felder": [
-      "Lageplan",
-      "Maßstab",
-      "Ausfertigungsdatum",
-      "vermessende Stelle",
-      "Koordinatenbezug",
-      "Grundstücksbezug"
-    ],
-    "rechtsgrundlagen": [
-      {
-        "gesetz": "NBauO"
-      }
-    ],
-    "verwendet_in": [
-      "vvt-15-003",
-      "vvt-34-001"
-    ]
-  },
-  {
     "id": "dstore-lebensmittelhygienekontrolle",
     "name": "Lebensmittelhygienekontrolle",
     "kategorie": "Lebensmittelüberwachung",
@@ -940,68 +797,6 @@
       "vvt-32-013",
       "vvt-38-001"
     ]
-  },
-  {
-    "id": "dstore-mietbescheinigung",
-    "name": "Mietbescheinigung",
-    "kategorie": "Wohnen & Soziales",
-    "einheit": "oe-amt-64",
-    "schutzstufe": "C",
-    "schutzbedarf": "hoch",
-    "vertraulichkeitsklasse": "vertraulich",
-    "bsi-vertraulichkeit": "normal",
-    "bsi-integritaet": "normal",
-    "bsi-verfuegbarkeit": "hoch",
-    "bsi-schutzbedarf": "hoch",
-    "datenschutz_geprueft": false,
-    "bsi_geprueft": true,
-    "verwendungen": 0,
-    "beschreibung": "Bescheinigung des Vermieters zu Mietverhältnis, Wohnungsgröße und Nebenkosten.",
-    "felder": [
-      "Vermieter",
-      "Mietobjekt",
-      "Wohnfläche",
-      "Grundmiete",
-      "Nebenkosten",
-      "Einzugsdatum"
-    ],
-    "rechtsgrundlagen": [
-      {
-        "gesetz": "WoGG"
-      }
-    ],
-    "verwendet_in": []
-  },
-  {
-    "id": "dstore-miete-und-belastung",
-    "name": "Miete und Belastung",
-    "kategorie": "Wohnen & Soziales",
-    "einheit": "oe-amt-64",
-    "schutzstufe": "C",
-    "schutzbedarf": "normal",
-    "vertraulichkeitsklasse": "vertraulich",
-    "bsi-vertraulichkeit": "normal",
-    "bsi-integritaet": "normal",
-    "bsi-verfuegbarkeit": "normal",
-    "bsi-schutzbedarf": "normal",
-    "datenschutz_geprueft": false,
-    "bsi_geprueft": true,
-    "verwendungen": 0,
-    "beschreibung": "Daten zu monatlicher Miete oder Belastung bei selbstgenutztem Wohneigentum.",
-    "felder": [
-      "Bruttokaltmiete",
-      "Nebenkosten",
-      "Belastung",
-      "Wohnfläche",
-      "Zahlungsintervall",
-      "Beginn Mietverhältnis"
-    ],
-    "rechtsgrundlagen": [
-      {
-        "gesetz": "WoGG"
-      }
-    ],
-    "verwendet_in": []
   },
   {
     "id": "dstore-musikschul-kursanmeldung",
@@ -1515,42 +1310,6 @@
     ]
   },
   {
-    "id": "dstore-wohnflaeche-nutzflaeche",
-    "name": "Wohnfläche und Nutzfläche",
-    "kategorie": "Bauen & Grundstück",
-    "einheit": "oe-amt-64",
-    "schutzstufe": "C",
-    "schutzbedarf": "normal",
-    "vertraulichkeitsklasse": "vertraulich",
-    "bsi-vertraulichkeit": "normal",
-    "bsi-integritaet": "normal",
-    "bsi-verfuegbarkeit": "normal",
-    "bsi-schutzbedarf": "normal",
-    "datenschutz_geprueft": false,
-    "bsi_geprueft": true,
-    "verwendungen": 1,
-    "beschreibung": "Flächenbezogene Angaben eines Gebäudes oder einer Nutzungseinheit.",
-    "felder": [
-      "Wohnfläche",
-      "Nutzfläche",
-      "Teilflächen",
-      "Berechnungsmethode",
-      "Einheit",
-      "Bezugsobjekt"
-    ],
-    "rechtsgrundlagen": [
-      {
-        "gesetz": "NBauO"
-      },
-      {
-        "gesetz": "WoFG"
-      }
-    ],
-    "verwendet_in": [
-      "vvt-64-001"
-    ]
-  },
-  {
     "id": "dstore-wohnraumnachweis-aufenthalt",
     "name": "Wohnraumnachweis Aufenthalt",
     "kategorie": "Migration & Aufenthalt",
@@ -1582,38 +1341,6 @@
     "verwendet_in": [
       "vvt-47-006",
       "vvt-50-005"
-    ]
-  },
-  {
-    "id": "dstore-wohnungszuordnungsmerkmal",
-    "name": "Wohnungszuordnungsmerkmal",
-    "kategorie": "Wohnen & Melderecht",
-    "einheit": "oe-amt-64",
-    "schutzstufe": "C",
-    "schutzbedarf": "normal",
-    "vertraulichkeitsklasse": "vertraulich",
-    "bsi-vertraulichkeit": "normal",
-    "bsi-integritaet": "normal",
-    "bsi-verfuegbarkeit": "normal",
-    "bsi-schutzbedarf": "normal",
-    "datenschutz_geprueft": false,
-    "bsi_geprueft": true,
-    "verwendungen": 1,
-    "beschreibung": "Technisches oder organisatorisches Merkmal zur eindeutigen Zuordnung einer Wohnung im Meldeverfahren.",
-    "felder": [
-      "Zuordnungsmerkmal",
-      "Objektkennung",
-      "Wohnungs-ID",
-      "Anschrift",
-      "Vergabestelle"
-    ],
-    "rechtsgrundlagen": [
-      {
-        "gesetz": "BMG"
-      }
-    ],
-    "verwendet_in": [
-      "vvt-23-004"
     ]
   }
 ]

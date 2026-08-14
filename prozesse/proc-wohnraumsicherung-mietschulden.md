@@ -16,8 +16,6 @@ daten:
     - Wohnraumnachweise
   datenspeicher:
   - id: dstore-mietschulden-wohnraumsicherung
-  - id: dstore-mietbescheinigung
-  - id: dstore-betriebskostenabrechnung-wohnen
   - id: dstore-darlehensverpflichtung-eigenheim
 
 regelungen:

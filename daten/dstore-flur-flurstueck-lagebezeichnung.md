@@ -86,3 +86,12 @@ Zuständige OE, Klassifizierung und BPMN-Typ sind heuristisch vorbelegt und soll
 **Integrität hoch.** Auf die Richtigkeit dieses Datenbestands verlassen sich andere -- Behörden, Gerichte oder die betroffene Person selbst. Eine unbemerkte Verfälschung führt nicht zu einem Fehler im Einzelfall, sondern zu falschen Folgeentscheidungen, die auf dem Bestand aufbauen.
 
 Katasterbezug. Er bestimmt, welches Grundstück gemeint ist -- Grundlage für Bescheide, Beiträge und Grundbucheintragungen.
+
+## Schutzstufe geprüft 2026-08-14
+
+**Bleibt bei C.** Der Katasterbezug offenbart in seinen Verwendungen wirtschaftliche
+Verhältnisse: Grundsteuer (`vvt-22-004/005`), Bodenordnung (`vvt-63-002`), Vergabe
+(`vvt-23-008`). Die reine Flur-/Flurstücksnummer ist öffentlich (Liegenschaftskataster), aber
+die Verknüpfung „dieses Grundstück ist Gegenstand eines Verfahrens" ist es nicht. Konsistent
+mit `dstore-grundstuecksbezug` (C, Los 5).
+

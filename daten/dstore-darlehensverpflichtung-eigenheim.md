@@ -61,3 +61,13 @@ Die Zuständigkeit wurde auf reale `oe-*`-IDs aus `orga.yaml` normalisiert.
 **Die Vertraulichkeit richtet sich nach der Datenschutz-Schutzstufe** und ist dort begründet; der BSI-Wert ist die Vorbelegung daraus.
 
 *Sammelvermerk der Durchsicht vom 2026-08-04. In demselben Durchgang wurden 67 Speicher mit Register-, Entscheidungs- oder Gefahrenabwehrbezug angehoben; dieser gehört nicht dazu.*
+
+## Schutzstufe geprüft 2026-08-14
+
+**Bleibt bei C.** Das Eigenheim-Darlehen offenbart wirtschaftliche Verhältnisse — nicht
+„Schulden" im Sinne des LfD-Konzepts (existenzbedrohende Verschuldung wie
+`dstore-mietschulden-wohnraumsicherung`, D). Darlehen für Kauf, Bau oder Modernisierung sind
+normale Finanzierung; sie offenbaren Investitionsfähigkeit, nicht Überschuldung. Genutzt in
+`vvt-64-001` (Wohnungsbauförderung). Wird der Speicher in einem Wohngeld-Leistungsverfahren
+geführt, wäre er als Sozialdatum auf D anzuheben.
+
