@@ -56,6 +56,10 @@ Angelegt am 2026-08-03 zu `vvt-53-003` (Berufsaufsicht Heilberufe).
 
 Die VVT bündelt Hebammen und Heilpraktiker. Für die Heilpraktikerseite bestand `dstore-heilpraktikererlaubnisverfahren`, für die Hebammenseite nichts. Die Anzeige nach § 7 Nds. HebG und die Aufsicht nach § 8 sind ein eigenes Verfahren mit eigener Rechtsgrundlage.
 
+## Schutzstufe geprüft 2026-08-14
+
+**C bestätigt.** Berufsdaten einer Hebamme (Erlaubnis, Tätigkeitsort, Fortbildung) und Aufsichtsvorgänge nach § 7/8 Nds. HebG. Berufsaufsichtliche Beanstandungen sind berufsrechtlich relevant, aber keine Art. 9-Daten. C ist angemessen.
+
 ## BSI-Vektoren geprüft 2026-08-04
 
 **Integrität bleibt normal.** Der Bestand ist ein **vorgelegter Nachweis**, keine Registerführung. Die Kommune prüft ihn im Verfahren und trifft auf seiner Grundlage eine Entscheidung; sie führt ihn aber nicht als Bestand, auf dessen Richtigkeit sich Dritte dauerhaft verlassen.

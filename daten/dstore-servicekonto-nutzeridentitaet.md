@@ -52,6 +52,10 @@ Konten- und Identitätsdaten eines verwaltungsbezogenen Online-Servicekontos.
 
 Die Zuständigkeit wurde auf reale `oe-*`-IDs aus `orga.yaml` normalisiert.
 
+## Schutzstufe geprüft 2026-08-14
+
+**C bestätigt.** Konten- und Identitätsdaten eines Servicekontos (Kontotyp, Nutzerkennung, Authentifizierungsniveau, verknüpfte Person) nach OZG/EGovG. Das Authentifizierungsniveau ist ein technisches Merkmal (eID-Vertrauensniveau), keine sensible Personenangabe. Keine Art. 9-Daten. C ist angemessen.
+
 ## BSI-Vektoren geprüft 2026-08-04
 
 **Integrität: `hoch`** · **Verfügbarkeit: `normal`**

@@ -51,6 +51,10 @@ Bescheiddaten zur Grundsteuer für selbst genutztes oder vermietetes Wohneigentu
 
 Die Zuständigkeit wurde auf reale `oe-*`-IDs aus `orga.yaml` normalisiert.
 
+## Schutzstufe geprüft 2026-08-14
+
+**C bestätigt.** Der Grundsteuerbescheid ist eine öffentliche Objektsteuer: Der Grundstückswert ist über das Grundbuch öffentlich nachvollziehbar. Der festgesetzte Betrag offenbart keine besonders schützenswerten Einkommens- oder Vermögensverhältnisse. C ist angemessen.
+
 ## BSI-Vektoren geprüft 2026-08-04
 
 **Integrität: `hoch`** · **Verfügbarkeit: `normal`**

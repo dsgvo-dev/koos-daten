@@ -64,6 +64,10 @@ Angelegt am 2026-08-03 zu `vvt-15-002` (Nutzung des Chatbots).
 
 Verwendbar für alle Webangebote der Kommune, nicht nur den Chatbot.
 
+## Schutzstufe geprüft 2026-08-14
+
+**C bestätigt.** Verbindungs- und Sitzungsdaten (IP-Adresse, Zeitstempel, Session-ID, Browsertyp). Die IP-Adresse ist personenbezogen (EuGH C-582/14 — Breyer), aber als Logdatum mit 7-Tage-Aufbewahrung ohne Profilbildung. Keine Art. 9-Daten. C ist angemessen.
+
 ## BSI-Vektoren geprüft 2026-08-04
 
 **Integrität und Verfügbarkeit bleiben bei `normal`.** Geprüft im Durchgang vom 2026-08-04 anhand von drei Fragen:

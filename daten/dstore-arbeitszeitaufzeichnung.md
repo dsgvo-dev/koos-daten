@@ -74,6 +74,10 @@ Angelegt am 2026-07-30 zusammen mit `proc-arbeitszeit-erfassen-und-auswerten` un
 
 **Keine Gesundheitsdaten.** Krankheitsbedingte Abwesenheit wird ausschließlich als Abwesenheitsart und Dauer geführt. Diagnosen und ärztliche Bescheinigungen gehören nicht in diesen Speicher.
 
+## Schutzstufe geprüft 2026-08-14
+
+**C bestätigt.** Kommt-/Gehtzeiten, Pausenzeiten und Bereitschaftsdienst sind Beschäftigtendaten. Keine Gesundheitsdaten (Diagnosen sind ausdrücklich ausgeschlossen, nur Abwesenheitsart und -dauer). C ist angemessen — die Mitbestimmung nach NPersVG betrifft das Verfahren, nicht die Schutzstufe.
+
 ## BSI-Vektoren geprüft 2026-08-04
 
 **Integrität und Verfügbarkeit bleiben bei `normal`.** Geprüft im Durchgang vom 2026-08-04 anhand von drei Fragen:

@@ -79,6 +79,10 @@ KOOS-konforme Konvertierung aus einer älteren Markdown-Sammlung.
 
 Zuständige OE, Klassifizierung und BPMN-Typ sind heuristisch vorbelegt und sollten fachlich überprüft werden.
 
+## Schutzstufe geprüft 2026-08-14
+
+**C bestätigt.** Identitäts- und Kontaktdaten einer veranstaltenden Person oder Stelle (Name/Firma, Anschrift, Ansprechperson, Kontakt) nach GewO. Bei Firmen kein Personenbezug; bei Einzelpersonen Standard-Kontaktdaten. Keine Art. 9-Daten. C ist angemessen.
+
 ## BSI-Vektoren geprüft 2026-08-04
 
 **Integrität und Verfügbarkeit bleiben bei `normal`.** Geprüft im Durchgang vom 2026-08-04 anhand von drei Fragen:

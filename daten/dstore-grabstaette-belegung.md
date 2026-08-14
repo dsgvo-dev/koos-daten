@@ -60,6 +60,10 @@ Die VVT führte Personen- und Sterbedaten, aber keinen Speicher für die Grabst�
 
 **Nutzungsberechtigte und Verstorbene sind zu trennen.** Die verstorbene Person fällt nicht unter die DSGVO, die nutzungsberechtigte schon. Die Grablage ist über den Friedhof öffentlich sichtbar; die Zuordnung zur nutzungsberechtigten Person ist es nicht.
 
+## Schutzstufe geprüft 2026-08-14
+
+**C bestätigt.** Die Grablage ist über den Friedhof öffentlich sichtbar. Die Zuordnung zur nutzungsberechtigten Person ist personenbezogen, aber kein Art. 9-Datum. Verstorbene fallen nicht unter die DSGVO. Die Art der Bestattung (Einäscherung) ist eine persönliche Entscheidung ohne sensible Zusatzoffenbarung. C ist angemessen.
+
 ## BSI-Vektoren geprüft 2026-08-04
 
 **Integrität und Verfügbarkeit bleiben bei `normal`.** Geprüft im Durchgang vom 2026-08-04 anhand von drei Fragen:

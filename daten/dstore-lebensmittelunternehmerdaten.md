@@ -49,6 +49,10 @@ Stammdaten von Lebensmittelunternehmern und ihren Betrieben.
 
 Die Zuständigkeit wurde auf reale `oe-*`-IDs aus `orga.yaml` normalisiert.
 
+## Schutzstufe geprüft 2026-08-14
+
+**C bestätigt.** Stammdaten von Lebensmittelunternehmern (Unternehmen, verantwortliche Person, Kontakt) nach LFGB. Bei Unternehmen kein Personenbezug auf natürliche Personen; die verantwortliche Person ist Standard-Berufsangabe. Keine Art. 9-Daten. C ist angemessen.
+
 ## BSI-Vektoren geprüft 2026-08-04
 
 **Integrität und Verfügbarkeit bleiben bei `normal`.** Geprüft im Durchgang vom 2026-08-04 anhand von drei Fragen:

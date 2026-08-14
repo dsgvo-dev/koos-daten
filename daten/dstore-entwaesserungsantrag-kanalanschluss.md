@@ -49,6 +49,10 @@ Antrags- und Anschlussdaten zur Grundstücksentwässerung.
 
 Die Zuständigkeit wurde auf reale `oe-*`-IDs aus `orga.yaml` normalisiert.
 
+## Schutzstufe geprüft 2026-08-14
+
+**C bestätigt.** Grundstück, Anschlussart und Planunterlagen sind Sachdaten; der Antragsteller ist Standard-Personenbezug. Keine Art. 9-Daten. C ist angemessen.
+
 ## BSI-Vektoren geprüft 2026-08-04
 
 **Integrität und Verfügbarkeit bleiben bei `normal`.** Geprüft im Durchgang vom 2026-08-04 anhand von drei Fragen:
