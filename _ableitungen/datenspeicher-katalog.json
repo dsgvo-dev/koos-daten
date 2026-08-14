@@ -351,31 +351,6 @@
     ]
   },
   {
-    "id": "dstore-arbeitgeberzuschuss-mutterschaft",
-    "name": "Arbeitgeberzuschuss zum Mutterschaftsgeld",
-    "kategorie": "Familie & Soziales",
-    "einheit": "oe-amt-50",
-    "schutzstufe": "C",
-    "schutzbedarf": "normal",
-    "vertraulichkeitsklasse": "vertraulich",
-    "bsi-vertraulichkeit": "normal",
-    "bsi-integritaet": "normal",
-    "bsi-verfuegbarkeit": "normal",
-    "bsi-schutzbedarf": "normal",
-    "datenschutz_geprueft": false,
-    "bsi_geprueft": true,
-    "verwendungen": 0,
-    "beschreibung": "Daten zum Zuschuss des Arbeitgebers zum Mutterschaftsgeld.",
-    "felder": [
-      "Arbeitgeber",
-      "Zeitraum",
-      "Zuschusshöhe",
-      "Bescheinigung",
-      "Beschäftigungsverhältnis",
-      "Auszahlungsrhythmus"
-    ]
-  },
-  {
     "id": "dstore-arbeitsunfaehigkeit-krankheit",
     "name": "Arbeitsunfähigkeit und Krankheit",
     "kategorie": "Gesundheit & Soziales",
@@ -514,7 +489,7 @@
     "bsi-integritaet": "hoch",
     "bsi-verfuegbarkeit": "hoch",
     "bsi-schutzbedarf": "hoch",
-    "datenschutz_geprueft": false,
+    "datenschutz_geprueft": true,
     "bsi_geprueft": true,
     "verwendungen": 3,
     "beschreibung": "Abrechnung von Reisekosten und Aufwandsentschädigungen für ehrenamtlich tätige Personen in Beiräten, Ausschüssen und Gremien.",
@@ -3145,31 +3120,6 @@
     ]
   },
   {
-    "id": "dstore-haushaltsbescheinigung",
-    "name": "Haushaltsbescheinigung",
-    "kategorie": "Wohnen & Soziales",
-    "einheit": "oe-amt-50",
-    "schutzstufe": "C",
-    "schutzbedarf": "hoch",
-    "vertraulichkeitsklasse": "vertraulich",
-    "bsi-vertraulichkeit": "normal",
-    "bsi-integritaet": "normal",
-    "bsi-verfuegbarkeit": "hoch",
-    "bsi-schutzbedarf": "hoch",
-    "datenschutz_geprueft": false,
-    "bsi_geprueft": true,
-    "verwendungen": 0,
-    "beschreibung": "Behördliche Bescheinigung über die Zusammensetzung eines Haushalts.",
-    "felder": [
-      "Haushaltsvorstand",
-      "Haushaltsmitglieder",
-      "Anschrift",
-      "Ausstellungsdatum",
-      "Ausstellende Stelle",
-      "Gültigkeitsbezug"
-    ]
-  },
-  {
     "id": "dstore-haushaltshilfe-unterstuetzungsbedarf",
     "name": "Haushaltshilfe und Unterstützungsbedarf",
     "kategorie": "Soziales & Hilfe",
@@ -3206,9 +3156,9 @@
     "bsi-integritaet": "normal",
     "bsi-verfuegbarkeit": "normal",
     "bsi-schutzbedarf": "normal",
-    "datenschutz_geprueft": false,
+    "datenschutz_geprueft": true,
     "bsi_geprueft": true,
-    "verwendungen": 4,
+    "verwendungen": 0,
     "beschreibung": "Daten zu den im Haushalt lebenden Personen und ihrer Anzahl.",
     "felder": [
       "Anzahl Haushaltsmitglieder",
@@ -3217,6 +3167,32 @@
       "Geburtsdatum",
       "Haushaltszugehörigkeit",
       "Auszugs-/Einzugsdatum"
+    ]
+  },
+  {
+    "id": "dstore-haushaltsmitglieder-vertraulich",
+    "name": "Haushaltsmitglieder und Haushaltsgröße in vertraulichen Verfahren",
+    "kategorie": "Wohnen & Soziales",
+    "einheit": "oe-amt-50",
+    "schutzstufe": "D",
+    "schutzbedarf": "hoch",
+    "vertraulichkeitsklasse": "streng vertraulich",
+    "bsi-vertraulichkeit": "hoch",
+    "bsi-integritaet": "normal",
+    "bsi-verfuegbarkeit": "normal",
+    "bsi-schutzbedarf": "hoch",
+    "datenschutz_geprueft": true,
+    "bsi_geprueft": true,
+    "verwendungen": 4,
+    "beschreibung": "Daten zu den im Haushalt lebenden Personen und ihrer Anzahl in Verfahren, deren Zugehörigkeit selbst schutzbedürftig ist — Sozialhilfe (SGB XII), Jugendhilfe (SGB VIII), Asylbewerberleistungen und Leistungen nach dem Infektionsschutzgesetz. Inhaltlich identisch mit den allgemeinen Haushaltsdaten.",
+    "felder": [
+      "Anzahl Haushaltsmitglieder",
+      "Person im Haushalt",
+      "Verwandtschaftsverhältnis",
+      "Geburtsdatum",
+      "Haushaltszugehörigkeit",
+      "Auszugs-/Einzugsdatum",
+      "Aktenzeichen oder Fallnummer des vertraulichen Verfahrens"
     ]
   },
   {
@@ -3622,31 +3598,6 @@
     ]
   },
   {
-    "id": "dstore-kapitalertraege-zinsertraege",
-    "name": "Kapitalerträge und Zinserträge",
-    "kategorie": "Arbeit & Einkommen",
-    "einheit": "oe-amt-50",
-    "schutzstufe": "C",
-    "schutzbedarf": "hoch",
-    "vertraulichkeitsklasse": "vertraulich",
-    "bsi-vertraulichkeit": "normal",
-    "bsi-integritaet": "normal",
-    "bsi-verfuegbarkeit": "normal",
-    "bsi-schutzbedarf": "normal",
-    "datenschutz_geprueft": false,
-    "bsi_geprueft": true,
-    "verwendungen": 0,
-    "beschreibung": "Einkünfte aus Kapitalvermögen, die für Leistungs- oder Aufenthaltsverfahren relevant sein können.",
-    "felder": [
-      "Ertragsart",
-      "Kreditinstitut",
-      "Zeitraum",
-      "Bruttobetrag",
-      "Steuerbescheinigung",
-      "Kontoinhaber"
-    ]
-  },
-  {
     "id": "dstore-kassenzeichen-buchungsreferenz",
     "name": "Kassenzeichen und Buchungsreferenz",
     "kategorie": "Finanzen & Zahlung",
@@ -3809,7 +3760,7 @@
     "bsi-integritaet": "normal",
     "bsi-verfuegbarkeit": "normal",
     "bsi-schutzbedarf": "normal",
-    "datenschutz_geprueft": false,
+    "datenschutz_geprueft": true,
     "bsi_geprueft": true,
     "verwendungen": 1,
     "beschreibung": "Angaben zu Anspruch, Bezug und Nachweisen von Kindergeld.",

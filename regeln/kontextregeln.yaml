@@ -86,6 +86,12 @@ speicherpaare:
   stufe-basis: C
   stufe-variante: D
   zusatzfeld: interne Vermerke und Beteiligung Dritter
+- basis: dstore-haushaltsmitglieder
+  variante: dstore-haushaltsmitglieder-vertraulich
+  bedingung: verfahren-vertraulich
+  stufe-basis: C
+  stufe-variante: D
+  zusatzfeld: Aktenzeichen oder Fallnummer des vertraulichen Verfahrens
 
 # ---------------------------------------------------------------------------
 # 3. Speicher, die den Kontext unabhaengig vom Verfahren anheben

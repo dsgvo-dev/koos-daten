@@ -77,3 +77,12 @@ eingesetzt worden, ohne ihn an die tatsächlichen Werte anzupassen — in 105 Da
 **Die Werte selbst wurden nicht geändert**; maßgeblich ist das Frontmatter, und die
 Kettenprüfung E3 rechnet mit ihm.
 
+## Schutzstufe geprüft 2026-08-14
+
+**Bleibt bei C.** Betrag, Bankverbindung, Gremium und steuerliche Behandlung offenbaren
+wirtschaftliche Verhältnisse (C-Kriterium). Eine Anhebung auf D scheidet aus: Der
+Behindertenbeirat offenbart kein Gesundheitsdatum — dem Beirat gehören nach dem Vermerk in
+`vvt-50-008` auch Angehörige und Fachleute an, sodass die Mitgliedschaft für sich genommen
+keinen Schluss auf eine Behinderung zulässt.
+
+

@@ -1,36 +1,5 @@
 [
   {
-    "id": "dstore-arbeitgeberzuschuss-mutterschaft",
-    "name": "Arbeitgeberzuschuss zum Mutterschaftsgeld",
-    "kategorie": "Familie & Soziales",
-    "einheit": "oe-amt-50",
-    "schutzstufe": "C",
-    "schutzbedarf": "normal",
-    "vertraulichkeitsklasse": "vertraulich",
-    "bsi-vertraulichkeit": "normal",
-    "bsi-integritaet": "normal",
-    "bsi-verfuegbarkeit": "normal",
-    "bsi-schutzbedarf": "normal",
-    "datenschutz_geprueft": false,
-    "bsi_geprueft": true,
-    "verwendungen": 0,
-    "beschreibung": "Daten zum Zuschuss des Arbeitgebers zum Mutterschaftsgeld.",
-    "felder": [
-      "Arbeitgeber",
-      "Zeitraum",
-      "Zuschusshöhe",
-      "Bescheinigung",
-      "Beschäftigungsverhältnis",
-      "Auszahlungsrhythmus"
-    ],
-    "rechtsgrundlagen": [
-      {
-        "gesetz": "MuSchG"
-      }
-    ],
-    "verwendet_in": []
-  },
-  {
     "id": "dstore-arbeitsverhaeltnis-beschaeftigung",
     "name": "Arbeitsverhältnis und Beschäftigung",
     "kategorie": "Arbeit & Einkommen",
@@ -163,54 +132,6 @@
     ],
     "verwendet_in": [
       "vvt-32-005"
-    ]
-  },
-  {
-    "id": "dstore-aufwandsentschaedigung-ehrenamt",
-    "name": "Aufwandsentschädigung und Reisekosten im Ehrenamt",
-    "kategorie": "Finanzen & Zahlung",
-    "einheit": "oe-amt-50",
-    "schutzstufe": "C",
-    "schutzbedarf": "normal",
-    "vertraulichkeitsklasse": "vertraulich",
-    "bsi-vertraulichkeit": "normal",
-    "bsi-integritaet": "hoch",
-    "bsi-verfuegbarkeit": "hoch",
-    "bsi-schutzbedarf": "hoch",
-    "datenschutz_geprueft": false,
-    "bsi_geprueft": true,
-    "verwendungen": 3,
-    "beschreibung": "Abrechnung von Reisekosten und Aufwandsentschädigungen für ehrenamtlich tätige Personen in Beiräten, Ausschüssen und Gremien.",
-    "felder": [
-      "Ehrenamtlich tätige Person",
-      "Gremium oder Anlass",
-      "Sitzungs- oder Reisedatum",
-      "Strecke und Verkehrsmittel",
-      "Betrag der Entschädigung",
-      "Bankverbindung",
-      "steuerliche Behandlung"
-    ],
-    "rechtsgrundlagen": [
-      {
-        "gesetz": "DSGVO",
-        "artikel": "Art. 6 Abs. 1 lit. c und lit. e"
-      },
-      {
-        "gesetz": "EStG",
-        "artikel": "§ 3 Nr. 26a"
-      },
-      {
-        "gesetz": "NKomHKVO"
-      },
-      {
-        "gesetz": "AO",
-        "artikel": "§ 147"
-      }
-    ],
-    "verwendet_in": [
-      "vvt-11-010",
-      "vvt-40-004",
-      "vvt-50-008"
     ]
   },
   {
@@ -728,73 +649,6 @@
     ]
   },
   {
-    "id": "dstore-haushaltsbescheinigung",
-    "name": "Haushaltsbescheinigung",
-    "kategorie": "Wohnen & Soziales",
-    "einheit": "oe-amt-50",
-    "schutzstufe": "C",
-    "schutzbedarf": "hoch",
-    "vertraulichkeitsklasse": "vertraulich",
-    "bsi-vertraulichkeit": "normal",
-    "bsi-integritaet": "normal",
-    "bsi-verfuegbarkeit": "hoch",
-    "bsi-schutzbedarf": "hoch",
-    "datenschutz_geprueft": false,
-    "bsi_geprueft": true,
-    "verwendungen": 0,
-    "beschreibung": "Behördliche Bescheinigung über die Zusammensetzung eines Haushalts.",
-    "felder": [
-      "Haushaltsvorstand",
-      "Haushaltsmitglieder",
-      "Anschrift",
-      "Ausstellungsdatum",
-      "Ausstellende Stelle",
-      "Gültigkeitsbezug"
-    ],
-    "rechtsgrundlagen": [
-      {
-        "gesetz": "WoGG"
-      }
-    ],
-    "verwendet_in": []
-  },
-  {
-    "id": "dstore-haushaltsmitglieder",
-    "name": "Haushaltsmitglieder und Haushaltsgröße",
-    "kategorie": "Wohnen & Soziales",
-    "einheit": "oe-amt-50",
-    "schutzstufe": "C",
-    "schutzbedarf": "normal",
-    "vertraulichkeitsklasse": "vertraulich",
-    "bsi-vertraulichkeit": "normal",
-    "bsi-integritaet": "normal",
-    "bsi-verfuegbarkeit": "normal",
-    "bsi-schutzbedarf": "normal",
-    "datenschutz_geprueft": false,
-    "bsi_geprueft": true,
-    "verwendungen": 4,
-    "beschreibung": "Daten zu den im Haushalt lebenden Personen und ihrer Anzahl.",
-    "felder": [
-      "Anzahl Haushaltsmitglieder",
-      "Person im Haushalt",
-      "Verwandtschaftsverhältnis",
-      "Geburtsdatum",
-      "Haushaltszugehörigkeit",
-      "Auszugs-/Einzugsdatum"
-    ],
-    "rechtsgrundlagen": [
-      {
-        "gesetz": "WoGG"
-      }
-    ],
-    "verwendet_in": [
-      "vvt-47-003",
-      "vvt-50-001",
-      "vvt-51-002",
-      "vvt-53-008"
-    ]
-  },
-  {
     "id": "dstore-hebammenanzeige",
     "name": "Anzeige und Aufsicht Hebammen",
     "kategorie": "Gesundheitsberufe & Aufsicht",
@@ -904,40 +758,6 @@
     "verwendet_in": []
   },
   {
-    "id": "dstore-kapitalertraege-zinsertraege",
-    "name": "Kapitalerträge und Zinserträge",
-    "kategorie": "Arbeit & Einkommen",
-    "einheit": "oe-amt-50",
-    "schutzstufe": "C",
-    "schutzbedarf": "hoch",
-    "vertraulichkeitsklasse": "vertraulich",
-    "bsi-vertraulichkeit": "normal",
-    "bsi-integritaet": "normal",
-    "bsi-verfuegbarkeit": "normal",
-    "bsi-schutzbedarf": "normal",
-    "datenschutz_geprueft": false,
-    "bsi_geprueft": true,
-    "verwendungen": 0,
-    "beschreibung": "Einkünfte aus Kapitalvermögen, die für Leistungs- oder Aufenthaltsverfahren relevant sein können.",
-    "felder": [
-      "Ertragsart",
-      "Kreditinstitut",
-      "Zeitraum",
-      "Bruttobetrag",
-      "Steuerbescheinigung",
-      "Kontoinhaber"
-    ],
-    "rechtsgrundlagen": [
-      {
-        "gesetz": "WoGG"
-      },
-      {
-        "gesetz": "EStG"
-      }
-    ],
-    "verwendet_in": []
-  },
-  {
     "id": "dstore-kfz-daten",
     "name": "KFZ-Daten",
     "kategorie": "Ordnung & Sicherheit",
@@ -982,42 +802,6 @@
       "vvt-34-003",
       "vvt-34-008",
       "vvt-66-003"
-    ]
-  },
-  {
-    "id": "dstore-kindergeldbezug",
-    "name": "Kindergeldbezug",
-    "kategorie": "Familie & Soziales",
-    "einheit": "oe-amt-50",
-    "schutzstufe": "C",
-    "schutzbedarf": "normal",
-    "vertraulichkeitsklasse": "vertraulich",
-    "bsi-vertraulichkeit": "normal",
-    "bsi-integritaet": "normal",
-    "bsi-verfuegbarkeit": "normal",
-    "bsi-schutzbedarf": "normal",
-    "datenschutz_geprueft": false,
-    "bsi_geprueft": true,
-    "verwendungen": 1,
-    "beschreibung": "Angaben zu Anspruch, Bezug und Nachweisen von Kindergeld.",
-    "felder": [
-      "Kindergeldbezug ja/nein",
-      "Kindergeldnummer",
-      "Bewilligungsstelle",
-      "Bewilligungszeitraum",
-      "Kindbezug",
-      "Nachweisart"
-    ],
-    "rechtsgrundlagen": [
-      {
-        "gesetz": "EStG"
-      },
-      {
-        "gesetz": "BKGG"
-      }
-    ],
-    "verwendet_in": [
-      "vvt-11-002"
     ]
   },
   {
@@ -1121,43 +905,6 @@
     ],
     "verwendet_in": [
       "vvt-71-003"
-    ]
-  },
-  {
-    "id": "dstore-leitwegid-peppolid",
-    "name": "Leitweg-ID und Peppol-ID",
-    "kategorie": "Finanzen & E-Government",
-    "einheit": "oe-amt-20",
-    "schutzstufe": null,
-    "schutzbedarf": "hoch",
-    "vertraulichkeitsklasse": "vertraulich",
-    "bsi-vertraulichkeit": "normal",
-    "bsi-integritaet": "hoch",
-    "bsi-verfuegbarkeit": "normal",
-    "bsi-schutzbedarf": "hoch",
-    "datenschutz_geprueft": false,
-    "bsi_geprueft": true,
-    "verwendungen": 1,
-    "beschreibung": "Kennungen für die elektronische Übermittlung strukturierter Rechnungen.",
-    "felder": [
-      "Leitweg-ID",
-      "Peppol-ID",
-      "Gültigkeit",
-      "Zugeordnete Stelle",
-      "Format",
-      "Verwendung"
-    ],
-    "rechtsgrundlagen": [
-      {
-        "gesetz": "NDIG",
-        "artikel": "§ 6 Abs. 3 i. V. m. § 3 Abs. 6"
-      },
-      {
-        "gesetz": "NERechVO"
-      }
-    ],
-    "verwendet_in": [
-      "vvt-20-004"
     ]
   },
   {
@@ -1387,43 +1134,6 @@
       }
     ],
     "verwendet_in": []
-  },
-  {
-    "id": "dstore-rechnungsadressierung-kommune",
-    "name": "Rechnungsadressierung Kommune",
-    "kategorie": "Finanzen & E-Government",
-    "einheit": "oe-amt-20",
-    "schutzstufe": null,
-    "schutzbedarf": "hoch",
-    "vertraulichkeitsklasse": "vertraulich",
-    "bsi-vertraulichkeit": "normal",
-    "bsi-integritaet": "hoch",
-    "bsi-verfuegbarkeit": "normal",
-    "bsi-schutzbedarf": "hoch",
-    "datenschutz_geprueft": false,
-    "bsi_geprueft": true,
-    "verwendungen": 1,
-    "beschreibung": "Adressierungsdaten der Kommune für den elektronischen Rechnungsempfang.",
-    "felder": [
-      "Organisationseinheit",
-      "Rechnungsadresse",
-      "E-Mail oder Portal",
-      "Leitweg-ID",
-      "Ansprechpartner/in",
-      "Gültigkeit"
-    ],
-    "rechtsgrundlagen": [
-      {
-        "gesetz": "NDIG",
-        "artikel": "§ 6 Abs. 3 i. V. m. § 3 Abs. 6"
-      },
-      {
-        "gesetz": "NERechVO"
-      }
-    ],
-    "verwendet_in": [
-      "vvt-20-004"
-    ]
   },
   {
     "id": "dstore-reisekosten-aufenthaltsverfahren",

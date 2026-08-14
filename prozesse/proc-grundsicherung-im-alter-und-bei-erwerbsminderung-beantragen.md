@@ -17,9 +17,7 @@ daten:
   - id: dstore-personenstammdaten
   - id: dstore-einkommensdaten
   - id: dstore-erwerbseinkommen-bezugszeitraum
-  - id: dstore-haushaltsbescheinigung
   - id: dstore-haushaltsmitglieder
-  - id: dstore-kapitalertraege-zinsertraege
   - id: dstore-krankenversicherungsbeitraege
 regelungen:
 - Viertes Kapitel Zwölftes Buch Sozialgesetzbuch (SGB XII)

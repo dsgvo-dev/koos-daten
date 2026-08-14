@@ -14,7 +14,6 @@ daten:
   - id: dstore-elternbezug-abstammung
   - id: dstore-erwerbseinkommen-bemessungszeitraum
   - id: dstore-mutterschaftsgeld
-  - id: dstore-arbeitgeberzuschuss-mutterschaft
   - id: dstore-personenstammdaten
   - id: dstore-elterngeld
   - id: dstore-einverstaendnis-sorgeberechtigte

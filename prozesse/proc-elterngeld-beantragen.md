@@ -14,7 +14,6 @@ daten:
   - id: dstore-elternbezug-abstammung
   - id: dstore-erwerbseinkommen-bemessungszeitraum
   - id: dstore-mutterschaftsgeld
-  - id: dstore-arbeitgeberzuschuss-mutterschaft
   - id: dstore-personenstammdaten
 regelungen:
 - §§ 1 bis 4d Gesetz zum Elterngeld und zur Elternzeit (Bundeselterngeld- und Elternzeitgesetz

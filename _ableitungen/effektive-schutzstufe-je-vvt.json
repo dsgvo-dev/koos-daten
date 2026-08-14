@@ -1854,7 +1854,7 @@
       "dstore-leistungsbezug-sozialleistung",
       "dstore-sozialdaten",
       "dstore-gesundheitsdaten",
-      "dstore-haushaltsmitglieder",
+      "dstore-haushaltsmitglieder-vertraulich",
       "dstore-schutzbeduerftigkeitskennzeichen"
     ]
   },
@@ -1909,7 +1909,7 @@
       "dstore-einkommensdaten",
       "dstore-einkommens-und-leistungsdaten",
       "dstore-leistungsbezug-sozialleistung",
-      "dstore-haushaltsmitglieder",
+      "dstore-haushaltsmitglieder-vertraulich",
       "dstore-pflegegrad-pflegeleistungen"
     ]
   },
@@ -2042,7 +2042,7 @@
       "dstore-personenstammdaten-vertraulich",
       "dstore-jugendhilfeakte",
       "dstore-gesundheitsdaten",
-      "dstore-haushaltsmitglieder"
+      "dstore-haushaltsmitglieder-vertraulich"
     ]
   },
   "vvt-51-003": {
@@ -2390,7 +2390,7 @@
       "dstore-infektionsschutzdaten",
       "dstore-bankverbindung-vertraulich",
       "dstore-einkommensdaten",
-      "dstore-haushaltsmitglieder"
+      "dstore-haushaltsmitglieder-vertraulich"
     ]
   },
   "vvt-53-009": {
