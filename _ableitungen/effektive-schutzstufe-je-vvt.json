@@ -1108,7 +1108,6 @@
     "datenspeicher": [
       "dstore-personenstammdaten-vertraulich",
       "dstore-kfz-daten",
-      "dstore-bild-und-tonaufnahmen",
       "dstore-bussgeldakte",
       "dstore-parkverstossanzeige"
     ]
@@ -1287,7 +1286,6 @@
       "dstore-bussgeldakte",
       "dstore-ordnungswidrigkeitenanzeige",
       "dstore-parkverstossanzeige",
-      "dstore-bild-und-tonaufnahmen",
       "dstore-gebuehrenbescheid-zahlungsdaten"
     ]
   },
@@ -1316,8 +1314,7 @@
       "dstore-unternehmens-und-registerdaten",
       "dstore-kfz-daten",
       "dstore-ordnungswidrigkeitenanzeige",
-      "dstore-bussgeldakte",
-      "dstore-bild-und-tonaufnahmen"
+      "dstore-bussgeldakte"
     ]
   },
   "vvt-32-023": {

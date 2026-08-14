@@ -13,7 +13,6 @@ daten:
   - id: dstore-personenstammdaten
   - id: dstore-bescheinigung
   - id: dstore-nachweis
-  - id: dstore-vollmacht
   - id: dstore-genehmigung
   - id: dstore-vollmacht-vertretung-berechtigung
   - id: dstore-antrag

@@ -97,3 +97,13 @@ eingesetzt worden, ohne ihn an die tatsächlichen Werte anzupassen — in 105 Da
 **Die Werte selbst wurden nicht geändert**; maßgeblich ist das Frontmatter, und die
 Kettenprüfung E3 rechnet mit ihm.
 
+## Schutzstufe geprüft 2026-08-14
+
+**C bestätigt.** Die Aufnahme und ihr Kontext können die gesellschaftliche Stellung der
+abgebildeten Person berühren; kein D, weil eine Veranstaltungsaufnahme keine biometrische
+Verarbeitung ist. Der Einwilligungsstatus und der Widerrufsvermerk machen das Bild zu einem
+verwalteten Vorgang.
+
+Geprüft im Rahmen der Schutzstufendurchsicht Los 4 (Amt 10). Vorschlag:
+`_output/vvt-datenspeicher-laeufe/VORSCHLAG-2026-08-14-los4-amt10.md`.
+

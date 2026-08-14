@@ -71,3 +71,14 @@ eingesetzt worden, ohne ihn an die tatsächlichen Werte anzupassen — in 105 Da
 **Die Werte selbst wurden nicht geändert**; maßgeblich ist das Frontmatter, und die
 Kettenprüfung E3 rechnet mit ihm.
 
+## Schutzstufe geprüft 2026-08-14
+
+**C bestätigt.** Der Auftragswert ist bei natürlichen Personen (Einzelunternehmer,
+Freiberufler) eine Einkommensangabe und berührt die wirtschaftlichen Verhältnisse. Die
+Art.-10-Daten (Führungszeugnis, Gewerbezentralregisterauskunft) sind in
+`dstore-fuehrungszeugnis` und `dstore-register-und-zuverlaessigkeitsauskuenfte` (beide D)
+ausgelagert — dieser Speicher führt nur den Auftragsbezug.
+
+Geprüft im Rahmen der Schutzstufendurchsicht Los 4 (Amt 10). Vorschlag:
+`_output/vvt-datenspeicher-laeufe/VORSCHLAG-2026-08-14-los4-amt10.md`.
+

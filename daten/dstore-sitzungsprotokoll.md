@@ -82,3 +82,15 @@ eingesetzt worden, ohne ihn an die tatsächlichen Werte anzupassen — in 105 Da
 **Die Werte selbst wurden nicht geändert**; maßgeblich ist das Frontmatter, und die
 Kettenprüfung E3 rechnet mit ihm.
 
+## Schutzstufe geprüft 2026-08-14
+
+**C bestätigt.** Sitzungen sind nach § 64 Abs. 1 NKomVG öffentlich und ihre Niederschriften
+öffentlich zugänglich; aber § 62 NKomVG lässt den Ausschluss der Öffentlichkeit für einzelne
+Angelegenheiten zu (Personal, Grundstücke, Vergaben). Ein Beschluss aus einem nicht-
+öffentlichen Teil berührt wirtschaftliche oder persönliche Verhältnisse — das Maximalprinzip
+gibt C vor. Die Parteizugehörigkeit liegt in `dstore-mandatstraeger-parteizugehoerigkeit`
+(D), nicht hier.
+
+Geprüft im Rahmen der Schutzstufendurchsicht Los 4 (Amt 10). Vorschlag:
+`_output/vvt-datenspeicher-laeufe/VORSCHLAG-2026-08-14-los4-amt10.md`.
+

@@ -21,7 +21,7 @@ klassifizierung:
   - gesetz: DSGVO
     artikel: Art. 6 Abs. 1 lit. c und lit. e
   - gesetz: NKomVG
-    artikel: § 97
+    artikel: § 111 Abs. 8
   - gesetz: EStDV
     artikel: § 50
   - gesetz: AO
@@ -53,13 +53,13 @@ Angaben zu einer Spende oder Zuwendung an die Kommune einschließlich Zweckbindu
 - Zweckbindung
 - Sachspende mit Bezeichnung und Wert
 - ausgestellte Zuwendungsbestätigung
-- Annahmebeschluss nach § 97 NKomVG
+- Annahmebeschluss nach § 111 Abs. 8 NKomVG
 
 ## Hinweise
 
 Angelegt am 2026-08-03 zu `vvt-10-017` (Spenden).
 
-**Die Annahme ist nach § 97 NKomVG beschlusspflichtig.** Der Beschluss und die Zweckbindung gehören zur Datenart, weil sie über die Zulässigkeit der Annahme entscheiden -- eine Zuwendung mit unzulässiger Zweckbindung darf nicht angenommen werden. Ohne diese Felder ist die Prüfung nicht nachvollziehbar.
+**Die Annahme ist nach § 111 Abs. 8 NKomVG beschlusspflichtig.** Der Beschluss und die Zweckbindung gehören zur Datenart, weil sie über die Zulässigkeit der Annahme entscheiden -- eine Zuwendung mit unzulässiger Zweckbindung darf nicht angenommen werden. Ohne diese Felder ist die Prüfung nicht nachvollziehbar.
 
 Die Zuwendungsbestätigung nach § 50 EStDV ist über `dstore-bescheinigung` erfasst; hier steht nur der Vermerk, dass und wann sie ausgestellt wurde.
 
@@ -77,4 +77,14 @@ widersprach den Werten im Frontmatter dieser Datei. Der Baustein war am 2026-08-
 eingesetzt worden, ohne ihn an die tatsächlichen Werte anzupassen — in 105 Dateien.
 **Die Werte selbst wurden nicht geändert**; maßgeblich ist das Frontmatter, und die
 Kettenprüfung E3 rechnet mit ihm.
+
+## Schutzstufe geprüft 2026-08-14
+
+**C bestätigt.** Der Spendenbetrag und die Zuwendungsbestätigung nach § 50 EStDV berühren
+die wirtschaftlichen Verhältnisse des Spenders. Rechtsgrundlage berichtigt: § 97 NKomVG
+(alte Nummerierung) → § 111 Abs. 8 NKomVG (aktuelle Nummerierung nach der
+Kommunalrechtsreform) — konsistent mit `vvt-10-017`.
+
+Geprüft im Rahmen der Schutzstufendurchsicht Los 4 (Amt 10). Vorschlag:
+`_output/vvt-datenspeicher-laeufe/VORSCHLAG-2026-08-14-los4-amt10.md`.
 

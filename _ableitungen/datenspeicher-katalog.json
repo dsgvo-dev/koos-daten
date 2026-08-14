@@ -1301,9 +1301,9 @@
     "bsi-integritaet": "hoch",
     "bsi-verfuegbarkeit": "normal",
     "bsi-schutzbedarf": "hoch",
-    "datenschutz_geprueft": false,
+    "datenschutz_geprueft": true,
     "bsi_geprueft": true,
-    "verwendungen": 12,
+    "verwendungen": 9,
     "beschreibung": "Foto-, Video- und Tonaufnahmen von Personen, die bei Veranstaltungen und Anlässen der Verwaltung entstehen und für die Öffentlichkeitsarbeit, die Presse und das Bildarchiv verwendet werden.",
     "felder": [
       "Aufnahme (Bild, Video, Ton)",
@@ -1626,7 +1626,7 @@
     "bsi-integritaet": "normal",
     "bsi-verfuegbarkeit": "hoch",
     "bsi-schutzbedarf": "hoch",
-    "datenschutz_geprueft": false,
+    "datenschutz_geprueft": true,
     "bsi_geprueft": true,
     "verwendungen": 13,
     "beschreibung": "Daten zu ehrenamtlich tätigen Personen in der Kommunalverwaltung.",
@@ -5868,7 +5868,7 @@
     "bsi-integritaet": "normal",
     "bsi-verfuegbarkeit": "hoch",
     "bsi-schutzbedarf": "hoch",
-    "datenschutz_geprueft": false,
+    "datenschutz_geprueft": true,
     "bsi_geprueft": true,
     "verwendungen": 8,
     "beschreibung": "Protokoll einer Rats- oder Ausschusssitzung.",
@@ -5992,7 +5992,7 @@
     "bsi-integritaet": "hoch",
     "bsi-verfuegbarkeit": "hoch",
     "bsi-schutzbedarf": "hoch",
-    "datenschutz_geprueft": false,
+    "datenschutz_geprueft": true,
     "bsi_geprueft": true,
     "verwendungen": 1,
     "beschreibung": "Angaben zu einer Spende oder Zuwendung an die Kommune einschließlich Zweckbindung und Zuwendungsbestätigung.",
@@ -6003,7 +6003,7 @@
       "Zweckbindung",
       "Sachspende mit Bezeichnung und Wert",
       "ausgestellte Zuwendungsbestätigung",
-      "Annahmebeschluss nach § 97 NKomVG"
+      "Annahmebeschluss nach § 111 Abs. 8 NKomVG"
     ]
   },
   {
@@ -6846,7 +6846,7 @@
     "bsi-integritaet": "hoch",
     "bsi-verfuegbarkeit": "normal",
     "bsi-schutzbedarf": "hoch",
-    "datenschutz_geprueft": false,
+    "datenschutz_geprueft": true,
     "bsi_geprueft": true,
     "verwendungen": 6,
     "beschreibung": "Daten zum Bezug einer Rechnung oder Zahlung auf Vergabe- und Auftragsvorgänge.",
@@ -6897,7 +6897,7 @@
     "bsi-integritaet": "hoch",
     "bsi-verfuegbarkeit": "normal",
     "bsi-schutzbedarf": "hoch",
-    "datenschutz_geprueft": false,
+    "datenschutz_geprueft": true,
     "bsi_geprueft": true,
     "verwendungen": 3,
     "beschreibung": "Unterlagen zu öffentlichen Ausschreibungen und Vergabeverfahren.",
@@ -7189,30 +7189,6 @@
     ]
   },
   {
-    "id": "dstore-vollmacht",
-    "name": "Vollmacht",
-    "kategorie": "Verwaltungsakte & Dokumente",
-    "einheit": "oe-amt-10",
-    "schutzstufe": "C",
-    "schutzbedarf": "hoch",
-    "vertraulichkeitsklasse": "vertraulich",
-    "bsi-vertraulichkeit": "normal",
-    "bsi-integritaet": "normal",
-    "bsi-verfuegbarkeit": "normal",
-    "bsi-schutzbedarf": "normal",
-    "datenschutz_geprueft": false,
-    "bsi_geprueft": true,
-    "verwendungen": 0,
-    "beschreibung": "Vollmacht zur Vertretung einer Person gegenüber einer Behörde.",
-    "felder": [
-      "Vollmachtgeber",
-      "Bevollmächtigter",
-      "Umfang",
-      "Datum",
-      "Unterschrift"
-    ]
-  },
-  {
     "id": "dstore-vollmacht-vertretung-berechtigung",
     "name": "Vollmacht, Vertretung und Berechtigungsnachweis",
     "kategorie": "Berechtigungsdaten",
@@ -7235,6 +7211,30 @@
       "Einverständniserklärung",
       "Umfang der Vertretung",
       "Unterschrift"
+    ]
+  },
+  {
+    "id": "dstore-vorsorge-betreuungsvollmacht",
+    "name": "Vorsorge- und Betreuungsvollmacht",
+    "kategorie": "Soziales & Gesundheit",
+    "einheit": "oe-amt-50",
+    "schutzstufe": "D",
+    "schutzbedarf": "hoch",
+    "vertraulichkeitsklasse": "streng vertraulich",
+    "bsi-vertraulichkeit": "hoch",
+    "bsi-integritaet": "hoch",
+    "bsi-verfuegbarkeit": "normal",
+    "bsi-schutzbedarf": "hoch",
+    "datenschutz_geprueft": true,
+    "bsi_geprueft": true,
+    "verwendungen": 0,
+    "beschreibung": "Vorsorge- und Betreuungsvollmachten, die im Sozialbereich — insbesondere bei der Betreuungsbehörde und im Sozialamt — vorgelegt oder verarbeitet werden. Die Datenart belegt, dass eine Person für den Fall der eigenen Handlungsunfähigkeit eine andere Person bevollmächtigt hat oder unter rechtlicher Betreuung steht.",
+    "felder": [
+      "Vollmachtgeber beziehungsweise betreute Person",
+      "Bevollmächtigte beziehungsweise Betreuerin oder Betreuer",
+      "Umfang der Vollmacht (Aufgabenkreise)",
+      "Bestellungsbeschluss des Betreuungsgerichts",
+      "Datum und Unterschrift"
     ]
   },
   {
@@ -7276,7 +7276,7 @@
     "bsi-integritaet": "normal",
     "bsi-verfuegbarkeit": "hoch",
     "bsi-schutzbedarf": "hoch",
-    "datenschutz_geprueft": false,
+    "datenschutz_geprueft": true,
     "bsi_geprueft": true,
     "verwendungen": 6,
     "beschreibung": "Unterlagen zu Wahlen: Wählerverzeichnis, Wahlschein, Briefwahlunterlagen.",
