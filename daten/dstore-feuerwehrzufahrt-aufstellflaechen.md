@@ -50,6 +50,10 @@ Daten zu Zufahrten und Flächen für Feuerwehrfahrzeuge.
 
 Die Zuständigkeit wurde auf reale `oe-*`-IDs aus `orga.yaml` normalisiert.
 
+## Schutzstufe geprüft 2026-08-14
+
+**C bestätigt.** Zufahrtsbreite, Aufstellfläche und Erreichbarkeit sind Sachdaten mit nur mittelbarem Personenbezug (Bauantragsteller). Keine Art. 9-Daten. C ist angemessen.
+
 ## BSI-Vektoren geprüft 2026-08-04
 
 **Integrität: `normal`** · **Verfügbarkeit: `hoch`**

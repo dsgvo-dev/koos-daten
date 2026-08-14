@@ -78,6 +78,10 @@ KOOS-konforme Konvertierung aus einer älteren Markdown-Sammlung.
 
 Zuständige OE, Klassifizierung und BPMN-Typ sind heuristisch vorbelegt und sollten fachlich überprüft werden.
 
+## Schutzstufe geprüft 2026-08-14
+
+**C bestätigt.** Nutzungsberechtigte Person, Fahrzeughalter und Kennzeichen sind Standard-Personendaten im Bewohnerparkausweis-Verfahren. Keine Art. 9-Daten. C ist angemessen.
+
 ## BSI-Vektoren geprüft 2026-08-04
 
 **Integrität und Verfügbarkeit bleiben bei `normal`.** Geprüft im Durchgang vom 2026-08-04 anhand von drei Fragen:

@@ -79,6 +79,10 @@ KOOS-konforme Konvertierung aus einer älteren Markdown-Sammlung.
 
 Zuständige OE, Klassifizierung und BPMN-Typ sind heuristisch vorbelegt und sollten fachlich überprüft werden.
 
+## Schutzstufe geprüft 2026-08-14
+
+**C bestätigt.** Brandschutzkonzept und Gebäudedaten sind sachbezogen. Die erstellende Person ist eine Berufsangabe, kein sensibles personenbezogenes Datum. Keine Art. 9-Daten. C ist angemessen.
+
 ## BSI-Vektoren geprüft 2026-08-04
 
 **Integrität und Verfügbarkeit hoch.** Der Bestand dient der Gefahrenabwehr. Ist er verfälscht oder im entscheidenden Moment nicht abrufbar, kann die Kommune ihre Schutzaufgabe nicht erfüllen -- mit möglichen Folgen für Leib und Leben.

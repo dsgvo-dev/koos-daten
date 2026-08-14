@@ -61,6 +61,10 @@ FeV, StVG
 
 *(Bitte ergänzen)*
 
+## Schutzstufe geprüft 2026-08-14
+
+**C bestätigt.** Fahrerlaubnisklassen, Führerscheinnummer und Einschränkungen sind personenbezogen, aber Verwaltungs-Standard. „Einschränkungen" meint fahrzeugtechnische Auflagen, nicht medizinische Diagnosen — keine Art. 9-Daten. C ist angemessen.
+
 ## BSI-Vektoren geprüft 2026-08-04
 
 **Integrität hoch.** Auf die Richtigkeit dieses Datenbestands verlassen sich andere -- Behörden, Gerichte oder die betroffene Person selbst. Eine unbemerkte Verfälschung führt nicht zu einem Fehler im Einzelfall, sondern zu falschen Folgeentscheidungen, die auf dem Bestand aufbauen.

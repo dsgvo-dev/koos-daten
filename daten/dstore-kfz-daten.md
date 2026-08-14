@@ -63,6 +63,10 @@ FZV, StVG
 
 *(Bitte ergänzen)*
 
+## Schutzstufe geprüft 2026-08-14
+
+**C bestätigt.** Die KFZ-Zulassungsdaten (Kennzeichen, Fahrzeughalter, FIN, Fahrzeugtyp) enthalten Standard-Personendaten (Halter = Name) ohne Art. 9-Bezug. Die Fahrzeug-Sachdaten sind nicht personenbezogen. Keine sensiblen Merkmale — C ist angemessen.
+
 ## BSI-Vektoren geprüft 2026-08-04
 
 **Integrität: `hoch`** · **Verfügbarkeit: `hoch`**

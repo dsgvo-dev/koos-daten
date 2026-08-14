@@ -62,6 +62,10 @@ Dauerhaft
 
 *(Bitte ergänzen)*
 
+## Schutzstufe geprüft 2026-08-14
+
+**C bestätigt.** Genehmigungsinhaber (Name) und Gegenstand sind Standard-Personendaten im Verwaltungsakt. Der Datenspeicher selbst enthält keine Art. 9-Merkmale. C ist angemessen.
+
 ## BSI-Vektoren geprüft 2026-08-04
 
 **Integrität: `hoch`** · **Verfügbarkeit: `normal`**

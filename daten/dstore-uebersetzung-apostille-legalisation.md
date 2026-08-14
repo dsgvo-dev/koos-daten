@@ -82,6 +82,10 @@ KOOS-konforme Konvertierung aus einer älteren Markdown-Sammlung.
 
 Zuständige OE, Klassifizierung und BPMN-Typ sind heuristisch vorbelegt und sollten fachlich überprüft werden.
 
+## Schutzstufe geprüft 2026-08-14
+
+**C bestätigt.** Übersetzung, Apostille und Legalisation sind Dokument-Metadaten zu ausländischen Urkunden. Die Felder selbst sind keine personenbezogenen Daten, sondern Echtheitsnachweise. C ist angemessen.
+
 ## BSI-Vektoren geprüft 2026-08-04
 
 **Integrität hoch.** Auf die Richtigkeit dieses Datenbestands verlassen sich andere -- Behörden, Gerichte oder die betroffene Person selbst. Eine unbemerkte Verfälschung führt nicht zu einem Fehler im Einzelfall, sondern zu falschen Folgeentscheidungen, die auf dem Bestand aufbauen.
