@@ -64,8 +64,8 @@
     "erfuellt": null,
     "begruendung": "Manuell gegen Muss-Liste LfD Niedersachsen zu prüfen"
   },
-  "dsfa_pflicht_risiko": false,
-  "dsfa_pflicht_gesamt": false,
-  "dsfa_pflicht_begruendung": "Keine DSFA-Pflicht",
+  "dsfa_pflicht_risiko": true,
+  "dsfa_pflicht_gesamt": true,
+  "dsfa_pflicht_begruendung": "Risikowert",
   "status": "entwurf"
 }

@@ -9,11 +9,11 @@ bpmn:
   typ: datenobjekt
 klassifizierung:
   # Datenschutz -- Schaden fuer die betroffene Person (LfD-Schutzstufenkonzept, SDM)
-  schutzstufe: C
+  schutzstufe: D
   schutzbedarf: normal
-  vertraulichkeitsklasse: vertraulich
+  vertraulichkeitsklasse: streng vertraulich
   # Informationssicherheit -- Schaden fuer die Institution und die Aufgabenerfuellung (BSI)
-  bsi-vertraulichkeit: normal
+  bsi-vertraulichkeit: hoch
   bsi-integritaet: normal
   bsi-verfuegbarkeit: normal
   bsi-schutzbedarf: normal
@@ -49,6 +49,10 @@ Daten zur Anmeldung für Musik-, Kunst- oder Kulturkurse.
 ## Hinweise
 
 Die Zuständigkeit wurde auf reale `oe-*`-IDs aus `orga.yaml` normalisiert.
+
+## Schutzstufe geprüft 2026-08-14
+
+**C → D.** Die Gebührenstufe richtet sich nach dem Einkommen (soziale Staffelung) und offenbart die Einkommensklasse der Familie. Der Teilnehmer ist typischerweise minderjährig (Musikschule) — besonders schützenswerte Personengruppe. Die Kombination „Einkommensbezug + Minderjährige" rechtfertigt D.
 
 ## BSI-Vektoren geprüft 2026-08-04
 

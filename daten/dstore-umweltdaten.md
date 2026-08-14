@@ -7,11 +7,8 @@ datenkategorie: Umwelt & Gesundheit
 zuständige-einheit: oe-amt-60
 bpmn:
   typ: datenobjekt
+personenbezug: nein
 klassifizierung:
-  # Datenschutz -- Schaden fuer die betroffene Person (LfD-Schutzstufenkonzept, SDM)
-  schutzstufe: C
-  schutzbedarf: hoch
-  vertraulichkeitsklasse: vertraulich
   # Informationssicherheit -- Schaden fuer die Institution und die Aufgabenerfuellung (BSI)
   bsi-vertraulichkeit: normal
   bsi-integritaet: hoch
@@ -61,6 +58,10 @@ BNatSchG, BImSchG, WHG
 ## Hinweise
 
 *(Bitte ergänzen)*
+
+## Personenbezug geprüft 2026-08-14
+
+**personenbezug: nein.** Schutzgebiet, Messwerte, Grenzwerte und Maßnahmen sind reine Sachdaten (Umweltmesswerte, Naturdaten nach BNatSchG/BImSchG/WHG). Das Feld „Genehmigung" ist Teil der Sachdaten — der Betreiberbezug ist mittelbar und dominiert den Speicher nicht. Kein Personenbezug i. S. d. Art. 4 Nr. 1 DSGVO.
 
 ## BSI-Vektoren geprüft 2026-08-04
 

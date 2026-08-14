@@ -1,47 +1,5 @@
 [
   {
-    "id": "dstore-arbeitsverhaeltnis-beschaeftigung",
-    "name": "Arbeitsverhältnis und Beschäftigung",
-    "kategorie": "Arbeit & Einkommen",
-    "einheit": "oe-amt-11",
-    "schutzstufe": "C",
-    "schutzbedarf": "normal",
-    "vertraulichkeitsklasse": "vertraulich",
-    "bsi-vertraulichkeit": "normal",
-    "bsi-integritaet": "normal",
-    "bsi-verfuegbarkeit": "normal",
-    "bsi-schutzbedarf": "normal",
-    "datenschutz_geprueft": false,
-    "bsi_geprueft": true,
-    "verwendungen": 7,
-    "beschreibung": "Daten zu bestehenden oder früheren Beschäftigungsverhältnissen für Leistungs- und Antragsverfahren.",
-    "felder": [
-      "Arbeitgeber",
-      "Beschäftigungsbeginn",
-      "Beschäftigungsende",
-      "Wochenstunden",
-      "Beschäftigungsart",
-      "Verdienstnachweis"
-    ],
-    "rechtsgrundlagen": [
-      {
-        "gesetz": "BEEG"
-      },
-      {
-        "gesetz": "WoGG"
-      }
-    ],
-    "verwendet_in": [
-      "vvt-1-2-001",
-      "vvt-11-002",
-      "vvt-11-003",
-      "vvt-11-004",
-      "vvt-11-005",
-      "vvt-11-006",
-      "vvt-32-005"
-    ]
-  },
-  {
     "id": "dstore-arbeitszeitaufzeichnung",
     "name": "Arbeitszeitaufzeichnung",
     "kategorie": "Personal",
@@ -131,51 +89,6 @@
       }
     ],
     "verwendet_in": []
-  },
-  {
-    "id": "dstore-foerderantrag",
-    "name": "Förderantrag",
-    "kategorie": "Finanzen & Steuern",
-    "einheit": "oe-amt-80",
-    "schutzstufe": "C",
-    "schutzbedarf": "hoch",
-    "vertraulichkeitsklasse": "vertraulich",
-    "bsi-vertraulichkeit": "normal",
-    "bsi-integritaet": "hoch",
-    "bsi-verfuegbarkeit": "hoch",
-    "bsi-schutzbedarf": "hoch",
-    "datenschutz_geprueft": false,
-    "bsi_geprueft": true,
-    "verwendungen": 11,
-    "beschreibung": "Antrag auf kommunale Förderung oder Zuwendung.",
-    "felder": [
-      "Antragsteller",
-      "Fördergegenstand",
-      "Fördersumme",
-      "Verwendungsnachweis",
-      "Bewilligungsbescheid"
-    ],
-    "rechtsgrundlagen": [
-      {
-        "gesetz": "NVwVfG"
-      },
-      {
-        "gesetz": "Haushaltsrecht"
-      }
-    ],
-    "verwendet_in": [
-      "vvt-10-005",
-      "vvt-40-006",
-      "vvt-41-004",
-      "vvt-41-005",
-      "vvt-51-013",
-      "vvt-60-005",
-      "vvt-61-004",
-      "vvt-64-001",
-      "vvt-66-004",
-      "vvt-80-002",
-      "vvt-80-004"
-    ]
   },
   {
     "id": "dstore-grabstaette-belegung",
@@ -364,73 +277,6 @@
     ]
   },
   {
-    "id": "dstore-marktveranstaltungsdaten",
-    "name": "Marktveranstaltungsdaten",
-    "kategorie": "Veranstaltungen & Gewerbe",
-    "einheit": "oe-amt-38",
-    "schutzstufe": "C",
-    "schutzbedarf": "normal",
-    "vertraulichkeitsklasse": "vertraulich",
-    "bsi-vertraulichkeit": "normal",
-    "bsi-integritaet": "normal",
-    "bsi-verfuegbarkeit": "normal",
-    "bsi-schutzbedarf": "normal",
-    "datenschutz_geprueft": false,
-    "bsi_geprueft": true,
-    "verwendungen": 2,
-    "beschreibung": "Grunddaten einer Veranstaltung, für die eine Marktfestsetzung beantragt wird.",
-    "felder": [
-      "Veranstaltungsart",
-      "Titel",
-      "Ort",
-      "Beginn",
-      "Ende",
-      "Öffnungszeiten"
-    ],
-    "rechtsgrundlagen": [
-      {
-        "gesetz": "GewO"
-      }
-    ],
-    "verwendet_in": [
-      "vvt-32-013",
-      "vvt-38-001"
-    ]
-  },
-  {
-    "id": "dstore-musikschul-kursanmeldung",
-    "name": "Musikschul- und Kursanmeldung",
-    "kategorie": "Kultur & Bildung",
-    "einheit": "oe-amt-41",
-    "schutzstufe": "C",
-    "schutzbedarf": "normal",
-    "vertraulichkeitsklasse": "vertraulich",
-    "bsi-vertraulichkeit": "normal",
-    "bsi-integritaet": "normal",
-    "bsi-verfuegbarkeit": "normal",
-    "bsi-schutzbedarf": "normal",
-    "datenschutz_geprueft": false,
-    "bsi_geprueft": true,
-    "verwendungen": 1,
-    "beschreibung": "Daten zur Anmeldung für Musik-, Kunst- oder Kulturkurse.",
-    "felder": [
-      "Teilnehmer/in",
-      "Kurs",
-      "Instrument oder Fach",
-      "Gebührenstufe",
-      "Erziehungsberechtigte",
-      "Kontakt"
-    ],
-    "rechtsgrundlagen": [
-      {
-        "gesetz": "kommunale Satzung"
-      }
-    ],
-    "verwendet_in": [
-      "vvt-41-002"
-    ]
-  },
-  {
     "id": "dstore-servicekonto-nutzeridentitaet",
     "name": "Servicekonto und Nutzeridentität",
     "kategorie": "Digitale Verwaltung",
@@ -464,49 +310,6 @@
     ],
     "verwendet_in": [
       "vvt-15-003"
-    ]
-  },
-  {
-    "id": "dstore-steuerdaten",
-    "name": "Steuerdaten",
-    "kategorie": "Finanzen & Steuern",
-    "einheit": "oe-amt-22",
-    "schutzstufe": "C",
-    "schutzbedarf": "hoch",
-    "vertraulichkeitsklasse": "vertraulich",
-    "bsi-vertraulichkeit": "normal",
-    "bsi-integritaet": "sehr hoch",
-    "bsi-verfuegbarkeit": "normal",
-    "bsi-schutzbedarf": "sehr hoch",
-    "datenschutz_geprueft": false,
-    "bsi_geprueft": true,
-    "verwendungen": 6,
-    "beschreibung": "Steuerrelevante Daten für kommunale Steuern: Grundsteuer, Gewerbesteuer, Hundesteuer.",
-    "felder": [
-      "Steuernummer",
-      "Steuerart",
-      "Bemessungsgrundlage",
-      "Steuerbescheid",
-      "Fälligkeit"
-    ],
-    "rechtsgrundlagen": [
-      {
-        "gesetz": "AO"
-      },
-      {
-        "gesetz": "GrStG"
-      },
-      {
-        "gesetz": "GewStG"
-      }
-    ],
-    "verwendet_in": [
-      "vvt-10-015",
-      "vvt-10-017",
-      "vvt-20-004",
-      "vvt-22-004",
-      "vvt-32-023",
-      "vvt-33-001"
     ]
   },
   {
@@ -556,50 +359,6 @@
     ]
   },
   {
-    "id": "dstore-umweltdaten",
-    "name": "Umweltdaten",
-    "kategorie": "Umwelt & Gesundheit",
-    "einheit": "oe-amt-60",
-    "schutzstufe": "C",
-    "schutzbedarf": "hoch",
-    "vertraulichkeitsklasse": "vertraulich",
-    "bsi-vertraulichkeit": "normal",
-    "bsi-integritaet": "hoch",
-    "bsi-verfuegbarkeit": "hoch",
-    "bsi-schutzbedarf": "hoch",
-    "datenschutz_geprueft": false,
-    "bsi_geprueft": true,
-    "verwendungen": 7,
-    "beschreibung": "Daten zu Umweltschutzmaßnahmen: Naturschutz, Immissionsschutz, Gewässerschutz.",
-    "felder": [
-      "Schutzgebiet",
-      "Messwerte",
-      "Grenzwerte",
-      "Maßnahmen",
-      "Genehmigung"
-    ],
-    "rechtsgrundlagen": [
-      {
-        "gesetz": "BNatSchG"
-      },
-      {
-        "gesetz": "BImSchG"
-      },
-      {
-        "gesetz": "WHG"
-      }
-    ],
-    "verwendet_in": [
-      "vvt-60-001",
-      "vvt-60-002",
-      "vvt-60-003",
-      "vvt-60-004",
-      "vvt-60-005",
-      "vvt-60-011",
-      "vvt-60-012"
-    ]
-  },
-  {
     "id": "dstore-veranstalterdaten",
     "name": "Veranstalterdaten",
     "kategorie": "Veranstaltungen & Gewerbe",
@@ -631,49 +390,6 @@
     "verwendet_in": [
       "vvt-32-013",
       "vvt-38-001"
-    ]
-  },
-  {
-    "id": "dstore-vergabekriterien-einheimischenmodell",
-    "name": "Vergabekriterien Wohnbaugrundstücke (Einheimischenmodell)",
-    "kategorie": "Bauen & Grundstück",
-    "einheit": "oe-amt-23",
-    "schutzstufe": "C",
-    "schutzbedarf": "normal",
-    "vertraulichkeitsklasse": "vertraulich",
-    "bsi-vertraulichkeit": "normal",
-    "bsi-integritaet": "normal",
-    "bsi-verfuegbarkeit": "normal",
-    "bsi-schutzbedarf": "normal",
-    "datenschutz_geprueft": false,
-    "bsi_geprueft": true,
-    "verwendungen": 1,
-    "beschreibung": "Angaben zur Bewertung von Bewerbungen um städtische Wohnbaugrundstücke nach den Kriterien der kommunalen Vergaberichtlinie.",
-    "felder": [
-      "Bewerbende Person",
-      "Dauer der Ortsbindung (Wohnsitz oder Arbeitsstätte)",
-      "Zahl der im Haushalt lebenden Kinder",
-      "Haushaltseinkommen",
-      "erreichte Punktzahl",
-      "Rangfolge im Vergabeverfahren",
-      "Zu- oder Absage"
-    ],
-    "rechtsgrundlagen": [
-      {
-        "gesetz": "DSGVO",
-        "artikel": "Art. 6 Abs. 1 lit. e"
-      },
-      {
-        "gesetz": "NKomVG",
-        "artikel": "§ 125"
-      },
-      {
-        "gesetz": "NDSG",
-        "artikel": "§ 3"
-      }
-    ],
-    "verwendet_in": [
-      "vvt-23-007"
     ]
   }
 ]

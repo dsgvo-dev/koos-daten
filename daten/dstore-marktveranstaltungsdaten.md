@@ -7,11 +7,8 @@ datenkategorie: Veranstaltungen & Gewerbe
 zuständige-einheit: oe-amt-38
 bpmn:
   typ: datenobjekt
+personenbezug: nein
 klassifizierung:
-  # Datenschutz -- Schaden fuer die betroffene Person (LfD-Schutzstufenkonzept, SDM)
-  schutzstufe: C
-  schutzbedarf: normal
-  vertraulichkeitsklasse: vertraulich
   # Informationssicherheit -- Schaden fuer die Institution und die Aufgabenerfuellung (BSI)
   bsi-vertraulichkeit: normal
   bsi-integritaet: normal
@@ -77,6 +74,10 @@ Abgeleiteter Datentyp aus kommunalen Serviceportal-Texten in Niedersachsen; kein
 KOOS-konforme Konvertierung aus einer älteren Markdown-Sammlung.
 
 Zuständige OE, Klassifizierung und BPMN-Typ sind heuristisch vorbelegt und sollten fachlich überprüft werden.
+
+## Personenbezug geprüft 2026-08-14
+
+**personenbezug: nein.** Veranstaltungsart, Titel, Ort und Öffnungszeiten sind reine Sachdaten einer Marktfestsetzung nach GewO. Die Daten werden öffentlich bekanntgemacht. Der Antragsteller (Veranstalter) ist im getrennten Speicher `veranstalterdaten` erfasst. Kein Personenbezug i. S. d. Art. 4 Nr. 1 DSGVO.
 
 ## BSI-Vektoren geprüft 2026-08-04
 

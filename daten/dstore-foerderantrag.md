@@ -61,6 +61,10 @@ NVwVfG, Haushaltsrecht
 
 *(Bitte ergänzen)*
 
+## Schutzstufe geprüft 2026-08-14
+
+**C bestätigt.** Förderanträge (NVwVfG, Haushaltsrecht) enthalten Fördersumme + Verwendungsnachweis. Der Antragsteller kann Unternehmen (juristische Person) oder Privatperson sein — der überwiegende Anteil ist gewerbliche/vereinsbezogene Förderung ohne Personenbezug auf natürliche Personen. Der gemischte Charakter rechtfertigt keine Heraufstufung auf D.
+
 ## BSI-Vektoren geprüft 2026-08-04
 
 **Verfügbarkeit hoch.** An den Vorgang knüpft eine gesetzliche Frist. Ist der Bestand im entscheidenden Zeitraum nicht abrufbar, läuft die Frist gleichwohl -- mit Rechtsfolgen für die Kommune oder die betroffene Person.

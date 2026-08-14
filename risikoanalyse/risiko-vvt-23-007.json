@@ -5,8 +5,8 @@
     "erstellt_am": "2026-08-14",
     "status": "entwurf",
     "durchgefuehrt_von": "Generator (2026-08-05, 4D)",
-    "dsb_beteiligt": false,
-    "isb_beteiligt": false
+    "dsb_beteiligt": true,
+    "isb_beteiligt": true
   },
   "vvt_referenz": {
     "vvt_id": "vvt-23-007",
@@ -14,20 +14,20 @@
   },
   "besonderheiten_referenz": {
     "bes_id": "bes-vvt-23-007",
-    "schadenshoehe_aus_besonderheiten": 2
+    "schadenshoehe_aus_besonderheiten": 3
   },
   "basis_risiko": {
     "eintrittswahrscheinlichkeit": 2,
     "eintrittswahrscheinlichkeit_begruendung": "Basis: mittel (2) → Gesamt: 2",
     "dsgvo": {
       "beschreibung": "Schadenshöhe nach DSGVO (Art/Umfang/Umstände der Verarbeitung)",
-      "schadenshoehe": 2,
-      "risikowert": 4
+      "schadenshoehe": 3,
+      "risikowert": 6
     },
     "bsi_vertraulichkeit": {
       "beschreibung": "BSI-Grundwert Vertraulichkeit (Schutz vor unbefugtem Zugang)",
-      "schadenshoehe": 1,
-      "risikowert": 2
+      "schadenshoehe": 2,
+      "risikowert": 4
     },
     "bsi_integritaet": {
       "beschreibung": "BSI-Grundwert Integrität (Schutz vor unbefugter/unerkannter Änderung)",
@@ -39,9 +39,9 @@
       "schadenshoehe": 2,
       "risikowert": 4
     },
-    "gesamtwert": 4,
-    "schutzbedarf": "normal",
-    "dsfa_pflicht": false,
-    "dsfa_hinweis": ""
+    "gesamtwert": 6,
+    "schutzbedarf": "hoch",
+    "dsfa_pflicht": true,
+    "dsfa_hinweis": "DSFA empfohlen (DSGVO=6)"
   }
 }

@@ -62,6 +62,10 @@ AO, GrStG, GewStG
 
 *(Bitte ergänzen)*
 
+## Schutzstufe geprüft 2026-08-14
+
+**C bestätigt.** Steuerdaten (Grundsteuer, Gewerbesteuer, Hundesteuer) enthalten zwar Bemessungsgrundlagen mit Vermögensbezug (Grundsteuer), aber überwiegend Unternehmensbezug (Gewerbesteuer) ohne betroffene Person i. S. d. DSGVO. Der gemischte Charakter (Gewerbe/Privat) rechtfertigt keine Heraufstufung auf D.
+
 ## BSI-Vektoren geprüft 2026-08-04
 
 **Integrität: `sehr hoch`** · **Verfügbarkeit: `normal`**

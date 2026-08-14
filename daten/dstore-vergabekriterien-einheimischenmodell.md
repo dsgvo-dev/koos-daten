@@ -9,11 +9,11 @@ bpmn:
   typ: datenobjekt
 klassifizierung:
   # Datenschutz -- Schaden fuer die betroffene Person (LfD-Schutzstufenkonzept, SDM)
-  schutzstufe: C
+  schutzstufe: D
   schutzbedarf: normal
-  vertraulichkeitsklasse: vertraulich
+  vertraulichkeitsklasse: streng vertraulich
   # Informationssicherheit -- Schaden fuer die Institution und die Aufgabenerfuellung (BSI)
-  bsi-vertraulichkeit: normal
+  bsi-vertraulichkeit: hoch
   bsi-integritaet: normal
   bsi-verfuegbarkeit: normal
   bsi-schutzbedarf: normal
@@ -62,6 +62,10 @@ Die Datenkategorien nannten allein „Name, Adresse" -- obwohl der Zweck ausdrü
 **Die Ortsbindung ist unionsrechtlich heikel.** Der EuGH hat Einheimischenmodelle, die allein an die Ansässigkeit anknüpfen, an der Freizügigkeit gemessen (Urt. v. 08.05.2013, C-197/11 und C-203/11 -- Libert). Die mit der Europäischen Kommission abgestimmten „Neuen Einheimischenmodelle" arbeiten deshalb mit einem Punktesystem aus mehreren sozialen Kriterien statt mit einer Ortsansässigkeitsschwelle. Die erreichte Punktzahl gehört deshalb zur Datenart: Ohne sie ist nicht nachvollziehbar, ob die Auswahl den Vorgaben entspricht.
 
 **Einkommensangaben sind sparsam zu halten.** Für die Punktvergabe genügt regelmäßig eine Einkommensstufe; die Vorlage vollständiger Einkommensnachweise ist dafür nicht erforderlich.
+
+## Schutzstufe geprüft 2026-08-14
+
+**C → D.** Haushaltseinkommen + Zahl der Kinder + Rangfolge/Zu- oder Absage offenbaren die wirtschaftlichen und familiären Verhältnisse der Bewerber um Wohnbaugrundstücke. Das Haushaltseinkommen ist konsistent mit `einkommensdaten` (D). Die Datei selbst dokumentiert, dass Einkommen und Kinderzahl die „tragenden Merkmale" des Einheimischenmodells sind.
 
 ## BSI-Vektoren geprüft 2026-08-04
 

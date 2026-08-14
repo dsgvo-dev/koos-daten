@@ -893,7 +893,7 @@
     "organisationseinheit": "oe-amt-23",
     "verfahren_vertraulich": false,
     "fallgruppe": null,
-    "effektive_schutzstufe": "C",
+    "effektive_schutzstufe": "D",
     "datenspeicher": [
       "dstore-personenstammdaten",
       "dstore-grundstuecksbezug",

@@ -9,11 +9,11 @@ bpmn:
   typ: datenobjekt
 klassifizierung:
   # Datenschutz -- Schaden fuer die betroffene Person (LfD-Schutzstufenkonzept, SDM)
-  schutzstufe: C
+  schutzstufe: D
   schutzbedarf: normal
-  vertraulichkeitsklasse: vertraulich
+  vertraulichkeitsklasse: streng vertraulich
   # Informationssicherheit -- Schaden fuer die Institution und die Aufgabenerfuellung (BSI)
-  bsi-vertraulichkeit: normal
+  bsi-vertraulichkeit: hoch
   bsi-integritaet: normal
   bsi-verfuegbarkeit: normal
   bsi-schutzbedarf: normal
@@ -80,6 +80,10 @@ Abgeleiteter Datentyp aus kommunalen Serviceportal-Texten in Niedersachsen; kein
 KOOS-konforme Konvertierung aus einer älteren Markdown-Sammlung.
 
 Zuständige OE, Klassifizierung und BPMN-Typ sind heuristisch vorbelegt und sollten fachlich überprüft werden.
+
+## Schutzstufe geprüft 2026-08-14
+
+**C → D.** Der Verdienstnachweis ist ein Einkommensdatum. Der Speicher wird in Sozialverfahren (Elterngeld nach BEEG, Wohngeld nach WoGG) eingesetzt — dort ist das Einkommen die anspruchsbegründende Größe. D ist konsistent mit `einkommensdaten` (D) und `einkommens-und-leistungsdaten` (D).
 
 ## BSI-Vektoren geprüft 2026-08-04
 
