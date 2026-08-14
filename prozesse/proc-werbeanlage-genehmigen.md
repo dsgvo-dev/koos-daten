@@ -9,7 +9,6 @@ daten:
   input: []
   output: []
   datenspeicher:
-  - id: dstore-werbeanlage-beschilderung
   - id: dstore-verwaltungsakte
   - id: dstore-genehmigung
 regelungen:

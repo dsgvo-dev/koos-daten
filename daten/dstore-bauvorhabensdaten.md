@@ -49,6 +49,10 @@ Daten zur Beschreibung eines baulichen Vorhabens, seiner Nutzung und der Lage de
 - Gebäudedaten
 - Werbeanlage
 - Standort des Vorhabens
+- Bauweise
+- Materialien
+- Geschossigkeit
+- Kurzbeschreibung
 
 ## Klassifizierung
 
@@ -96,3 +100,13 @@ Zuständige OE, Klassifizierung und BPMN-Typ sind heuristisch vorbelegt und soll
 **Die Vertraulichkeit richtet sich nach der Datenschutz-Schutzstufe** und ist dort begründet; der BSI-Wert ist die Vorbelegung daraus.
 
 *Sammelvermerk der Durchsicht vom 2026-08-04. In demselben Durchgang wurden 67 Speicher mit Register-, Entscheidungs- oder Gefahrenabwehrbezug angehoben; dieser gehört nicht dazu.*
+
+## Schutzstufe geprüft 2026-08-14
+
+**C bestätigt.** Das Bauvorhaben offenbart wirtschaftliche Verhältnisse: Eine
+Baugenehmigung beantragt und erhält nur, wer sich einen Neubau oder Umbau leisten kann.
+Art, Nutzung und Gebäudedaten lassen auf die Investition schließen.
+
+Geprüft im Rahmen der Schutzstufendurchsicht Los 5 (Amt 63). Vorschlag: `_output/vvt-datenspeicher-laeufe/VORSCHLAG-2026-08-14-los5-amt63.md`.
+
+**Zusammenlegung 2026-08-14 (Los 5):** `dstore-baubeschreibung` hierher überführt und gelöscht; Felder „Bauweise", „Materialien", „Geschossigkeit", „Kurzbeschreibung" übernommen. „Vorhabensart" und „Nutzung" sind durch „Art des Bauvorhabens" und „Nutzungsänderung" bereits abgedeckt.

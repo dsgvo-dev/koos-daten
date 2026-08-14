@@ -826,31 +826,6 @@
     ]
   },
   {
-    "id": "dstore-baubeschreibung",
-    "name": "Baubeschreibung",
-    "kategorie": "Bauen & Grundstück",
-    "einheit": "oe-amt-63",
-    "schutzstufe": "C",
-    "schutzbedarf": "normal",
-    "vertraulichkeitsklasse": "vertraulich",
-    "bsi-vertraulichkeit": "normal",
-    "bsi-integritaet": "normal",
-    "bsi-verfuegbarkeit": "normal",
-    "bsi-schutzbedarf": "normal",
-    "datenschutz_geprueft": false,
-    "bsi_geprueft": true,
-    "verwendungen": 0,
-    "beschreibung": "Beschreibende Daten zum Bauvorhaben, zu Nutzung, Bauart und wesentlichen Merkmalen.",
-    "felder": [
-      "Vorhabensart",
-      "Nutzung",
-      "Bauweise",
-      "Materialien",
-      "Geschossigkeit",
-      "Kurzbeschreibung"
-    ]
-  },
-  {
     "id": "dstore-baugenehmigung",
     "name": "Baugenehmigung",
     "kategorie": "Bescheid / Nachweis",
@@ -936,7 +911,7 @@
     "bsi-integritaet": "normal",
     "bsi-verfuegbarkeit": "normal",
     "bsi-schutzbedarf": "normal",
-    "datenschutz_geprueft": false,
+    "datenschutz_geprueft": true,
     "bsi_geprueft": true,
     "verwendungen": 2,
     "beschreibung": "Daten zur Beschreibung eines baulichen Vorhabens, seiner Nutzung und der Lage des betroffenen Objekts.",
@@ -946,7 +921,11 @@
       "Lageplan",
       "Gebäudedaten",
       "Werbeanlage",
-      "Standort des Vorhabens"
+      "Standort des Vorhabens",
+      "Bauweise",
+      "Materialien",
+      "Geschossigkeit",
+      "Kurzbeschreibung"
     ]
   },
   {
@@ -958,10 +937,10 @@
     "schutzbedarf": "normal",
     "vertraulichkeitsklasse": "vertraulich",
     "bsi-vertraulichkeit": "normal",
-    "bsi-integritaet": "normal",
+    "bsi-integritaet": "hoch",
     "bsi-verfuegbarkeit": "normal",
-    "bsi-schutzbedarf": "normal",
-    "datenschutz_geprueft": false,
+    "bsi-schutzbedarf": "hoch",
+    "datenschutz_geprueft": true,
     "bsi_geprueft": true,
     "verwendungen": 1,
     "beschreibung": "Planunterlagen wie Grundrisse, Ansichten und Schnitte zur baulichen Prüfung eines Vorhabens.",
@@ -971,7 +950,9 @@
       "Schnitt",
       "Maßstab",
       "Planverfasser",
-      "Revisionsstand"
+      "Revisionsstand",
+      "Entwurfsverfasser (Name, Berufsbezeichnung, Kammerzugehörigkeit, Bauvorlagenberechtigung, Unterschrift)",
+      "Statiknachweis (Nachweisart, erstellende Person, Prüfdatum, Prüfstatus, Unterlagenverweis)"
     ]
   },
   {
@@ -1988,31 +1969,6 @@
       "Niederschlagswasser",
       "Planunterlagen",
       "Antragsteller/in"
-    ]
-  },
-  {
-    "id": "dstore-entwurfsverfasser-nachweis",
-    "name": "Nachweis Entwurfsverfasser",
-    "kategorie": "Bauen & Grundstück",
-    "einheit": "oe-amt-63",
-    "schutzstufe": "C",
-    "schutzbedarf": "normal",
-    "vertraulichkeitsklasse": "vertraulich",
-    "bsi-vertraulichkeit": "normal",
-    "bsi-integritaet": "normal",
-    "bsi-verfuegbarkeit": "normal",
-    "bsi-schutzbedarf": "normal",
-    "datenschutz_geprueft": false,
-    "bsi_geprueft": true,
-    "verwendungen": 0,
-    "beschreibung": "Personen- und Qualifikationsdaten der für Bauvorlagen verantwortlichen Entwurfsverfasserinnen und Entwurfsverfasser.",
-    "felder": [
-      "Name",
-      "Berufsbezeichnung",
-      "Kammerzugehörigkeit",
-      "Unterschrift",
-      "Kontaktdaten",
-      "Bauvorlagenberechtigung"
     ]
   },
   {
@@ -3125,7 +3081,7 @@
     "bsi-integritaet": "hoch",
     "bsi-verfuegbarkeit": "normal",
     "bsi-schutzbedarf": "hoch",
-    "datenschutz_geprueft": false,
+    "datenschutz_geprueft": true,
     "bsi_geprueft": true,
     "verwendungen": 12,
     "beschreibung": "Grundstücksbezogene Daten zur Identifikation des Bau- oder Nutzungsvorhabens.",
@@ -6079,31 +6035,6 @@
     ]
   },
   {
-    "id": "dstore-standsicherheitsnachweis",
-    "name": "Standsicherheitsnachweis",
-    "kategorie": "Bauen & Grundstück",
-    "einheit": "oe-amt-63",
-    "schutzstufe": "C",
-    "schutzbedarf": "normal",
-    "vertraulichkeitsklasse": "vertraulich",
-    "bsi-vertraulichkeit": "normal",
-    "bsi-integritaet": "hoch",
-    "bsi-verfuegbarkeit": "normal",
-    "bsi-schutzbedarf": "hoch",
-    "datenschutz_geprueft": false,
-    "bsi_geprueft": true,
-    "verwendungen": 0,
-    "beschreibung": "Nachweisdaten zur Tragfähigkeit und Standsicherheit eines Bauwerks.",
-    "felder": [
-      "Nachweisart",
-      "erstellende Person",
-      "Prüfdatum",
-      "Prüfstatus",
-      "Bauwerksbezug",
-      "Unterlagenverweis"
-    ]
-  },
-  {
     "id": "dstore-stellungnahme-planverfahren",
     "name": "Stellungnahme im Planverfahren",
     "kategorie": "Bauen & Grundstück",
@@ -7286,31 +7217,6 @@
       "Wahlschein",
       "Stimmzettel",
       "Briefwahlunterlagen"
-    ]
-  },
-  {
-    "id": "dstore-werbeanlage-beschilderung",
-    "name": "Werbeanlage und Beschilderung",
-    "kategorie": "Öffentlicher Raum & Ordnung",
-    "einheit": "oe-amt-63",
-    "schutzstufe": "C",
-    "schutzbedarf": "normal",
-    "vertraulichkeitsklasse": "vertraulich",
-    "bsi-vertraulichkeit": "normal",
-    "bsi-integritaet": "normal",
-    "bsi-verfuegbarkeit": "normal",
-    "bsi-schutzbedarf": "normal",
-    "datenschutz_geprueft": false,
-    "bsi_geprueft": true,
-    "verwendungen": 0,
-    "beschreibung": "Daten zu Gestaltung, Standort und Dimension einer Werbeanlage.",
-    "felder": [
-      "Art der Werbeanlage",
-      "Standort",
-      "Maße",
-      "Beleuchtung",
-      "Befestigungsart",
-      "Gestaltung"
     ]
   },
   {

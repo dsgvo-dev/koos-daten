@@ -16,11 +16,9 @@ daten:
   - id: dstore-bauzeichnung-planunterlagen
   - id: dstore-grundstuecksbezug
   - id: dstore-lageplan-geobasisdaten
-  - id: dstore-baubeschreibung
-  - id: dstore-entwurfsverfasser-nachweis
+  - id: dstore-bauvorhabensdaten
   - id: dstore-nachbarbeteiligung
   - id: dstore-pruefstatik-statikfreigabe
-  - id: dstore-standsicherheitsnachweis
   - id: dstore-energieeffizienz-waermeschutznachweis
   - id: dstore-fachstellungnahme
   - id: dstore-bauzeiten-bauablaufplan

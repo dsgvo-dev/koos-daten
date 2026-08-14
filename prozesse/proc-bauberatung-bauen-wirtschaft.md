@@ -14,7 +14,6 @@ daten:
   - id: dstore-grundstuecksbezug
   - id: dstore-lageplan-geobasisdaten
   - id: dstore-bauzeiten-bauablaufplan
-  - id: dstore-werbeanlage-beschilderung
 regelungen:
   - '§§ 59 ff. Nds. Bauordnung (NBauO)'
   - '§§ 29-38 BauGB (Zulässigkeit von Vorhaben)'

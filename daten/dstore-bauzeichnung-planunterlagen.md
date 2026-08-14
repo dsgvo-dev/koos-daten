@@ -14,9 +14,9 @@ klassifizierung:
   vertraulichkeitsklasse: vertraulich
   # Informationssicherheit -- Schaden fuer die Institution und die Aufgabenerfuellung (BSI)
   bsi-vertraulichkeit: normal
-  bsi-integritaet: normal
+  bsi-integritaet: hoch
   bsi-verfuegbarkeit: normal
-  bsi-schutzbedarf: normal
+  bsi-schutzbedarf: hoch
   rechtsgrundlagen:
   - gesetz: NBauO
   aufbewahrung:
@@ -46,6 +46,8 @@ Planunterlagen wie Grundrisse, Ansichten und Schnitte zur baulichen Prüfung ein
 - Maßstab
 - Planverfasser
 - Revisionsstand
+- Entwurfsverfasser (Name, Berufsbezeichnung, Kammerzugehörigkeit, Bauvorlagenberechtigung, Unterschrift)
+- Statiknachweis (Nachweisart, erstellende Person, Prüfdatum, Prüfstatus, Unterlagenverweis)
 
 ## Klassifizierung
 
@@ -90,3 +92,12 @@ Zuständige OE, Klassifizierung und BPMN-Typ sind heuristisch vorbelegt und soll
 **Die Vertraulichkeit richtet sich nach der Datenschutz-Schutzstufe** und ist dort begründet; der BSI-Wert ist die Vorbelegung daraus.
 
 *Sammelvermerk der Durchsicht vom 2026-08-04. In demselben Durchgang wurden 67 Speicher mit Register-, Entscheidungs- oder Gefahrenabwehrbezug angehoben; dieser gehört nicht dazu.*
+
+## Schutzstufe geprüft 2026-08-14
+
+**C bestätigt.** Teil der Bauvorlagen. Grundriss, Ansicht und Schnitt offenbaren Umfang
+und Art des Bauwerks und damit die wirtschaftlichen Verhältnisse des Bauherrn.
+
+Geprüft im Rahmen der Schutzstufendurchsicht Los 5 (Amt 63). Vorschlag: `_output/vvt-datenspeicher-laeufe/VORSCHLAG-2026-08-14-los5-amt63.md`.
+
+**Zusammenlegung 2026-08-14 (Los 5):** `dstore-entwurfsverfasser-nachweis` und `dstore-standsicherheitsnachweis` hierher überführt und gelöscht. Die BSI-Integrität wurde von `normal` auf `hoch` angehoben — der Statiknachweis verlangt hohe Integrität, weil eine Verfälschung Leib und Leben gefährdet.

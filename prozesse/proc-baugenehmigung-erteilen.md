@@ -15,10 +15,9 @@ daten:
   - id: dstore-grundstuecksbezug
   - id: dstore-lageplan-geobasisdaten
   - id: dstore-bauantragsstatus-bearbeitungsstand
-  - id: dstore-baubeschreibung
+  - id: dstore-bauvorhabensdaten
   - id: dstore-nachbarbeteiligung
   - id: dstore-pruefstatik-statikfreigabe
-  - id: dstore-standsicherheitsnachweis
   - id: dstore-energieeffizienz-waermeschutznachweis
   - id: dstore-fachstellungnahme
 regelungen:

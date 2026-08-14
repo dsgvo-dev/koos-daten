@@ -84,3 +84,11 @@ Zuständige OE, Klassifizierung und BPMN-Typ sind heuristisch vorbelegt und soll
 **Integrität hoch.** Auf die Richtigkeit dieses Datenbestands verlassen sich andere -- Behörden, Gerichte oder die betroffene Person selbst. Eine unbemerkte Verfälschung führt nicht zu einem Fehler im Einzelfall, sondern zu falschen Folgeentscheidungen, die auf dem Bestand aufbauen.
 
 Wie beim Katasterbezug: Die Zuordnung entscheidet, wen ein Bescheid trifft.
+
+## Schutzstufe geprüft 2026-08-14
+
+**C bestätigt.** Der Grundstücksbezug eines Bau- oder Nutzungsvorhabens offenbart
+wirtschaftliche Aktivität — auf diesem Grundstück wird gebaut oder genutzt. Konsistent
+mit `dstore-flur-flurstueck-lagebezeichnung` (C).
+
+Geprüft im Rahmen der Schutzstufendurchsicht Los 5 (Amt 63). Vorschlag: `_output/vvt-datenspeicher-laeufe/VORSCHLAG-2026-08-14-los5-amt63.md`.
