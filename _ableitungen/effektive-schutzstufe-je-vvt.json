@@ -1004,6 +1004,7 @@
       "dstore-sterbeurkunde",
       "dstore-eheurkunde-nachweis",
       "dstore-lebenspartnerschaftsurkunde-nachweis",
+      "dstore-scheidungsnachweis",
       "dstore-religionszugehoerigkeit"
     ]
   },
@@ -1028,6 +1029,20 @@
       "dstore-registerbezug-personenstand",
       "dstore-verstorbenenhinweis-melderegister",
       "dstore-zweckgebundene-urkunde"
+    ]
+  },
+  "vvt-31-004": {
+    "titel": "Selbstbestimmungsverfahren (SBGG)",
+    "organisationseinheit": "oe-amt-31",
+    "verfahren_vertraulich": true,
+    "fallgruppe": "beratung",
+    "effektive_schutzstufe": "E",
+    "datenspeicher": [
+      "dstore-geschlechtseintrag-erklaerung",
+      "dstore-namensfuehrung-selbstbestimmung",
+      "dstore-personenstammdaten-vertraulich",
+      "dstore-registerbezug-personenstand",
+      "dstore-identitaetsnachweis"
     ]
   },
   "vvt-32-003": {
@@ -1823,7 +1838,9 @@
       "dstore-aufenthaltstitel",
       "dstore-staatsangehoerigkeit-aufenthaltsstatus",
       "dstore-biometrische-daten-lichtbild",
-      "dstore-strafverfahrensmitteilung-auslaenderrecht"
+      "dstore-strafverfahrensmitteilung-auslaenderrecht",
+      "dstore-integrationskursnachweis",
+      "dstore-passersatzpapier"
     ]
   },
   "vvt-47-002": {
@@ -1838,7 +1855,8 @@
       "dstore-aufenthaltstitel",
       "dstore-einbuergerungszusicherung",
       "dstore-leistungsbezug-sozialleistung",
-      "dstore-zuverlaessigkeitsanfrage-sicherheitsbehoerden"
+      "dstore-zuverlaessigkeitsanfrage-sicherheitsbehoerden",
+      "dstore-sprachkenntnisnachweis"
     ]
   },
   "vvt-47-003": {

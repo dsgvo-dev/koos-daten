@@ -2705,7 +2705,7 @@
     "bsi-schutzbedarf": "sehr hoch",
     "datenschutz_geprueft": true,
     "bsi_geprueft": true,
-    "verwendungen": 0,
+    "verwendungen": 1,
     "beschreibung": "Erklärungsdaten zur Änderung des Geschlechtseintrags und der Vornamen.",
     "felder": [
       "Erklärende Person",
@@ -3437,7 +3437,7 @@
     "bsi-schutzbedarf": "hoch",
     "datenschutz_geprueft": true,
     "bsi_geprueft": true,
-    "verwendungen": 7,
+    "verwendungen": 8,
     "beschreibung": "Daten aus amtlichen Identitätsdokumenten zur Legitimation der antragstellenden, vertretenen oder erklärenden Person.",
     "felder": [
       "Dokumentart",
@@ -3487,7 +3487,7 @@
     "bsi-schutzbedarf": "normal",
     "datenschutz_geprueft": true,
     "bsi_geprueft": true,
-    "verwendungen": 0,
+    "verwendungen": 1,
     "beschreibung": "Nachweise über Teilnahme oder Abschluss eines Integrationskurses.",
     "felder": [
       "Kursträger",
@@ -4677,7 +4677,7 @@
     "bsi-schutzbedarf": "sehr hoch",
     "datenschutz_geprueft": true,
     "bsi_geprueft": true,
-    "verwendungen": 0,
+    "verwendungen": 1,
     "beschreibung": "Daten zur Namensführung in Verfahren der Selbstbestimmung oder Namensänderung.",
     "felder": [
       "Bisheriger Name",
@@ -4802,7 +4802,7 @@
     "bsi-schutzbedarf": "hoch",
     "datenschutz_geprueft": true,
     "bsi_geprueft": true,
-    "verwendungen": 0,
+    "verwendungen": 1,
     "beschreibung": "Daten zu Passersatzpapieren oder Notreisedokumenten.",
     "felder": [
       "Dokumentart",
@@ -4931,7 +4931,7 @@
     "bsi-schutzbedarf": "hoch",
     "datenschutz_geprueft": true,
     "bsi_geprueft": true,
-    "verwendungen": 59,
+    "verwendungen": 60,
     "beschreibung": "Identifikations- und Zuordnungsdaten natürlicher Personen in Verfahren, deren Zugehörigkeit selbst schutzbedürftig ist. Inhaltlich identisch mit den allgemeinen Personenstammdaten.",
     "felder": [
       "Vorname",
@@ -5279,7 +5279,7 @@
     "bsi-schutzbedarf": "hoch",
     "datenschutz_geprueft": true,
     "bsi_geprueft": true,
-    "verwendungen": 3,
+    "verwendungen": 4,
     "beschreibung": "Daten zur Identifikation und Auswertung von Einträgen in Personenstandsregistern.",
     "felder": [
       "Registerart",
@@ -5313,31 +5313,6 @@
       "Gültigkeit",
       "Zuverlässigkeitsprüfung",
       "Gebühren"
-    ]
-  },
-  {
-    "id": "dstore-reisekosten-aufenthaltsverfahren",
-    "name": "Reisekosten Aufenthaltsverfahren",
-    "kategorie": "Migration & Kosten",
-    "einheit": "oe-amt-47",
-    "schutzstufe": "C",
-    "schutzbedarf": "hoch",
-    "vertraulichkeitsklasse": "vertraulich",
-    "bsi-vertraulichkeit": "normal",
-    "bsi-integritaet": "normal",
-    "bsi-verfuegbarkeit": "normal",
-    "bsi-schutzbedarf": "normal",
-    "datenschutz_geprueft": true,
-    "bsi_geprueft": true,
-    "verwendungen": 0,
-    "beschreibung": "Kosten- und Erstattungsdaten im Zusammenhang mit ausländerrechtlichen Verfahren.",
-    "felder": [
-      "Reiseanlass",
-      "Strecke",
-      "Betrag",
-      "Nachweis",
-      "Person",
-      "Datum"
     ]
   },
   {
@@ -5427,7 +5402,7 @@
     "bsi-schutzbedarf": "hoch",
     "datenschutz_geprueft": true,
     "bsi_geprueft": true,
-    "verwendungen": 0,
+    "verwendungen": 1,
     "beschreibung": "Gerichtliche oder registerbezogene Nachweise über die Auflösung einer Ehe.",
     "felder": [
       "Gericht",
@@ -5852,7 +5827,7 @@
     "bsi-schutzbedarf": "normal",
     "datenschutz_geprueft": true,
     "bsi_geprueft": true,
-    "verwendungen": 0,
+    "verwendungen": 1,
     "beschreibung": "Nachweise über Sprachkenntnisse, insbesondere für Aufenthalts- und Einbürgerungsverfahren.",
     "felder": [
       "Sprache",

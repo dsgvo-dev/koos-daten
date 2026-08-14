@@ -21,7 +21,6 @@ daten:
   - id: dstore-familiennachzug-bezugsdaten
   - id: dstore-fiktionsbescheinigung
   - id: dstore-niederlassungserlaubnisvoraussetzungen
-  - id: dstore-reisekosten-aufenthaltsverfahren
   - id: dstore-unionsbuergerfreizuegigkeit
   - id: dstore-verpflichtungserklaerung
 letzte-aktualisierung: 2026-04-06

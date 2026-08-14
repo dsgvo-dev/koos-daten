@@ -13,7 +13,6 @@ daten:
   - id: dstore-fiktionsbescheinigung
   - id: dstore-personenstammdaten
   - id: dstore-staatsangehoerigkeit-aufenthaltsstatus
-  - id: dstore-reisekosten-aufenthaltsverfahren
 regelungen:
   - '§ 60a Aufenthaltsgesetz (AufenthG) (Vorübergehende Aussetzung der Abschiebung)'
   - '§ 60b AufenthG (Duldung für Personen mit ungeklärter Identität)'
