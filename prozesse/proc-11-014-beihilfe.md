@@ -1,7 +1,7 @@
 ---
 id: proc-11-014-beihilfe
 titel: Beihilfe (Beihilfebearbeitung und -beratung)
-status: entwurf
+status: aktiv
 zustaendigeEinheit: oe-amt-11
 zustaendigeRolle: ''
 beteiligte: []

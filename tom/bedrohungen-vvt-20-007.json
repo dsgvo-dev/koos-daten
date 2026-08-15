@@ -1,0 +1,426 @@
+{
+  "id": "bedrohungen-vvt-20-007",
+  "vvt_referenz": {
+    "vvt_id": "vvt-20-007",
+    "bezeichnung": "Stiftungsverwaltung (kommunale Stiftungen)"
+  },
+  "erstellt_am": "2026-08-15",
+  "gb_immer": 58,
+  "vb_bedingt": 1,
+  "threats": [
+    {
+      "id": "THREAT-AV-002",
+      "beschreibung": "Zwischen den Betroffenen und den Verantwortlichen besteht ein Über-/Unterordnungsverhältnis. Durch eine Auftragsverarbei",
+      "kategorie": "AV",
+      "bedrohungstyp": "GB",
+      "user_relevant": true
+    },
+    {
+      "id": "THREAT-AV-001",
+      "beschreibung": "Personenbezogene Daten von Betroffenen werden verarbeitet (Bürger*innen/Beschäftigte). Neben der grundsätzlichen Gefährd",
+      "kategorie": "AV",
+      "bedrohungstyp": "GB",
+      "user_relevant": true
+    },
+    {
+      "id": "THREAT-CL-001",
+      "beschreibung": "Personenbezogene Daten von Betroffenen werden verarbeitet (Bürger*innen/Beschäftigte). Neben der grundsätzlichen Gefährd",
+      "kategorie": "CL",
+      "bedrohungstyp": "GB",
+      "user_relevant": true
+    },
+    {
+      "id": "THREAT-DLohneAV-001",
+      "beschreibung": "Personenbezogene Daten von Betroffenen (Bürger*innen/Beschäftigte) werden durch einen Dienstleister verarbeitet, ohne da",
+      "kategorie": "DLohneAV",
+      "bedrohungstyp": "GB",
+      "user_relevant": true
+    },
+    {
+      "id": "THREAT-KI-005",
+      "beschreibung": "Wenn personenbezogene Daten für das Training von KI-Modellen genutzt werden, besteht die Gefährdung, dass Trainingsdaten",
+      "kategorie": "KI",
+      "bedrohungstyp": "GB",
+      "user_relevant": true
+    },
+    {
+      "id": "THREAT-KI-006",
+      "beschreibung": "Bei der Verarbeitung personenbezogener Daten kann es zur Ausgabe von diskriminierenden oder hasserfüllten Ausgaben komme",
+      "kategorie": "KI",
+      "bedrohungstyp": "GB",
+      "user_relevant": true
+    },
+    {
+      "id": "THREAT-KI-002",
+      "beschreibung": "Wenn personenbezogene Daten von Betroffenen mithilfe Künstlicher Intelligenz (KI) verarbeitet werden, kann es aufgrund f",
+      "kategorie": "KI",
+      "bedrohungstyp": "GB",
+      "user_relevant": true
+    },
+    {
+      "id": "THREAT-KI-008",
+      "beschreibung": "Bei der Verarbeitung personenbezogener Daten mittels KI besteht die Gefährdung, dass die Ergebnisse nur mangelhaft erklä",
+      "kategorie": "KI",
+      "bedrohungstyp": "GB",
+      "user_relevant": true
+    },
+    {
+      "id": "THREAT-KI-010",
+      "beschreibung": "Bei der Nutzung Künstlicher Intelligenz beseht die Gefährdung der mangelhaften Security in Bezug auf die Integrität von ",
+      "kategorie": "KI",
+      "bedrohungstyp": "GB",
+      "user_relevant": true
+    },
+    {
+      "id": "THREAT-KI-009",
+      "beschreibung": "Bei der Verarbeitung personenbezogener Daten mittels KI besteht die Gefährdung der nicht funktionierenden menschlichen K",
+      "kategorie": "KI",
+      "bedrohungstyp": "GB",
+      "user_relevant": true
+    },
+    {
+      "id": "THREAT-KI-011",
+      "beschreibung": "Bei der Nutzung personenbezogene Daten für das KI-Training besteht die Gefährdung, dass diese ohne ausreichende oder man",
+      "kategorie": "KI",
+      "bedrohungstyp": "GB",
+      "user_relevant": true
+    },
+    {
+      "id": "THREAT-KI-001",
+      "beschreibung": "Wenn personenbezogene Daten von Betroffenen mithilfe Künstlicher Intelligenz (KI) verarbeitet werden, kann es aufgrund d",
+      "kategorie": "KI",
+      "bedrohungstyp": "GB",
+      "user_relevant": true
+    },
+    {
+      "id": "THREAT-KI-003",
+      "beschreibung": "Eine Datenverarbeitung kann dazu führen, dass z.B. bei der Nutzung von Sprachmodellen (LLM) zu unrichtigen Ausgaben oder",
+      "kategorie": "KI",
+      "bedrohungstyp": "GB",
+      "user_relevant": true
+    },
+    {
+      "id": "THREAT-KI-007",
+      "beschreibung": "Eine spezifische Gefährdung kann entstehen, wenn personenbezogene Daten für das Training der KI-Modelle durch Anbieter e",
+      "kategorie": "KI",
+      "bedrohungstyp": "GB",
+      "user_relevant": true
+    },
+    {
+      "id": "THREAT-KI-012",
+      "beschreibung": "Unzureichende Awareness bei Nutzern von KI-Systemen (z.B. Nutzung einer KI zur Bewerberauswahl durch einen Mitarbeiter, ",
+      "kategorie": "KI",
+      "bedrohungstyp": "GB",
+      "user_relevant": true
+    },
+    {
+      "id": "THREAT-KI-013",
+      "beschreibung": "Unzureichende Sicherstellung von Betroffenenrechten (z.B. durch zu wenig Protokollierung des KI-Einsatzes und damit die ",
+      "kategorie": "KI",
+      "bedrohungstyp": "GB",
+      "user_relevant": true
+    },
+    {
+      "id": "THREAT-KI-004",
+      "beschreibung": "Wenn Künstliche Intelligenz personenbezogene Daten verarbeitet, besteht die Gefährdung, dass diese Daten bzw. das Ergebn",
+      "kategorie": "KI",
+      "bedrohungstyp": "GB",
+      "user_relevant": true
+    },
+    {
+      "id": "THREAT-MS365-005",
+      "beschreibung": "Fehlen einer Rechtsgrundlage für die Verantwortliche, um Beschäftigtendaten durch Microsoft verarbeiten zu lassen. Die B",
+      "kategorie": "MS365",
+      "bedrohungstyp": "GB",
+      "user_relevant": true
+    },
+    {
+      "id": "THREAT-MS365-001",
+      "beschreibung": "Personenbezogene Daten von Betroffenen werden in MS365 verarbeitet (Bürger*innen/Beschäftigte). Neben der Verarbeitung d",
+      "kategorie": "MS365",
+      "bedrohungstyp": "GB",
+      "user_relevant": true
+    },
+    {
+      "id": "THREAT-ORG-010",
+      "beschreibung": "Potenzielle Gefährdungen können sich daraus ergeben, dass durch Angriffe auf die IT-Infrastruktur eine Verarbeitung der ",
+      "kategorie": "ORG",
+      "bedrohungstyp": "GB",
+      "user_relevant": true
+    },
+    {
+      "id": "THREAT-ORG-020",
+      "beschreibung": "Personenbezogene Daten werden archiviert. Hierbei kann es durch nicht korrekte Aufbewahrungsfristen oder unrichtige Umga",
+      "kategorie": "ORG",
+      "bedrohungstyp": "GB",
+      "user_relevant": true
+    },
+    {
+      "id": "THREAT-ORG-016",
+      "beschreibung": "Durch die Verarbeitung werden Persönlichkeitsaspekte bewertet, z. B. werden Analysen/Prognosen erstellt über die Arbeits",
+      "kategorie": "ORG",
+      "bedrohungstyp": "GB",
+      "user_relevant": true
+    },
+    {
+      "id": "THREAT-ORG-014",
+      "beschreibung": "Es werden personenbezogene Daten bei Dritten, z.B. anderen Behörden erhoben.",
+      "kategorie": "ORG",
+      "bedrohungstyp": "GB",
+      "user_relevant": true
+    },
+    {
+      "id": "THREAT-ORG-015",
+      "beschreibung": "Es werden personenbezogene Daten an eine andere Stelle/Behörde übermittelt. Bei Dritten können die Daten zu einem andere",
+      "kategorie": "ORG",
+      "bedrohungstyp": "GB",
+      "user_relevant": true
+    },
+    {
+      "id": "THREAT-ORG-012",
+      "beschreibung": "Es werden personenbezogene Daten in einem Bereich verarbeitet, in dem Kundenverkehr stattfindet, z. B. im Bürgerbüro.",
+      "kategorie": "ORG",
+      "bedrohungstyp": "GB",
+      "user_relevant": true
+    },
+    {
+      "id": "THREAT-ORG-017",
+      "beschreibung": "Bei der Verarbeitung personenbezogener Daten wird durch den Verantwortlichen keine Löschfrist festgelegt oder geprüft - ",
+      "kategorie": "ORG",
+      "bedrohungstyp": "GB",
+      "user_relevant": true
+    },
+    {
+      "id": "THREAT-ORG-011",
+      "beschreibung": "Potenzielle Gefährdungen können sich daraus ergeben, dass die betroffenen Personen oder die befugten Verantwortlichen ni",
+      "kategorie": "ORG",
+      "bedrohungstyp": "GB",
+      "user_relevant": true
+    },
+    {
+      "id": "THREAT-ORG-027",
+      "beschreibung": "Fehlgeleitete Nachrichten sind potenziell möglich. Dies kann z.B. für herkömmliche postalische Versendung, Telefax oder ",
+      "kategorie": "ORG",
+      "bedrohungstyp": "GB",
+      "user_relevant": true
+    },
+    {
+      "id": "THREAT-ORG-032",
+      "beschreibung": "Mitarbeitende mit Zugangsberechtigungen könnten Daten missbrauchen oder unbefugt weitergeben.",
+      "kategorie": "ORG",
+      "bedrohungstyp": "GB",
+      "user_relevant": true
+    },
+    {
+      "id": "THREAT-ORG-009",
+      "beschreibung": "Potenzielle Gefährdungen können sich daraus ergeben, dass die personenbezogenen Daten nicht ausreichend gegen unbefugte ",
+      "kategorie": "ORG",
+      "bedrohungstyp": "GB",
+      "user_relevant": true
+    },
+    {
+      "id": "THREAT-ORG-003",
+      "beschreibung": "Potenzielle Gefährdungen können sich daraus ergeben, dass die betroffenen Personen über die Verarbeitung ihrer personenb",
+      "kategorie": "ORG",
+      "bedrohungstyp": "GB",
+      "user_relevant": true
+    },
+    {
+      "id": "THREAT-ORG-029",
+      "beschreibung": "Die Manipulation personenbezogener Daten oder von (Papier-)Akten durch einen Angreifer/Hacker von außen oder Innentäter ",
+      "kategorie": "ORG",
+      "bedrohungstyp": "GB",
+      "user_relevant": true
+    },
+    {
+      "id": "THREAT-ORG-031",
+      "beschreibung": "Trotz Schulungen können Mitarbeitende Fehler machen, die zu Datenverlust oder unberechtigter Offenlegung führen.",
+      "kategorie": "ORG",
+      "bedrohungstyp": "GB",
+      "user_relevant": true
+    },
+    {
+      "id": "THREAT-ORG-025",
+      "beschreibung": "Datenträger wie Notebooks, Akten, Smartphones, Tablets werden im Außendienst oder bei der Wahrnehmung externer Termine m",
+      "kategorie": "ORG",
+      "bedrohungstyp": "GB",
+      "user_relevant": true
+    },
+    {
+      "id": "THREAT-ORG-005",
+      "beschreibung": "Potenzielle Gefährdungen können sich daraus ergeben, dass mehr personenbezogene Daten über Betroffene als notwendig vera",
+      "kategorie": "ORG",
+      "bedrohungstyp": "GB",
+      "user_relevant": true
+    },
+    {
+      "id": "THREAT-ORG-026",
+      "beschreibung": "„Offenes Haus“, d.h. Kunden oder Bürger können die Geschäftsräume der Verwaltung frei betreten. Ein unbefugter Zugang zu",
+      "kategorie": "ORG",
+      "bedrohungstyp": "GB",
+      "user_relevant": true
+    },
+    {
+      "id": "THREAT-ORG-028",
+      "beschreibung": "Die Offenlegung personenbezogener Daten kann zu Diskriminierung, Identitätsdiebstahl-/betrug, finanziellen Einbußen, ein",
+      "kategorie": "ORG",
+      "bedrohungstyp": "GB",
+      "user_relevant": true
+    },
+    {
+      "id": "THREAT-ORG-001",
+      "beschreibung": "Jede Verarbeitung personenbezogener Daten stellt eine Beeinträchtigung der Rechte und Freiheiten der Betroffenen dar. Di",
+      "kategorie": "ORG",
+      "bedrohungstyp": "GB",
+      "user_relevant": true
+    },
+    {
+      "id": "THREAT-ORG-002",
+      "beschreibung": "Personenbezogener Daten werden ohne ausreichende Rechtsgrundlage verarbeitet, z.B. Datenerhebungen von Bürger*innen ohne",
+      "kategorie": "ORG",
+      "bedrohungstyp": "GB",
+      "user_relevant": true
+    },
+    {
+      "id": "THREAT-ORG-035",
+      "beschreibung": "Einbrüche, Diebstahl oder Vandalismus, die nicht vollständig verhindert werden können.",
+      "kategorie": "ORG",
+      "bedrohungstyp": "GB",
+      "user_relevant": true
+    },
+    {
+      "id": "THREAT-ORG-021",
+      "beschreibung": "Personenbezogene Daten werden zu statistischen Zwecken verarbeitet. Dabei müssen personenbezogene Daten nach statistikre",
+      "kategorie": "ORG",
+      "bedrohungstyp": "GB",
+      "user_relevant": true
+    },
+    {
+      "id": "THREAT-ORG-034",
+      "beschreibung": "Hardware- oder Softwarefehler, die zu unbeabsichtigter Datenoffenlegung führen können.",
+      "kategorie": "ORG",
+      "bedrohungstyp": "GB",
+      "user_relevant": true
+    },
+    {
+      "id": "THREAT-ORG-019",
+      "beschreibung": "Es wird ein umfangreicher Datensatz erhoben. Dadurch erhöht sich das Bedrohungspotenzial für Betroffene. Ihre personenbe",
+      "kategorie": "ORG",
+      "bedrohungstyp": "GB",
+      "user_relevant": true
+    },
+    {
+      "id": "THREAT-ORG-033",
+      "beschreibung": "Neue Schwachstellen in Software oder Systemen, die noch nicht entdeckt oder gepatcht wurden (Zero-Day-Exploits).",
+      "kategorie": "ORG",
+      "bedrohungstyp": "GB",
+      "user_relevant": true
+    },
+    {
+      "id": "THREAT-ORG-018",
+      "beschreibung": "Wenn die Herkunft oder der Empfänger personenbezogener Daten unklar ist, können Verantwortliche und Betroffene die Recht",
+      "kategorie": "ORG",
+      "bedrohungstyp": "GB",
+      "user_relevant": true
+    },
+    {
+      "id": "THREAT-ORG-006",
+      "beschreibung": "Potenzielle Gefährdungen können sich daraus ergeben, dass inkorrekte Daten über die Betroffenen erhoben und weiterverarb",
+      "kategorie": "ORG",
+      "bedrohungstyp": "GB",
+      "user_relevant": true
+    },
+    {
+      "id": "THREAT-ORG-036",
+      "beschreibung": "Schwierigkeiten bei der endgültigen Löschung von Daten aus Backups oder Archiven.",
+      "kategorie": "ORG",
+      "bedrohungstyp": "GB",
+      "user_relevant": true
+    },
+    {
+      "id": "THREAT-ORG-013",
+      "beschreibung": "Zwischen dem Betroffenen und dem Verantwortlichen besteht ein Über-/Unterordnungsverhältnis.",
+      "kategorie": "ORG",
+      "bedrohungstyp": "GB",
+      "user_relevant": true
+    },
+    {
+      "id": "THREAT-ORG-024",
+      "beschreibung": "Personenbezogene Daten werden im Rahmen des Mobilen Arbeitens oder im Homeoffice verarbeitet.",
+      "kategorie": "ORG",
+      "bedrohungstyp": "GB",
+      "user_relevant": true
+    },
+    {
+      "id": "THREAT-ORG-030",
+      "beschreibung": "Der Verlust von Datenträgern wie Akten oder mobilen Geräten (Tablets, Smartphones, Notebooks) ist potenziell möglich. ",
+      "kategorie": "ORG",
+      "bedrohungstyp": "GB",
+      "user_relevant": true
+    },
+    {
+      "id": "THREAT-ORG-007",
+      "beschreibung": "Potenzielle Gefährdungen können sich daraus ergeben, dass personenbezogene Daten länger über die Betroffenen verarbeitet",
+      "kategorie": "ORG",
+      "bedrohungstyp": "GB",
+      "user_relevant": true
+    },
+    {
+      "id": "THREAT-ORG-008",
+      "beschreibung": "Potenzielle Gefährdungen können sich daraus ergeben, dass personenbezogene Daten durch Unbefugte erlangt und diese missb",
+      "kategorie": "ORG",
+      "bedrohungstyp": "GB",
+      "user_relevant": true
+    },
+    {
+      "id": "THREAT-ORG-022",
+      "beschreibung": "Ein unbefugter Zugriff auf die Datenverarbeitungssysteme und damit die personenbezogenen Daten ist möglich. Hierdurch kö",
+      "kategorie": "ORG",
+      "bedrohungstyp": "GB",
+      "user_relevant": true
+    },
+    {
+      "id": "THREAT-ORG-023",
+      "beschreibung": "Ein unbefugter Zutritt zu den Datenverarbeitungssystemen ist möglich. Dadurch könnten Unbefugte Zugriff zu den Anlagen e",
+      "kategorie": "ORG",
+      "bedrohungstyp": "GB",
+      "user_relevant": true
+    },
+    {
+      "id": "THREAT-ORG-004",
+      "beschreibung": "Potenzielle Gefährdungen können sich daraus ergeben, dass die Verantwortlichen die personenbezogenen Daten der Betroffen",
+      "kategorie": "ORG",
+      "bedrohungstyp": "GB",
+      "user_relevant": true
+    },
+    {
+      "id": "THREAT-SW-001",
+      "beschreibung": "Die personenbezogenen Daten werden automatisiert, z. B. in einem Fachverfahren verarbeitet. Damit sind grundsätzlich and",
+      "kategorie": "SW",
+      "bedrohungstyp": "GB",
+      "user_relevant": true
+    },
+    {
+      "id": "THREAT-SW-003",
+      "beschreibung": "Es werden Freitextfelder verwendet, wozu es zu unerwünschten Dateneingaben kommen kann. Der Grundsatz der Erforderlichke",
+      "kategorie": "SW",
+      "bedrohungstyp": "GB",
+      "user_relevant": true
+    },
+    {
+      "id": "THREAT-SW-002",
+      "beschreibung": "Es werden durch nicht notwendige/genutzte Module zusätzliche personenbezogene Daten erhoben. Der Grundsatz der Erforderl",
+      "kategorie": "SW",
+      "bedrohungstyp": "GB",
+      "user_relevant": true
+    },
+    {
+      "id": "THREAT-SW-007",
+      "beschreibung": "Datenschutzrechtliche Gefährdungen werden bei der Konzeption oder Beschaffung von Software nicht beachtet.",
+      "kategorie": "SW",
+      "bedrohungstyp": "VB",
+      "user_relevant": true
+    }
+  ],
+  "status": "entwurf"
+}

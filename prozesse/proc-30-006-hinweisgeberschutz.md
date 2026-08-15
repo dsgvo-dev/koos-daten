@@ -1,7 +1,7 @@
 ---
 id: proc-30-006-hinweisgeberschutz
 titel: Interne Meldestelle nach HinSchG
-status: entwurf
+status: aktiv
 zustaendigeEinheit: oe-amt-30
 zustaendigeRolle: ''
 beteiligte: []

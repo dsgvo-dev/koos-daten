@@ -1,7 +1,7 @@
 ---
 id: proc-50-012-heizkostenzuschuss
 titel: Heizkostenzuschuss
-status: entwurf
+status: aktiv
 zustaendigeEinheit: oe-amt-50
 zustaendigeRolle: ''
 beteiligte: []

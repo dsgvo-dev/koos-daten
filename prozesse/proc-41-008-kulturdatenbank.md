@@ -1,7 +1,7 @@
 ---
 id: proc-41-008-kulturdatenbank
 titel: Kulturdatenbank (Kulturschaffende, Angebote)
-status: entwurf
+status: aktiv
 zustaendigeEinheit: oe-amt-41
 zustaendigeRolle: ''
 beteiligte: []

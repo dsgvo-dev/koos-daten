@@ -1,7 +1,7 @@
 ---
 id: proc-64-004-wohnberechtigungsschein
 titel: Wohnberechtigungsschein (WBS)
-status: entwurf
+status: aktiv
 zustaendigeEinheit: oe-amt-64
 zustaendigeRolle: ''
 beteiligte: []

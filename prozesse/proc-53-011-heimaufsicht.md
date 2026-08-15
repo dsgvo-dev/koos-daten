@@ -1,7 +1,7 @@
 ---
 id: proc-53-011-heimaufsicht
 titel: Heimaufsicht / Aufsicht über unterstützende Wohnformen
-status: entwurf
+status: aktiv
 zustaendigeEinheit: oe-amt-53
 zustaendigeRolle: ''
 beteiligte: []

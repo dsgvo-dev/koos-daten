@@ -1,7 +1,7 @@
 ---
 id: proc-50-013-seniorenarbeit
 titel: Offene Seniorenarbeit (Anlaufstellen, Seniorenclubs, Quartiersarbeit)
-status: entwurf
+status: aktiv
 zustaendigeEinheit: oe-amt-50
 zustaendigeRolle: ''
 beteiligte: []

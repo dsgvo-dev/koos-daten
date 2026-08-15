@@ -1,7 +1,7 @@
 ---
 id: proc-12-003-zensus
 titel: Durchführung Zensus
-status: entwurf
+status: aktiv
 zustaendigeEinheit: oe-amt-12
 zustaendigeRolle: ''
 beteiligte: []

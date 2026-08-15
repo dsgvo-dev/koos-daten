@@ -1,7 +1,7 @@
 ---
 id: proc-51-019-familienstuetzpunkt
 titel: Familienstützpunkt (niedrigschwellige Familienbildung)
-status: entwurf
+status: aktiv
 zustaendigeEinheit: oe-amt-51
 zustaendigeRolle: ''
 beteiligte: []

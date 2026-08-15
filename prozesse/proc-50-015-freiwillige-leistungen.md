@@ -1,7 +1,7 @@
 ---
 id: proc-50-015-freiwillige-leistungen
 titel: Freiwillige soziale Leistungen
-status: entwurf
+status: aktiv
 zustaendigeEinheit: oe-amt-50
 zustaendigeRolle: ''
 beteiligte: []

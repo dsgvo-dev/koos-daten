@@ -1,7 +1,7 @@
 ---
 id: proc-64-005-zweckentfremdung
 titel: Zweckentfremdung von Wohnraum
-status: entwurf
+status: aktiv
 zustaendigeEinheit: oe-amt-64
 zustaendigeRolle: ''
 beteiligte: []

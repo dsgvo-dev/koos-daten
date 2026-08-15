@@ -1,7 +1,7 @@
 ---
 id: proc-50-014-stadtpass
 titel: Stadtpass / Vergünstigungen
-status: entwurf
+status: aktiv
 zustaendigeEinheit: oe-amt-50
 zustaendigeRolle: ''
 beteiligte: []

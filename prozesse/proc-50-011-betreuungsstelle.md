@@ -1,7 +1,7 @@
 ---
 id: proc-50-011-betreuungsstelle
 titel: Betreuungsstelle (rechtliche Betreuung)
-status: entwurf
+status: aktiv
 zustaendigeEinheit: oe-amt-50
 zustaendigeRolle: ''
 beteiligte: []

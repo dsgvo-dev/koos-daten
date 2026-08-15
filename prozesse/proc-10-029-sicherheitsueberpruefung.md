@@ -1,7 +1,7 @@
 ---
 id: proc-10-029-sicherheitsueberpruefung
 titel: Sicherheitsüberprüfungsverfahren (SÜ)
-status: entwurf
+status: aktiv
 zustaendigeEinheit: oe-amt-10
 zustaendigeRolle: ''
 beteiligte: []

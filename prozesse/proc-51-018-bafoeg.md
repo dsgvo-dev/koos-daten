@@ -1,7 +1,7 @@
 ---
 id: proc-51-018-bafoeg
 titel: Ausbildungsförderung (BAföG)
-status: entwurf
+status: aktiv
 zustaendigeEinheit: oe-amt-51
 zustaendigeRolle: ''
 beteiligte: []

@@ -1,7 +1,7 @@
 ---
 id: proc-20-008-unternehmensbeteiligungen
 titel: Unternehmensbeteiligungen (Organe)
-status: entwurf
+status: aktiv
 zustaendigeEinheit: oe-amt-20
 zustaendigeRolle: ''
 beteiligte: []

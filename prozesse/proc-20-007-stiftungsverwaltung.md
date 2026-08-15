@@ -1,7 +1,7 @@
 ---
 id: proc-20-007-stiftungsverwaltung
 titel: Stiftungsverwaltung (kommunale Stiftungen)
-status: entwurf
+status: aktiv
 zustaendigeEinheit: oe-amt-20
 zustaendigeRolle: ''
 beteiligte: []

@@ -1,7 +1,7 @@
 ---
 id: proc-15-007-social-media
 titel: Social-Media-Kanäle (gemeinsame Verantwortung)
-status: entwurf
+status: aktiv
 zustaendigeEinheit: oe-amt-15
 zustaendigeRolle: ''
 beteiligte: []

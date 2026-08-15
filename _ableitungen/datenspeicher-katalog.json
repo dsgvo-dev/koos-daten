@@ -389,7 +389,7 @@
     "bsi-schutzbedarf": "normal",
     "datenschutz_geprueft": true,
     "bsi_geprueft": true,
-    "verwendungen": 7,
+    "verwendungen": 8,
     "beschreibung": "Daten zu bestehenden oder früheren Beschäftigungsverhältnissen für Leistungs- und Antragsverfahren.",
     "felder": [
       "Arbeitgeber",
@@ -517,7 +517,7 @@
     "bsi-schutzbedarf": "hoch",
     "datenschutz_geprueft": true,
     "bsi_geprueft": true,
-    "verwendungen": 2,
+    "verwendungen": 3,
     "beschreibung": "Unterlagen der Ausbildungsstelle über eine bei ihr abgeleistete Ausbildungsstation, insbesondere der Ausbildungsnachweis und das Stationszeugnis.",
     "felder": [
       "Name der auszubildenden Person",
@@ -692,7 +692,7 @@
     "bsi-schutzbedarf": "hoch",
     "datenschutz_geprueft": true,
     "bsi_geprueft": true,
-    "verwendungen": 21,
+    "verwendungen": 23,
     "beschreibung": "Zahlungs- und Kontodaten für Auszahlungen, Erstattungen oder Lastschriften.",
     "felder": [
       "Kontoinhaber",
@@ -717,7 +717,7 @@
     "bsi-schutzbedarf": "hoch",
     "datenschutz_geprueft": true,
     "bsi_geprueft": true,
-    "verwendungen": 6,
+    "verwendungen": 7,
     "beschreibung": "Kontoverbindung von Personen in Verfahren, deren Zugehörigkeit selbst schutzbedürftig ist -- insbesondere bei Auszahlung von Sozialleistungen und bei Vollstreckung.",
     "felder": [
       "Kontoinhaberin oder Kontoinhaber",
@@ -1086,7 +1086,7 @@
     "bsi-schutzbedarf": "hoch",
     "datenschutz_geprueft": true,
     "bsi_geprueft": true,
-    "verwendungen": 6,
+    "verwendungen": 10,
     "beschreibung": "Dokumentation von Beratungsgesprächen ohne eigenes Verwaltungsverfahren: Anlass, Inhalt und Ergebnis der Beratung.",
     "felder": [
       "Ratsuchende Person",
@@ -1185,7 +1185,7 @@
     "bsi-schutzbedarf": "normal",
     "datenschutz_geprueft": true,
     "bsi_geprueft": true,
-    "verwendungen": 4,
+    "verwendungen": 5,
     "beschreibung": "Stammdaten eines Unternehmens oder Betriebs.",
     "felder": [
       "Firmenname",
@@ -1458,7 +1458,7 @@
     "bsi-schutzbedarf": "hoch",
     "datenschutz_geprueft": true,
     "bsi_geprueft": true,
-    "verwendungen": 3,
+    "verwendungen": 4,
     "beschreibung": "Stamm- und Buchungsdaten von Zahlungspflichtigen und Zahlungsempfängern.",
     "felder": [
       "Name oder Firma",
@@ -1633,7 +1633,7 @@
     "bsi-schutzbedarf": "hoch",
     "datenschutz_geprueft": true,
     "bsi_geprueft": true,
-    "verwendungen": 4,
+    "verwendungen": 5,
     "beschreibung": "Finanz- und Leistungsdaten zur Prüfung von Ansprüchen in sozialrechtlichen Verfahren.",
     "felder": [
       "Erwerbseinkommen im Bemessungszeitraum",
@@ -1658,7 +1658,7 @@
     "bsi-schutzbedarf": "hoch",
     "datenschutz_geprueft": true,
     "bsi_geprueft": true,
-    "verwendungen": 9,
+    "verwendungen": 13,
     "beschreibung": "Einkommensnachweise und Gehaltsdaten für Sozialleistungen und Förderungen.",
     "felder": [
       "Einkommensart",
@@ -1682,7 +1682,7 @@
     "bsi-schutzbedarf": "hoch",
     "datenschutz_geprueft": true,
     "bsi_geprueft": true,
-    "verwendungen": 7,
+    "verwendungen": 8,
     "beschreibung": "Unterlagen und Werte zu Einkommen der zum Haushalt gehörenden Personen.",
     "felder": [
       "Person im Haushalt",
@@ -1707,7 +1707,7 @@
     "bsi-schutzbedarf": "sehr hoch",
     "datenschutz_geprueft": true,
     "bsi_geprueft": true,
-    "verwendungen": 1,
+    "verwendungen": 2,
     "beschreibung": "Aufnahme eines Hilfeersuchens und Dokumentation des daraufhin geführten Einsatzes von Feuerwehr und Rettungsdienst.",
     "felder": [
       "Notrufabsetzende Person mit Rufnummer",
@@ -1760,7 +1760,7 @@
     "bsi-schutzbedarf": "hoch",
     "datenschutz_geprueft": true,
     "bsi_geprueft": true,
-    "verwendungen": 9,
+    "verwendungen": 10,
     "beschreibung": "Nachweis über eine erteilte Einwilligung und über ihren Widerruf, einschließlich der Unterrichtung, auf die sich die Einwilligung stützt.",
     "felder": [
       "Betroffene Person",
@@ -2060,7 +2060,7 @@
     "bsi-schutzbedarf": "hoch",
     "datenschutz_geprueft": true,
     "bsi_geprueft": true,
-    "verwendungen": 0,
+    "verwendungen": 1,
     "beschreibung": "Daten über die Exposition von Einsatzkräften gegenüber gesundheitsgefährdenden, insbesondere krebserregenden Stoffen während ihrer Einsatztätigkeit.",
     "felder": [
       "Einsatzkraft",
@@ -2355,7 +2355,7 @@
     "bsi-schutzbedarf": "hoch",
     "datenschutz_geprueft": true,
     "bsi_geprueft": true,
-    "verwendungen": 11,
+    "verwendungen": 13,
     "beschreibung": "Antrag auf kommunale Förderung oder Zuwendung.",
     "felder": [
       "Antragsteller",
@@ -2453,7 +2453,7 @@
     "bsi-schutzbedarf": "hoch",
     "datenschutz_geprueft": true,
     "bsi_geprueft": true,
-    "verwendungen": 15,
+    "verwendungen": 16,
     "beschreibung": "Polizeiliches Führungszeugnis zum Nachweis der Unbescholtenheit.",
     "felder": [
       "Antragsteller",
@@ -2755,7 +2755,7 @@
     "bsi-schutzbedarf": "hoch",
     "datenschutz_geprueft": true,
     "bsi_geprueft": true,
-    "verwendungen": 29,
+    "verwendungen": 33,
     "beschreibung": "Besondere Kategorie personenbezogener Daten gemäß Art. 9 DSGVO: Diagnosen, Gutachten, Impfstatus.",
     "felder": [
       "Diagnose",
@@ -3033,7 +3033,7 @@
     "bsi-schutzbedarf": "normal",
     "datenschutz_geprueft": true,
     "bsi_geprueft": true,
-    "verwendungen": 1,
+    "verwendungen": 2,
     "beschreibung": "Vertrags- und Nutzungsdaten zu kommunalen Grundstücks- und Pachtverhältnissen.",
     "felder": [
       "Grundstück",
@@ -3083,7 +3083,7 @@
     "bsi-schutzbedarf": "hoch",
     "datenschutz_geprueft": true,
     "bsi_geprueft": true,
-    "verwendungen": 5,
+    "verwendungen": 7,
     "beschreibung": "Daten zu Grundstücken aus Kataster und Grundbuch.",
     "felder": [
       "Flurstücksnummer",
@@ -3158,7 +3158,7 @@
     "bsi-schutzbedarf": "normal",
     "datenschutz_geprueft": true,
     "bsi_geprueft": true,
-    "verwendungen": 0,
+    "verwendungen": 2,
     "beschreibung": "Daten zu den im Haushalt lebenden Personen und ihrer Anzahl.",
     "felder": [
       "Anzahl Haushaltsmitglieder",
@@ -3183,7 +3183,7 @@
     "bsi-schutzbedarf": "hoch",
     "datenschutz_geprueft": true,
     "bsi_geprueft": true,
-    "verwendungen": 4,
+    "verwendungen": 5,
     "beschreibung": "Daten zu den im Haushalt lebenden Personen und ihrer Anzahl in Verfahren, deren Zugehörigkeit selbst schutzbedürftig ist — Sozialhilfe (SGB XII), Jugendhilfe (SGB VIII), Asylbewerberleistungen und Leistungen nach dem Infektionsschutzgesetz. Inhaltlich identisch mit den allgemeinen Haushaltsdaten.",
     "felder": [
       "Anzahl Haushaltsmitglieder",
@@ -3259,7 +3259,7 @@
     "bsi-schutzbedarf": "hoch",
     "datenschutz_geprueft": true,
     "bsi_geprueft": true,
-    "verwendungen": 0,
+    "verwendungen": 1,
     "beschreibung": "Daten aus Begehungen, Prüfungen und Beschwerden im Rahmen der Aufsicht über Pflege- und Behinderteneinrichtungen.",
     "felder": [
       "Einrichtung",
@@ -3308,7 +3308,7 @@
     "bsi-schutzbedarf": "hoch",
     "datenschutz_geprueft": true,
     "bsi_geprueft": true,
-    "verwendungen": 2,
+    "verwendungen": 3,
     "beschreibung": "Dokumentation der bei der internen Meldestelle eingehenden Meldungen nach § 11 HinSchG, einschließlich der Folgemaßnahmen.",
     "felder": [
       "Eingangskanal und Eingangszeitpunkt",
@@ -3886,7 +3886,7 @@
     "bsi-schutzbedarf": "normal",
     "datenschutz_geprueft": true,
     "bsi_geprueft": true,
-    "verwendungen": 44,
+    "verwendungen": 47,
     "beschreibung": "Kontaktinformationen einer Person oder Organisation: Telefon, E-Mail, Mobilnummer.",
     "felder": [
       "Telefonnummer",
@@ -3933,7 +3933,7 @@
     "bsi-schutzbedarf": "hoch",
     "datenschutz_geprueft": true,
     "bsi_geprueft": true,
-    "verwendungen": 1,
+    "verwendungen": 2,
     "beschreibung": "Beitragsdaten zur Krankenversicherung für Leistungs- oder Zuschussverfahren.",
     "felder": [
       "Krankenversicherung",
@@ -3958,7 +3958,7 @@
     "bsi-schutzbedarf": "normal",
     "datenschutz_geprueft": true,
     "bsi_geprueft": true,
-    "verwendungen": 0,
+    "verwendungen": 1,
     "beschreibung": "Daten über Kulturschaffende und ihre Angebote in einer kommunalen Kulturdatenbank; Einträge sind ganz oder teilweise öffentlich.",
     "felder": [
       "Kulturschaffende Person oder Institution",
@@ -4130,7 +4130,7 @@
     "bsi-schutzbedarf": "sehr hoch",
     "datenschutz_geprueft": true,
     "bsi_geprueft": true,
-    "verwendungen": 7,
+    "verwendungen": 10,
     "beschreibung": "Bewilligungs- und Nachweisdaten zu laufenden Sozialleistungen.",
     "felder": [
       "Leistungsart",
@@ -4427,7 +4427,7 @@
     "bsi-schutzbedarf": "hoch",
     "datenschutz_geprueft": true,
     "bsi_geprueft": true,
-    "verwendungen": 6,
+    "verwendungen": 7,
     "beschreibung": "Daten aus dem Melderegister: Hauptwohnung, Nebenwohnung, Zuzug, Wegzug.",
     "felder": [
       "Hauptwohnung",
@@ -4900,7 +4900,7 @@
     "bsi-schutzbedarf": "normal",
     "datenschutz_geprueft": true,
     "bsi_geprueft": true,
-    "verwendungen": 4,
+    "verwendungen": 5,
     "beschreibung": "Grundlegende Personendaten: Name, Vorname, Geburtsdatum, Geburtsort.",
     "felder": [
       "Familienname",
@@ -4977,7 +4977,7 @@
     "bsi-schutzbedarf": "hoch",
     "datenschutz_geprueft": true,
     "bsi_geprueft": true,
-    "verwendungen": 116,
+    "verwendungen": 122,
     "beschreibung": "Grundlegende Identifikations- und Zuordnungsdaten natürlicher Personen, wie sie in Personenstands-, Melde- und Ausweisverfahren wiederkehrend verarbeitet werden.",
     "felder": [
       "Vorname",
@@ -5004,7 +5004,7 @@
     "bsi-schutzbedarf": "hoch",
     "datenschutz_geprueft": true,
     "bsi_geprueft": true,
-    "verwendungen": 60,
+    "verwendungen": 62,
     "beschreibung": "Identifikations- und Zuordnungsdaten natürlicher Personen in Verfahren, deren Zugehörigkeit selbst schutzbedürftig ist. Inhaltlich identisch mit den allgemeinen Personenstammdaten.",
     "felder": [
       "Vorname",
@@ -5278,7 +5278,7 @@
     "bsi-schutzbedarf": "hoch",
     "datenschutz_geprueft": true,
     "bsi_geprueft": true,
-    "verwendungen": 4,
+    "verwendungen": 7,
     "beschreibung": "Rechnungen und Buchungsdaten der Kommunalverwaltung.",
     "felder": [
       "Rechnungsnummer",
@@ -5328,7 +5328,7 @@
     "bsi-schutzbedarf": "hoch",
     "datenschutz_geprueft": true,
     "bsi_geprueft": true,
-    "verwendungen": 10,
+    "verwendungen": 11,
     "beschreibung": "Behördliche Auskünfte und Registerauszüge zur Prüfung persönlicher oder gewerberechtlicher Zuverlässigkeit.",
     "felder": [
       "Führungszeugnis",
@@ -5600,7 +5600,7 @@
     "bsi-schutzbedarf": "normal",
     "datenschutz_geprueft": true,
     "bsi_geprueft": true,
-    "verwendungen": 7,
+    "verwendungen": 8,
     "beschreibung": "Daten zum Schulbesuch oder Ausbildungsstatus von Kindern, Jugendlichen oder jungen Erwachsenen.",
     "felder": [
       "Schule oder Ausbildungseinrichtung",
@@ -5650,7 +5650,7 @@
     "bsi-schutzbedarf": "hoch",
     "datenschutz_geprueft": true,
     "bsi_geprueft": true,
-    "verwendungen": 5,
+    "verwendungen": 6,
     "beschreibung": "Nachweis einer anerkannten Schwerbehinderung einschließlich Grad der Behinderung und Merkzeichen.",
     "felder": [
       "Ausweisnummer",
@@ -5725,7 +5725,7 @@
     "bsi-schutzbedarf": "sehr hoch",
     "datenschutz_geprueft": true,
     "bsi_geprueft": true,
-    "verwendungen": 0,
+    "verwendungen": 1,
     "beschreibung": "Sicherheitserhebliche Erkenntnisse über zu überprüfende Personen, die im Rahmen einer Sicherheitsüberprüfung nach dem Sicherheitsüberprüfungsgesetz von den Sicherheitsbehörden erhoben und bewertet werden.",
     "felder": [
       "Betroffene Person",
@@ -5799,7 +5799,7 @@
     "bsi-schutzbedarf": "normal",
     "datenschutz_geprueft": true,
     "bsi_geprueft": true,
-    "verwendungen": 0,
+    "verwendungen": 1,
     "beschreibung": "Daten aus der Interaktion von Nutzerinnen und Nutzern mit den Social-Media-Auftritten der Kommune sowie daraus aggregierte Seiten-Insights, verarbeitet in gemeinsamer Verantwortung mit dem Plattformbetreiber.",
     "felder": [
       "Nutzerkennung",
@@ -5897,7 +5897,7 @@
     "bsi-schutzbedarf": "sehr hoch",
     "datenschutz_geprueft": true,
     "bsi_geprueft": true,
-    "verwendungen": 14,
+    "verwendungen": 15,
     "beschreibung": "Personenbezogene Daten im Rahmen von Sozialleistungsverfahren nach SGB.",
     "felder": [
       "Leistungsart",
@@ -5921,7 +5921,7 @@
     "bsi-schutzbedarf": "hoch",
     "datenschutz_geprueft": true,
     "bsi_geprueft": true,
-    "verwendungen": 1,
+    "verwendungen": 3,
     "beschreibung": "Angaben zu einer Spende oder Zuwendung an die Kommune einschließlich Zweckbindung und Zuwendungsbestätigung.",
     "felder": [
       "Zuwendende Person oder Organisation",
@@ -6019,7 +6019,7 @@
     "bsi-schutzbedarf": "normal",
     "datenschutz_geprueft": true,
     "bsi_geprueft": true,
-    "verwendungen": 0,
+    "verwendungen": 1,
     "beschreibung": "Daten zur Berechtigung und Ausstellung eines Stadtpasses für vergünstigten Zugang zu kommunalen Leistungen.",
     "felder": [
       "Person",
@@ -6171,7 +6171,7 @@
     "bsi-schutzbedarf": "normal",
     "datenschutz_geprueft": true,
     "bsi_geprueft": true,
-    "verwendungen": 1,
+    "verwendungen": 2,
     "beschreibung": "Verbindungs- und Sitzungsdaten, die beim Aufruf eines Webangebots der Kommune technisch anfallen.",
     "felder": [
       "IP-Adresse",
@@ -6571,7 +6571,7 @@
     "bsi-schutzbedarf": "hoch",
     "datenschutz_geprueft": true,
     "bsi_geprueft": true,
-    "verwendungen": 1,
+    "verwendungen": 3,
     "beschreibung": "Kostenbezogene Daten zur Unterkunft im Rahmen von Förder- oder Sozialleistungen.",
     "felder": [
       "Grundmiete",
@@ -6596,7 +6596,7 @@
     "bsi-schutzbedarf": "hoch",
     "datenschutz_geprueft": true,
     "bsi_geprueft": true,
-    "verwendungen": 25,
+    "verwendungen": 26,
     "beschreibung": "Daten zu juristischen Personen, Vereinen und deren registerrechtlicher Einordnung.",
     "felder": [
       "Rechtsform",
@@ -6673,7 +6673,7 @@
     "bsi-schutzbedarf": "normal",
     "datenschutz_geprueft": true,
     "bsi_geprueft": true,
-    "verwendungen": 2,
+    "verwendungen": 3,
     "beschreibung": "Identitäts-, Kontakt- und Organisationsdaten einer veranstaltenden Person oder Stelle.",
     "felder": [
       "Name oder Firma",
@@ -6723,7 +6723,7 @@
     "bsi-schutzbedarf": "normal",
     "datenschutz_geprueft": true,
     "bsi_geprueft": true,
-    "verwendungen": 1,
+    "verwendungen": 2,
     "beschreibung": "Angaben zur Teilnahme an einer Veranstaltung einschließlich der Sitzordnung.",
     "felder": [
       "Eingeladene Person",
@@ -7002,7 +7002,7 @@
     "bsi-schutzbedarf": "hoch",
     "datenschutz_geprueft": true,
     "bsi_geprueft": true,
-    "verwendungen": 8,
+    "verwendungen": 9,
     "beschreibung": "Interne Vorgangsakte einer Behörde zu einem Verwaltungsvorgang.",
     "felder": [
       "Aktenzeichen",
@@ -7027,7 +7027,7 @@
     "bsi-schutzbedarf": "hoch",
     "datenschutz_geprueft": true,
     "bsi_geprueft": true,
-    "verwendungen": 5,
+    "verwendungen": 6,
     "beschreibung": "Vorgangsakte in Verfahren, deren Zugehörigkeit selbst schutzbedürftig ist.",
     "felder": [
       "Aktenzeichen",
@@ -7152,7 +7152,7 @@
     "bsi-schutzbedarf": "hoch",
     "datenschutz_geprueft": true,
     "bsi_geprueft": true,
-    "verwendungen": 0,
+    "verwendungen": 1,
     "beschreibung": "Vorsorge- und Betreuungsvollmachten, die im Sozialbereich — insbesondere bei der Betreuungsbehörde und im Sozialamt — vorgelegt oder verarbeitet werden. Die Datenart belegt, dass eine Person für den Fall der eigenen Handlungsunfähigkeit eine andere Person bevollmächtigt hat oder unter rechtlicher Betreuung steht.",
     "felder": [
       "Vollmachtgeber beziehungsweise betreute Person",
@@ -7252,7 +7252,7 @@
     "bsi-schutzbedarf": "hoch",
     "datenschutz_geprueft": true,
     "bsi_geprueft": true,
-    "verwendungen": 1,
+    "verwendungen": 2,
     "beschreibung": "Prüf- und Anspruchsdaten für die Erteilung eines Wohnberechtigungsscheins.",
     "felder": [
       "Antragsteller",
@@ -7277,7 +7277,7 @@
     "bsi-schutzbedarf": "normal",
     "datenschutz_geprueft": true,
     "bsi_geprueft": true,
-    "verwendungen": 1,
+    "verwendungen": 2,
     "beschreibung": "Flächenbezogene Angaben eines Gebäudes oder einer Nutzungseinheit.",
     "felder": [
       "Wohnfläche",
@@ -7376,7 +7376,7 @@
     "bsi-schutzbedarf": "normal",
     "datenschutz_geprueft": true,
     "bsi_geprueft": true,
-    "verwendungen": 1,
+    "verwendungen": 2,
     "beschreibung": "Daten zur Einordnung einer Wohnung als alleinige Wohnung, Hauptwohnung oder Nebenwohnung.",
     "felder": [
       "Wohnstatus",
@@ -7498,7 +7498,7 @@
     "bsi-schutzbedarf": "hoch",
     "datenschutz_geprueft": true,
     "bsi_geprueft": true,
-    "verwendungen": 3,
+    "verwendungen": 4,
     "beschreibung": "Auskünfte der Polizei und der Verfassungsschutzbehörde, die im Rahmen einer gesetzlich angeordneten Zuverlässigkeitsprüfung eingeholt werden.",
     "felder": [
       "Betroffene Person",
