@@ -2047,6 +2047,31 @@
     ]
   },
   {
+    "id": "dstore-expositionsdaten",
+    "name": "Expositionsdaten Einsatzkräfte",
+    "kategorie": "Feuerwehr & Gesundheit",
+    "einheit": "oe-amt-37",
+    "schutzstufe": "D",
+    "schutzbedarf": "hoch",
+    "vertraulichkeitsklasse": "streng vertraulich",
+    "bsi-vertraulichkeit": "hoch",
+    "bsi-integritaet": "hoch",
+    "bsi-verfuegbarkeit": "normal",
+    "bsi-schutzbedarf": "hoch",
+    "datenschutz_geprueft": true,
+    "bsi_geprueft": true,
+    "verwendungen": 0,
+    "beschreibung": "Daten über die Exposition von Einsatzkräften gegenüber gesundheitsgefährdenden, insbesondere krebserregenden Stoffen während ihrer Einsatztätigkeit.",
+    "felder": [
+      "Einsatzkraft",
+      "Einsatz",
+      "Expositionsstoff",
+      "Expositionsdauer",
+      "Konzentration",
+      "Schutzmaßnahmen"
+    ]
+  },
+  {
     "id": "dstore-fachstellungnahme",
     "name": "Fachstellungnahme",
     "kategorie": "Verwaltungsformular",
@@ -3221,6 +3246,31 @@
     ]
   },
   {
+    "id": "dstore-heimbegehung-pruefbericht",
+    "name": "Heimbegehung und Prüfbericht",
+    "kategorie": "Pflegeaufsicht",
+    "einheit": "oe-amt-53",
+    "schutzstufe": "C",
+    "schutzbedarf": "hoch",
+    "vertraulichkeitsklasse": "vertraulich",
+    "bsi-vertraulichkeit": "normal",
+    "bsi-integritaet": "hoch",
+    "bsi-verfuegbarkeit": "normal",
+    "bsi-schutzbedarf": "hoch",
+    "datenschutz_geprueft": true,
+    "bsi_geprueft": true,
+    "verwendungen": 0,
+    "beschreibung": "Daten aus Begehungen, Prüfungen und Beschwerden im Rahmen der Aufsicht über Pflege- und Behinderteneinrichtungen.",
+    "felder": [
+      "Einrichtung",
+      "Begehungstermin",
+      "Feststellungen",
+      "Mängel",
+      "Auflagen",
+      "Halbjahresmeldung"
+    ]
+  },
+  {
     "id": "dstore-heiratsurkunde",
     "name": "Heiratsurkunde",
     "kategorie": "Standesamt",
@@ -3892,6 +3942,29 @@
       "Versicherungsnummer",
       "Beitragszeitraum",
       "Bescheinigung"
+    ]
+  },
+  {
+    "id": "dstore-kulturdatenbank-eintrag",
+    "name": "Kulturdatenbank-Eintrag",
+    "kategorie": "Kultur",
+    "einheit": "oe-amt-41",
+    "schutzstufe": "B",
+    "schutzbedarf": "normal",
+    "vertraulichkeitsklasse": "intern",
+    "bsi-vertraulichkeit": "normal",
+    "bsi-integritaet": "normal",
+    "bsi-verfuegbarkeit": "normal",
+    "bsi-schutzbedarf": "normal",
+    "datenschutz_geprueft": true,
+    "bsi_geprueft": true,
+    "verwendungen": 0,
+    "beschreibung": "Daten über Kulturschaffende und ihre Angebote in einer kommunalen Kulturdatenbank; Einträge sind ganz oder teilweise öffentlich.",
+    "felder": [
+      "Kulturschaffende Person oder Institution",
+      "Angebot",
+      "Kontakt",
+      "Veröffentlichung"
     ]
   },
   {
@@ -5639,6 +5712,30 @@
     ]
   },
   {
+    "id": "dstore-sicherheitserkenntnisse",
+    "name": "Sicherheitserkenntnisse (Sicherheitsüberprüfung)",
+    "kategorie": "Sicherheit & Personal",
+    "einheit": "oe-amt-10",
+    "schutzstufe": "D",
+    "schutzbedarf": "sehr hoch",
+    "vertraulichkeitsklasse": "streng vertraulich",
+    "bsi-vertraulichkeit": "sehr hoch",
+    "bsi-integritaet": "hoch",
+    "bsi-verfuegbarkeit": "normal",
+    "bsi-schutzbedarf": "sehr hoch",
+    "datenschutz_geprueft": true,
+    "bsi_geprueft": true,
+    "verwendungen": 0,
+    "beschreibung": "Sicherheitserhebliche Erkenntnisse über zu überprüfende Personen, die im Rahmen einer Sicherheitsüberprüfung nach dem Sicherheitsüberprüfungsgesetz von den Sicherheitsbehörden erhoben und bewertet werden.",
+    "felder": [
+      "Betroffene Person",
+      "Erkenntnis",
+      "Quelle (Behörde)",
+      "Überprüfungsart (Ü1–Ü3)",
+      "Bewertung"
+    ]
+  },
+  {
     "id": "dstore-sicherheitsmangelmeldung",
     "name": "Sicherheitsmangelmeldung",
     "kategorie": "Ordnung & Sicherheit",
@@ -5686,6 +5783,29 @@
       "Tagesordnung",
       "Beschlüsse",
       "Abstimmungsergebnisse"
+    ]
+  },
+  {
+    "id": "dstore-social-media-interaktion",
+    "name": "Social-Media-Interaktion und Seiten-Insights",
+    "kategorie": "Öffentlichkeitsarbeit & Digitales",
+    "einheit": "oe-amt-15",
+    "schutzstufe": "C",
+    "schutzbedarf": "normal",
+    "vertraulichkeitsklasse": "vertraulich",
+    "bsi-vertraulichkeit": "normal",
+    "bsi-integritaet": "normal",
+    "bsi-verfuegbarkeit": "normal",
+    "bsi-schutzbedarf": "normal",
+    "datenschutz_geprueft": true,
+    "bsi_geprueft": true,
+    "verwendungen": 0,
+    "beschreibung": "Daten aus der Interaktion von Nutzerinnen und Nutzern mit den Social-Media-Auftritten der Kommune sowie daraus aggregierte Seiten-Insights, verarbeitet in gemeinsamer Verantwortung mit dem Plattformbetreiber.",
+    "felder": [
+      "Nutzerkennung",
+      "Kommentar",
+      "Interaktion",
+      "Seiten-Insights"
     ]
   },
   {
@@ -5883,6 +6003,29 @@
       "Aufenthaltstitel",
       "Auslandsbezug",
       "ausländische Urkunde"
+    ]
+  },
+  {
+    "id": "dstore-stadtpass-berechtigung",
+    "name": "Stadtpass und Berechtigung",
+    "kategorie": "Soziales",
+    "einheit": "oe-amt-50",
+    "schutzstufe": "C",
+    "schutzbedarf": "normal",
+    "vertraulichkeitsklasse": "vertraulich",
+    "bsi-vertraulichkeit": "normal",
+    "bsi-integritaet": "normal",
+    "bsi-verfuegbarkeit": "normal",
+    "bsi-schutzbedarf": "normal",
+    "datenschutz_geprueft": true,
+    "bsi_geprueft": true,
+    "verwendungen": 0,
+    "beschreibung": "Daten zur Berechtigung und Ausstellung eines Stadtpasses für vergünstigten Zugang zu kommunalen Leistungen.",
+    "felder": [
+      "Person",
+      "Berechtigungsgrund",
+      "Gültigkeit",
+      "Ausstellungsdatum"
     ]
   },
   {
