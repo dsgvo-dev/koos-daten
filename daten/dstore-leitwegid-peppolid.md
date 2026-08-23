@@ -3,7 +3,6 @@ id: dstore-leitwegid-peppolid
 typ: datenspeicher
 system: null
 name: Leitweg-ID und Peppol-ID
-datenkategorie: Finanzen & E-Government
 personenbezug: nein   # festgestellt 2026-08-12, siehe Vermerk unten
 zuständige-einheit: oe-amt-20
 bpmn:

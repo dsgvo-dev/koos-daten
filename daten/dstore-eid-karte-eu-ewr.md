@@ -3,7 +3,6 @@ id: dstore-eid-karte-eu-ewr
 typ: datenspeicher
 system: null
 name: eID-Karte EU/EWR
-datenkategorie: Identitätsdaten
 zuständige-einheit: oe-amt-33
 bpmn:
   typ: datenspeicher

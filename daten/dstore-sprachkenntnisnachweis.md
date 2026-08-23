@@ -3,7 +3,6 @@ id: dstore-sprachkenntnisnachweis
 typ: datenspeicher
 system: null
 name: Sprachkenntnisnachweis
-datenkategorie: Migration & Bildung
 zuständige-einheit: oe-amt-47
 bpmn:
   typ: datenobjekt

@@ -3,7 +3,6 @@ id: dstore-mandatstraeger-parteizugehoerigkeit
 typ: datenspeicher
 system: null
 name: Politische Zugehörigkeit von Mandatsträgern
-datenkategorie: Wahlen & Gremien
 zuständige-einheit: oe-amt-10
 bpmn:
   typ: datenobjekt

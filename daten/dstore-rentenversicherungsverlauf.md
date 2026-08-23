@@ -3,7 +3,6 @@ id: dstore-rentenversicherungsverlauf
 typ: datenspeicher
 system: null
 name: Rentenversicherungsverlauf
-datenkategorie: Arbeit & Aufenthalt
 zuständige-einheit: oe-amt-47
 bpmn:
   typ: datenspeicher

@@ -3,7 +3,6 @@ id: dstore-meldedaten
 typ: datenspeicher
 system: null
 name: Meldedaten
-datenkategorie: Meldewesen
 zuständige-einheit: oe-amt-33
 bpmn:
   typ: datenspeicher

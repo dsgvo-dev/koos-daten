@@ -3,7 +3,6 @@ id: dstore-religionszugehoerigkeit
 typ: datenspeicher
 system: null
 name: Religionszugehörigkeit
-datenkategorie: Person & Identität
 zuständige-einheit: oe-amt-40
 bpmn:
   typ: datenobjekt

@@ -3,7 +3,6 @@ id: dstore-videoueberwachungsaufzeichnung
 typ: datenspeicher
 system: null
 name: Videoüberwachungsaufzeichnung
-datenkategorie: Sicherheit & Ordnung
 zuständige-einheit: oe-amt-23
 bpmn:
   typ: datenobjekt

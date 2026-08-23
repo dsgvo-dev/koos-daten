@@ -3,7 +3,6 @@ id: dstore-fiktionsbescheinigung
 typ: datenspeicher
 system: null
 name: Fiktionsbescheinigung
-datenkategorie: Migration & Aufenthalt
 zuständige-einheit: oe-amt-47
 bpmn:
   typ: datenobjekt

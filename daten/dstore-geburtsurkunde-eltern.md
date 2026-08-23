@@ -3,7 +3,6 @@ id: dstore-geburtsurkunde-eltern
 typ: datenspeicher
 system: null
 name: Geburtsurkunden der Eltern
-datenkategorie: Personenstandsdaten
 zuständige-einheit: oe-amt-31
 bpmn:
   typ: datenobjekt

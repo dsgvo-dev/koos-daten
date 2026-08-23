@@ -3,7 +3,6 @@ id: dstore-aufenthaltserlaubnis-erwerbstaetigkeit
 typ: datenspeicher
 system: null
 name: Aufenthaltserlaubnis Erwerbstätigkeit
-datenkategorie: Migration & Arbeit
 zuständige-einheit: oe-amt-47
 bpmn:
   typ: datenobjekt

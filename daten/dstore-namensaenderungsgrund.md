@@ -3,7 +3,6 @@ id: dstore-namensaenderungsgrund
 typ: datenspeicher
 system: null
 name: Begründung einer Namensänderung
-datenkategorie: Personenstand & Namensrecht
 zuständige-einheit: oe-amt-31
 bpmn:
   typ: datenobjekt

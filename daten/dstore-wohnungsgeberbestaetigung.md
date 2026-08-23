@@ -3,7 +3,6 @@ id: dstore-wohnungsgeberbestaetigung
 typ: datenspeicher
 system: null
 name: Wohnungsgeberbestätigung
-datenkategorie: Wohnen & Melderecht
 zuständige-einheit: oe-amt-33
 bpmn:
   typ: datenobjekt

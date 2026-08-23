@@ -3,7 +3,6 @@ id: dstore-haushaltshilfe-unterstuetzungsbedarf
 typ: datenspeicher
 system: null
 name: Haushaltshilfe und Unterstützungsbedarf
-datenkategorie: Soziales & Hilfe
 zuständige-einheit: oe-amt-50
 bpmn:
   typ: datenobjekt

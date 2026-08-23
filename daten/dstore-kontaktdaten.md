@@ -3,7 +3,6 @@ id: dstore-kontaktdaten
 typ: datenspeicher
 system: null
 name: Kontaktdaten
-datenkategorie: Person & Identität
 zuständige-einheit: oe-amt-33
 bpmn:
   typ: datenobjekt

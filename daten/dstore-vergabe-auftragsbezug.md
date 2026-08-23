@@ -3,7 +3,6 @@ id: dstore-vergabe-auftragsbezug
 typ: datenspeicher
 system: null
 name: Vergabe- und Auftragsbezug
-datenkategorie: Beschaffung & Finanzen
 zuständige-einheit: oe-amt-10
 bpmn:
   typ: datenobjekt

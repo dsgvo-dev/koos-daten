@@ -3,7 +3,6 @@ id: dstore-rechnungskorrektur-storno
 typ: datenspeicher
 system: null
 name: Rechnungskorrektur und Storno
-datenkategorie: Finanzen & Buchung
 zuständige-einheit: oe-amt-20
 bpmn:
   typ: datenobjekt

@@ -3,7 +3,6 @@ id: dstore-abfallbehaelter-gebuehrenobjekt
 typ: datenspeicher
 system: null
 name: Abfallbehälter und Gebührenobjekt
-datenkategorie: Umwelt & Gebühren
 zuständige-einheit: oe-amt-60
 bpmn:
   typ: datenspeicher

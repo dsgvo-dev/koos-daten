@@ -3,7 +3,6 @@ id: dstore-rechnungsdaten
 typ: datenspeicher
 system: null
 name: Rechnungsdaten
-datenkategorie: Finanzen & Steuern
 zuständige-einheit: oe-amt-20
 bpmn:
   typ: datenobjekt

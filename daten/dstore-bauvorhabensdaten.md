@@ -3,7 +3,6 @@ id: dstore-bauvorhabensdaten
 typ: datenspeicher
 system: null
 name: Bauvorhabens- und Objektdaten
-datenkategorie: Bauen & Grundstücke
 zuständige-einheit: oe-amt-63
 bpmn:
   typ: datenobjekt

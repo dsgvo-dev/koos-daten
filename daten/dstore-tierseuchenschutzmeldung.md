@@ -3,7 +3,6 @@ id: dstore-tierseuchenschutzmeldung
 typ: datenspeicher
 system: null
 name: Tierseuchenschutzmeldung
-datenkategorie: Veterinär & Gesundheit
 zuständige-einheit: oe-amt-71
 bpmn:
   typ: datenobjekt

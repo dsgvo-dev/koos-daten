@@ -3,7 +3,6 @@ id: dstore-bild-und-tonaufnahmen
 typ: datenspeicher
 system: null
 name: Bild- und Tonaufnahmen
-datenkategorie: Öffentlichkeitsarbeit
 zuständige-einheit: oe-amt-10
 bpmn:
   typ: datenobjekt

@@ -3,7 +3,6 @@ id: dstore-sondernutzung-oeffentlicher-raum
 typ: datenspeicher
 system: null
 name: Sondernutzung öffentlicher Raum
-datenkategorie: Öffentlicher Raum & Ordnung
 zuständige-einheit: oe-amt-32
 bpmn:
   typ: datenobjekt

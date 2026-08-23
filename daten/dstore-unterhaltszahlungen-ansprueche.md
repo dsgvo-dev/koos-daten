@@ -3,7 +3,6 @@ id: dstore-unterhaltszahlungen-ansprueche
 typ: datenspeicher
 system: null
 name: Unterhaltszahlungen und Unterhaltsansprüche
-datenkategorie: Familie & Soziales
 zuständige-einheit: oe-amt-50
 bpmn:
   typ: datenspeicher

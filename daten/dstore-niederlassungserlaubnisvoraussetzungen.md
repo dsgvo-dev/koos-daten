@@ -3,7 +3,6 @@ id: dstore-niederlassungserlaubnisvoraussetzungen
 typ: datenspeicher
 system: null
 name: Niederlassungserlaubnisvoraussetzungen
-datenkategorie: Migration & Aufenthalt
 zuständige-einheit: oe-amt-47
 bpmn:
   typ: datenobjekt

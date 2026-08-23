@@ -3,7 +3,6 @@ id: dstore-pflegeversicherungsbeitraege
 typ: datenspeicher
 system: null
 name: Pflegeversicherungsbeiträge
-datenkategorie: Gesundheit & Soziales
 zuständige-einheit: oe-amt-50
 bpmn:
   typ: datenobjekt

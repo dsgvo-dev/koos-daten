@@ -3,7 +3,6 @@ id: dstore-lernfoerderbedarf
 typ: datenspeicher
 system: null
 name: Lernförderbedarf
-datenkategorie: Bildung & Betreuung
 zuständige-einheit: oe-amt-51
 bpmn:
   typ: datenobjekt

@@ -3,7 +3,6 @@ id: dstore-sicherheitserkenntnisse
 typ: datenspeicher
 system: null
 name: Sicherheitserkenntnisse (Sicherheitsüberprüfung)
-datenkategorie: Sicherheit & Personal
 zuständige-einheit: oe-amt-10
 bpmn:
   typ: datenobjekt

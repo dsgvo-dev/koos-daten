@@ -3,7 +3,6 @@ id: dstore-nachbarbeteiligung
 typ: datenspeicher
 system: null
 name: Nachbarbeteiligung
-datenkategorie: Bauen & Grundstück
 zuständige-einheit: oe-amt-63
 bpmn:
   typ: datenobjekt

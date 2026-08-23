@@ -3,7 +3,6 @@ id: dstore-disziplinarvorgang
 typ: datenspeicher
 system: null
 name: Disziplinarvorgang
-datenkategorie: Personal & HR
 zuständige-einheit: oe-amt-11
 bpmn:
   typ: datenobjekt

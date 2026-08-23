@@ -3,7 +3,6 @@ id: dstore-tierhalterbestand-nutztiere
 typ: datenspeicher
 system: null
 name: Tierhalterbestand Nutztiere
-datenkategorie: Veterinär & Landwirtschaft
 zuständige-einheit: oe-amt-71
 bpmn:
   typ: datenspeicher

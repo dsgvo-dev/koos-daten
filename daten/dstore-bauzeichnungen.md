@@ -3,7 +3,6 @@ id: dstore-bauzeichnungen
 typ: datenspeicher
 system: null
 name: Bauzeichnungen und Baubeschreibung
-datenkategorie: Verwaltungsformular
 zuständige-einheit: oe-amt-63
 bpmn:
   typ: datenobjekt

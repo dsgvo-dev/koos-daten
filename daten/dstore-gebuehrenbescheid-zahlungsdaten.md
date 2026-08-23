@@ -3,7 +3,6 @@ id: dstore-gebuehrenbescheid-zahlungsdaten
 typ: datenspeicher
 system: null
 name: Gebührenbescheid und Zahlungsdaten
-datenkategorie: Finanzen & Zahlung
 zuständige-einheit: oe-amt-20
 bpmn:
   typ: datenobjekt

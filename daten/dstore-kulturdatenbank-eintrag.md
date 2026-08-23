@@ -3,7 +3,6 @@ id: dstore-kulturdatenbank-eintrag
 typ: datenspeicher
 system: null
 name: Kulturdatenbank-Eintrag
-datenkategorie: Kultur
 zuständige-einheit: oe-amt-41
 bpmn:
   typ: datenobjekt

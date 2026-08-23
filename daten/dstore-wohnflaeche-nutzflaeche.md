@@ -3,7 +3,6 @@ id: dstore-wohnflaeche-nutzflaeche
 typ: datenspeicher
 system: null
 name: Wohnfläche und Nutzfläche
-datenkategorie: Bauen & Grundstück
 zuständige-einheit: oe-amt-64
 bpmn:
   typ: datenobjekt

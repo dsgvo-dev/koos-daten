@@ -3,7 +3,6 @@ id: dstore-meldebestaetigung
 typ: datenspeicher
 system: null
 name: Meldebestätigung
-datenkategorie: Meldewesen
 zuständige-einheit: oe-amt-33
 bpmn:
   typ: datenspeicher

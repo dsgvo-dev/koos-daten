@@ -3,7 +3,6 @@ id: dstore-jugendhilfeakte
 typ: datenspeicher
 system: null
 name: Jugendhilfeakte
-datenkategorie: Soziales & Jugend
 zuständige-einheit: oe-amt-51
 bpmn:
   typ: datenobjekt

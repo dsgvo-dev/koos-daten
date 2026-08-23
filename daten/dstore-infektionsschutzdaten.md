@@ -3,7 +3,6 @@ id: dstore-infektionsschutzdaten
 typ: datenspeicher
 system: null
 name: Infektionsschutzdaten
-datenkategorie: Umwelt & Gesundheit
 zuständige-einheit: oe-amt-53
 bpmn:
   typ: datenobjekt

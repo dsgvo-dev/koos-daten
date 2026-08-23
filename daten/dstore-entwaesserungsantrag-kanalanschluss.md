@@ -3,7 +3,6 @@ id: dstore-entwaesserungsantrag-kanalanschluss
 typ: datenspeicher
 system: null
 name: Entwässerungsantrag und Kanalanschluss
-datenkategorie: Entwässerung & Anschluss
 zuständige-einheit: oe-amt-67
 bpmn:
   typ: datenobjekt

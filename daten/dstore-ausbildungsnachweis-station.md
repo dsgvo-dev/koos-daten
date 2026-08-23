@@ -3,7 +3,6 @@ id: dstore-ausbildungsnachweis-station
 typ: datenspeicher
 system: null
 name: Ausbildungsnachweis und Stationszeugnis
-datenkategorie: Recht & Compliance
 zuständige-einheit: oe-amt-30
 bpmn:
   typ: datenobjekt

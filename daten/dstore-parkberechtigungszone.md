@@ -3,7 +3,6 @@ id: dstore-parkberechtigungszone
 typ: datenspeicher
 system: null
 name: Parkberechtigungszone
-datenkategorie: Mobilität & Ordnung
 zuständige-einheit: oe-amt-34
 bpmn:
   typ: datenobjekt

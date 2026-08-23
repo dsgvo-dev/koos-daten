@@ -3,7 +3,6 @@ id: dstore-geschlechtseintrag-erklaerung
 typ: datenspeicher
 system: null
 name: Geschlechtseintrag und Erklärung
-datenkategorie: Personenstand & Selbstbestimmung
 zuständige-einheit: oe-amt-31
 bpmn:
   typ: datenobjekt

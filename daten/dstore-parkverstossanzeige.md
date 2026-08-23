@@ -3,7 +3,6 @@ id: dstore-parkverstossanzeige
 typ: datenspeicher
 system: null
 name: Parkverstoßanzeige
-datenkategorie: Verkehr & Vollzug
 zuständige-einheit: oe-amt-34
 bpmn:
   typ: datenobjekt

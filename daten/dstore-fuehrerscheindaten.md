@@ -3,7 +3,6 @@ id: dstore-fuehrerscheindaten
 typ: datenspeicher
 system: null
 name: Führerscheindaten
-datenkategorie: Ordnung & Sicherheit
 zuständige-einheit: oe-amt-34
 bpmn:
   typ: datenobjekt

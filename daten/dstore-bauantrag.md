@@ -3,7 +3,6 @@ id: dstore-bauantrag
 typ: datenspeicher
 system: null
 name: Bauantrag
-datenkategorie: Verwaltungsformular
 zuständige-einheit: oe-amt-63
 bpmn:
   typ: datenobjekt

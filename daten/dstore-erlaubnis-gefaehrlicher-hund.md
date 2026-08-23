@@ -3,7 +3,6 @@ id: dstore-erlaubnis-gefaehrlicher-hund
 typ: datenspeicher
 system: null
 name: Erlaubnis gefährlicher Hund
-datenkategorie: Ordnung & Tiere
 zuständige-einheit: oe-amt-32
 bpmn:
   typ: datenobjekt

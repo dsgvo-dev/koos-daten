@@ -3,7 +3,6 @@ id: dstore-gesundheitszeugnis-heilpraktiker
 typ: datenspeicher
 system: null
 name: Gesundheitszeugnis Heilpraktiker
-datenkategorie: Gesundheit & Erlaubnisse
 zuständige-einheit: oe-amt-53
 bpmn:
   typ: datenobjekt

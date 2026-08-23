@@ -3,7 +3,6 @@ id: dstore-abfallentsorgungsrhythmus
 typ: datenspeicher
 system: null
 name: Abfallentsorgungsrhythmus
-datenkategorie: Umwelt & Entsorgung
 zuständige-einheit: oe-amt-60
 bpmn:
   typ: datenspeicher

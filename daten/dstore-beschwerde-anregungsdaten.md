@@ -3,7 +3,6 @@ id: dstore-beschwerde-anregungsdaten
 typ: datenspeicher
 system: null
 name: Beschwerde- und Anregungsdaten
-datenkategorie: Bürgerbeteiligung & Service
 zuständige-einheit: oe-amt-33
 bpmn:
   typ: datenobjekt

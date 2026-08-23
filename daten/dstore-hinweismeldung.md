@@ -3,7 +3,6 @@ id: dstore-hinweismeldung
 typ: datenspeicher
 system: null
 name: Hinweismeldung der internen Meldestelle
-datenkategorie: Recht & Compliance
 zuständige-einheit: oe-amt-30
 bpmn:
   typ: datenobjekt

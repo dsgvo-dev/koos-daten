@@ -3,7 +3,6 @@ id: dstore-veranstaltungsteilnahme
 typ: datenspeicher
 system: null
 name: Teilnahme an Veranstaltungen
-datenkategorie: Veranstaltungen & Gewerbe
 zuständige-einheit: oe-hvb
 bpmn:
   typ: datenobjekt

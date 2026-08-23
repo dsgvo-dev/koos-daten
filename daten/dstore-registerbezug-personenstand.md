@@ -3,7 +3,6 @@ id: dstore-registerbezug-personenstand
 typ: datenspeicher
 system: null
 name: Registerbezug Personenstand
-datenkategorie: Register- und Nachweisdaten
 zuständige-einheit: oe-amt-31
 bpmn:
   typ: datenspeicher

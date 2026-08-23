@@ -3,7 +3,6 @@ id: dstore-elterngeld
 typ: datenspeicher
 system: null
 name: Elterngeldantrag
-datenkategorie: ''
 zuständige-einheit: oe-amt-51
 bpmn:
   typ: datenobjekt

@@ -3,7 +3,6 @@ id: dstore-bildungs-und-teilhabebedarf
 typ: datenspeicher
 system: null
 name: Bildungs- und Teilhabebedarf
-datenkategorie: Bildung & Betreuung
 zuständige-einheit: oe-amt-51
 bpmn:
   typ: datenobjekt

@@ -2,7 +2,6 @@
   {
     "id": "dstore-abfallbehaelter-gebuehrenobjekt",
     "name": "Abfallbehälter und Gebührenobjekt",
-    "kategorie": "Umwelt & Gebühren",
     "einheit": "oe-amt-60",
     "schutzstufe": "B",
     "schutzbedarf": "normal",
@@ -27,7 +26,6 @@
   {
     "id": "dstore-abfallentsorgungsrhythmus",
     "name": "Abfallentsorgungsrhythmus",
-    "kategorie": "Umwelt & Entsorgung",
     "einheit": "oe-amt-60",
     "schutzstufe": "B",
     "schutzbedarf": "normal",
@@ -52,7 +50,6 @@
   {
     "id": "dstore-abgeschlossenheitsbescheinigung",
     "name": "Abgeschlossenheitsbescheinigung",
-    "kategorie": "Bauen & Eigentum",
     "einheit": "oe-amt-63",
     "schutzstufe": "B",
     "schutzbedarf": "normal",
@@ -77,7 +74,6 @@
   {
     "id": "dstore-abrechnungsdaten",
     "name": "Abrechnungsdaten",
-    "kategorie": "Personal & HR",
     "einheit": "oe-amt-11",
     "schutzstufe": "D",
     "schutzbedarf": "hoch",
@@ -102,7 +98,6 @@
   {
     "id": "dstore-abschleppmassnahme",
     "name": "Abschleppmaßnahme",
-    "kategorie": "Ordnung & Vollzug",
     "einheit": "oe-amt-32",
     "schutzstufe": "C",
     "schutzbedarf": "normal",
@@ -130,7 +125,6 @@
   {
     "id": "dstore-adresse",
     "name": "Adresse",
-    "kategorie": "Person & Identität",
     "einheit": "oe-amt-33",
     "schutzstufe": "B",
     "schutzbedarf": "normal",
@@ -155,7 +149,6 @@
   {
     "id": "dstore-adresse-vertraulich",
     "name": "Anschrift von Personen in Verfahren, deren Zugehörigkeit selbst schutzbedürftig ist, einsc",
-    "kategorie": "Bürgerdienste & Meldewesen",
     "einheit": "oe-amt-33",
     "schutzstufe": "D",
     "schutzbedarf": "hoch",
@@ -179,7 +172,6 @@
   {
     "id": "dstore-aenderungsmitteilung-wohngeld",
     "name": "Änderungsmitteilung Wohngeld",
-    "kategorie": "Wohnen & Soziales",
     "einheit": "oe-amt-64",
     "schutzstufe": "D",
     "schutzbedarf": "hoch",
@@ -204,7 +196,6 @@
   {
     "id": "dstore-amtsaerztliches-zeugnis",
     "name": "Amtsärztliches Zeugnis",
-    "kategorie": "Gesundheit & Erlaubnisse",
     "einheit": "oe-amt-53",
     "schutzstufe": "D",
     "schutzbedarf": "hoch",
@@ -229,7 +220,6 @@
   {
     "id": "dstore-anlage-buergerupload",
     "name": "Von Bürgerinnen und Bürgern hochgeladene Anlagen",
-    "kategorie": "Digitale Verwaltung",
     "einheit": "oe-amt-33",
     "schutzstufe": "D",
     "schutzbedarf": "hoch",
@@ -254,7 +244,6 @@
   {
     "id": "dstore-anmeldebescheinigung-prostschg",
     "name": "Anmeldebescheinigung und Aliasname nach ProstSchG",
-    "kategorie": "Gesundheit & Erlaubnisse",
     "einheit": "oe-amt-53",
     "schutzstufe": "E",
     "schutzbedarf": "hoch",
@@ -279,7 +268,6 @@
   {
     "id": "dstore-antrag",
     "name": "Antrag",
-    "kategorie": "Verwaltungsakte & Dokumente",
     "einheit": "oe-amt-33",
     "schutzstufe": "C",
     "schutzbedarf": "hoch",
@@ -303,7 +291,6 @@
   {
     "id": "dstore-antragsbegruendung-schulbezirk",
     "name": "Begründung eines Ausnahmeantrags zum Schulbesuch",
-    "kategorie": "Bildung & Schule",
     "einheit": "oe-amt-40",
     "schutzstufe": "D",
     "schutzbedarf": "hoch",
@@ -328,7 +315,6 @@
   {
     "id": "dstore-antragsberechtigung-personenstand",
     "name": "Antragsberechtigung im Personenstandsrecht",
-    "kategorie": "Berechtigungsdaten",
     "einheit": "oe-amt-31",
     "schutzstufe": "C",
     "schutzbedarf": "hoch",
@@ -353,7 +339,6 @@
   {
     "id": "dstore-arbeitsunfaehigkeit-krankheit",
     "name": "Arbeitsunfähigkeit und Krankheit",
-    "kategorie": "Gesundheit & Soziales",
     "einheit": "oe-amt-53",
     "schutzstufe": "D",
     "schutzbedarf": "hoch",
@@ -378,7 +363,6 @@
   {
     "id": "dstore-arbeitsverhaeltnis-beschaeftigung",
     "name": "Arbeitsverhältnis und Beschäftigung",
-    "kategorie": "Arbeit & Einkommen",
     "einheit": "oe-amt-11",
     "schutzstufe": "D",
     "schutzbedarf": "normal",
@@ -403,7 +387,6 @@
   {
     "id": "dstore-arbeitszeitaufzeichnung",
     "name": "Arbeitszeitaufzeichnung",
-    "kategorie": "Personal",
     "einheit": "oe-amt-11",
     "schutzstufe": "C",
     "schutzbedarf": "hoch",
@@ -428,9 +411,32 @@
     ]
   },
   {
+    "id": "dstore-archivgut",
+    "name": "Archivgut",
+    "einheit": "oe-amt-41",
+    "schutzstufe": "D",
+    "schutzbedarf": "hoch",
+    "vertraulichkeitsklasse": "streng vertraulich",
+    "bsi-vertraulichkeit": "hoch",
+    "bsi-integritaet": "hoch",
+    "bsi-verfuegbarkeit": "normal",
+    "bsi-schutzbedarf": "hoch",
+    "datenschutz_geprueft": true,
+    "bsi_geprueft": true,
+    "verwendungen": 1,
+    "beschreibung": "Schriftgut von bleibendem Wert, das das Kommunalarchiv nach § 2 Abs. 2 NArchG übernommen hat und dauerhaft verwahrt. Schriftgut umfasst nach § 2 Abs. 1 NArchG nicht nur Akten und Urkunden, sondern auch Karten, Pläne, Bild-, Film- und Tonaufzeichnungen, Karteien und Dateien.",
+    "felder": [
+      "Bestands- und Signaturangaben",
+      "Laufzeit des Vorgangs",
+      "im Schriftgut enthaltene personenbezogene Daten Dritter, je nach Bestand",
+      "ggf. besondere Kategorien nach Art. 9 Abs. 1 DSGVO in historischem Schriftgut",
+      "Angaben zur Schutzfrist und zu ihrem Ablauf",
+      "Vermerke zur Nutzung und zu erteilten Verkürzungen"
+    ]
+  },
+  {
     "id": "dstore-aufenthaltserlaubnis-erwerbstaetigkeit",
     "name": "Aufenthaltserlaubnis Erwerbstätigkeit",
-    "kategorie": "Migration & Arbeit",
     "einheit": "oe-amt-47",
     "schutzstufe": "D",
     "schutzbedarf": "hoch",
@@ -455,7 +461,6 @@
   {
     "id": "dstore-aufenthaltstitel",
     "name": "Aufenthaltstitel und Aufenthaltsstatus",
-    "kategorie": "Migration & Aufenthalt",
     "einheit": "oe-amt-47",
     "schutzstufe": "D",
     "schutzbedarf": "hoch",
@@ -480,7 +485,6 @@
   {
     "id": "dstore-aufwandsentschaedigung-ehrenamt",
     "name": "Aufwandsentschädigung und Reisekosten im Ehrenamt",
-    "kategorie": "Finanzen & Zahlung",
     "einheit": "oe-amt-50",
     "schutzstufe": "C",
     "schutzbedarf": "normal",
@@ -506,7 +510,6 @@
   {
     "id": "dstore-ausbildungsnachweis-station",
     "name": "Ausbildungsnachweis und Stationszeugnis",
-    "kategorie": "Recht & Compliance",
     "einheit": "oe-amt-30",
     "schutzstufe": "D",
     "schutzbedarf": "hoch",
@@ -531,7 +534,6 @@
   {
     "id": "dstore-auskunftssperre-melderegister",
     "name": "Auskunftssperre Melderegister",
-    "kategorie": "Melde- & Schutzdaten",
     "einheit": "oe-amt-33",
     "schutzstufe": "E",
     "schutzbedarf": "hoch",
@@ -556,7 +558,6 @@
   {
     "id": "dstore-auslaendische-personenstandsurkunde",
     "name": "Ausländische Personenstandsurkunde",
-    "kategorie": "Auslandsbezug & Dokumente",
     "einheit": "oe-amt-31",
     "schutzstufe": "C",
     "schutzbedarf": "hoch",
@@ -581,7 +582,6 @@
   {
     "id": "dstore-ausleihvorgang-bibliothek",
     "name": "Ausleihvorgang in der Bibliothek",
-    "kategorie": "Kultur & Bildung",
     "einheit": "oe-amt-41",
     "schutzstufe": "D",
     "schutzbedarf": "hoch",
@@ -607,7 +607,6 @@
   {
     "id": "dstore-ausnahmegenehmigung-schwerverkehr",
     "name": "Ausnahmegenehmigung Schwerverkehr",
-    "kategorie": "Verkehr & Genehmigungen",
     "einheit": "oe-amt-34",
     "schutzstufe": "B",
     "schutzbedarf": "normal",
@@ -632,7 +631,6 @@
   {
     "id": "dstore-ausweisdokument",
     "name": "Ausweisdokument",
-    "kategorie": "Person & Identität",
     "einheit": "oe-amt-33",
     "schutzstufe": "C",
     "schutzbedarf": "hoch",
@@ -656,7 +654,6 @@
   {
     "id": "dstore-ausweiskopie-beglaubigt",
     "name": "Beglaubigte Ausweiskopie",
-    "kategorie": "Identitätsdaten",
     "einheit": "oe-amt-33",
     "schutzstufe": "C",
     "schutzbedarf": "hoch",
@@ -681,7 +678,6 @@
   {
     "id": "dstore-bankverbindung",
     "name": "Bankverbindung",
-    "kategorie": "Finanzen & Zahlung",
     "einheit": "oe-amt-50",
     "schutzstufe": "C",
     "schutzbedarf": "normal",
@@ -706,7 +702,6 @@
   {
     "id": "dstore-bankverbindung-vertraulich",
     "name": "Kontoverbindung von Personen in Verfahren, deren Zugehörigkeit selbst schutzbedürftig ist",
-    "kategorie": "Finanzen & Abgaben",
     "einheit": "oe-amt-20",
     "schutzstufe": "D",
     "schutzbedarf": "hoch",
@@ -730,7 +725,6 @@
   {
     "id": "dstore-bauakte",
     "name": "Bauakte",
-    "kategorie": "Bescheid / Nachweis",
     "einheit": "oe-amt-63",
     "schutzstufe": "D",
     "schutzbedarf": "hoch",
@@ -754,7 +748,6 @@
   {
     "id": "dstore-bauantrag",
     "name": "Bauantrag",
-    "kategorie": "Verwaltungsformular",
     "einheit": "oe-amt-63",
     "schutzstufe": "C",
     "schutzbedarf": "normal",
@@ -778,7 +771,6 @@
   {
     "id": "dstore-bauantragsstatus-bearbeitungsstand",
     "name": "Bauantragsstatus und Bearbeitungsstand",
-    "kategorie": "Bauen & Verfahren",
     "einheit": "oe-amt-63",
     "schutzstufe": "B",
     "schutzbedarf": "normal",
@@ -803,7 +795,6 @@
   {
     "id": "dstore-baugenehmigung",
     "name": "Baugenehmigung",
-    "kategorie": "Bescheid / Nachweis",
     "einheit": "oe-amt-63",
     "schutzstufe": "C",
     "schutzbedarf": "normal",
@@ -827,7 +818,6 @@
   {
     "id": "dstore-baulastenauszug",
     "name": "Baulastenauszug",
-    "kategorie": "Bauen & Grundstück",
     "einheit": "oe-amt-63",
     "schutzstufe": "B",
     "schutzbedarf": "normal",
@@ -852,7 +842,6 @@
   {
     "id": "dstore-baustellenlogistik-zufahrt",
     "name": "Baustellenlogistik und Zufahrt",
-    "kategorie": "Tiefbau & Verkehr",
     "einheit": "oe-amt-66",
     "schutzstufe": "B",
     "schutzbedarf": "normal",
@@ -877,7 +866,6 @@
   {
     "id": "dstore-bauvorhabensdaten",
     "name": "Bauvorhabens- und Objektdaten",
-    "kategorie": "Bauen & Grundstücke",
     "einheit": "oe-amt-63",
     "schutzstufe": "C",
     "schutzbedarf": "normal",
@@ -906,7 +894,6 @@
   {
     "id": "dstore-bauzeichnung-planunterlagen",
     "name": "Bauzeichnungen und Planunterlagen",
-    "kategorie": "Bauen & Grundstück",
     "einheit": "oe-amt-63",
     "schutzstufe": "C",
     "schutzbedarf": "normal",
@@ -933,7 +920,6 @@
   {
     "id": "dstore-bauzeichnungen",
     "name": "Bauzeichnungen und Baubeschreibung",
-    "kategorie": "Verwaltungsformular",
     "einheit": "oe-amt-63",
     "schutzstufe": "C",
     "schutzbedarf": "normal",
@@ -957,7 +943,6 @@
   {
     "id": "dstore-bauzeiten-bauablaufplan",
     "name": "Bauzeiten- und Bauablaufplan",
-    "kategorie": "Bauen & Organisation",
     "einheit": "oe-amt-63",
     "schutzstufe": "B",
     "schutzbedarf": "normal",
@@ -982,7 +967,6 @@
   {
     "id": "dstore-bebauungsplan",
     "name": "Bebauungsplan / Flächennutzungsplan",
-    "kategorie": "Bescheid / Nachweis",
     "einheit": "oe-amt-61",
     "schutzstufe": "A",
     "schutzbedarf": "normal",
@@ -1000,7 +984,6 @@
   {
     "id": "dstore-behoerdenanschrift-fuehrungszeugnis",
     "name": "Behördenanschrift für Führungszeugnisse",
-    "kategorie": "Sicherheit & Nachweise",
     "einheit": "oe-amt-32",
     "schutzstufe": "B",
     "schutzbedarf": "normal",
@@ -1025,7 +1008,6 @@
   {
     "id": "dstore-beissvorfall-schadensereignis",
     "name": "Beißvorfall und Schadensereignis",
-    "kategorie": "Tiere & Haltung",
     "einheit": "oe-amt-32",
     "schutzstufe": "D",
     "schutzbedarf": "hoch",
@@ -1050,7 +1032,6 @@
   {
     "id": "dstore-belegart-fuehrungszeugnis",
     "name": "Belegart Führungszeugnis",
-    "kategorie": "Sicherheit & Nachweise",
     "einheit": "oe-amt-32",
     "schutzstufe": "B",
     "schutzbedarf": "normal",
@@ -1075,7 +1056,6 @@
   {
     "id": "dstore-beratungsdokumentation",
     "name": "Beratungsdokumentation",
-    "kategorie": "Kontakt & Kommunikation",
     "einheit": "oe-amt-53",
     "schutzstufe": "D",
     "schutzbedarf": "hoch",
@@ -1100,7 +1080,6 @@
   {
     "id": "dstore-bescheid",
     "name": "Bescheid",
-    "kategorie": "Verwaltungsakte & Dokumente",
     "einheit": "oe-amt-30",
     "schutzstufe": "C",
     "schutzbedarf": "hoch",
@@ -1125,7 +1104,6 @@
   {
     "id": "dstore-bescheinigung",
     "name": "Bescheinigung",
-    "kategorie": "Verwaltungsakte & Dokumente",
     "einheit": "oe-amt-33",
     "schutzstufe": "C",
     "schutzbedarf": "hoch",
@@ -1149,7 +1127,6 @@
   {
     "id": "dstore-beschwerde-anregungsdaten",
     "name": "Beschwerde- und Anregungsdaten",
-    "kategorie": "Bürgerbeteiligung & Service",
     "einheit": "oe-amt-33",
     "schutzstufe": "D",
     "schutzbedarf": "hoch",
@@ -1174,7 +1151,6 @@
   {
     "id": "dstore-betriebsdaten",
     "name": "Betriebsdaten",
-    "kategorie": "Gewerbe & Wirtschaft",
     "einheit": "oe-amt-32",
     "schutzstufe": "B",
     "schutzbedarf": "normal",
@@ -1198,7 +1174,6 @@
   {
     "id": "dstore-bewerbungsunterlagen",
     "name": "Bewerbungsunterlagen",
-    "kategorie": "Personal & HR",
     "einheit": "oe-amt-11",
     "schutzstufe": "D",
     "schutzbedarf": "hoch",
@@ -1223,7 +1198,6 @@
   {
     "id": "dstore-bild-und-tonaufnahmen",
     "name": "Bild- und Tonaufnahmen",
-    "kategorie": "Öffentlichkeitsarbeit",
     "einheit": "oe-amt-10",
     "schutzstufe": "C",
     "schutzbedarf": "hoch",
@@ -1251,7 +1225,6 @@
   {
     "id": "dstore-bildungs-und-teilhabebedarf",
     "name": "Bildungs- und Teilhabebedarf",
-    "kategorie": "Bildung & Betreuung",
     "einheit": "oe-amt-51",
     "schutzstufe": "D",
     "schutzbedarf": "normal",
@@ -1276,7 +1249,6 @@
   {
     "id": "dstore-biometrische-daten-lichtbild",
     "name": "Biometrische Daten und Lichtbild",
-    "kategorie": "Identitätsdaten",
     "einheit": "oe-amt-33",
     "schutzstufe": "D",
     "schutzbedarf": "hoch",
@@ -1299,7 +1271,6 @@
   {
     "id": "dstore-bodengutachten-gruendung",
     "name": "Bodengutachten und Gründung",
-    "kategorie": "Bauen & Geotechnik",
     "einheit": "oe-amt-63",
     "schutzstufe": "B",
     "schutzbedarf": "normal",
@@ -1324,7 +1295,6 @@
   {
     "id": "dstore-brandschutznachweis",
     "name": "Brandschutznachweis",
-    "kategorie": "Bauen & Grundstück",
     "einheit": "oe-amt-37",
     "schutzstufe": "C",
     "schutzbedarf": "normal",
@@ -1349,7 +1319,6 @@
   {
     "id": "dstore-bussgeldakte",
     "name": "Bußgeldakte",
-    "kategorie": "Ordnung & Sicherheit",
     "einheit": "oe-amt-32",
     "schutzstufe": "D",
     "schutzbedarf": "hoch",
@@ -1374,7 +1343,6 @@
   {
     "id": "dstore-chatverlauf-freitext",
     "name": "Chatverlauf mit Freitexteingaben",
-    "kategorie": "Digitale Verwaltung",
     "einheit": "oe-amt-15",
     "schutzstufe": "D",
     "schutzbedarf": "hoch",
@@ -1399,7 +1367,6 @@
   {
     "id": "dstore-darlehensverpflichtung-eigenheim",
     "name": "Darlehensverpflichtung Eigenheim",
-    "kategorie": "Wohnen & Eigentum",
     "einheit": "oe-amt-64",
     "schutzstufe": "C",
     "schutzbedarf": "hoch",
@@ -1424,7 +1391,6 @@
   {
     "id": "dstore-datenschutzeinweisung",
     "name": "Datenschutzeinweisung",
-    "kategorie": "Compliance-Dokument",
     "einheit": "oe-amt-11",
     "schutzstufe": "B",
     "schutzbedarf": "normal",
@@ -1447,7 +1413,6 @@
   {
     "id": "dstore-debitoren-kreditorendaten",
     "name": "Debitoren- und Kreditorendaten",
-    "kategorie": "Finanzen & Zahlung",
     "einheit": "oe-amt-20",
     "schutzstufe": "C",
     "schutzbedarf": "hoch",
@@ -1472,7 +1437,6 @@
   {
     "id": "dstore-disziplinarvorgang",
     "name": "Disziplinarvorgang",
-    "kategorie": "Personal & HR",
     "einheit": "oe-amt-11",
     "schutzstufe": "D",
     "schutzbedarf": "hoch",
@@ -1499,7 +1463,6 @@
   {
     "id": "dstore-doktorgrad-akademischer-titel",
     "name": "Doktorgrad und akademischer Titel",
-    "kategorie": "Identitätsdaten",
     "einheit": "oe-amt-33",
     "schutzstufe": "B",
     "schutzbedarf": "normal",
@@ -1523,7 +1486,6 @@
   {
     "id": "dstore-eheurkunde-nachweis",
     "name": "Eheurkunde als Nachweis",
-    "kategorie": "Personenstandsdaten",
     "einheit": "oe-amt-31",
     "schutzstufe": "C",
     "schutzbedarf": "normal",
@@ -1548,7 +1510,6 @@
   {
     "id": "dstore-ehrenamtsdaten",
     "name": "Ehrenamtsdaten",
-    "kategorie": "Wahlen & Gremien",
     "einheit": "oe-amt-10",
     "schutzstufe": "C",
     "schutzbedarf": "hoch",
@@ -1572,7 +1533,6 @@
   {
     "id": "dstore-eid-karte-eu-ewr",
     "name": "eID-Karte EU/EWR",
-    "kategorie": "Identitätsdaten",
     "einheit": "oe-amt-33",
     "schutzstufe": "C",
     "schutzbedarf": "hoch",
@@ -1597,7 +1557,6 @@
   {
     "id": "dstore-einbuergerungszusicherung",
     "name": "Einbürgerungszusicherung",
-    "kategorie": "Migration & Einbürgerung",
     "einheit": "oe-amt-47",
     "schutzstufe": "D",
     "schutzbedarf": "hoch",
@@ -1622,7 +1581,6 @@
   {
     "id": "dstore-einkommens-und-leistungsdaten",
     "name": "Einkommens- und Leistungsdaten",
-    "kategorie": "Sozialleistungsdaten",
     "einheit": "oe-amt-50",
     "schutzstufe": "D",
     "schutzbedarf": "hoch",
@@ -1647,7 +1605,6 @@
   {
     "id": "dstore-einkommensdaten",
     "name": "Einkommensdaten",
-    "kategorie": "Finanzen & Steuern",
     "einheit": "oe-amt-50",
     "schutzstufe": "D",
     "schutzbedarf": "hoch",
@@ -1671,7 +1628,6 @@
   {
     "id": "dstore-einkommensnachweise-haushalt",
     "name": "Einkommensnachweise Haushalt",
-    "kategorie": "Wohnen & Soziales",
     "einheit": "oe-amt-50",
     "schutzstufe": "D",
     "schutzbedarf": "hoch",
@@ -1696,7 +1652,6 @@
   {
     "id": "dstore-einsatzdokumentation-notruf",
     "name": "Notruf und Einsatzdokumentation",
-    "kategorie": "Feuerwehr & Brandschutz",
     "einheit": "oe-amt-37",
     "schutzstufe": "E",
     "schutzbedarf": "hoch",
@@ -1724,7 +1679,6 @@
   {
     "id": "dstore-einverstaendnis-sorgeberechtigte",
     "name": "Einverständnis der Sorgeberechtigten",
-    "kategorie": "Berechtigungsdaten",
     "einheit": "oe-amt-51",
     "schutzstufe": "D",
     "schutzbedarf": "normal",
@@ -1749,7 +1703,6 @@
   {
     "id": "dstore-einwilligung-widerruf",
     "name": "Einwilligung und Widerruf",
-    "kategorie": "Verfahrensorganisation",
     "einheit": "oe-amt-1-4",
     "schutzstufe": "D",
     "schutzbedarf": "hoch",
@@ -1775,7 +1728,6 @@
   {
     "id": "dstore-elektronische-rechnungsstellung",
     "name": "Elektronische Rechnungsstellung",
-    "kategorie": "Finanzen & E-Government",
     "einheit": "oe-amt-20",
     "schutzstufe": "C",
     "schutzbedarf": "hoch",
@@ -1800,7 +1752,6 @@
   {
     "id": "dstore-elektronische-zustelladresse",
     "name": "Elektronische Zustelladresse",
-    "kategorie": "Kontakt & Kommunikation",
     "einheit": "oe-amt-33",
     "schutzstufe": "B",
     "schutzbedarf": "normal",
@@ -1825,7 +1776,6 @@
   {
     "id": "dstore-elternbezug-abstammung",
     "name": "Elternbezug und Abstammungsangaben",
-    "kategorie": "Personenstandsdaten",
     "einheit": "oe-amt-31",
     "schutzstufe": "D",
     "schutzbedarf": "hoch",
@@ -1850,7 +1800,6 @@
   {
     "id": "dstore-elterngeld",
     "name": "Elterngeldantrag",
-    "kategorie": "",
     "einheit": "oe-amt-51",
     "schutzstufe": "D",
     "schutzbedarf": "hoch",
@@ -1874,7 +1823,6 @@
   {
     "id": "dstore-energieeffizienz-waermeschutznachweis",
     "name": "Energieeffizienz- und Wärmeschutznachweis",
-    "kategorie": "Bauen & Energie",
     "einheit": "oe-amt-63",
     "schutzstufe": "B",
     "schutzbedarf": "normal",
@@ -1899,7 +1847,6 @@
   {
     "id": "dstore-entwaesserungsantrag-kanalanschluss",
     "name": "Entwässerungsantrag und Kanalanschluss",
-    "kategorie": "Entwässerung & Anschluss",
     "einheit": "oe-amt-67",
     "schutzstufe": "C",
     "schutzbedarf": "hoch",
@@ -1924,7 +1871,6 @@
   {
     "id": "dstore-erbbaurechtsverhaeltnis",
     "name": "Erbbaurechtsverhältnis",
-    "kategorie": "Liegenschaften",
     "einheit": "oe-amt-23",
     "schutzstufe": "B",
     "schutzbedarf": "normal",
@@ -1949,7 +1895,6 @@
   {
     "id": "dstore-erlaubnis-gefaehrlicher-hund",
     "name": "Erlaubnis gefährlicher Hund",
-    "kategorie": "Ordnung & Tiere",
     "einheit": "oe-amt-32",
     "schutzstufe": "C",
     "schutzbedarf": "hoch",
@@ -1974,7 +1919,6 @@
   {
     "id": "dstore-erschliessungsbeitragsdaten",
     "name": "Erschließungsbeitragsdaten",
-    "kategorie": "Bauen & Beiträge",
     "einheit": "oe-amt-22",
     "schutzstufe": "C",
     "schutzbedarf": "normal",
@@ -1999,7 +1943,6 @@
   {
     "id": "dstore-erwerbseinkommen-bemessungszeitraum",
     "name": "Erwerbseinkommen im Bemessungszeitraum",
-    "kategorie": "Arbeit & Einkommen",
     "einheit": "oe-amt-50",
     "schutzstufe": "D",
     "schutzbedarf": "hoch",
@@ -2024,7 +1967,6 @@
   {
     "id": "dstore-erwerbseinkommen-bezugszeitraum",
     "name": "Erwerbseinkommen im Bezugszeitraum",
-    "kategorie": "Arbeit & Einkommen",
     "einheit": "oe-amt-50",
     "schutzstufe": "D",
     "schutzbedarf": "hoch",
@@ -2049,7 +1991,6 @@
   {
     "id": "dstore-expositionsdaten",
     "name": "Expositionsdaten Einsatzkräfte",
-    "kategorie": "Feuerwehr & Gesundheit",
     "einheit": "oe-amt-37",
     "schutzstufe": "D",
     "schutzbedarf": "hoch",
@@ -2074,7 +2015,6 @@
   {
     "id": "dstore-fachstellungnahme",
     "name": "Fachstellungnahme",
-    "kategorie": "Verwaltungsformular",
     "einheit": "oe-amt-63",
     "schutzstufe": "B",
     "schutzbedarf": "normal",
@@ -2092,7 +2032,6 @@
   {
     "id": "dstore-fahrzeugnutzungserklaerung",
     "name": "Fahrzeugnutzungserklärung",
-    "kategorie": "Fahrzeug- und Mobilitätsdaten",
     "einheit": "oe-amt-34",
     "schutzstufe": "C",
     "schutzbedarf": "normal",
@@ -2117,7 +2056,6 @@
   {
     "id": "dstore-familiennachzug-bezugsdaten",
     "name": "Familiennachzugbezug",
-    "kategorie": "Migration & Familie",
     "einheit": "oe-amt-47",
     "schutzstufe": "D",
     "schutzbedarf": "hoch",
@@ -2142,7 +2080,6 @@
   {
     "id": "dstore-familienstand-ehebezug",
     "name": "Familienstand und Ehebezug",
-    "kategorie": "Personenstandsdaten",
     "einheit": "oe-amt-31",
     "schutzstufe": "D",
     "schutzbedarf": "hoch",
@@ -2167,7 +2104,6 @@
   {
     "id": "dstore-ferienbetreuung-ferienpass",
     "name": "Ferienbetreuung und Ferienpass",
-    "kategorie": "Jugend & Betreuung",
     "einheit": "oe-amt-51",
     "schutzstufe": "D",
     "schutzbedarf": "hoch",
@@ -2192,7 +2128,6 @@
   {
     "id": "dstore-feuerwehrzufahrt-aufstellflaechen",
     "name": "Feuerwehrzufahrt und Aufstellflächen",
-    "kategorie": "Feuerwehr & Brandschutz",
     "einheit": "oe-amt-37",
     "schutzstufe": "C",
     "schutzbedarf": "hoch",
@@ -2217,7 +2152,6 @@
   {
     "id": "dstore-fiktionsbescheinigung",
     "name": "Fiktionsbescheinigung",
-    "kategorie": "Migration & Aufenthalt",
     "einheit": "oe-amt-47",
     "schutzstufe": "D",
     "schutzbedarf": "hoch",
@@ -2242,7 +2176,6 @@
   {
     "id": "dstore-finanzielle-leistungsfaehigkeit",
     "name": "Nachweis der finanziellen Leistungsfähigkeit",
-    "kategorie": "Gewerbe & Betrieb",
     "einheit": "oe-amt-32",
     "schutzstufe": "D",
     "schutzbedarf": "hoch",
@@ -2269,7 +2202,6 @@
   {
     "id": "dstore-fingerabdruckdaten",
     "name": "Fingerabdruckdaten",
-    "kategorie": "Identitätsdaten",
     "einheit": "oe-amt-33",
     "schutzstufe": "D",
     "schutzbedarf": "hoch",
@@ -2294,7 +2226,6 @@
   {
     "id": "dstore-fischereischein-sachkunde",
     "name": "Fischereischein und Sachkunde",
-    "kategorie": "Ordnung & Erlaubnisse",
     "einheit": "oe-amt-32",
     "schutzstufe": "B",
     "schutzbedarf": "normal",
@@ -2319,7 +2250,6 @@
   {
     "id": "dstore-flur-flurstueck-lagebezeichnung",
     "name": "Flur, Flurstück und Lagebezeichnung",
-    "kategorie": "Bauen & Grundstück",
     "einheit": "oe-amt-62",
     "schutzstufe": "C",
     "schutzbedarf": "normal",
@@ -2344,7 +2274,6 @@
   {
     "id": "dstore-foerderantrag",
     "name": "Förderantrag",
-    "kategorie": "Finanzen & Steuern",
     "einheit": "oe-amt-80",
     "schutzstufe": "C",
     "schutzbedarf": "hoch",
@@ -2368,7 +2297,6 @@
   {
     "id": "dstore-forderungstitel-vollstreckung",
     "name": "Forderungstitel Vollstreckung",
-    "kategorie": "Finanzen & Vollstreckung",
     "einheit": "oe-amt-21",
     "schutzstufe": "D",
     "schutzbedarf": "hoch",
@@ -2393,7 +2321,6 @@
   {
     "id": "dstore-frueherer-name-personenstandsaenderung",
     "name": "Früherer Name nach Personenstands- oder Geschlechtseintragsänderung",
-    "kategorie": "Bürgerdienste & Meldewesen",
     "einheit": "oe-amt-33",
     "schutzstufe": "E",
     "schutzbedarf": "hoch",
@@ -2418,7 +2345,6 @@
   {
     "id": "dstore-fuehrerscheindaten",
     "name": "Führerscheindaten",
-    "kategorie": "Ordnung & Sicherheit",
     "einheit": "oe-amt-34",
     "schutzstufe": "C",
     "schutzbedarf": "hoch",
@@ -2442,7 +2368,6 @@
   {
     "id": "dstore-fuehrungszeugnis",
     "name": "Führungszeugnis",
-    "kategorie": "Ordnung & Sicherheit",
     "einheit": "oe-amt-33",
     "schutzstufe": "D",
     "schutzbedarf": "hoch",
@@ -2465,7 +2390,6 @@
   {
     "id": "dstore-fundsache",
     "name": "Fundsache und Fundverwaltung",
-    "kategorie": "Ordnung & Vollzug",
     "einheit": "oe-amt-33",
     "schutzstufe": "B",
     "schutzbedarf": "normal",
@@ -2492,7 +2416,6 @@
   {
     "id": "dstore-gaststaettenbetrieb-anzeigedaten",
     "name": "Gaststättenbetrieb Anzeigedaten",
-    "kategorie": "Gewerbe & Gastronomie",
     "einheit": "oe-amt-32",
     "schutzstufe": "B",
     "schutzbedarf": "normal",
@@ -2517,7 +2440,6 @@
   {
     "id": "dstore-gebuehrenbescheid-zahlungsdaten",
     "name": "Gebührenbescheid und Zahlungsdaten",
-    "kategorie": "Finanzen & Zahlung",
     "einheit": "oe-amt-20",
     "schutzstufe": "C",
     "schutzbedarf": "normal",
@@ -2542,7 +2464,6 @@
   {
     "id": "dstore-geburtsanzeige-unterlagenpaket",
     "name": "Unterlagenpaket zur Geburtsanzeige",
-    "kategorie": "Personenstandsdaten",
     "einheit": "oe-amt-31",
     "schutzstufe": "D",
     "schutzbedarf": "hoch",
@@ -2567,7 +2488,6 @@
   {
     "id": "dstore-geburtsdaten-kind",
     "name": "Geburtsdaten eines Kindes",
-    "kategorie": "Personenstandsdaten",
     "einheit": "oe-amt-31",
     "schutzstufe": "C",
     "schutzbedarf": "hoch",
@@ -2592,7 +2512,6 @@
   {
     "id": "dstore-geburtsurkunde",
     "name": "Geburtsurkunde",
-    "kategorie": "Standesamt",
     "einheit": "oe-amt-31",
     "schutzstufe": "D",
     "schutzbedarf": "hoch",
@@ -2616,7 +2535,6 @@
   {
     "id": "dstore-geburtsurkunde-eltern",
     "name": "Geburtsurkunden der Eltern",
-    "kategorie": "Personenstandsdaten",
     "einheit": "oe-amt-31",
     "schutzstufe": "C",
     "schutzbedarf": "hoch",
@@ -2641,7 +2559,6 @@
   {
     "id": "dstore-gemeinschaftliche-mittagsverpflegung",
     "name": "Gemeinschaftliche Mittagsverpflegung",
-    "kategorie": "Bildung & Teilhabe",
     "einheit": "oe-amt-40",
     "schutzstufe": "D",
     "schutzbedarf": "normal",
@@ -2666,7 +2583,6 @@
   {
     "id": "dstore-genehmigung",
     "name": "Genehmigung",
-    "kategorie": "Verwaltungsakte & Dokumente",
     "einheit": "oe-amt-30",
     "schutzstufe": "C",
     "schutzbedarf": "hoch",
@@ -2691,7 +2607,6 @@
   {
     "id": "dstore-gerichtsverfahren",
     "name": "Gerichtsverfahren",
-    "kategorie": "Recht & Compliance",
     "einheit": "oe-amt-30",
     "schutzstufe": "D",
     "schutzbedarf": "hoch",
@@ -2719,7 +2634,6 @@
   {
     "id": "dstore-geschlechtseintrag-erklaerung",
     "name": "Geschlechtseintrag und Erklärung",
-    "kategorie": "Personenstand & Selbstbestimmung",
     "einheit": "oe-amt-31",
     "schutzstufe": "E",
     "schutzbedarf": "hoch",
@@ -2744,7 +2658,6 @@
   {
     "id": "dstore-gesundheitsdaten",
     "name": "Gesundheitsdaten",
-    "kategorie": "Person & Identität",
     "einheit": "oe-amt-33",
     "schutzstufe": "D",
     "schutzbedarf": "hoch",
@@ -2768,7 +2681,6 @@
   {
     "id": "dstore-gesundheitszeugnis",
     "name": "Gesundheitszeugnis",
-    "kategorie": "Umwelt & Gesundheit",
     "einheit": "oe-amt-53",
     "schutzstufe": "D",
     "schutzbedarf": "hoch",
@@ -2792,7 +2704,6 @@
   {
     "id": "dstore-gesundheitszeugnis-heilpraktiker",
     "name": "Gesundheitszeugnis Heilpraktiker",
-    "kategorie": "Gesundheit & Erlaubnisse",
     "einheit": "oe-amt-53",
     "schutzstufe": "D",
     "schutzbedarf": "hoch",
@@ -2817,7 +2728,6 @@
   {
     "id": "dstore-gewerbeabmeldung-betriebsaufgabe",
     "name": "Gewerbeabmeldung und Betriebsaufgabe",
-    "kategorie": "Gewerbe & Betrieb",
     "einheit": "oe-amt-32",
     "schutzstufe": "C",
     "schutzbedarf": "hoch",
@@ -2842,7 +2752,6 @@
   {
     "id": "dstore-gewerbeanzeige-betriebsstaette",
     "name": "Gewerbeanzeige und Betriebsstätte",
-    "kategorie": "Gewerbe & Betrieb",
     "einheit": "oe-amt-32",
     "schutzstufe": "B",
     "schutzbedarf": "normal",
@@ -2867,7 +2776,6 @@
   {
     "id": "dstore-gewerbedaten",
     "name": "Gewerbedaten",
-    "kategorie": "Gewerbe & Wirtschaft",
     "einheit": "oe-amt-32",
     "schutzstufe": "B",
     "schutzbedarf": "normal",
@@ -2891,7 +2799,6 @@
   {
     "id": "dstore-gewerbeummeldung-aenderungsdaten",
     "name": "Gewerbeummeldung Änderungsdaten",
-    "kategorie": "Gewerbe & Betrieb",
     "einheit": "oe-amt-32",
     "schutzstufe": "B",
     "schutzbedarf": "normal",
@@ -2916,7 +2823,6 @@
   {
     "id": "dstore-gewerbeuntersagung",
     "name": "Gewerbeuntersagung und Unzuverlässigkeit",
-    "kategorie": "Gewerbe & Betrieb",
     "einheit": "oe-amt-32",
     "schutzstufe": "D",
     "schutzbedarf": "hoch",
@@ -2945,7 +2851,6 @@
   {
     "id": "dstore-grabstaette-belegung",
     "name": "Grabstätte, Nutzungsrecht und Belegung",
-    "kategorie": "Friedhof & Bestattung",
     "einheit": "oe-amt-66",
     "schutzstufe": "C",
     "schutzbedarf": "normal",
@@ -2972,7 +2877,6 @@
   {
     "id": "dstore-grossraum-schwertransportdaten",
     "name": "Großraum- und Schwertransportdaten",
-    "kategorie": "Verkehr & Genehmigungen",
     "einheit": "oe-amt-34",
     "schutzstufe": "B",
     "schutzbedarf": "normal",
@@ -2997,7 +2901,6 @@
   {
     "id": "dstore-grundsteuerbescheid-eigentum",
     "name": "Grundsteuerbescheid Eigentum",
-    "kategorie": "Steuern & Eigentum",
     "einheit": "oe-amt-22",
     "schutzstufe": "C",
     "schutzbedarf": "hoch",
@@ -3022,7 +2925,6 @@
   {
     "id": "dstore-grundstuecks-pachtverhaeltnis",
     "name": "Grundstücks- und Pachtverhältnis",
-    "kategorie": "Liegenschaften",
     "einheit": "oe-amt-23",
     "schutzstufe": "B",
     "schutzbedarf": "normal",
@@ -3047,7 +2949,6 @@
   {
     "id": "dstore-grundstuecksbezug",
     "name": "Grundstücksbezug",
-    "kategorie": "Bauen & Grundstück",
     "einheit": "oe-amt-63",
     "schutzstufe": "C",
     "schutzbedarf": "normal",
@@ -3072,7 +2973,6 @@
   {
     "id": "dstore-grundstuecksdaten",
     "name": "Grundstücksdaten",
-    "kategorie": "Bau & Liegenschaften",
     "einheit": "oe-amt-63",
     "schutzstufe": "B",
     "schutzbedarf": "hoch",
@@ -3097,7 +2997,6 @@
   {
     "id": "dstore-haftpflichtversicherung-hund",
     "name": "Haftpflichtversicherung Hund",
-    "kategorie": "Ordnung & Tiere",
     "einheit": "oe-amt-32",
     "schutzstufe": "B",
     "schutzbedarf": "normal",
@@ -3122,7 +3021,6 @@
   {
     "id": "dstore-haushaltshilfe-unterstuetzungsbedarf",
     "name": "Haushaltshilfe und Unterstützungsbedarf",
-    "kategorie": "Soziales & Hilfe",
     "einheit": "oe-amt-50",
     "schutzstufe": "D",
     "schutzbedarf": "hoch",
@@ -3147,7 +3045,6 @@
   {
     "id": "dstore-haushaltsmitglieder",
     "name": "Haushaltsmitglieder und Haushaltsgröße",
-    "kategorie": "Wohnen & Soziales",
     "einheit": "oe-amt-50",
     "schutzstufe": "C",
     "schutzbedarf": "normal",
@@ -3158,7 +3055,7 @@
     "bsi-schutzbedarf": "normal",
     "datenschutz_geprueft": true,
     "bsi_geprueft": true,
-    "verwendungen": 2,
+    "verwendungen": 3,
     "beschreibung": "Daten zu den im Haushalt lebenden Personen und ihrer Anzahl.",
     "felder": [
       "Anzahl Haushaltsmitglieder",
@@ -3172,7 +3069,6 @@
   {
     "id": "dstore-haushaltsmitglieder-vertraulich",
     "name": "Haushaltsmitglieder und Haushaltsgröße in vertraulichen Verfahren",
-    "kategorie": "Wohnen & Soziales",
     "einheit": "oe-amt-50",
     "schutzstufe": "D",
     "schutzbedarf": "hoch",
@@ -3183,7 +3079,7 @@
     "bsi-schutzbedarf": "hoch",
     "datenschutz_geprueft": true,
     "bsi_geprueft": true,
-    "verwendungen": 5,
+    "verwendungen": 4,
     "beschreibung": "Daten zu den im Haushalt lebenden Personen und ihrer Anzahl in Verfahren, deren Zugehörigkeit selbst schutzbedürftig ist — Sozialhilfe (SGB XII), Jugendhilfe (SGB VIII), Asylbewerberleistungen und Leistungen nach dem Infektionsschutzgesetz. Inhaltlich identisch mit den allgemeinen Haushaltsdaten.",
     "felder": [
       "Anzahl Haushaltsmitglieder",
@@ -3198,7 +3094,6 @@
   {
     "id": "dstore-hebammenanzeige",
     "name": "Anzeige und Aufsicht Hebammen",
-    "kategorie": "Gesundheitsberufe & Aufsicht",
     "einheit": "oe-amt-53",
     "schutzstufe": "C",
     "schutzbedarf": "normal",
@@ -3223,7 +3118,6 @@
   {
     "id": "dstore-heilpraktikererlaubnisverfahren",
     "name": "Heilpraktikererlaubnisverfahren",
-    "kategorie": "Gesundheit & Erlaubnisse",
     "einheit": "oe-amt-53",
     "schutzstufe": "D",
     "schutzbedarf": "hoch",
@@ -3248,7 +3142,6 @@
   {
     "id": "dstore-heimbegehung-pruefbericht",
     "name": "Heimbegehung und Prüfbericht",
-    "kategorie": "Pflegeaufsicht",
     "einheit": "oe-amt-53",
     "schutzstufe": "C",
     "schutzbedarf": "hoch",
@@ -3273,7 +3166,6 @@
   {
     "id": "dstore-heiratsurkunde",
     "name": "Heiratsurkunde",
-    "kategorie": "Standesamt",
     "einheit": "oe-amt-31",
     "schutzstufe": "C",
     "schutzbedarf": "hoch",
@@ -3297,7 +3189,6 @@
   {
     "id": "dstore-hinweismeldung",
     "name": "Hinweismeldung der internen Meldestelle",
-    "kategorie": "Recht & Compliance",
     "einheit": "oe-amt-30",
     "schutzstufe": "D",
     "schutzbedarf": "hoch",
@@ -3326,7 +3217,6 @@
   {
     "id": "dstore-hiv-beratung-pseudonym",
     "name": "Pseudonyme HIV-Beratung und -Testung",
-    "kategorie": "Gesundheit & Soziales",
     "einheit": "oe-amt-53",
     "schutzstufe": "E",
     "schutzbedarf": "hoch",
@@ -3351,7 +3241,6 @@
   {
     "id": "dstore-hundechip-transponder",
     "name": "Hundechip und Transpondernummer",
-    "kategorie": "Tiere & Haltung",
     "einheit": "oe-amt-32",
     "schutzstufe": "B",
     "schutzbedarf": "normal",
@@ -3376,7 +3265,6 @@
   {
     "id": "dstore-hundehaltung",
     "name": "Hundehaltung",
-    "kategorie": "Tiere & Haltung",
     "einheit": "oe-amt-32",
     "schutzstufe": "B",
     "schutzbedarf": "normal",
@@ -3401,7 +3289,6 @@
   {
     "id": "dstore-hunderasse-gefaehrlichkeit",
     "name": "Hunderasse und Gefährlichkeitsbezug",
-    "kategorie": "Tiere & Haltung",
     "einheit": "oe-amt-32",
     "schutzstufe": "C",
     "schutzbedarf": "normal",
@@ -3426,7 +3313,6 @@
   {
     "id": "dstore-hunderegisterdaten",
     "name": "Hunderegisterdaten",
-    "kategorie": "Tiere & Haltung",
     "einheit": "oe-amt-32",
     "schutzstufe": "B",
     "schutzbedarf": "normal",
@@ -3451,7 +3337,6 @@
   {
     "id": "dstore-hundesteuermarke",
     "name": "Hundesteuermarke",
-    "kategorie": "Tiere & Haltung",
     "einheit": "oe-amt-32",
     "schutzstufe": "B",
     "schutzbedarf": "normal",
@@ -3476,7 +3361,6 @@
   {
     "id": "dstore-identitaetsnachweis",
     "name": "Identitätsnachweis",
-    "kategorie": "Identitätsdaten",
     "einheit": "oe-amt-33",
     "schutzstufe": "C",
     "schutzbedarf": "hoch",
@@ -3502,7 +3386,6 @@
   {
     "id": "dstore-infektionsschutzdaten",
     "name": "Infektionsschutzdaten",
-    "kategorie": "Umwelt & Gesundheit",
     "einheit": "oe-amt-53",
     "schutzstufe": "D",
     "schutzbedarf": "hoch",
@@ -3526,7 +3409,6 @@
   {
     "id": "dstore-integrationskursnachweis",
     "name": "Integrationskursnachweis",
-    "kategorie": "Migration & Integration",
     "einheit": "oe-amt-47",
     "schutzstufe": "C",
     "schutzbedarf": "hoch",
@@ -3551,7 +3433,6 @@
   {
     "id": "dstore-it-berechtigungsantrag",
     "name": "IT-Berechtigungsantrag",
-    "kategorie": "Verwaltungsformular",
     "einheit": "oe-amt-15",
     "schutzstufe": "B",
     "schutzbedarf": "hoch",
@@ -3574,7 +3455,6 @@
   {
     "id": "dstore-jugendgerichtshilfe-tatvorwurf",
     "name": "Tatvorwurf in der Jugendgerichtshilfe",
-    "kategorie": "Soziales & Jugend",
     "einheit": "oe-amt-51",
     "schutzstufe": "D",
     "schutzbedarf": "hoch",
@@ -3601,7 +3481,6 @@
   {
     "id": "dstore-jugendhilfeakte",
     "name": "Jugendhilfeakte",
-    "kategorie": "Soziales & Jugend",
     "einheit": "oe-amt-51",
     "schutzstufe": "E",
     "schutzbedarf": "hoch",
@@ -3625,7 +3504,6 @@
   {
     "id": "dstore-kassenzeichen-buchungsreferenz",
     "name": "Kassenzeichen und Buchungsreferenz",
-    "kategorie": "Finanzen & Zahlung",
     "einheit": "oe-amt-20",
     "schutzstufe": "C",
     "schutzbedarf": "hoch",
@@ -3650,7 +3528,6 @@
   {
     "id": "dstore-kaufvertragsdaten-immobilie",
     "name": "Kaufvertragsdaten Immobilie",
-    "kategorie": "Liegenschaften",
     "einheit": "oe-amt-23",
     "schutzstufe": "C",
     "schutzbedarf": "normal",
@@ -3675,7 +3552,6 @@
   {
     "id": "dstore-kehrbezirk-bestellung",
     "name": "Kehrbezirk und Bestellung Bezirksschornsteinfeger",
-    "kategorie": "Gewerbe & Erlaubnisse",
     "einheit": "oe-amt-60",
     "schutzstufe": "B",
     "schutzbedarf": "normal",
@@ -3700,7 +3576,6 @@
   {
     "id": "dstore-kehrbuch-feuerstaettenschau",
     "name": "Kehrbuch und Feuerstättenschau",
-    "kategorie": "Gewerbe & Erlaubnisse",
     "einheit": "oe-amt-60",
     "schutzstufe": "C",
     "schutzbedarf": "normal",
@@ -3726,7 +3601,6 @@
   {
     "id": "dstore-kfz-daten",
     "name": "KFZ-Daten",
-    "kategorie": "Ordnung & Sicherheit",
     "einheit": "oe-amt-34",
     "schutzstufe": "C",
     "schutzbedarf": "hoch",
@@ -3751,7 +3625,6 @@
   {
     "id": "dstore-kinderbetreuung-kosten",
     "name": "Kinderbetreuungskosten",
-    "kategorie": "Bildung & Betreuung",
     "einheit": "oe-amt-51",
     "schutzstufe": "D",
     "schutzbedarf": "normal",
@@ -3776,7 +3649,6 @@
   {
     "id": "dstore-kindergeldbezug",
     "name": "Kindergeldbezug",
-    "kategorie": "Familie & Soziales",
     "einheit": "oe-amt-50",
     "schutzstufe": "C",
     "schutzbedarf": "normal",
@@ -3801,7 +3673,6 @@
   {
     "id": "dstore-kita-anmeldedaten",
     "name": "Kita-Anmeldedaten",
-    "kategorie": "Jugend & Betreuung",
     "einheit": "oe-amt-51",
     "schutzstufe": "C",
     "schutzbedarf": "normal",
@@ -3826,7 +3697,6 @@
   {
     "id": "dstore-kitadaten",
     "name": "Kitadaten",
-    "kategorie": "Soziales & Jugend",
     "einheit": "oe-amt-51",
     "schutzstufe": "C",
     "schutzbedarf": "hoch",
@@ -3850,7 +3720,6 @@
   {
     "id": "dstore-kommunaler-miet-nutzungsvertrag",
     "name": "Kommunaler Miet- und Nutzungsvertrag",
-    "kategorie": "Liegenschaften",
     "einheit": "oe-amt-23",
     "schutzstufe": "B",
     "schutzbedarf": "normal",
@@ -3875,7 +3744,6 @@
   {
     "id": "dstore-kontaktdaten",
     "name": "Kontaktdaten",
-    "kategorie": "Person & Identität",
     "einheit": "oe-amt-33",
     "schutzstufe": "B",
     "schutzbedarf": "normal",
@@ -3898,7 +3766,6 @@
   {
     "id": "dstore-kontaktdaten-vertraulich",
     "name": "Telefonnummer, Mobilnummer und E-Mail-Adresse von Personen in Verfahren, deren Zugehörigke",
-    "kategorie": "Bürgerdienste & Meldewesen",
     "einheit": "oe-amt-33",
     "schutzstufe": "D",
     "schutzbedarf": "hoch",
@@ -3922,7 +3789,6 @@
   {
     "id": "dstore-krankenversicherungsbeitraege",
     "name": "Krankenversicherungsbeiträge",
-    "kategorie": "Gesundheit & Soziales",
     "einheit": "oe-amt-50",
     "schutzstufe": "D",
     "schutzbedarf": "normal",
@@ -3947,7 +3813,6 @@
   {
     "id": "dstore-kulturdatenbank-eintrag",
     "name": "Kulturdatenbank-Eintrag",
-    "kategorie": "Kultur",
     "einheit": "oe-amt-41",
     "schutzstufe": "B",
     "schutzbedarf": "normal",
@@ -3970,7 +3835,6 @@
   {
     "id": "dstore-lageplan-geobasisdaten",
     "name": "Lageplan und Geobasisdaten",
-    "kategorie": "Bauen & Grundstück",
     "einheit": "oe-amt-62",
     "schutzstufe": "C",
     "schutzbedarf": "normal",
@@ -3995,7 +3859,6 @@
   {
     "id": "dstore-lebenslauf-qualifikationsnachweis",
     "name": "Lebenslauf und Qualifikationsnachweis",
-    "kategorie": "Personal & Qualifikation",
     "einheit": "oe-amt-11",
     "schutzstufe": "C",
     "schutzbedarf": "normal",
@@ -4020,7 +3883,6 @@
   {
     "id": "dstore-lebenslauf-qualifikationsnachweis-vertraulich",
     "name": "Lebenslauf und Qualifikationsnachweise in Verfahren, deren Zugehörigkeit selbst schutzbedü",
-    "kategorie": "Personal & Organisation",
     "einheit": "oe-amt-11",
     "schutzstufe": "D",
     "schutzbedarf": "hoch",
@@ -4044,7 +3906,6 @@
   {
     "id": "dstore-lebensmittelhygienekontrolle",
     "name": "Lebensmittelhygienekontrolle",
-    "kategorie": "Lebensmittelüberwachung",
     "einheit": "oe-amt-71",
     "schutzstufe": "C",
     "schutzbedarf": "hoch",
@@ -4069,7 +3930,6 @@
   {
     "id": "dstore-lebensmittelunternehmerdaten",
     "name": "Lebensmittelunternehmerdaten",
-    "kategorie": "Lebensmittelüberwachung",
     "einheit": "oe-amt-71",
     "schutzstufe": "C",
     "schutzbedarf": "hoch",
@@ -4094,7 +3954,6 @@
   {
     "id": "dstore-lebenspartnerschaftsurkunde-nachweis",
     "name": "Lebenspartnerschaftsurkunde als Nachweis",
-    "kategorie": "Personenstandsdaten",
     "einheit": "oe-amt-31",
     "schutzstufe": "D",
     "schutzbedarf": "hoch",
@@ -4119,7 +3978,6 @@
   {
     "id": "dstore-leistungsbezug-sozialleistung",
     "name": "Leistungsbezug Sozialleistung",
-    "kategorie": "Sozialleistungsdaten",
     "einheit": "oe-amt-50",
     "schutzstufe": "D",
     "schutzbedarf": "hoch",
@@ -4144,7 +4002,6 @@
   {
     "id": "dstore-leistungsvereinbarung-freier-traeger",
     "name": "Leistungsvereinbarung mit freien Trägern",
-    "kategorie": "Soziales & Jugend",
     "einheit": "oe-amt-51",
     "schutzstufe": "B",
     "schutzbedarf": "normal",
@@ -4170,7 +4027,6 @@
   {
     "id": "dstore-leitwegid-peppolid",
     "name": "Leitweg-ID und Peppol-ID",
-    "kategorie": "Finanzen & E-Government",
     "einheit": "oe-amt-20",
     "schutzstufe": null,
     "schutzbedarf": "hoch",
@@ -4195,7 +4051,6 @@
   {
     "id": "dstore-lernfoerderbedarf",
     "name": "Lernförderbedarf",
-    "kategorie": "Bildung & Betreuung",
     "einheit": "oe-amt-51",
     "schutzstufe": "D",
     "schutzbedarf": "hoch",
@@ -4220,7 +4075,6 @@
   {
     "id": "dstore-loeschwasserversorgung",
     "name": "Löschwasserversorgung",
-    "kategorie": "Feuerwehr & Brandschutz",
     "einheit": "oe-amt-37",
     "schutzstufe": "C",
     "schutzbedarf": "hoch",
@@ -4245,7 +4099,6 @@
   {
     "id": "dstore-mahn-vollstreckungsstatus",
     "name": "Mahn- und Vollstreckungsstatus",
-    "kategorie": "Finanzen & Vollstreckung",
     "einheit": "oe-amt-21",
     "schutzstufe": "D",
     "schutzbedarf": "hoch",
@@ -4270,7 +4123,6 @@
   {
     "id": "dstore-mandatstraeger-parteizugehoerigkeit",
     "name": "Politische Zugehörigkeit von Mandatsträgern",
-    "kategorie": "Wahlen & Gremien",
     "einheit": "oe-amt-10",
     "schutzstufe": "D",
     "schutzbedarf": "hoch",
@@ -4294,7 +4146,6 @@
   {
     "id": "dstore-marktveranstaltungsdaten",
     "name": "Marktveranstaltungsdaten",
-    "kategorie": "Veranstaltungen & Gewerbe",
     "einheit": "oe-amt-38",
     "schutzstufe": null,
     "schutzbedarf": null,
@@ -4319,7 +4170,6 @@
   {
     "id": "dstore-maulkorb-leinenanordnung",
     "name": "Maulkorb- und Leinenanordnung",
-    "kategorie": "Ordnung & Tiere",
     "einheit": "oe-amt-32",
     "schutzstufe": "C",
     "schutzbedarf": "hoch",
@@ -4344,7 +4194,6 @@
   {
     "id": "dstore-meldeadresse-wohnsitz",
     "name": "Meldeadresse und Wohnsitzdaten",
-    "kategorie": "Identitätsdaten",
     "einheit": "oe-amt-33",
     "schutzstufe": "B",
     "schutzbedarf": "normal",
@@ -4371,7 +4220,6 @@
   {
     "id": "dstore-meldebescheinigung",
     "name": "Meldebescheinigung",
-    "kategorie": "Bescheid / Nachweis",
     "einheit": "oe-amt-33",
     "schutzstufe": "C",
     "schutzbedarf": "normal",
@@ -4393,7 +4241,6 @@
   {
     "id": "dstore-meldebestaetigung",
     "name": "Meldebestätigung",
-    "kategorie": "Meldewesen",
     "einheit": "oe-amt-33",
     "schutzstufe": "C",
     "schutzbedarf": "normal",
@@ -4416,7 +4263,6 @@
   {
     "id": "dstore-meldedaten",
     "name": "Meldedaten",
-    "kategorie": "Meldewesen",
     "einheit": "oe-amt-33",
     "schutzstufe": "C",
     "schutzbedarf": "hoch",
@@ -4440,7 +4286,6 @@
   {
     "id": "dstore-meldeschein",
     "name": "Meldeschein",
-    "kategorie": "Wohnen & Melderecht",
     "einheit": "oe-amt-33",
     "schutzstufe": "B",
     "schutzbedarf": "normal",
@@ -4465,7 +4310,6 @@
   {
     "id": "dstore-mietschulden-wohnraumsicherung",
     "name": "Mietschulden und Wohnraumsicherung",
-    "kategorie": "Wohnen & Soziales",
     "einheit": "oe-amt-64",
     "schutzstufe": "D",
     "schutzbedarf": "hoch",
@@ -4490,7 +4334,6 @@
   {
     "id": "dstore-mietvertrag",
     "name": "Mietvertrag",
-    "kategorie": "Bau & Liegenschaften",
     "einheit": "oe-amt-63",
     "schutzstufe": "B",
     "schutzbedarf": "hoch",
@@ -4515,7 +4358,6 @@
   {
     "id": "dstore-mietvertrag-miethoehe",
     "name": "Mietvertrag und Miethöhe",
-    "kategorie": "Wohnen & Soziales",
     "einheit": "oe-amt-64",
     "schutzstufe": "C",
     "schutzbedarf": "hoch",
@@ -4540,7 +4382,6 @@
   {
     "id": "dstore-mitgliedschaft-realverband",
     "name": "Mitgliedschaft und Beiträge Realverband",
-    "kategorie": "Liegenschaften",
     "einheit": "oe-amt-86",
     "schutzstufe": "C",
     "schutzbedarf": "normal",
@@ -4565,7 +4406,6 @@
   {
     "id": "dstore-musikschul-kursanmeldung",
     "name": "Musikschul- und Kursanmeldung",
-    "kategorie": "Kultur & Bildung",
     "einheit": "oe-amt-41",
     "schutzstufe": "D",
     "schutzbedarf": "normal",
@@ -4590,7 +4430,6 @@
   {
     "id": "dstore-mutterschaftsgeld",
     "name": "Mutterschaftsgeld",
-    "kategorie": "Familie & Soziales",
     "einheit": "oe-amt-50",
     "schutzstufe": "D",
     "schutzbedarf": "normal",
@@ -4615,7 +4454,6 @@
   {
     "id": "dstore-nachbarbeteiligung",
     "name": "Nachbarbeteiligung",
-    "kategorie": "Bauen & Grundstück",
     "einheit": "oe-amt-63",
     "schutzstufe": "D",
     "schutzbedarf": "normal",
@@ -4640,7 +4478,6 @@
   {
     "id": "dstore-nachlass-erbendaten",
     "name": "Nachlass- und Erbendaten",
-    "kategorie": "Finanzen & Vollstreckung",
     "einheit": "oe-amt-50",
     "schutzstufe": "D",
     "schutzbedarf": "hoch",
@@ -4666,7 +4503,6 @@
   {
     "id": "dstore-nachweis",
     "name": "Nachweis",
-    "kategorie": "Verwaltungsakte & Dokumente",
     "einheit": "oe-amt-33",
     "schutzstufe": "C",
     "schutzbedarf": "hoch",
@@ -4689,7 +4525,6 @@
   {
     "id": "dstore-namensaenderungsgrund",
     "name": "Begründung einer Namensänderung",
-    "kategorie": "Personenstand & Namensrecht",
     "einheit": "oe-amt-31",
     "schutzstufe": "D",
     "schutzbedarf": "hoch",
@@ -4714,7 +4549,6 @@
   {
     "id": "dstore-namensaenderungsnachweis",
     "name": "Namensänderungsnachweis",
-    "kategorie": "Identitätsdaten",
     "einheit": "oe-amt-33",
     "schutzstufe": "D",
     "schutzbedarf": "hoch",
@@ -4739,7 +4573,6 @@
   {
     "id": "dstore-namensfuehrung-selbstbestimmung",
     "name": "Namensführung und Selbstbestimmung",
-    "kategorie": "Personenstand & Namensrecht",
     "einheit": "oe-amt-31",
     "schutzstufe": "E",
     "schutzbedarf": "hoch",
@@ -4764,7 +4597,6 @@
   {
     "id": "dstore-niederlassungserlaubnisvoraussetzungen",
     "name": "Niederlassungserlaubnisvoraussetzungen",
-    "kategorie": "Migration & Aufenthalt",
     "einheit": "oe-amt-47",
     "schutzstufe": "D",
     "schutzbedarf": "hoch",
@@ -4789,7 +4621,6 @@
   {
     "id": "dstore-ordnungswidrigkeitenanzeige",
     "name": "Ordnungswidrigkeitenanzeige",
-    "kategorie": "Ordnung & Vollzug",
     "einheit": "oe-amt-32",
     "schutzstufe": "C",
     "schutzbedarf": "hoch",
@@ -4814,7 +4645,6 @@
   {
     "id": "dstore-parkberechtigungszone",
     "name": "Parkberechtigungszone",
-    "kategorie": "Mobilität & Ordnung",
     "einheit": "oe-amt-34",
     "schutzstufe": "C",
     "schutzbedarf": "hoch",
@@ -4839,7 +4669,6 @@
   {
     "id": "dstore-parkverstossanzeige",
     "name": "Parkverstoßanzeige",
-    "kategorie": "Verkehr & Vollzug",
     "einheit": "oe-amt-34",
     "schutzstufe": "D",
     "schutzbedarf": "hoch",
@@ -4864,7 +4693,6 @@
   {
     "id": "dstore-passersatzpapier",
     "name": "Passersatzpapier",
-    "kategorie": "Identitätsdaten",
     "einheit": "oe-amt-47",
     "schutzstufe": "C",
     "schutzbedarf": "hoch",
@@ -4889,7 +4717,6 @@
   {
     "id": "dstore-person",
     "name": "Person",
-    "kategorie": "Person & Identität",
     "einheit": "oe-amt-33",
     "schutzstufe": "B",
     "schutzbedarf": "normal",
@@ -4913,7 +4740,6 @@
   {
     "id": "dstore-personalakte",
     "name": "Personalakte",
-    "kategorie": "Personal & HR",
     "einheit": "oe-amt-11",
     "schutzstufe": "D",
     "schutzbedarf": "hoch",
@@ -4938,7 +4764,6 @@
   {
     "id": "dstore-personalratsvorlage",
     "name": "Personalratsvorlage",
-    "kategorie": "Personal",
     "einheit": "oe-amt-11",
     "schutzstufe": "D",
     "schutzbedarf": "hoch",
@@ -4966,7 +4791,6 @@
   {
     "id": "dstore-personenstammdaten",
     "name": "Personenstammdaten",
-    "kategorie": "Identitätsdaten",
     "einheit": "oe-amt-33",
     "schutzstufe": "C",
     "schutzbedarf": "hoch",
@@ -4977,7 +4801,7 @@
     "bsi-schutzbedarf": "hoch",
     "datenschutz_geprueft": true,
     "bsi_geprueft": true,
-    "verwendungen": 122,
+    "verwendungen": 120,
     "beschreibung": "Grundlegende Identifikations- und Zuordnungsdaten natürlicher Personen, wie sie in Personenstands-, Melde- und Ausweisverfahren wiederkehrend verarbeitet werden.",
     "felder": [
       "Vorname",
@@ -4993,7 +4817,6 @@
   {
     "id": "dstore-personenstammdaten-vertraulich",
     "name": "Identifikations- und Zuordnungsdaten natürlicher Personen in Verfahren, deren Zugehörigkei",
-    "kategorie": "Bürgerdienste & Meldewesen",
     "einheit": "oe-amt-33",
     "schutzstufe": "D",
     "schutzbedarf": "hoch",
@@ -5004,7 +4827,7 @@
     "bsi-schutzbedarf": "hoch",
     "datenschutz_geprueft": true,
     "bsi_geprueft": true,
-    "verwendungen": 62,
+    "verwendungen": 64,
     "beschreibung": "Identifikations- und Zuordnungsdaten natürlicher Personen in Verfahren, deren Zugehörigkeit selbst schutzbedürftig ist. Inhaltlich identisch mit den allgemeinen Personenstammdaten.",
     "felder": [
       "Vorname",
@@ -5019,7 +4842,6 @@
   {
     "id": "dstore-personenstand",
     "name": "Personenstandsdaten",
-    "kategorie": "Standesamt",
     "einheit": "oe-amt-31",
     "schutzstufe": "D",
     "schutzbedarf": "hoch",
@@ -5042,7 +4864,6 @@
   {
     "id": "dstore-pfaendung-drittschuldnerdaten",
     "name": "Pfändungs- und Drittschuldnerdaten",
-    "kategorie": "Finanzen & Vollstreckung",
     "einheit": "oe-amt-21",
     "schutzstufe": "D",
     "schutzbedarf": "hoch",
@@ -5067,7 +4888,6 @@
   {
     "id": "dstore-pflegegrad-pflegeleistungen",
     "name": "Pflegegrad und Pflegeleistungen",
-    "kategorie": "Soziales & Gesundheit",
     "einheit": "oe-amt-50",
     "schutzstufe": "D",
     "schutzbedarf": "hoch",
@@ -5092,7 +4912,6 @@
   {
     "id": "dstore-pflegeversicherungsbeitraege",
     "name": "Pflegeversicherungsbeiträge",
-    "kategorie": "Gesundheit & Soziales",
     "einheit": "oe-amt-50",
     "schutzstufe": "D",
     "schutzbedarf": "hoch",
@@ -5117,7 +4936,6 @@
   {
     "id": "dstore-polizeiliche-verlustmeldung",
     "name": "Polizeiliche Verlustmeldung",
-    "kategorie": "Sicherheit & Nachweise",
     "einheit": "oe-amt-33",
     "schutzstufe": "C",
     "schutzbedarf": "hoch",
@@ -5142,7 +4960,6 @@
   {
     "id": "dstore-postzustelladresse-korrespondenz",
     "name": "Postzustelladresse und Korrespondenz",
-    "kategorie": "Kommunikation & Zustellung",
     "einheit": "oe-amt-33",
     "schutzstufe": "B",
     "schutzbedarf": "normal",
@@ -5167,7 +4984,6 @@
   {
     "id": "dstore-prostitutionsstaettenbetrieb",
     "name": "Prostitutionsstättenbetrieb",
-    "kategorie": "Ordnung & Erlaubnisse",
     "einheit": "oe-amt-32",
     "schutzstufe": "D",
     "schutzbedarf": "hoch",
@@ -5192,7 +5008,6 @@
   {
     "id": "dstore-pruefstatik-statikfreigabe",
     "name": "Prüfstatik und Statikfreigabe",
-    "kategorie": "Bauen & Statik",
     "einheit": "oe-amt-63",
     "schutzstufe": "B",
     "schutzbedarf": "normal",
@@ -5217,7 +5032,6 @@
   {
     "id": "dstore-pruefungsnachweis-physiotherapie",
     "name": "Prüfungsnachweis Physiotherapie",
-    "kategorie": "Gesundheit & Erlaubnisse",
     "einheit": "oe-amt-53",
     "schutzstufe": "B",
     "schutzbedarf": "normal",
@@ -5242,7 +5056,6 @@
   {
     "id": "dstore-rechnungsadressierung-kommune",
     "name": "Rechnungsadressierung Kommune",
-    "kategorie": "Finanzen & E-Government",
     "einheit": "oe-amt-20",
     "schutzstufe": null,
     "schutzbedarf": "hoch",
@@ -5267,7 +5080,6 @@
   {
     "id": "dstore-rechnungsdaten",
     "name": "Rechnungsdaten",
-    "kategorie": "Finanzen & Steuern",
     "einheit": "oe-amt-20",
     "schutzstufe": "C",
     "schutzbedarf": "hoch",
@@ -5292,7 +5104,6 @@
   {
     "id": "dstore-rechnungskorrektur-storno",
     "name": "Rechnungskorrektur und Storno",
-    "kategorie": "Finanzen & Buchung",
     "einheit": "oe-amt-20",
     "schutzstufe": "C",
     "schutzbedarf": "hoch",
@@ -5317,7 +5128,6 @@
   {
     "id": "dstore-register-und-zuverlaessigkeitsauskuenfte",
     "name": "Register- und Zuverlässigkeitsauskünfte",
-    "kategorie": "Gewerbe & Erlaubnisse",
     "einheit": "oe-amt-32",
     "schutzstufe": "D",
     "schutzbedarf": "hoch",
@@ -5341,7 +5151,6 @@
   {
     "id": "dstore-registerbezug-personenstand",
     "name": "Registerbezug Personenstand",
-    "kategorie": "Register- und Nachweisdaten",
     "einheit": "oe-amt-31",
     "schutzstufe": "D",
     "schutzbedarf": "hoch",
@@ -5366,7 +5175,6 @@
   {
     "id": "dstore-reisegewerbekarte",
     "name": "Reisegewerbekarte",
-    "kategorie": "Gewerbe & Erlaubnisse",
     "einheit": "oe-amt-32",
     "schutzstufe": "D",
     "schutzbedarf": "hoch",
@@ -5391,7 +5199,6 @@
   {
     "id": "dstore-religionszugehoerigkeit",
     "name": "Religionszugehörigkeit",
-    "kategorie": "Person & Identität",
     "einheit": "oe-amt-40",
     "schutzstufe": "D",
     "schutzbedarf": "hoch",
@@ -5414,7 +5221,6 @@
   {
     "id": "dstore-rentenversicherungsverlauf",
     "name": "Rentenversicherungsverlauf",
-    "kategorie": "Arbeit & Aufenthalt",
     "einheit": "oe-amt-47",
     "schutzstufe": "D",
     "schutzbedarf": "hoch",
@@ -5439,7 +5245,6 @@
   {
     "id": "dstore-sachkundenachweis-hundehaltung",
     "name": "Sachkundenachweis Hundehaltung",
-    "kategorie": "Ordnung & Tiere",
     "einheit": "oe-amt-32",
     "schutzstufe": "B",
     "schutzbedarf": "normal",
@@ -5464,7 +5269,6 @@
   {
     "id": "dstore-scheidungsnachweis",
     "name": "Scheidungsnachweis",
-    "kategorie": "Personenstandsdaten",
     "einheit": "oe-amt-31",
     "schutzstufe": "C",
     "schutzbedarf": "normal",
@@ -5489,7 +5293,6 @@
   {
     "id": "dstore-schluesselverwaltung",
     "name": "Schlüsselverwaltung und Schließanlagen",
-    "kategorie": "Organisation & Sicherheit",
     "einheit": "oe-amt-10",
     "schutzstufe": "B",
     "schutzbedarf": "normal",
@@ -5514,7 +5317,6 @@
   {
     "id": "dstore-schuelerbefoerderungskosten",
     "name": "Schülerbeförderungskosten",
-    "kategorie": "Bildung & Schule",
     "einheit": "oe-amt-40",
     "schutzstufe": "D",
     "schutzbedarf": "normal",
@@ -5539,7 +5341,6 @@
   {
     "id": "dstore-schulausflug-klassenfahrt",
     "name": "Schulausflug und Klassenfahrt",
-    "kategorie": "Bildung & Teilhabe",
     "einheit": "oe-amt-40",
     "schutzstufe": "D",
     "schutzbedarf": "normal",
@@ -5564,7 +5365,6 @@
   {
     "id": "dstore-schulbedarf-lernamaterial",
     "name": "Schulbedarf und Lernmaterial",
-    "kategorie": "Bildung & Teilhabe",
     "einheit": "oe-amt-40",
     "schutzstufe": "D",
     "schutzbedarf": "normal",
@@ -5589,7 +5389,6 @@
   {
     "id": "dstore-schulbesuch-ausbildungsstatus",
     "name": "Schulbesuch und Ausbildungsstatus",
-    "kategorie": "Bildung & Betreuung",
     "einheit": "oe-amt-50",
     "schutzstufe": "C",
     "schutzbedarf": "normal",
@@ -5614,7 +5413,6 @@
   {
     "id": "dstore-schutzbeduerftigkeitskennzeichen",
     "name": "Schutzbedürftigkeitskennzeichen",
-    "kategorie": "Bürgerdienste & Meldewesen",
     "einheit": "oe-amt-33",
     "schutzstufe": "E",
     "schutzbedarf": "hoch",
@@ -5639,7 +5437,6 @@
   {
     "id": "dstore-schwerbehindertennachweis",
     "name": "Schwerbehindertennachweis",
-    "kategorie": "Soziales & Gesundheit",
     "einheit": "oe-amt-50",
     "schutzstufe": "D",
     "schutzbedarf": "hoch",
@@ -5664,7 +5461,6 @@
   {
     "id": "dstore-sepa-lastschriftmandat",
     "name": "SEPA-Lastschriftmandat",
-    "kategorie": "Finanzen & Zahlung",
     "einheit": "oe-amt-20",
     "schutzstufe": "C",
     "schutzbedarf": "normal",
@@ -5689,7 +5485,6 @@
   {
     "id": "dstore-servicekonto-nutzeridentitaet",
     "name": "Servicekonto und Nutzeridentität",
-    "kategorie": "Digitale Verwaltung",
     "einheit": "oe-amt-1-6",
     "schutzstufe": "C",
     "schutzbedarf": "hoch",
@@ -5714,7 +5509,6 @@
   {
     "id": "dstore-sicherheitserkenntnisse",
     "name": "Sicherheitserkenntnisse (Sicherheitsüberprüfung)",
-    "kategorie": "Sicherheit & Personal",
     "einheit": "oe-amt-10",
     "schutzstufe": "D",
     "schutzbedarf": "sehr hoch",
@@ -5738,7 +5532,6 @@
   {
     "id": "dstore-sicherheitsmangelmeldung",
     "name": "Sicherheitsmangelmeldung",
-    "kategorie": "Ordnung & Sicherheit",
     "einheit": "oe-amt-32",
     "schutzstufe": "C",
     "schutzbedarf": "hoch",
@@ -5763,7 +5556,6 @@
   {
     "id": "dstore-sitzungsprotokoll",
     "name": "Sitzungsprotokoll",
-    "kategorie": "Wahlen & Gremien",
     "einheit": "oe-amt-10",
     "schutzstufe": "C",
     "schutzbedarf": "hoch",
@@ -5788,7 +5580,6 @@
   {
     "id": "dstore-social-media-interaktion",
     "name": "Social-Media-Interaktion und Seiten-Insights",
-    "kategorie": "Öffentlichkeitsarbeit & Digitales",
     "einheit": "oe-amt-15",
     "schutzstufe": "C",
     "schutzbedarf": "normal",
@@ -5811,7 +5602,6 @@
   {
     "id": "dstore-sondernutzung-oeffentlicher-raum",
     "name": "Sondernutzung öffentlicher Raum",
-    "kategorie": "Öffentlicher Raum & Ordnung",
     "einheit": "oe-amt-32",
     "schutzstufe": "B",
     "schutzbedarf": "normal",
@@ -5836,7 +5626,6 @@
   {
     "id": "dstore-sorgerechtserklaerung",
     "name": "Sorgeerklärung",
-    "kategorie": "Personenstandsdaten",
     "einheit": "oe-amt-31",
     "schutzstufe": "D",
     "schutzbedarf": "hoch",
@@ -5861,7 +5650,6 @@
   {
     "id": "dstore-sorgerechtsnachweis",
     "name": "Sorgerechtsnachweis",
-    "kategorie": "Personenstandsdaten",
     "einheit": "oe-amt-31",
     "schutzstufe": "D",
     "schutzbedarf": "hoch",
@@ -5886,7 +5674,6 @@
   {
     "id": "dstore-sozialdaten",
     "name": "Sozialdaten",
-    "kategorie": "Soziales & Jugend",
     "einheit": "oe-amt-50",
     "schutzstufe": "D",
     "schutzbedarf": "hoch",
@@ -5910,7 +5697,6 @@
   {
     "id": "dstore-spende-zuwendung",
     "name": "Spende und Zuwendung",
-    "kategorie": "Finanzen & Zahlung",
     "einheit": "oe-amt-10",
     "schutzstufe": "C",
     "schutzbedarf": "normal",
@@ -5936,7 +5722,6 @@
   {
     "id": "dstore-sprachkenntnisnachweis",
     "name": "Sprachkenntnisnachweis",
-    "kategorie": "Migration & Bildung",
     "einheit": "oe-amt-47",
     "schutzstufe": "C",
     "schutzbedarf": "hoch",
@@ -5961,7 +5746,6 @@
   {
     "id": "dstore-staatsangehoerigkeit",
     "name": "Staatsangehörigkeit",
-    "kategorie": "Person & Identität",
     "einheit": "oe-amt-33",
     "schutzstufe": "D",
     "schutzbedarf": "hoch",
@@ -5984,7 +5768,6 @@
   {
     "id": "dstore-staatsangehoerigkeit-aufenthaltsstatus",
     "name": "Staatsangehörigkeit und Aufenthaltsstatus",
-    "kategorie": "Identitätsdaten",
     "einheit": "oe-amt-47",
     "schutzstufe": "D",
     "schutzbedarf": "hoch",
@@ -6008,7 +5791,6 @@
   {
     "id": "dstore-stadtpass-berechtigung",
     "name": "Stadtpass und Berechtigung",
-    "kategorie": "Soziales",
     "einheit": "oe-amt-50",
     "schutzstufe": "C",
     "schutzbedarf": "normal",
@@ -6031,7 +5813,6 @@
   {
     "id": "dstore-stellungnahme-planverfahren",
     "name": "Stellungnahme im Planverfahren",
-    "kategorie": "Bauen & Grundstück",
     "einheit": "oe-amt-61",
     "schutzstufe": "D",
     "schutzbedarf": "hoch",
@@ -6059,7 +5840,6 @@
   {
     "id": "dstore-stellvertretungserlaubnis-prostitutionsstaette",
     "name": "Stellvertretungserlaubnis Prostitutionsstätte",
-    "kategorie": "Ordnung & Erlaubnisse",
     "einheit": "oe-amt-32",
     "schutzstufe": "D",
     "schutzbedarf": "hoch",
@@ -6084,7 +5864,6 @@
   {
     "id": "dstore-sterbeurkunde",
     "name": "Sterbeurkunde",
-    "kategorie": "Standesamt",
     "einheit": "oe-amt-31",
     "schutzstufe": "D",
     "schutzbedarf": "hoch",
@@ -6108,7 +5887,6 @@
   {
     "id": "dstore-steuerdaten",
     "name": "Steuerdaten",
-    "kategorie": "Finanzen & Steuern",
     "einheit": "oe-amt-22",
     "schutzstufe": "C",
     "schutzbedarf": "hoch",
@@ -6132,7 +5910,6 @@
   {
     "id": "dstore-strafverfahrensmitteilung-auslaenderrecht",
     "name": "Strafverfahrensmitteilung an die Ausländerbehörde",
-    "kategorie": "Migration & Aufenthalt",
     "einheit": "oe-amt-47",
     "schutzstufe": "D",
     "schutzbedarf": "hoch",
@@ -6160,7 +5937,6 @@
   {
     "id": "dstore-technische-nutzungsdaten-webangebot",
     "name": "Technische Nutzungsdaten eines Webangebots",
-    "kategorie": "Digitale Verwaltung",
     "einheit": "oe-amt-15",
     "schutzstufe": "C",
     "schutzbedarf": "normal",
@@ -6185,7 +5961,6 @@
   {
     "id": "dstore-teilhabe-kultur-sport-freizeit",
     "name": "Teilhabe an Kultur, Sport und Freizeit",
-    "kategorie": "Bildung & Teilhabe",
     "einheit": "oe-amt-41",
     "schutzstufe": "D",
     "schutzbedarf": "normal",
@@ -6210,7 +5985,6 @@
   {
     "id": "dstore-termin-und-vorsprachedaten",
     "name": "Termin- und Vorsprachedaten",
-    "kategorie": "Verfahrensorganisation",
     "einheit": "oe-amt-33",
     "schutzstufe": "D",
     "schutzbedarf": "hoch",
@@ -6235,7 +6009,6 @@
   {
     "id": "dstore-tiergesundheitszeugnis",
     "name": "Tiergesundheitszeugnis",
-    "kategorie": "Veterinär & Gesundheit",
     "einheit": "oe-amt-71",
     "schutzstufe": "B",
     "schutzbedarf": "hoch",
@@ -6260,7 +6033,6 @@
   {
     "id": "dstore-tierhalterbestand-nutztiere",
     "name": "Tierhalterbestand Nutztiere",
-    "kategorie": "Veterinär & Landwirtschaft",
     "einheit": "oe-amt-71",
     "schutzstufe": "C",
     "schutzbedarf": "hoch",
@@ -6285,7 +6057,6 @@
   {
     "id": "dstore-tierkoerperbeseitigungsnachweis",
     "name": "Tierkörperbeseitigungsnachweis",
-    "kategorie": "Veterinär & Entsorgung",
     "einheit": "oe-amt-71",
     "schutzstufe": "B",
     "schutzbedarf": "hoch",
@@ -6310,7 +6081,6 @@
   {
     "id": "dstore-tierschlachtungsmeldung",
     "name": "Tierschlachtungsmeldung",
-    "kategorie": "Veterinär & Lebensmittel",
     "einheit": "oe-amt-71",
     "schutzstufe": "B",
     "schutzbedarf": "hoch",
@@ -6335,7 +6105,6 @@
   {
     "id": "dstore-tierseuchenschutzmeldung",
     "name": "Tierseuchenschutzmeldung",
-    "kategorie": "Veterinär & Gesundheit",
     "einheit": "oe-amt-71",
     "schutzstufe": "C",
     "schutzbedarf": "hoch",
@@ -6360,7 +6129,6 @@
   {
     "id": "dstore-tiertransportgenehmigung",
     "name": "Tiertransportgenehmigung",
-    "kategorie": "Veterinär & Transport",
     "einheit": "oe-amt-71",
     "schutzstufe": "B",
     "schutzbedarf": "hoch",
@@ -6385,7 +6153,6 @@
   {
     "id": "dstore-todesbescheinigung",
     "name": "Todesbescheinigung",
-    "kategorie": "Gesundheit & Soziales",
     "einheit": "oe-amt-53",
     "schutzstufe": "D",
     "schutzbedarf": "hoch",
@@ -6409,7 +6176,6 @@
   {
     "id": "dstore-uebermittlungssperre-melderegister",
     "name": "Übermittlungssperre Melderegister",
-    "kategorie": "Melde- & Schutzdaten",
     "einheit": "oe-amt-33",
     "schutzstufe": "C",
     "schutzbedarf": "hoch",
@@ -6434,7 +6200,6 @@
   {
     "id": "dstore-uebersetzung-apostille-legalisation",
     "name": "Übersetzung, Apostille und Legalisation",
-    "kategorie": "Auslandsbezug & Dokumente",
     "einheit": "oe-amt-30",
     "schutzstufe": "C",
     "schutzbedarf": "normal",
@@ -6459,7 +6224,6 @@
   {
     "id": "dstore-umweltdaten",
     "name": "Umweltdaten",
-    "kategorie": "Umwelt & Gesundheit",
     "einheit": "oe-amt-60",
     "schutzstufe": null,
     "schutzbedarf": null,
@@ -6483,7 +6247,6 @@
   {
     "id": "dstore-unionsbuergerfreizuegigkeit",
     "name": "Unionsbürgerfreizügigkeit",
-    "kategorie": "Migration & Aufenthalt",
     "einheit": "oe-amt-47",
     "schutzstufe": "D",
     "schutzbedarf": "hoch",
@@ -6508,7 +6271,6 @@
   {
     "id": "dstore-unterbringung-npsychkg",
     "name": "Unterbringungsverfahren nach NPsychKG",
-    "kategorie": "Gesundheit & Soziales",
     "einheit": "oe-amt-54",
     "schutzstufe": "E",
     "schutzbedarf": "hoch",
@@ -6535,7 +6297,6 @@
   {
     "id": "dstore-unterhaltszahlungen-ansprueche",
     "name": "Unterhaltszahlungen und Unterhaltsansprüche",
-    "kategorie": "Familie & Soziales",
     "einheit": "oe-amt-50",
     "schutzstufe": "D",
     "schutzbedarf": "hoch",
@@ -6560,7 +6321,6 @@
   {
     "id": "dstore-unterkunftskosten",
     "name": "Unterkunftskosten",
-    "kategorie": "Wohnen & Soziales",
     "einheit": "oe-amt-64",
     "schutzstufe": "D",
     "schutzbedarf": "hoch",
@@ -6585,7 +6345,6 @@
   {
     "id": "dstore-unternehmens-und-registerdaten",
     "name": "Unternehmens- und Registerdaten",
-    "kategorie": "Gewerbe & Organisation",
     "einheit": "oe-amt-32",
     "schutzstufe": "B",
     "schutzbedarf": "normal",
@@ -6610,7 +6369,6 @@
   {
     "id": "dstore-urlaubs-und-abwesenheitsdaten",
     "name": "Urlaubs- und Abwesenheitsdaten",
-    "kategorie": "Personal",
     "einheit": "oe-amt-11",
     "schutzstufe": "D",
     "schutzbedarf": "hoch",
@@ -6637,7 +6395,6 @@
   {
     "id": "dstore-vaterschaftsanerkennung",
     "name": "Vaterschaftsanerkennung",
-    "kategorie": "Personenstandsdaten",
     "einheit": "oe-amt-31",
     "schutzstufe": "C",
     "schutzbedarf": "hoch",
@@ -6662,7 +6419,6 @@
   {
     "id": "dstore-veranstalterdaten",
     "name": "Veranstalterdaten",
-    "kategorie": "Veranstaltungen & Gewerbe",
     "einheit": "oe-amt-38",
     "schutzstufe": "C",
     "schutzbedarf": "normal",
@@ -6687,7 +6443,6 @@
   {
     "id": "dstore-veranstaltungssicherheitskonzept",
     "name": "Veranstaltungssicherheitskonzept",
-    "kategorie": "Veranstaltungen & Sicherheit",
     "einheit": "oe-amt-32",
     "schutzstufe": "B",
     "schutzbedarf": "normal",
@@ -6712,7 +6467,6 @@
   {
     "id": "dstore-veranstaltungsteilnahme",
     "name": "Teilnahme an Veranstaltungen",
-    "kategorie": "Veranstaltungen & Gewerbe",
     "einheit": "oe-hvb",
     "schutzstufe": "B",
     "schutzbedarf": "normal",
@@ -6736,7 +6490,6 @@
   {
     "id": "dstore-verdachtsmeldung-geldwaesche",
     "name": "Verdachtsmeldung nach Geldwäschegesetz",
-    "kategorie": "Ordnung & Sicherheit",
     "einheit": "oe-amt-32",
     "schutzstufe": "D",
     "schutzbedarf": "hoch",
@@ -6762,7 +6515,6 @@
   {
     "id": "dstore-vergabe-auftragsbezug",
     "name": "Vergabe- und Auftragsbezug",
-    "kategorie": "Beschaffung & Finanzen",
     "einheit": "oe-amt-10",
     "schutzstufe": "C",
     "schutzbedarf": "hoch",
@@ -6787,7 +6539,6 @@
   {
     "id": "dstore-vergabekriterien-einheimischenmodell",
     "name": "Vergabekriterien Wohnbaugrundstücke (Einheimischenmodell)",
-    "kategorie": "Bauen & Grundstück",
     "einheit": "oe-amt-23",
     "schutzstufe": "D",
     "schutzbedarf": "normal",
@@ -6813,7 +6564,6 @@
   {
     "id": "dstore-vergabeunterlagen",
     "name": "Vergabeunterlagen",
-    "kategorie": "Finanzen & Steuern",
     "einheit": "oe-amt-10",
     "schutzstufe": "C",
     "schutzbedarf": "hoch",
@@ -6837,7 +6587,6 @@
   {
     "id": "dstore-verlustanzeige-ausweisdokument",
     "name": "Verlustanzeige Ausweisdokument",
-    "kategorie": "Identitätsdaten",
     "einheit": "oe-amt-33",
     "schutzstufe": "C",
     "schutzbedarf": "hoch",
@@ -6862,7 +6611,6 @@
   {
     "id": "dstore-verpflichtungserklaerung",
     "name": "Verpflichtungserklärung",
-    "kategorie": "Migration & Verpflichtung",
     "einheit": "oe-amt-47",
     "schutzstufe": "D",
     "schutzbedarf": "hoch",
@@ -6887,7 +6635,6 @@
   {
     "id": "dstore-versammlungsanzeige",
     "name": "Versammlungsanzeige und Auflagen",
-    "kategorie": "Ordnung & Sicherheit",
     "einheit": "oe-amt-32",
     "schutzstufe": "D",
     "schutzbedarf": "hoch",
@@ -6914,7 +6661,6 @@
   {
     "id": "dstore-versickerung-regenwasserkonzept",
     "name": "Versickerungs- und Regenwasserkonzept",
-    "kategorie": "Umwelt & Entwässerung",
     "einheit": "oe-amt-67",
     "schutzstufe": "B",
     "schutzbedarf": "normal",
@@ -6939,7 +6685,6 @@
   {
     "id": "dstore-verstorbenenhinweis-melderegister",
     "name": "Verstorbenenhinweis im Melderegister",
-    "kategorie": "Register- und Nachweisdaten",
     "einheit": "oe-amt-33",
     "schutzstufe": "C",
     "schutzbedarf": "hoch",
@@ -6963,7 +6708,6 @@
   {
     "id": "dstore-verwahrgut-sicherstellung",
     "name": "Verwahrgut aus Sicherstellung",
-    "kategorie": "Sicherheit & Ordnung",
     "einheit": "oe-amt-20",
     "schutzstufe": "C",
     "schutzbedarf": "hoch",
@@ -6991,7 +6735,6 @@
   {
     "id": "dstore-verwaltungsakte",
     "name": "Verwaltungsakte",
-    "kategorie": "Verwaltungsakte & Dokumente",
     "einheit": "oe-amt-10",
     "schutzstufe": "C",
     "schutzbedarf": "hoch",
@@ -7016,7 +6759,6 @@
   {
     "id": "dstore-verwaltungsakte-vertraulich",
     "name": "Vorgangsakte in Verfahren, deren Zugehörigkeit selbst schutzbedürftig ist",
-    "kategorie": "Allgemeine Verwaltung",
     "einheit": "oe-amt-10",
     "schutzstufe": "D",
     "schutzbedarf": "hoch",
@@ -7041,7 +6783,6 @@
   {
     "id": "dstore-verwendungszweck-fuehrungszeugnis",
     "name": "Verwendungszweck Führungszeugnis",
-    "kategorie": "Sicherheit & Nachweise",
     "einheit": "oe-amt-32",
     "schutzstufe": "C",
     "schutzbedarf": "normal",
@@ -7066,7 +6807,6 @@
   {
     "id": "dstore-veterinaerrechtliche-betriebsnummer",
     "name": "Veterinärrechtliche Betriebsnummer",
-    "kategorie": "Veterinär & Register",
     "einheit": "oe-amt-71",
     "schutzstufe": "B",
     "schutzbedarf": "hoch",
@@ -7091,7 +6831,6 @@
   {
     "id": "dstore-videoueberwachungsaufzeichnung",
     "name": "Videoüberwachungsaufzeichnung",
-    "kategorie": "Sicherheit & Ordnung",
     "einheit": "oe-amt-23",
     "schutzstufe": "D",
     "schutzbedarf": "hoch",
@@ -7116,7 +6855,6 @@
   {
     "id": "dstore-vollmacht-vertretung-berechtigung",
     "name": "Vollmacht, Vertretung und Berechtigungsnachweis",
-    "kategorie": "Berechtigungsdaten",
     "einheit": "oe-amt-33",
     "schutzstufe": "C",
     "schutzbedarf": "hoch",
@@ -7141,7 +6879,6 @@
   {
     "id": "dstore-vorsorge-betreuungsvollmacht",
     "name": "Vorsorge- und Betreuungsvollmacht",
-    "kategorie": "Soziales & Gesundheit",
     "einheit": "oe-amt-50",
     "schutzstufe": "D",
     "schutzbedarf": "hoch",
@@ -7165,7 +6902,6 @@
   {
     "id": "dstore-waffenrechtliche-erlaubnis",
     "name": "Waffenrechtliche Erlaubnis und Jagdschein",
-    "kategorie": "Ordnung & Erlaubnisse",
     "einheit": "oe-amt-32",
     "schutzstufe": "D",
     "schutzbedarf": "hoch",
@@ -7192,7 +6928,6 @@
   {
     "id": "dstore-wahlunterlagen",
     "name": "Wahlunterlagen",
-    "kategorie": "Wahlen & Gremien",
     "einheit": "oe-amt-10",
     "schutzstufe": "C",
     "schutzbedarf": "hoch",
@@ -7216,7 +6951,6 @@
   {
     "id": "dstore-wildursprungsschein",
     "name": "Wildursprungsschein",
-    "kategorie": "Veterinär & Lebensmittel",
     "einheit": "oe-amt-71",
     "schutzstufe": "B",
     "schutzbedarf": "hoch",
@@ -7241,7 +6975,6 @@
   {
     "id": "dstore-wohnberechtigung",
     "name": "Wohnberechtigung",
-    "kategorie": "Wohnen & Soziales",
     "einheit": "oe-amt-64",
     "schutzstufe": "D",
     "schutzbedarf": "hoch",
@@ -7266,7 +6999,6 @@
   {
     "id": "dstore-wohnflaeche-nutzflaeche",
     "name": "Wohnfläche und Nutzfläche",
-    "kategorie": "Bauen & Grundstück",
     "einheit": "oe-amt-64",
     "schutzstufe": "C",
     "schutzbedarf": "normal",
@@ -7291,7 +7023,6 @@
   {
     "id": "dstore-wohngeld",
     "name": "Wohngeldantrag",
-    "kategorie": "Soziales & Jugend",
     "einheit": "oe-amt-64",
     "schutzstufe": "D",
     "schutzbedarf": "hoch",
@@ -7315,7 +7046,6 @@
   {
     "id": "dstore-wohngeldbewilligungszeitraum",
     "name": "Bewilligungszeitraum Wohngeld",
-    "kategorie": "Wohnen & Soziales",
     "einheit": "oe-amt-64",
     "schutzstufe": "D",
     "schutzbedarf": "hoch",
@@ -7340,7 +7070,6 @@
   {
     "id": "dstore-wohnraumnachweis-aufenthalt",
     "name": "Wohnraumnachweis Aufenthalt",
-    "kategorie": "Migration & Aufenthalt",
     "einheit": "oe-amt-47",
     "schutzstufe": "D",
     "schutzbedarf": "hoch",
@@ -7365,7 +7094,6 @@
   {
     "id": "dstore-wohnstatus-haupt-nebenwohnung",
     "name": "Wohnstatus Haupt- und Nebenwohnung",
-    "kategorie": "Wohnen & Melderecht",
     "einheit": "oe-amt-33",
     "schutzstufe": "B",
     "schutzbedarf": "normal",
@@ -7389,7 +7117,6 @@
   {
     "id": "dstore-wohnungsgeberbestaetigung",
     "name": "Wohnungsgeberbestätigung",
-    "kategorie": "Wohnen & Melderecht",
     "einheit": "oe-amt-33",
     "schutzstufe": "B",
     "schutzbedarf": "normal",
@@ -7414,7 +7141,6 @@
   {
     "id": "dstore-wohnungszuordnungsmerkmal",
     "name": "Wohnungszuordnungsmerkmal",
-    "kategorie": "Wohnen & Melderecht",
     "einheit": "oe-amt-64",
     "schutzstufe": "B",
     "schutzbedarf": "normal",
@@ -7438,7 +7164,6 @@
   {
     "id": "dstore-zahlungsziel-faelligkeit",
     "name": "Zahlungsziel und Fälligkeit",
-    "kategorie": "Finanzen & Zahlung",
     "einheit": "oe-amt-20",
     "schutzstufe": "C",
     "schutzbedarf": "hoch",
@@ -7463,7 +7188,6 @@
   {
     "id": "dstore-zeugenangaben-schadensfall",
     "name": "Zeugenangaben im Schadensfall",
-    "kategorie": "Ordnung & Sicherheit",
     "einheit": "oe-amt-86",
     "schutzstufe": "D",
     "schutzbedarf": "hoch",
@@ -7487,7 +7211,6 @@
   {
     "id": "dstore-zuverlaessigkeitsanfrage-sicherheitsbehoerden",
     "name": "Zuverlässigkeitsanfrage bei Sicherheitsbehörden",
-    "kategorie": "Sicherheit & Nachweise",
     "einheit": "oe-amt-32",
     "schutzstufe": "D",
     "schutzbedarf": "hoch",
@@ -7513,7 +7236,6 @@
   {
     "id": "dstore-zweckgebundene-urkunde",
     "name": "Zweckgebundene Urkunde",
-    "kategorie": "Personenstandsdaten",
     "einheit": "oe-amt-50",
     "schutzstufe": "C",
     "schutzbedarf": "hoch",

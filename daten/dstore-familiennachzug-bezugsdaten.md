@@ -3,7 +3,6 @@ id: dstore-familiennachzug-bezugsdaten
 typ: datenspeicher
 system: null
 name: Familiennachzugbezug
-datenkategorie: Migration & Familie
 zuständige-einheit: oe-amt-47
 bpmn:
   typ: datenspeicher

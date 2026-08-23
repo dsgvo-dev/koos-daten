@@ -3,7 +3,6 @@ id: dstore-sorgerechtserklaerung
 typ: datenspeicher
 system: null
 name: Sorgeerklärung
-datenkategorie: Personenstandsdaten
 zuständige-einheit: oe-amt-31
 bpmn:
   typ: datenobjekt

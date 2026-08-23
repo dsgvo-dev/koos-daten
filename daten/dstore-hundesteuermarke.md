@@ -3,7 +3,6 @@ id: dstore-hundesteuermarke
 typ: datenspeicher
 system: null
 name: Hundesteuermarke
-datenkategorie: Tiere & Haltung
 zuständige-einheit: oe-amt-32
 bpmn:
   typ: datenobjekt

@@ -3,7 +3,6 @@ id: dstore-heiratsurkunde
 typ: datenspeicher
 system: null
 name: Heiratsurkunde
-datenkategorie: Standesamt
 zuständige-einheit: oe-amt-31
 bpmn:
   typ: datenobjekt

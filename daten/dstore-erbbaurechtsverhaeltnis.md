@@ -3,7 +3,6 @@ id: dstore-erbbaurechtsverhaeltnis
 typ: datenspeicher
 system: null
 name: Erbbaurechtsverhältnis
-datenkategorie: Liegenschaften
 zuständige-einheit: oe-amt-23
 bpmn:
   typ: datenspeicher

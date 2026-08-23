@@ -3,7 +3,6 @@ id: dstore-ausleihvorgang-bibliothek
 typ: datenspeicher
 system: null
 name: Ausleihvorgang in der Bibliothek
-datenkategorie: Kultur & Bildung
 zuständige-einheit: oe-amt-41
 bpmn:
   typ: datenobjekt

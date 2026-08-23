@@ -3,7 +3,6 @@ id: dstore-antragsbegruendung-schulbezirk
 typ: datenspeicher
 system: null
 name: Begründung eines Ausnahmeantrags zum Schulbesuch
-datenkategorie: Bildung & Schule
 zuständige-einheit: oe-amt-40
 bpmn:
   typ: datenobjekt

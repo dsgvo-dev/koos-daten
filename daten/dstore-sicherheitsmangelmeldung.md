@@ -3,7 +3,6 @@ id: dstore-sicherheitsmangelmeldung
 typ: datenspeicher
 system: null
 name: Sicherheitsmangelmeldung
-datenkategorie: Ordnung & Sicherheit
 zuständige-einheit: oe-amt-32
 bpmn:
   typ: datenobjekt

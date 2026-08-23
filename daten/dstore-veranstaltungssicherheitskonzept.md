@@ -3,7 +3,6 @@ id: dstore-veranstaltungssicherheitskonzept
 typ: datenspeicher
 system: null
 name: Veranstaltungssicherheitskonzept
-datenkategorie: Veranstaltungen & Sicherheit
 zuständige-einheit: oe-amt-32
 bpmn:
   typ: datenobjekt

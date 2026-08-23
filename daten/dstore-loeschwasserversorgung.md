@@ -3,7 +3,6 @@ id: dstore-loeschwasserversorgung
 typ: datenspeicher
 system: null
 name: Löschwasserversorgung
-datenkategorie: Feuerwehr & Brandschutz
 zuständige-einheit: oe-amt-37
 bpmn:
   typ: datenspeicher

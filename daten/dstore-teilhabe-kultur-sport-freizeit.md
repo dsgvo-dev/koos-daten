@@ -3,7 +3,6 @@ id: dstore-teilhabe-kultur-sport-freizeit
 typ: datenspeicher
 system: null
 name: Teilhabe an Kultur, Sport und Freizeit
-datenkategorie: Bildung & Teilhabe
 zuständige-einheit: oe-amt-41
 bpmn:
   typ: datenspeicher

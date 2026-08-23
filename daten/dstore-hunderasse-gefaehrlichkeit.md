@@ -3,7 +3,6 @@ id: dstore-hunderasse-gefaehrlichkeit
 typ: datenspeicher
 system: null
 name: Hunderasse und Gefährlichkeitsbezug
-datenkategorie: Tiere & Haltung
 zuständige-einheit: oe-amt-32
 bpmn:
   typ: datenobjekt

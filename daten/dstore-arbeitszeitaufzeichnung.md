@@ -3,7 +3,6 @@ id: dstore-arbeitszeitaufzeichnung
 typ: datenspeicher
 system: null
 name: Arbeitszeitaufzeichnung
-datenkategorie: Personal
 zuständige-einheit: oe-amt-11
 bpmn:
   typ: datenobjekt

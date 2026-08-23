@@ -3,7 +3,6 @@ id: dstore-sitzungsprotokoll
 typ: datenspeicher
 system: null
 name: Sitzungsprotokoll
-datenkategorie: Wahlen & Gremien
 zuständige-einheit: oe-amt-10
 bpmn:
   typ: datenobjekt

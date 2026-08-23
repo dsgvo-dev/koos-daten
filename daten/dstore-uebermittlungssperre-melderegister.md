@@ -3,7 +3,6 @@ id: dstore-uebermittlungssperre-melderegister
 typ: datenspeicher
 system: null
 name: Übermittlungssperre Melderegister
-datenkategorie: Melde- & Schutzdaten
 zuständige-einheit: oe-amt-33
 bpmn:
   typ: datenspeicher

@@ -3,7 +3,6 @@ id: dstore-urlaubs-und-abwesenheitsdaten
 typ: datenspeicher
 system: null
 name: Urlaubs- und Abwesenheitsdaten
-datenkategorie: Personal
 zuständige-einheit: oe-amt-11
 bpmn:
   typ: datenobjekt

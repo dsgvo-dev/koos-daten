@@ -3,7 +3,6 @@ id: dstore-kindergeldbezug
 typ: datenspeicher
 system: null
 name: Kindergeldbezug
-datenkategorie: Familie & Soziales
 zuständige-einheit: oe-amt-50
 bpmn:
   typ: datenobjekt

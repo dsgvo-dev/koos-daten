@@ -3,7 +3,6 @@ id: dstore-fingerabdruckdaten
 typ: datenspeicher
 system: null
 name: Fingerabdruckdaten
-datenkategorie: Identitätsdaten
 zuständige-einheit: oe-amt-33
 bpmn:
   typ: datenobjekt

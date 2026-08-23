@@ -3,7 +3,6 @@ id: dstore-personenstammdaten-vertraulich
 typ: datenspeicher
 system: null
 name: Identifikations- und Zuordnungsdaten natürlicher Personen in Verfahren, deren Zugehörigkei
-datenkategorie: Bürgerdienste & Meldewesen
 zuständige-einheit: oe-amt-33
 bpmn:
   typ: datenobjekt

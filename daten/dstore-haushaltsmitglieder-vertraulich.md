@@ -3,7 +3,6 @@ id: dstore-haushaltsmitglieder-vertraulich
 typ: datenspeicher
 system: null
 name: Haushaltsmitglieder und Haushaltsgröße in vertraulichen Verfahren
-datenkategorie: Wohnen & Soziales
 zuständige-einheit: oe-amt-50
 bpmn:
   typ: datenobjekt

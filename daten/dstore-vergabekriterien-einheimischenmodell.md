@@ -3,7 +3,6 @@ id: dstore-vergabekriterien-einheimischenmodell
 typ: datenspeicher
 system: null
 name: Vergabekriterien Wohnbaugrundstücke (Einheimischenmodell)
-datenkategorie: Bauen & Grundstück
 zuständige-einheit: oe-amt-23
 bpmn:
   typ: datenobjekt

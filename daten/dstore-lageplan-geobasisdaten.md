@@ -3,7 +3,6 @@ id: dstore-lageplan-geobasisdaten
 typ: datenspeicher
 system: null
 name: Lageplan und Geobasisdaten
-datenkategorie: Bauen & Grundstück
 zuständige-einheit: oe-amt-62
 bpmn:
   typ: datenobjekt

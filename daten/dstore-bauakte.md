@@ -3,7 +3,6 @@ id: dstore-bauakte
 typ: datenspeicher
 system: null
 name: Bauakte
-datenkategorie: Bescheid / Nachweis
 zuständige-einheit: oe-amt-63
 bpmn:
   typ: datenspeicher

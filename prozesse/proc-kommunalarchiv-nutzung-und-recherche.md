@@ -12,11 +12,12 @@ daten:
   output: []
   datenspeicher:
   - id: dstore-personenstammdaten
+  - id: dstore-archivgut
 regelungen:
   - '§§ 1-8 Nds. Archivgesetz (NArchG)'
   - '§ 3 NArchG (Anbietungspflicht)'
   - '§ 5 NArchG (Archivwürdigkeit)'
-letzte-aktualisierung: 2026-04-06
+letzte-aktualisierung: 2026-08-15
 ---
 # Kommunalarchiv: Nutzung und Recherche
 
@@ -42,3 +43,11 @@ letzte-aktualisierung: 2026-04-06
 
 
 *Quelle: Allgemeine Verwaltungspraxis*
+
+**Ergänzung 2026-08-15:** `dstore-archivgut` aufgenommen, parallel zu `vvt-41-003`.
+
+**Offen, nicht angefasst:** Die Regelungen dieser Datei zitieren zwei Normen falsch.
+„§ 3 NArchG (Anbietungspflicht)" gilt für kommunale Archive nicht — § 7 Abs. 3 Satz 2 NArchG
+verweist nicht auf § 3 Abs. 1; maßgeblich ist die Archivsatzung (§ 7 Abs. 3 Satz 4).
+„§ 5 NArchG (Archivwürdigkeit)" ist ebenfalls unrichtig: § 5 regelt die Nutzung, der
+bleibende Wert steht in § 2 Abs. 2. Die zugehörige VVT hat beides am 2026-07-30 korrigiert.

@@ -3,7 +3,6 @@ id: dstore-unionsbuergerfreizuegigkeit
 typ: datenspeicher
 system: null
 name: Unionsbürgerfreizügigkeit
-datenkategorie: Migration & Aufenthalt
 zuständige-einheit: oe-amt-47
 bpmn:
   typ: datenspeicher

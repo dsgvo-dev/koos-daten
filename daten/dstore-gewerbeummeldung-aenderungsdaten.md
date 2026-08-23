@@ -3,7 +3,6 @@ id: dstore-gewerbeummeldung-aenderungsdaten
 typ: datenspeicher
 system: null
 name: Gewerbeummeldung Änderungsdaten
-datenkategorie: Gewerbe & Betrieb
 zuständige-einheit: oe-amt-32
 bpmn:
   typ: datenobjekt

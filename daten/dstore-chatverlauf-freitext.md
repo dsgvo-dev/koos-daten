@@ -3,7 +3,6 @@ id: dstore-chatverlauf-freitext
 typ: datenspeicher
 system: null
 name: Chatverlauf mit Freitexteingaben
-datenkategorie: Digitale Verwaltung
 zuständige-einheit: oe-amt-15
 bpmn:
   typ: datenobjekt

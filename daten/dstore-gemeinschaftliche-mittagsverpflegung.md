@@ -3,7 +3,6 @@ id: dstore-gemeinschaftliche-mittagsverpflegung
 typ: datenspeicher
 system: null
 name: Gemeinschaftliche Mittagsverpflegung
-datenkategorie: Bildung & Teilhabe
 zuständige-einheit: oe-amt-40
 bpmn:
   typ: datenspeicher

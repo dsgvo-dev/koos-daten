@@ -3,7 +3,6 @@ id: dstore-biometrische-daten-lichtbild
 typ: datenspeicher
 system: null
 name: Biometrische Daten und Lichtbild
-datenkategorie: Identitätsdaten
 zuständige-einheit: oe-amt-33
 bpmn:
   typ: datenobjekt

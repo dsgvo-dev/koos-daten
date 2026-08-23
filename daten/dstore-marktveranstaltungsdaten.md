@@ -3,7 +3,6 @@ id: dstore-marktveranstaltungsdaten
 typ: datenspeicher
 system: null
 name: Marktveranstaltungsdaten
-datenkategorie: Veranstaltungen & Gewerbe
 zuständige-einheit: oe-amt-38
 bpmn:
   typ: datenobjekt

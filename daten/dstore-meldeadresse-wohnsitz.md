@@ -3,7 +3,6 @@ id: dstore-meldeadresse-wohnsitz
 typ: datenspeicher
 system: null
 name: Meldeadresse und Wohnsitzdaten
-datenkategorie: Identitätsdaten
 zuständige-einheit: oe-amt-33
 bpmn:
   typ: datenspeicher

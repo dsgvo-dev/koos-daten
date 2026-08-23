@@ -3,7 +3,6 @@ id: dstore-vollmacht-vertretung-berechtigung
 typ: datenspeicher
 system: null
 name: Vollmacht, Vertretung und Berechtigungsnachweis
-datenkategorie: Berechtigungsdaten
 zuständige-einheit: oe-amt-33
 bpmn:
   typ: datenobjekt

@@ -3,7 +3,6 @@ id: dstore-versammlungsanzeige
 typ: datenspeicher
 system: null
 name: Versammlungsanzeige und Auflagen
-datenkategorie: Ordnung & Sicherheit
 zuständige-einheit: oe-amt-32
 bpmn:
   typ: datenobjekt

@@ -3,7 +3,6 @@ id: dstore-auslaendische-personenstandsurkunde
 typ: datenspeicher
 system: null
 name: Ausländische Personenstandsurkunde
-datenkategorie: Auslandsbezug & Dokumente
 zuständige-einheit: oe-amt-31
 bpmn:
   typ: datenobjekt

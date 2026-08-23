@@ -3,7 +3,6 @@ id: dstore-elektronische-rechnungsstellung
 typ: datenspeicher
 system: null
 name: Elektronische Rechnungsstellung
-datenkategorie: Finanzen & E-Government
 zuständige-einheit: oe-amt-20
 bpmn:
   typ: datenobjekt

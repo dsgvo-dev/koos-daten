@@ -3,7 +3,6 @@ id: dstore-reisegewerbekarte
 typ: datenspeicher
 system: null
 name: Reisegewerbekarte
-datenkategorie: Gewerbe & Erlaubnisse
 zuständige-einheit: oe-amt-32
 bpmn:
   typ: datenobjekt

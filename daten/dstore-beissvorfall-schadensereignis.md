@@ -3,7 +3,6 @@ id: dstore-beissvorfall-schadensereignis
 typ: datenspeicher
 system: null
 name: Beißvorfall und Schadensereignis
-datenkategorie: Tiere & Haltung
 zuständige-einheit: oe-amt-32
 bpmn:
   typ: datenobjekt

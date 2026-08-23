@@ -3,7 +3,6 @@ id: dstore-geburtsdaten-kind
 typ: datenspeicher
 system: null
 name: Geburtsdaten eines Kindes
-datenkategorie: Personenstandsdaten
 zuständige-einheit: oe-amt-31
 bpmn:
   typ: nachricht

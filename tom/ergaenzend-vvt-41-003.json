@@ -7,7 +7,7 @@
   "erstellt_am": "2026-08-15",
   "risiko_aktuell": {
     "dsgvo": 9,
-    "bsi_v": 3,
+    "bsi_v": 6,
     "bsi_i": 6,
     "bsi_a": 6
   },
@@ -21,6 +21,7 @@
     "Speicherbegrenzung",
     "Transparenz",
     "Verfügbarkeit",
+    "Vertraulichkeit",
     "Zweckbindung"
   ],
   "zusatz_toms": [
@@ -39,9 +40,10 @@
         "Speicherbegrenzung",
         "Transparenz",
         "Verfügbarkeit",
+        "Vertraulichkeit",
         "Zweckbindung"
       ],
-      "score": 91,
+      "score": 100,
       "wirkung": 3
     },
     {
@@ -59,9 +61,10 @@
         "Speicherbegrenzung",
         "Transparenz",
         "Verfügbarkeit",
+        "Vertraulichkeit",
         "Zweckbindung"
       ],
-      "score": 91,
+      "score": 100,
       "wirkung": 3
     },
     {
@@ -79,9 +82,10 @@
         "Speicherbegrenzung",
         "Transparenz",
         "Verfügbarkeit",
+        "Vertraulichkeit",
         "Zweckbindung"
       ],
-      "score": 91,
+      "score": 100,
       "wirkung": 3
     },
     {
@@ -99,9 +103,10 @@
         "Speicherbegrenzung",
         "Transparenz",
         "Verfügbarkeit",
+        "Vertraulichkeit",
         "Zweckbindung"
       ],
-      "score": 91,
+      "score": 100,
       "wirkung": 2
     },
     {
@@ -118,9 +123,10 @@
         "Speicherbegrenzung",
         "Transparenz",
         "Verfügbarkeit",
+        "Vertraulichkeit",
         "Zweckbindung"
       ],
-      "score": 82,
+      "score": 91,
       "wirkung": 2
     },
     {
@@ -137,9 +143,10 @@
         "Speicherbegrenzung",
         "Transparenz",
         "Verfügbarkeit",
+        "Vertraulichkeit",
         "Zweckbindung"
       ],
-      "score": 82,
+      "score": 91,
       "wirkung": 2
     },
     {
@@ -156,9 +163,10 @@
         "Speicherbegrenzung",
         "Transparenz",
         "Verfügbarkeit",
+        "Vertraulichkeit",
         "Zweckbindung"
       ],
-      "score": 82,
+      "score": 91,
       "wirkung": 3
     },
     {
@@ -172,9 +180,10 @@
         "Nichtverkettung",
         "Transparenz",
         "Verfügbarkeit",
+        "Vertraulichkeit",
         "Zweckbindung"
       ],
-      "score": 55,
+      "score": 64,
       "wirkung": 2
     },
     {
@@ -188,9 +197,10 @@
         "Nichtverkettung",
         "Transparenz",
         "Verfügbarkeit",
+        "Vertraulichkeit",
         "Zweckbindung"
       ],
-      "score": 55,
+      "score": 64,
       "wirkung": 2
     },
     {
@@ -204,9 +214,10 @@
         "Nichtverkettung",
         "Transparenz",
         "Verfügbarkeit",
+        "Vertraulichkeit",
         "Zweckbindung"
       ],
-      "score": 55,
+      "score": 64,
       "wirkung": 1
     },
     {
@@ -219,9 +230,10 @@
         "Integrität",
         "Intervernierbarkeit",
         "Verfügbarkeit",
+        "Vertraulichkeit",
         "Zweckbindung"
       ],
-      "score": 45,
+      "score": 55,
       "wirkung": 3
     },
     {
@@ -234,9 +246,10 @@
         "Nichtverkettung",
         "Richtigkeit",
         "Speicherbegrenzung",
+        "Vertraulichkeit",
         "Zweckbindung"
       ],
-      "score": 45,
+      "score": 55,
       "wirkung": 3
     },
     {
@@ -249,9 +262,10 @@
         "Intervernierbarkeit",
         "Nichtverkettung",
         "Rechtmäßigkeit",
+        "Vertraulichkeit",
         "Zweckbindung"
       ],
-      "score": 45,
+      "score": 55,
       "wirkung": 2
     },
     {
@@ -264,10 +278,114 @@
         "Intervernierbarkeit",
         "Nichtverkettung",
         "Rechtmäßigkeit",
+        "Vertraulichkeit",
+        "Zweckbindung"
+      ],
+      "score": 55,
+      "wirkung": 1
+    },
+    {
+      "id": "TOM-ORG-019",
+      "name": "Organisatorische Maßnahmen zur Nutzung von Homeoffice",
+      "kategorie": "ORG",
+      "typ": "Grundmaßnahme",
+      "schutzziele_ueberlappung": [
+        "Integrität",
+        "Nichtverkettung",
+        "Rechtmäßigkeit",
+        "Vertraulichkeit",
         "Zweckbindung"
       ],
       "score": 45,
       "wirkung": 1
+    },
+    {
+      "id": "TOM-ORG-014",
+      "name": "Regelung zum Umgang mit mobilen Datenträgern",
+      "kategorie": "ORG",
+      "typ": "Grundmaßnahme",
+      "schutzziele_ueberlappung": [
+        "Integrität",
+        "Rechtmäßigkeit",
+        "Verfügbarkeit",
+        "Vertraulichkeit",
+        "Zweckbindung"
+      ],
+      "score": 45,
+      "wirkung": 2
+    },
+    {
+      "id": "TOM-ORG-016",
+      "name": "Schulung der Beschäftigten",
+      "kategorie": "ORG",
+      "typ": "Grundmaßnahme",
+      "schutzziele_ueberlappung": [
+        "Integrität",
+        "Nichtverkettung",
+        "Rechtmäßigkeit",
+        "Vertraulichkeit",
+        "Zweckbindung"
+      ],
+      "score": 45,
+      "wirkung": 3
+    },
+    {
+      "id": "TOM-ORG-015",
+      "name": "Verpflichtung der Beschäftigten",
+      "kategorie": "ORG",
+      "typ": "Grundmaßnahme",
+      "schutzziele_ueberlappung": [
+        "Integrität",
+        "Nichtverkettung",
+        "Rechtmäßigkeit",
+        "Vertraulichkeit",
+        "Zweckbindung"
+      ],
+      "score": 45,
+      "wirkung": 2
+    },
+    {
+      "id": "TOM-SW-013",
+      "name": "Rollenkonzept",
+      "kategorie": "SW",
+      "typ": "Verfahrensspezifische Maßnahme",
+      "schutzziele_ueberlappung": [
+        "Erforderlichkeit",
+        "Nichtverkettung",
+        "Speicherbegrenzung",
+        "Vertraulichkeit",
+        "Zweckbindung"
+      ],
+      "score": 45,
+      "wirkung": 3
+    },
+    {
+      "id": "TOM-ORG-021",
+      "name": "Alarmanlage",
+      "kategorie": "ORG",
+      "typ": "Grundmaßnahme",
+      "schutzziele_ueberlappung": [
+        "Integrität",
+        "Verfügbarkeit",
+        "Vertraulichkeit",
+        "Zweckbindung"
+      ],
+      "score": 36,
+      "wirkung": 3
+    },
+    {
+      "id": "TOM-ORG-022",
+      "name": "Elektronisches Zugangskontrollsystem",
+      "kategorie": "ORG",
+      "typ": "Grundmaßnahme",
+      "schutzziele_ueberlappung": [
+        "Integrität",
+        "Verfügbarkeit",
+        "Vertraulichkeit",
+        "Zweckbindung"
+      ],
+      "score": 36,
+      "wirkung": 3
     },
     {
       "id": "TOM-ORG-046",
@@ -280,7 +398,7 @@
         "Transparenz",
         "Zweckbindung"
       ],
-      "score": 40,
+      "score": 36,
       "wirkung": 3
     },
     {
@@ -294,7 +412,7 @@
         "Transparenz",
         "Zweckbindung"
       ],
-      "score": 40,
+      "score": 36,
       "wirkung": 3
     },
     {
@@ -308,81 +426,109 @@
         "Transparenz",
         "Zweckbindung"
       ],
-      "score": 40,
+      "score": 36,
       "wirkung": 3
     },
     {
-      "id": "TOM-ORG-019",
-      "name": "Organisatorische Maßnahmen zur Nutzung von Homeoffice",
+      "id": "TOM-ORG-026",
+      "name": "Personenkontrolle",
       "kategorie": "ORG",
       "typ": "Grundmaßnahme",
       "schutzziele_ueberlappung": [
         "Integrität",
-        "Nichtverkettung",
-        "Rechtmäßigkeit",
-        "Zweckbindung"
-      ],
-      "score": 36,
-      "wirkung": 1
-    },
-    {
-      "id": "TOM-ORG-014",
-      "name": "Regelung zum Umgang mit mobilen Datenträgern",
-      "kategorie": "ORG",
-      "typ": "Grundmaßnahme",
-      "schutzziele_ueberlappung": [
-        "Integrität",
-        "Rechtmäßigkeit",
         "Verfügbarkeit",
+        "Vertraulichkeit",
         "Zweckbindung"
       ],
       "score": 36,
       "wirkung": 2
     },
     {
-      "id": "TOM-ORG-016",
-      "name": "Schulung der Beschäftigten",
+      "id": "TOM-ORG-013",
+      "name": "Prozess zur Prüfung des Verpflichtungsgesetzes",
       "kategorie": "ORG",
       "typ": "Grundmaßnahme",
       "schutzziele_ueberlappung": [
         "Integrität",
-        "Nichtverkettung",
         "Rechtmäßigkeit",
+        "Vertraulichkeit",
+        "Zweckbindung"
+      ],
+      "score": 36,
+      "wirkung": 2
+    },
+    {
+      "id": "TOM-ORG-024",
+      "name": "Schlüsselregelung",
+      "kategorie": "ORG",
+      "typ": "Grundmaßnahme",
+      "schutzziele_ueberlappung": [
+        "Integrität",
+        "Verfügbarkeit",
+        "Vertraulichkeit",
         "Zweckbindung"
       ],
       "score": 36,
       "wirkung": 3
     },
     {
-      "id": "TOM-ORG-015",
-      "name": "Verpflichtung der Beschäftigten",
+      "id": "TOM-ORG-023",
+      "name": "Sicherheitsschlösser",
       "kategorie": "ORG",
       "typ": "Grundmaßnahme",
       "schutzziele_ueberlappung": [
         "Integrität",
-        "Nichtverkettung",
-        "Rechtmäßigkeit",
+        "Verfügbarkeit",
+        "Vertraulichkeit",
         "Zweckbindung"
       ],
       "score": 36,
-      "wirkung": 2
+      "wirkung": 3
     },
     {
-      "id": "TOM-SW-013",
-      "name": "Rollenkonzept",
+      "id": "TOM-SW-018",
+      "name": "Backup",
       "kategorie": "SW",
       "typ": "Verfahrensspezifische Maßnahme",
       "schutzziele_ueberlappung": [
-        "Erforderlichkeit",
-        "Nichtverkettung",
-        "Speicherbegrenzung",
+        "Integrität",
+        "Verfügbarkeit",
+        "Vertraulichkeit",
+        "Zweckbindung"
+      ],
+      "score": 36,
+      "wirkung": 3
+    },
+    {
+      "id": "TOM-SW-016",
+      "name": "Passwortrichtlinien",
+      "kategorie": "SW",
+      "typ": "Verfahrensspezifische Maßnahme",
+      "schutzziele_ueberlappung": [
+        "Integrität",
+        "Verfügbarkeit",
+        "Vertraulichkeit",
+        "Zweckbindung"
+      ],
+      "score": 36,
+      "wirkung": 3
+    },
+    {
+      "id": "TOM-SW-017",
+      "name": "Protokollierung",
+      "kategorie": "SW",
+      "typ": "Verfahrensspezifische Maßnahme",
+      "schutzziele_ueberlappung": [
+        "Integrität",
+        "Verfügbarkeit",
+        "Vertraulichkeit",
         "Zweckbindung"
       ],
       "score": 36,
       "wirkung": 3
     }
   ],
-  "anzahl_zusatz": 22,
+  "anzahl_zusatz": 31,
   "baseline_angerechnet": 27,
   "restrisiko": {
     "bewertung": "offen",

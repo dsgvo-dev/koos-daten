@@ -3,7 +3,6 @@ id: dstore-kita-anmeldedaten
 typ: datenspeicher
 system: null
 name: Kita-Anmeldedaten
-datenkategorie: Jugend & Betreuung
 zuständige-einheit: oe-amt-51
 bpmn:
   typ: datenobjekt

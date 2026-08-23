@@ -3,7 +3,6 @@ id: dstore-kassenzeichen-buchungsreferenz
 typ: datenspeicher
 system: null
 name: Kassenzeichen und Buchungsreferenz
-datenkategorie: Finanzen & Zahlung
 zuständige-einheit: oe-amt-20
 bpmn:
   typ: datenspeicher

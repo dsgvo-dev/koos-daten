@@ -3,7 +3,6 @@ id: dstore-frueherer-name-personenstandsaenderung
 typ: datenspeicher
 system: null
 name: Früherer Name nach Personenstands- oder Geschlechtseintragsänderung
-datenkategorie: Bürgerdienste & Meldewesen
 zuständige-einheit: oe-amt-33
 bpmn:
   typ: datenobjekt

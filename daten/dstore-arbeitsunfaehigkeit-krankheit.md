@@ -3,7 +3,6 @@ id: dstore-arbeitsunfaehigkeit-krankheit
 typ: datenspeicher
 system: null
 name: Arbeitsunfähigkeit und Krankheit
-datenkategorie: Gesundheit & Soziales
 zuständige-einheit: oe-amt-53
 bpmn:
   typ: nachricht

@@ -3,7 +3,6 @@ id: dstore-kitadaten
 typ: datenspeicher
 system: null
 name: Kitadaten
-datenkategorie: Soziales & Jugend
 zuständige-einheit: oe-amt-51
 bpmn:
   typ: datenobjekt

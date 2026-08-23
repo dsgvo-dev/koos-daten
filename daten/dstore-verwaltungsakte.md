@@ -3,7 +3,6 @@ id: dstore-verwaltungsakte
 typ: datenspeicher
 system: null
 name: Verwaltungsakte
-datenkategorie: Verwaltungsakte & Dokumente
 zuständige-einheit: oe-amt-10
 bpmn:
   typ: datenobjekt

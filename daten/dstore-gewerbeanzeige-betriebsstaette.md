@@ -3,7 +3,6 @@ id: dstore-gewerbeanzeige-betriebsstaette
 typ: datenspeicher
 system: null
 name: Gewerbeanzeige und Betriebsstätte
-datenkategorie: Gewerbe & Betrieb
 zuständige-einheit: oe-amt-32
 bpmn:
   typ: datenobjekt

@@ -467,7 +467,7 @@
       "dstore-zuverlaessigkeitsanfrage-sicherheitsbehoerden",
       "dstore-register-und-zuverlaessigkeitsauskuenfte",
       "dstore-fuehrungszeugnis",
-      "dstore-personenstammdaten",
+      "dstore-personenstammdaten-vertraulich",
       "dstore-sicherheitserkenntnisse"
     ]
   },
@@ -650,8 +650,8 @@
     "datenspeicher": [
       "dstore-gesundheitsdaten",
       "dstore-rechnungsdaten",
-      "dstore-personenstammdaten",
-      "dstore-bankverbindung",
+      "dstore-personenstammdaten-vertraulich",
+      "dstore-bankverbindung-vertraulich",
       "dstore-krankenversicherungsbeitraege"
     ]
   },
@@ -1883,9 +1883,10 @@
     "organisationseinheit": "oe-amt-41",
     "verfahren_vertraulich": false,
     "fallgruppe": null,
-    "effektive_schutzstufe": "C",
+    "effektive_schutzstufe": "D",
     "datenspeicher": [
-      "dstore-personenstammdaten"
+      "dstore-personenstammdaten",
+      "dstore-archivgut"
     ]
   },
   "vvt-41-004": {
@@ -2161,11 +2162,11 @@
       "dstore-sozialdaten",
       "dstore-leistungsbezug-sozialleistung",
       "dstore-unterkunftskosten",
-      "dstore-haushaltsmitglieder-vertraulich",
-      "dstore-personenstammdaten-vertraulich",
+      "dstore-haushaltsmitglieder",
+      "dstore-personenstammdaten",
       "dstore-arbeitsverhaeltnis-beschaeftigung",
       "dstore-schwerbehindertennachweis",
-      "dstore-bankverbindung-vertraulich"
+      "dstore-bankverbindung"
     ]
   },
   "vvt-50-011": {
@@ -2177,7 +2178,7 @@
     "datenspeicher": [
       "dstore-vorsorge-betreuungsvollmacht",
       "dstore-gesundheitsdaten",
-      "dstore-personenstammdaten",
+      "dstore-personenstammdaten-vertraulich",
       "dstore-beratungsdokumentation"
     ]
   },

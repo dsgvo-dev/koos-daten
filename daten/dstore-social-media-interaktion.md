@@ -3,7 +3,6 @@ id: dstore-social-media-interaktion
 typ: datenspeicher
 system: null
 name: Social-Media-Interaktion und Seiten-Insights
-datenkategorie: Öffentlichkeitsarbeit & Digitales
 zuständige-einheit: oe-amt-15
 bpmn:
   typ: datenobjekt

@@ -3,7 +3,6 @@ id: dstore-technische-nutzungsdaten-webangebot
 typ: datenspeicher
 system: null
 name: Technische Nutzungsdaten eines Webangebots
-datenkategorie: Digitale Verwaltung
 zuständige-einheit: oe-amt-15
 bpmn:
   typ: datenobjekt

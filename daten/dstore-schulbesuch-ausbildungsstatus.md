@@ -3,7 +3,6 @@ id: dstore-schulbesuch-ausbildungsstatus
 typ: datenspeicher
 system: null
 name: Schulbesuch und Ausbildungsstatus
-datenkategorie: Bildung & Betreuung
 zuständige-einheit: oe-amt-50
 bpmn:
   typ: datenobjekt

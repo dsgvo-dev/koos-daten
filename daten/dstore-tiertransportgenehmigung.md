@@ -3,7 +3,6 @@ id: dstore-tiertransportgenehmigung
 typ: datenspeicher
 system: null
 name: Tiertransportgenehmigung
-datenkategorie: Veterinär & Transport
 zuständige-einheit: oe-amt-71
 bpmn:
   typ: datenobjekt

@@ -3,7 +3,6 @@ id: dstore-bescheid
 typ: datenspeicher
 system: null
 name: Bescheid
-datenkategorie: Verwaltungsakte & Dokumente
 zuständige-einheit: oe-amt-30
 bpmn:
   typ: datenobjekt

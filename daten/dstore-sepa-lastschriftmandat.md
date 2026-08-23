@@ -3,7 +3,6 @@ id: dstore-sepa-lastschriftmandat
 typ: datenspeicher
 system: null
 name: SEPA-Lastschriftmandat
-datenkategorie: Finanzen & Zahlung
 zuständige-einheit: oe-amt-20
 bpmn:
   typ: datenobjekt

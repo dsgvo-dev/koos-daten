@@ -3,7 +3,6 @@ id: dstore-bussgeldakte
 typ: datenspeicher
 system: null
 name: Bußgeldakte
-datenkategorie: Ordnung & Sicherheit
 zuständige-einheit: oe-amt-32
 bpmn:
   typ: datenobjekt

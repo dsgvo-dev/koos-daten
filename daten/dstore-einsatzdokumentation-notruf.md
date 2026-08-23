@@ -3,7 +3,6 @@ id: dstore-einsatzdokumentation-notruf
 typ: datenspeicher
 system: null
 name: Notruf und Einsatzdokumentation
-datenkategorie: Feuerwehr & Brandschutz
 zuständige-einheit: oe-amt-37
 bpmn:
   typ: datenobjekt

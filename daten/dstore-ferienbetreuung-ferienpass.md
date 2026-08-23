@@ -3,7 +3,6 @@ id: dstore-ferienbetreuung-ferienpass
 typ: datenspeicher
 system: null
 name: Ferienbetreuung und Ferienpass
-datenkategorie: Jugend & Betreuung
 zuständige-einheit: oe-amt-51
 bpmn:
   typ: datenobjekt

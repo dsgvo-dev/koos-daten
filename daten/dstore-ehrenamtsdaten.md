@@ -3,7 +3,6 @@ id: dstore-ehrenamtsdaten
 typ: datenspeicher
 system: null
 name: Ehrenamtsdaten
-datenkategorie: Wahlen & Gremien
 zuständige-einheit: oe-amt-10
 bpmn:
   typ: datenobjekt

@@ -3,7 +3,6 @@ id: dstore-pfaendung-drittschuldnerdaten
 typ: datenspeicher
 system: null
 name: Pfändungs- und Drittschuldnerdaten
-datenkategorie: Finanzen & Vollstreckung
 zuständige-einheit: oe-amt-21
 bpmn:
   typ: datenspeicher

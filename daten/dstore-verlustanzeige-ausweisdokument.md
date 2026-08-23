@@ -3,7 +3,6 @@ id: dstore-verlustanzeige-ausweisdokument
 typ: datenspeicher
 system: null
 name: Verlustanzeige Ausweisdokument
-datenkategorie: Identitätsdaten
 zuständige-einheit: oe-amt-33
 bpmn:
   typ: nachricht

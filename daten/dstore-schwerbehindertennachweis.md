@@ -3,7 +3,6 @@ id: dstore-schwerbehindertennachweis
 typ: datenspeicher
 system: null
 name: Schwerbehindertennachweis
-datenkategorie: Soziales & Gesundheit
 zuständige-einheit: oe-amt-50
 bpmn:
   typ: datenobjekt

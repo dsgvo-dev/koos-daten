@@ -3,7 +3,6 @@ id: dstore-servicekonto-nutzeridentitaet
 typ: datenspeicher
 system: null
 name: Servicekonto und Nutzeridentität
-datenkategorie: Digitale Verwaltung
 zuständige-einheit: oe-amt-1-6
 bpmn:
   typ: datenspeicher

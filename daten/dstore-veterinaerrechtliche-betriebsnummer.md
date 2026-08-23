@@ -3,7 +3,6 @@ id: dstore-veterinaerrechtliche-betriebsnummer
 typ: datenspeicher
 system: null
 name: Veterinärrechtliche Betriebsnummer
-datenkategorie: Veterinär & Register
 zuständige-einheit: oe-amt-71
 bpmn:
   typ: datenspeicher

@@ -3,7 +3,6 @@ id: dstore-amtsaerztliches-zeugnis
 typ: datenspeicher
 system: null
 name: Amtsärztliches Zeugnis
-datenkategorie: Gesundheit & Erlaubnisse
 zuständige-einheit: oe-amt-53
 bpmn:
   typ: datenobjekt

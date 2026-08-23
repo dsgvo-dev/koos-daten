@@ -3,7 +3,6 @@ id: dstore-wildursprungsschein
 typ: datenspeicher
 system: null
 name: Wildursprungsschein
-datenkategorie: Veterinär & Lebensmittel
 zuständige-einheit: oe-amt-71
 bpmn:
   typ: datenobjekt

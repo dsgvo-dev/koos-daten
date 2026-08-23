@@ -3,7 +3,6 @@ id: dstore-stellungnahme-planverfahren
 typ: datenspeicher
 system: null
 name: Stellungnahme im Planverfahren
-datenkategorie: Bauen & Grundstück
 zuständige-einheit: oe-amt-61
 bpmn:
   typ: datenobjekt

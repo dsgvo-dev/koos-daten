@@ -3,7 +3,6 @@ id: dstore-staatsangehoerigkeit
 typ: datenspeicher
 system: null
 name: Staatsangehörigkeit
-datenkategorie: Person & Identität
 zuständige-einheit: oe-amt-33
 bpmn:
   typ: datenobjekt

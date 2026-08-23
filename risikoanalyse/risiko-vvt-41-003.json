@@ -26,8 +26,8 @@
     },
     "bsi_vertraulichkeit": {
       "beschreibung": "BSI-Grundwert Vertraulichkeit (Schutz vor unbefugtem Zugang)",
-      "schadenshoehe": 1,
-      "risikowert": 3
+      "schadenshoehe": 2,
+      "risikowert": 6
     },
     "bsi_integritaet": {
       "beschreibung": "BSI-Grundwert Integrität (Schutz vor unbefugter/unerkannter Änderung)",
@@ -42,6 +42,6 @@
     "gesamtwert": 9,
     "schutzbedarf": "hoch",
     "dsfa_pflicht": true,
-    "dsfa_hinweis": "DSFA zwingend (DSGVO=9/I=6/A=6)"
+    "dsfa_hinweis": "DSFA zwingend (DSGVO=9/V=6/I=6/A=6)"
   }
 }

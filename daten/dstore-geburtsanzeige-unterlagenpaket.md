@@ -3,7 +3,6 @@ id: dstore-geburtsanzeige-unterlagenpaket
 typ: datenspeicher
 system: null
 name: Unterlagenpaket zur Geburtsanzeige
-datenkategorie: Personenstandsdaten
 zuständige-einheit: oe-amt-31
 bpmn:
   typ: nachricht

@@ -3,7 +3,6 @@ id: dstore-staatsangehoerigkeit-aufenthaltsstatus
 typ: datenspeicher
 system: null
 name: Staatsangehörigkeit und Aufenthaltsstatus
-datenkategorie: Identitätsdaten
 zuständige-einheit: oe-amt-47
 bpmn:
   typ: datenobjekt

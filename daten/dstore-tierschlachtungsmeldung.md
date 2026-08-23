@@ -3,7 +3,6 @@ id: dstore-tierschlachtungsmeldung
 typ: datenspeicher
 system: null
 name: Tierschlachtungsmeldung
-datenkategorie: Veterinär & Lebensmittel
 zuständige-einheit: oe-amt-71
 bpmn:
   typ: datenobjekt

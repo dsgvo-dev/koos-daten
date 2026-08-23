@@ -3,7 +3,6 @@ id: dstore-adresse-vertraulich
 typ: datenspeicher
 system: null
 name: Anschrift von Personen in Verfahren, deren Zugehörigkeit selbst schutzbedürftig ist, einsc
-datenkategorie: Bürgerdienste & Meldewesen
 zuständige-einheit: oe-amt-33
 bpmn:
   typ: datenobjekt

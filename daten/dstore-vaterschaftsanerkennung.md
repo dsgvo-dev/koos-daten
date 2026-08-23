@@ -3,7 +3,6 @@ id: dstore-vaterschaftsanerkennung
 typ: datenspeicher
 system: null
 name: Vaterschaftsanerkennung
-datenkategorie: Personenstandsdaten
 zuständige-einheit: oe-amt-31
 bpmn:
   typ: datenobjekt

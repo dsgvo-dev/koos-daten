@@ -3,7 +3,6 @@ id: dstore-personalratsvorlage
 typ: datenspeicher
 system: null
 name: Personalratsvorlage
-datenkategorie: Personal
 zuständige-einheit: oe-amt-11
 bpmn:
   typ: datenobjekt

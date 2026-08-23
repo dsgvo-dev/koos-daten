@@ -3,7 +3,6 @@ id: dstore-bankverbindung
 typ: datenspeicher
 system: null
 name: Bankverbindung
-datenkategorie: Finanzen & Zahlung
 zuständige-einheit: oe-amt-50
 bpmn:
   typ: datenobjekt

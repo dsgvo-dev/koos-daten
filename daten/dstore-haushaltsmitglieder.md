@@ -3,7 +3,6 @@ id: dstore-haushaltsmitglieder
 typ: datenspeicher
 system: null
 name: Haushaltsmitglieder und Haushaltsgröße
-datenkategorie: Wohnen & Soziales
 zuständige-einheit: oe-amt-50
 bpmn:
   typ: datenobjekt

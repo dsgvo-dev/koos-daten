@@ -3,7 +3,6 @@ id: dstore-umweltdaten
 typ: datenspeicher
 system: null
 name: Umweltdaten
-datenkategorie: Umwelt & Gesundheit
 zuständige-einheit: oe-amt-60
 bpmn:
   typ: datenobjekt

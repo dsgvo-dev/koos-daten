@@ -3,7 +3,6 @@ id: dstore-leistungsbezug-sozialleistung
 typ: datenspeicher
 system: null
 name: Leistungsbezug Sozialleistung
-datenkategorie: Sozialleistungsdaten
 zuständige-einheit: oe-amt-50
 bpmn:
   typ: datenobjekt

@@ -3,7 +3,6 @@ id: dstore-eheurkunde-nachweis
 typ: datenspeicher
 system: null
 name: Eheurkunde als Nachweis
-datenkategorie: Personenstandsdaten
 zuständige-einheit: oe-amt-31
 bpmn:
   typ: datenobjekt

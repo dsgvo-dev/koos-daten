@@ -3,7 +3,6 @@ id: dstore-sorgerechtsnachweis
 typ: datenspeicher
 system: null
 name: Sorgerechtsnachweis
-datenkategorie: Personenstandsdaten
 zuständige-einheit: oe-amt-31
 bpmn:
   typ: datenobjekt

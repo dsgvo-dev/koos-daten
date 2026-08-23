@@ -3,7 +3,6 @@ id: dstore-einkommensnachweise-haushalt
 typ: datenspeicher
 system: null
 name: Einkommensnachweise Haushalt
-datenkategorie: Wohnen & Soziales
 zuständige-einheit: oe-amt-50
 bpmn:
   typ: datenobjekt

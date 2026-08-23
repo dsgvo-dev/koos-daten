@@ -3,7 +3,6 @@ id: dstore-wohnraumnachweis-aufenthalt
 typ: datenspeicher
 system: null
 name: Wohnraumnachweis Aufenthalt
-datenkategorie: Migration & Aufenthalt
 zuständige-einheit: oe-amt-47
 bpmn:
   typ: datenobjekt

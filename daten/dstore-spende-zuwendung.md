@@ -3,7 +3,6 @@ id: dstore-spende-zuwendung
 typ: datenspeicher
 system: null
 name: Spende und Zuwendung
-datenkategorie: Finanzen & Zahlung
 zuständige-einheit: oe-amt-10
 bpmn:
   typ: datenobjekt

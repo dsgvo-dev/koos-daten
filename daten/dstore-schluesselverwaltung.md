@@ -3,7 +3,6 @@ id: dstore-schluesselverwaltung
 typ: datenspeicher
 system: null
 name: Schlüsselverwaltung und Schließanlagen
-datenkategorie: Organisation & Sicherheit
 zuständige-einheit: oe-amt-10
 bpmn:
   typ: datenobjekt

@@ -3,7 +3,6 @@ id: dstore-hebammenanzeige
 typ: datenspeicher
 system: null
 name: Anzeige und Aufsicht Hebammen
-datenkategorie: Gesundheitsberufe & Aufsicht
 zuständige-einheit: oe-amt-53
 bpmn:
   typ: datenobjekt

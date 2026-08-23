@@ -3,7 +3,6 @@ id: dstore-gaststaettenbetrieb-anzeigedaten
 typ: datenspeicher
 system: null
 name: Gaststättenbetrieb Anzeigedaten
-datenkategorie: Gewerbe & Gastronomie
 zuständige-einheit: oe-amt-32
 bpmn:
   typ: datenobjekt

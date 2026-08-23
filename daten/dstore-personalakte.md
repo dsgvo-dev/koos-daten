@@ -3,7 +3,6 @@ id: dstore-personalakte
 typ: datenspeicher
 system: null
 name: Personalakte
-datenkategorie: Personal & HR
 zuständige-einheit: oe-amt-11
 bpmn:
   typ: datenspeicher

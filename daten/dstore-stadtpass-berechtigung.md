@@ -3,7 +3,6 @@ id: dstore-stadtpass-berechtigung
 typ: datenspeicher
 system: null
 name: Stadtpass und Berechtigung
-datenkategorie: Soziales
 zuständige-einheit: oe-amt-50
 bpmn:
   typ: datenobjekt

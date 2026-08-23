@@ -3,7 +3,6 @@ id: dstore-haftpflichtversicherung-hund
 typ: datenspeicher
 system: null
 name: Haftpflichtversicherung Hund
-datenkategorie: Ordnung & Tiere
 zuständige-einheit: oe-amt-32
 bpmn:
   typ: datenobjekt

@@ -3,7 +3,6 @@ id: dstore-verwaltungsakte-vertraulich
 typ: datenspeicher
 system: null
 name: Vorgangsakte in Verfahren, deren Zugehörigkeit selbst schutzbedürftig ist
-datenkategorie: Allgemeine Verwaltung
 zuständige-einheit: oe-amt-10
 bpmn:
   typ: datenobjekt

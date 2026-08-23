@@ -3,7 +3,6 @@ id: dstore-grundstuecks-pachtverhaeltnis
 typ: datenspeicher
 system: null
 name: Grundstücks- und Pachtverhältnis
-datenkategorie: Liegenschaften
 zuständige-einheit: oe-amt-23
 bpmn:
   typ: datenspeicher

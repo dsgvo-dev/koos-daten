@@ -3,7 +3,6 @@ id: dstore-sterbeurkunde
 typ: datenspeicher
 system: null
 name: Sterbeurkunde
-datenkategorie: Standesamt
 zuständige-einheit: oe-amt-31
 bpmn:
   typ: datenobjekt

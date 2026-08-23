@@ -3,7 +3,6 @@ id: dstore-kontaktdaten-vertraulich
 typ: datenspeicher
 system: null
 name: Telefonnummer, Mobilnummer und E-Mail-Adresse von Personen in Verfahren, deren Zugehörigke
-datenkategorie: Bürgerdienste & Meldewesen
 zuständige-einheit: oe-amt-33
 bpmn:
   typ: datenobjekt

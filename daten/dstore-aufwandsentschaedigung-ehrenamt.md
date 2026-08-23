@@ -3,7 +3,6 @@ id: dstore-aufwandsentschaedigung-ehrenamt
 typ: datenspeicher
 system: null
 name: Aufwandsentschädigung und Reisekosten im Ehrenamt
-datenkategorie: Finanzen & Zahlung
 zuständige-einheit: oe-amt-50
 bpmn:
   typ: datenobjekt

@@ -3,7 +3,6 @@ id: dstore-verwahrgut-sicherstellung
 typ: datenspeicher
 system: null
 name: Verwahrgut aus Sicherstellung
-datenkategorie: Sicherheit & Ordnung
 zuständige-einheit: oe-amt-20
 bpmn:
   typ: datenobjekt

@@ -3,7 +3,6 @@ id: dstore-elternbezug-abstammung
 typ: datenspeicher
 system: null
 name: Elternbezug und Abstammungsangaben
-datenkategorie: Personenstandsdaten
 zuständige-einheit: oe-amt-31
 bpmn:
   typ: datenobjekt

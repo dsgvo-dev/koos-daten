@@ -3,7 +3,6 @@ id: dstore-gesundheitszeugnis
 typ: datenspeicher
 system: null
 name: Gesundheitszeugnis
-datenkategorie: Umwelt & Gesundheit
 zuständige-einheit: oe-amt-53
 bpmn:
   typ: datenobjekt

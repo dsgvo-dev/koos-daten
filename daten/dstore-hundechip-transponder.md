@@ -3,7 +3,6 @@ id: dstore-hundechip-transponder
 typ: datenspeicher
 system: null
 name: Hundechip und Transpondernummer
-datenkategorie: Tiere & Haltung
 zuständige-einheit: oe-amt-32
 bpmn:
   typ: datenobjekt

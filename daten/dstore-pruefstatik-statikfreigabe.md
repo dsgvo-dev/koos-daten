@@ -3,7 +3,6 @@ id: dstore-pruefstatik-statikfreigabe
 typ: datenspeicher
 system: null
 name: Prüfstatik und Statikfreigabe
-datenkategorie: Bauen & Statik
 zuständige-einheit: oe-amt-63
 bpmn:
   typ: datenobjekt

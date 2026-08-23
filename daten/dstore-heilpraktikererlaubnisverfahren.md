@@ -3,7 +3,6 @@ id: dstore-heilpraktikererlaubnisverfahren
 typ: datenspeicher
 system: null
 name: Heilpraktikererlaubnisverfahren
-datenkategorie: Gesundheit & Erlaubnisse
 zuständige-einheit: oe-amt-53
 bpmn:
   typ: datenobjekt

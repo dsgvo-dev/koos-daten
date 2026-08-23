@@ -3,7 +3,6 @@ id: dstore-verstorbenenhinweis-melderegister
 typ: datenspeicher
 system: null
 name: Verstorbenenhinweis im Melderegister
-datenkategorie: Register- und Nachweisdaten
 zuständige-einheit: oe-amt-33
 bpmn:
   typ: datenspeicher

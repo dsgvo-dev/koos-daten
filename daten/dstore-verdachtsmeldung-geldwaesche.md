@@ -3,7 +3,6 @@ id: dstore-verdachtsmeldung-geldwaesche
 typ: datenspeicher
 system: null
 name: Verdachtsmeldung nach Geldwäschegesetz
-datenkategorie: Ordnung & Sicherheit
 zuständige-einheit: oe-amt-32
 bpmn:
   typ: datenobjekt

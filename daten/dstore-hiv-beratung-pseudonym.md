@@ -3,7 +3,6 @@ id: dstore-hiv-beratung-pseudonym
 typ: datenspeicher
 system: null
 name: Pseudonyme HIV-Beratung und -Testung
-datenkategorie: Gesundheit & Soziales
 zuständige-einheit: oe-amt-53
 bpmn:
   typ: datenobjekt

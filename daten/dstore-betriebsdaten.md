@@ -3,7 +3,6 @@ id: dstore-betriebsdaten
 typ: datenspeicher
 system: null
 name: Betriebsdaten
-datenkategorie: Gewerbe & Wirtschaft
 zuständige-einheit: oe-amt-32
 bpmn:
   typ: datenobjekt

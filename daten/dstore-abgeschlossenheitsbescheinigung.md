@@ -3,7 +3,6 @@ id: dstore-abgeschlossenheitsbescheinigung
 typ: datenspeicher
 system: null
 name: Abgeschlossenheitsbescheinigung
-datenkategorie: Bauen & Eigentum
 zuständige-einheit: oe-amt-63
 bpmn:
   typ: datenobjekt

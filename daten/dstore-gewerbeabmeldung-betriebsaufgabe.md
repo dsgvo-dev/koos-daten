@@ -3,7 +3,6 @@ id: dstore-gewerbeabmeldung-betriebsaufgabe
 typ: datenspeicher
 system: null
 name: Gewerbeabmeldung und Betriebsaufgabe
-datenkategorie: Gewerbe & Betrieb
 zuständige-einheit: oe-amt-32
 bpmn:
   typ: datenobjekt

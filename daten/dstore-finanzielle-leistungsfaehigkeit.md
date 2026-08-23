@@ -3,7 +3,6 @@ id: dstore-finanzielle-leistungsfaehigkeit
 typ: datenspeicher
 system: null
 name: Nachweis der finanziellen Leistungsfähigkeit
-datenkategorie: Gewerbe & Betrieb
 zuständige-einheit: oe-amt-32
 bpmn:
   typ: datenobjekt

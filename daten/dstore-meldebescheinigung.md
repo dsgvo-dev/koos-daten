@@ -1,7 +1,6 @@
 ---
 id: dstore-meldebescheinigung
 name: Meldebescheinigung
-datenkategorie: Bescheid / Nachweis
 zuständige-einheit: oe-amt-33
 bpmn:
   typ: datenobjekt

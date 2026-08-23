@@ -3,7 +3,6 @@ id: dstore-veranstalterdaten
 typ: datenspeicher
 system: null
 name: Veranstalterdaten
-datenkategorie: Veranstaltungen & Gewerbe
 zuständige-einheit: oe-amt-38
 bpmn:
   typ: datenobjekt

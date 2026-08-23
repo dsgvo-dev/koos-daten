@@ -3,7 +3,6 @@ id: dstore-jugendgerichtshilfe-tatvorwurf
 typ: datenspeicher
 system: null
 name: Tatvorwurf in der Jugendgerichtshilfe
-datenkategorie: Soziales & Jugend
 zuständige-einheit: oe-amt-51
 bpmn:
   typ: datenobjekt

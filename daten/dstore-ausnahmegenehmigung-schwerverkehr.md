@@ -3,7 +3,6 @@ id: dstore-ausnahmegenehmigung-schwerverkehr
 typ: datenspeicher
 system: null
 name: Ausnahmegenehmigung Schwerverkehr
-datenkategorie: Verkehr & Genehmigungen
 zuständige-einheit: oe-amt-34
 bpmn:
   typ: datenobjekt

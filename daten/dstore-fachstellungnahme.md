@@ -3,7 +3,6 @@ id: dstore-fachstellungnahme
 typ: datenspeicher
 system: null
 name: Fachstellungnahme
-datenkategorie: Verwaltungsformular
 zuständige-einheit: oe-amt-63
 bpmn:
   typ: datenobjekt

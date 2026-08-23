@@ -3,7 +3,6 @@ id: dstore-familienstand-ehebezug
 typ: datenspeicher
 system: null
 name: Familienstand und Ehebezug
-datenkategorie: Personenstandsdaten
 zuständige-einheit: oe-amt-31
 bpmn:
   typ: datenobjekt

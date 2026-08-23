@@ -298,19 +298,12 @@ vokabular:
     GEHEIM:                        Kenntnisnahme durch Unbefugte kann die Sicherheit des Bundes oder eines Landes gefährden oder ihren Interessen schweren Schaden zufügen (§ 7 Nr. 2 VSA)
     STRENG GEHEIM:                 Kenntnisnahme durch Unbefugte kann den Bestand oder lebenswichtige Interessen des Bundes oder eines Landes gefährden (§ 7 Nr. 1 VSA)
 
-  # Datenkategorien (Klassifizierung des Dateninhalts)
-  datenkategorie:
-    - Personaldaten
-    - Sozialdaten
-    - Gesundheitsdaten
-    - Finanzdaten
-    - Meldedaten
-    - Ausweisdokument
-    - Verwaltungsformular
-    - Bescheid / Nachweis
-    - Compliance-Dokument
-    - Ordnungswidrigkeiten
-    - Besondere Kategorien Art. 9 DSGVO
+  # Das Feld `datenkategorie` ist am 2026-08-15 ersatzlos entfallen (ADR 013).
+  # Es hatte keinen Abnehmer ausserhalb von Anzeige, Suche und Filter; die
+  # Kategorien personenbezogener Daten nach Art. 30 Abs. 1 lit. c DSGVO stehen
+  # im Feld `kategorien_daten` der VVT. Thematische Facette ist seither
+  # `zuständige-einheit`. Die 302 Altwerte liegen in
+  # dsms-knowledge/_archive/datenkategorie-werte-vor-entfernung-2026-08-15.csv
 
   # Generische Rollen (implizit in jeder OE vorhanden; kein Eintrag in orga.yaml nötig)
   # Verwendung: Prozesse und Regelungen referenzieren diese Rollen, wenn keine
@@ -401,8 +394,8 @@ bearbeitung:
       felder:
         # ── Identitaet ───────────────────────────────────────────────────────
         - {id: name,               label: Bezeichnung,              typ: text,      pflicht: true}
-        - {id: datenkategorie,     label: Datenkategorie,           typ: select,    vokabular: datenkategorie, pflicht: true}
-        - {id: zustaendigeEinheit, label: "Zuständige OE",          typ: oe-select, feldpfad: "zuständige-einheit"}
+        # datenkategorie am 2026-08-15 entfallen (ADR 013)
+        - {id: zustaendigeEinheit, label: "Zuständige OE",          typ: oe-select, feldpfad: "zuständige-einheit", pflicht: true}
 
         # ── Vorfrage: entscheidet ueber die Anwendbarkeit von Achse 1 ────────
         # Richtlinie, Anlage D, Frage 1. Fehlt das Feld, ist damit KEINE

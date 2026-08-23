@@ -3,7 +3,6 @@ id: dstore-namensaenderungsnachweis
 typ: datenspeicher
 system: null
 name: Namensänderungsnachweis
-datenkategorie: Identitätsdaten
 zuständige-einheit: oe-amt-33
 bpmn:
   typ: datenobjekt

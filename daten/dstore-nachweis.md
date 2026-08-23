@@ -3,7 +3,6 @@ id: dstore-nachweis
 typ: datenspeicher
 system: null
 name: Nachweis
-datenkategorie: Verwaltungsakte & Dokumente
 zuständige-einheit: oe-amt-33
 bpmn:
   typ: datenobjekt

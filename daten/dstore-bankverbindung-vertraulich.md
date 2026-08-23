@@ -3,7 +3,6 @@ id: dstore-bankverbindung-vertraulich
 typ: datenspeicher
 system: null
 name: Kontoverbindung von Personen in Verfahren, deren Zugehörigkeit selbst schutzbedürftig ist 
-datenkategorie: Finanzen & Abgaben
 zuständige-einheit: oe-amt-20
 bpmn:
   typ: datenobjekt

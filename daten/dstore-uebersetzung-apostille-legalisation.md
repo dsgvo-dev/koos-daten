@@ -3,7 +3,6 @@ id: dstore-uebersetzung-apostille-legalisation
 typ: datenspeicher
 system: null
 name: Übersetzung, Apostille und Legalisation
-datenkategorie: Auslandsbezug & Dokumente
 zuständige-einheit: oe-amt-30
 bpmn:
   typ: datenobjekt

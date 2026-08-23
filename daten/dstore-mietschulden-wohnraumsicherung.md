@@ -3,7 +3,6 @@ id: dstore-mietschulden-wohnraumsicherung
 typ: datenspeicher
 system: null
 name: Mietschulden und Wohnraumsicherung
-datenkategorie: Wohnen & Soziales
 zuständige-einheit: oe-amt-64
 bpmn:
   typ: datenspeicher

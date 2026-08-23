@@ -3,7 +3,6 @@ id: dstore-bauzeichnung-planunterlagen
 typ: datenspeicher
 system: null
 name: Bauzeichnungen und Planunterlagen
-datenkategorie: Bauen & Grundstück
 zuständige-einheit: oe-amt-63
 bpmn:
   typ: datenobjekt

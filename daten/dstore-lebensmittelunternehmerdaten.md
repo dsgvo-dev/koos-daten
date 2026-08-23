@@ -3,7 +3,6 @@ id: dstore-lebensmittelunternehmerdaten
 typ: datenspeicher
 system: null
 name: Lebensmittelunternehmerdaten
-datenkategorie: Lebensmittelüberwachung
 zuständige-einheit: oe-amt-71
 bpmn:
   typ: datenspeicher

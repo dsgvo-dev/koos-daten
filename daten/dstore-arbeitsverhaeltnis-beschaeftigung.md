@@ -3,7 +3,6 @@ id: dstore-arbeitsverhaeltnis-beschaeftigung
 typ: datenspeicher
 system: null
 name: Arbeitsverhältnis und Beschäftigung
-datenkategorie: Arbeit & Einkommen
 zuständige-einheit: oe-amt-11
 bpmn:
   typ: datenobjekt

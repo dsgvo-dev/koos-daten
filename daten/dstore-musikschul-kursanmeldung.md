@@ -3,7 +3,6 @@ id: dstore-musikschul-kursanmeldung
 typ: datenspeicher
 system: null
 name: Musikschul- und Kursanmeldung
-datenkategorie: Kultur & Bildung
 zuständige-einheit: oe-amt-41
 bpmn:
   typ: datenobjekt

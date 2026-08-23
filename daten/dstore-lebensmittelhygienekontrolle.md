@@ -3,7 +3,6 @@ id: dstore-lebensmittelhygienekontrolle
 typ: datenspeicher
 system: null
 name: Lebensmittelhygienekontrolle
-datenkategorie: Lebensmittelüberwachung
 zuständige-einheit: oe-amt-71
 bpmn:
   typ: datenobjekt

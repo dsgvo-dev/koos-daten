@@ -3,7 +3,6 @@ id: dstore-gewerbedaten
 typ: datenspeicher
 system: null
 name: Gewerbedaten
-datenkategorie: Gewerbe & Wirtschaft
 zuständige-einheit: oe-amt-32
 bpmn:
   typ: datenobjekt

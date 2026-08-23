@@ -3,7 +3,6 @@ id: dstore-unterbringung-npsychkg
 typ: datenspeicher
 system: null
 name: Unterbringungsverfahren nach NPsychKG
-datenkategorie: Gesundheit & Soziales
 zuständige-einheit: oe-amt-54
 bpmn:
   typ: datenobjekt

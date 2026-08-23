@@ -3,7 +3,6 @@ id: dstore-antrag
 typ: datenspeicher
 system: null
 name: Antrag
-datenkategorie: Verwaltungsakte & Dokumente
 zuständige-einheit: oe-amt-33
 bpmn:
   typ: datenobjekt

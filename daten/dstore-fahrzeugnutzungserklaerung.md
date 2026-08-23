@@ -3,7 +3,6 @@ id: dstore-fahrzeugnutzungserklaerung
 typ: datenspeicher
 system: null
 name: Fahrzeugnutzungserklärung
-datenkategorie: Fahrzeug- und Mobilitätsdaten
 zuständige-einheit: oe-amt-34
 bpmn:
   typ: datenobjekt

@@ -3,7 +3,6 @@ id: dstore-ausweisdokument
 typ: datenspeicher
 system: null
 name: Ausweisdokument
-datenkategorie: Person & Identität
 zuständige-einheit: oe-amt-33
 bpmn:
   typ: datenobjekt

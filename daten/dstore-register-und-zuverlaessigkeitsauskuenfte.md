@@ -3,7 +3,6 @@ id: dstore-register-und-zuverlaessigkeitsauskuenfte
 typ: datenspeicher
 system: null
 name: Register- und Zuverlässigkeitsauskünfte
-datenkategorie: Gewerbe & Erlaubnisse
 zuständige-einheit: oe-amt-32
 bpmn:
   typ: datenspeicher

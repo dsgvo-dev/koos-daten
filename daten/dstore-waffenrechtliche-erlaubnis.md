@@ -3,7 +3,6 @@ id: dstore-waffenrechtliche-erlaubnis
 typ: datenspeicher
 system: null
 name: Waffenrechtliche Erlaubnis und Jagdschein
-datenkategorie: Ordnung & Erlaubnisse
 zuständige-einheit: oe-amt-32
 bpmn:
   typ: datenobjekt

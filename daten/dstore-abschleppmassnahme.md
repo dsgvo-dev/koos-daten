@@ -3,7 +3,6 @@ id: dstore-abschleppmassnahme
 typ: datenspeicher
 system: null
 name: Abschleppmaßnahme
-datenkategorie: Ordnung & Vollzug
 zuständige-einheit: oe-amt-32
 bpmn:
   typ: datenobjekt

@@ -3,7 +3,6 @@ id: dstore-baustellenlogistik-zufahrt
 typ: datenspeicher
 system: null
 name: Baustellenlogistik und Zufahrt
-datenkategorie: Tiefbau & Verkehr
 zuständige-einheit: oe-amt-66
 bpmn:
   typ: datenobjekt

@@ -3,7 +3,6 @@ id: dstore-prostitutionsstaettenbetrieb
 typ: datenspeicher
 system: null
 name: Prostitutionsstättenbetrieb
-datenkategorie: Ordnung & Erlaubnisse
 zuständige-einheit: oe-amt-32
 bpmn:
   typ: datenspeicher

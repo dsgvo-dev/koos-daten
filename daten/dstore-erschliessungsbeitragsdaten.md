@@ -3,7 +3,6 @@ id: dstore-erschliessungsbeitragsdaten
 typ: datenspeicher
 system: null
 name: Erschließungsbeitragsdaten
-datenkategorie: Bauen & Beiträge
 zuständige-einheit: oe-amt-22
 bpmn:
   typ: datenspeicher

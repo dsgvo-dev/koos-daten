@@ -3,7 +3,6 @@ id: dstore-kehrbezirk-bestellung
 typ: datenspeicher
 system: null
 name: Kehrbezirk und Bestellung Bezirksschornsteinfeger
-datenkategorie: Gewerbe & Erlaubnisse
 zuständige-einheit: oe-amt-60
 bpmn:
   typ: datenobjekt

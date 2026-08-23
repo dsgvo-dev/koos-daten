@@ -3,7 +3,6 @@ id: dstore-doktorgrad-akademischer-titel
 typ: datenspeicher
 system: null
 name: Doktorgrad und akademischer Titel
-datenkategorie: Identitätsdaten
 zuständige-einheit: oe-amt-33
 bpmn:
   typ: datenspeicher

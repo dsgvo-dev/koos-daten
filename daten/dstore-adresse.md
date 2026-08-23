@@ -3,7 +3,6 @@ id: dstore-adresse
 typ: datenspeicher
 system: null
 name: Adresse
-datenkategorie: Person & Identität
 zuständige-einheit: oe-amt-33
 bpmn:
   typ: datenobjekt

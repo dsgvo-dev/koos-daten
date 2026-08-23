@@ -3,7 +3,6 @@ id: dstore-einverstaendnis-sorgeberechtigte
 typ: datenspeicher
 system: null
 name: Einverständnis der Sorgeberechtigten
-datenkategorie: Berechtigungsdaten
 zuständige-einheit: oe-amt-51
 bpmn:
   typ: datenobjekt

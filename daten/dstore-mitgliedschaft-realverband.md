@@ -3,7 +3,6 @@ id: dstore-mitgliedschaft-realverband
 typ: datenspeicher
 system: null
 name: Mitgliedschaft und Beiträge Realverband
-datenkategorie: Liegenschaften
 zuständige-einheit: oe-amt-86
 bpmn:
   typ: datenobjekt

@@ -3,7 +3,6 @@ id: dstore-tierkoerperbeseitigungsnachweis
 typ: datenspeicher
 system: null
 name: Tierkörperbeseitigungsnachweis
-datenkategorie: Veterinär & Entsorgung
 zuständige-einheit: oe-amt-71
 bpmn:
   typ: datenobjekt

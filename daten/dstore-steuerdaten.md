@@ -3,7 +3,6 @@ id: dstore-steuerdaten
 typ: datenspeicher
 system: null
 name: Steuerdaten
-datenkategorie: Finanzen & Steuern
 zuständige-einheit: oe-amt-22
 bpmn:
   typ: datenobjekt

@@ -3,7 +3,6 @@ id: dstore-mahn-vollstreckungsstatus
 typ: datenspeicher
 system: null
 name: Mahn- und Vollstreckungsstatus
-datenkategorie: Finanzen & Vollstreckung
 zuständige-einheit: oe-amt-21
 bpmn:
   typ: datenspeicher

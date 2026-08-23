@@ -3,7 +3,6 @@ id: dstore-lebenslauf-qualifikationsnachweis-vertraulich
 typ: datenspeicher
 system: null
 name: Lebenslauf und Qualifikationsnachweise in Verfahren, deren Zugehörigkeit selbst schutzbedü
-datenkategorie: Personal & Organisation
 zuständige-einheit: oe-amt-11
 bpmn:
   typ: datenobjekt

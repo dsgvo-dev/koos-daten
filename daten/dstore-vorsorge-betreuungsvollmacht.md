@@ -3,7 +3,6 @@ id: dstore-vorsorge-betreuungsvollmacht
 typ: datenspeicher
 system: null
 name: Vorsorge- und Betreuungsvollmacht
-datenkategorie: Soziales & Gesundheit
 zuständige-einheit: oe-amt-50
 bpmn:
   typ: datenobjekt

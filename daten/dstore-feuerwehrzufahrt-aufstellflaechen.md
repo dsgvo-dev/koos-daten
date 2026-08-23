@@ -3,7 +3,6 @@ id: dstore-feuerwehrzufahrt-aufstellflaechen
 typ: datenspeicher
 system: null
 name: Feuerwehrzufahrt und Aufstellflächen
-datenkategorie: Feuerwehr & Brandschutz
 zuständige-einheit: oe-amt-37
 bpmn:
   typ: datenobjekt

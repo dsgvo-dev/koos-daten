@@ -3,7 +3,6 @@ id: dstore-auskunftssperre-melderegister
 typ: datenspeicher
 system: null
 name: Auskunftssperre Melderegister
-datenkategorie: Melde- & Schutzdaten
 zuständige-einheit: oe-amt-33
 bpmn:
   typ: datenspeicher

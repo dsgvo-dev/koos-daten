@@ -3,7 +3,6 @@ id: dstore-fischereischein-sachkunde
 typ: datenspeicher
 system: null
 name: Fischereischein und Sachkunde
-datenkategorie: Ordnung & Erlaubnisse
 zuständige-einheit: oe-amt-32
 bpmn:
   typ: datenobjekt

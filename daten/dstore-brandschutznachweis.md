@@ -3,7 +3,6 @@ id: dstore-brandschutznachweis
 typ: datenspeicher
 system: null
 name: Brandschutznachweis
-datenkategorie: Bauen & Grundstück
 zuständige-einheit: oe-amt-37
 bpmn:
   typ: datenobjekt

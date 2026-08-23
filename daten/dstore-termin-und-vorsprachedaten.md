@@ -3,7 +3,6 @@ id: dstore-termin-und-vorsprachedaten
 typ: datenspeicher
 system: null
 name: Termin- und Vorsprachedaten
-datenkategorie: Verfahrensorganisation
 zuständige-einheit: oe-amt-33
 bpmn:
   typ: datenobjekt

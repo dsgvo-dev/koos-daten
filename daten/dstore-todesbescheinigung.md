@@ -3,7 +3,6 @@ id: dstore-todesbescheinigung
 typ: datenspeicher
 system: null
 name: Todesbescheinigung
-datenkategorie: Gesundheit & Soziales
 zuständige-einheit: oe-amt-53
 bpmn:
   typ: datenobjekt

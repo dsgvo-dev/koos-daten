@@ -3,7 +3,6 @@ id: dstore-nachlass-erbendaten
 typ: datenspeicher
 system: null
 name: Nachlass- und Erbendaten
-datenkategorie: Finanzen & Vollstreckung
 zuständige-einheit: oe-amt-50
 bpmn:
   typ: datenobjekt

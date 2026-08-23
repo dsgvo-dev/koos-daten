@@ -3,7 +3,6 @@ id: dstore-ausweiskopie-beglaubigt
 typ: datenspeicher
 system: null
 name: Beglaubigte Ausweiskopie
-datenkategorie: Identitätsdaten
 zuständige-einheit: oe-amt-33
 bpmn:
   typ: datenobjekt

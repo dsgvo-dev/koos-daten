@@ -3,7 +3,6 @@ id: dstore-elektronische-zustelladresse
 typ: datenspeicher
 system: null
 name: Elektronische Zustelladresse
-datenkategorie: Kontakt & Kommunikation
 zuständige-einheit: oe-amt-33
 bpmn:
   typ: datenspeicher

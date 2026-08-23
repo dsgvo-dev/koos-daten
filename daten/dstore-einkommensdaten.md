@@ -3,7 +3,6 @@ id: dstore-einkommensdaten
 typ: datenspeicher
 system: null
 name: Einkommensdaten
-datenkategorie: Finanzen & Steuern
 zuständige-einheit: oe-amt-50
 bpmn:
   typ: datenobjekt

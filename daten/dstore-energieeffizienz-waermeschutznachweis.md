@@ -3,7 +3,6 @@ id: dstore-energieeffizienz-waermeschutznachweis
 typ: datenspeicher
 system: null
 name: Energieeffizienz- und Wärmeschutznachweis
-datenkategorie: Bauen & Energie
 zuständige-einheit: oe-amt-63
 bpmn:
   typ: datenobjekt

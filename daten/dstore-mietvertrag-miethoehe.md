@@ -3,7 +3,6 @@ id: dstore-mietvertrag-miethoehe
 typ: datenspeicher
 system: null
 name: Mietvertrag und Miethöhe
-datenkategorie: Wohnen & Soziales
 zuständige-einheit: oe-amt-64
 bpmn:
   typ: datenspeicher

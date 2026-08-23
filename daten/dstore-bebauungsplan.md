@@ -3,7 +3,6 @@ id: dstore-bebauungsplan
 typ: datenspeicher
 system: null
 name: Bebauungsplan / Flächennutzungsplan
-datenkategorie: Bescheid / Nachweis
 zuständige-einheit: oe-amt-61
 bpmn:
   typ: datenspeicher

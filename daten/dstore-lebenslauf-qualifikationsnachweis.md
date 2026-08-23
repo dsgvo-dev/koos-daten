@@ -3,7 +3,6 @@ id: dstore-lebenslauf-qualifikationsnachweis
 typ: datenspeicher
 system: null
 name: Lebenslauf und Qualifikationsnachweis
-datenkategorie: Personal & Qualifikation
 zuständige-einheit: oe-amt-11
 bpmn:
   typ: datenobjekt

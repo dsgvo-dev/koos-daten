@@ -3,7 +3,6 @@ id: dstore-wahlunterlagen
 typ: datenspeicher
 system: null
 name: Wahlunterlagen
-datenkategorie: Wahlen & Gremien
 zuständige-einheit: oe-amt-10
 bpmn:
   typ: datenobjekt

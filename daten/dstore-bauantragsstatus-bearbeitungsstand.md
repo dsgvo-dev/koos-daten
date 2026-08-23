@@ -3,7 +3,6 @@ id: dstore-bauantragsstatus-bearbeitungsstand
 typ: datenspeicher
 system: null
 name: Bauantragsstatus und Bearbeitungsstand
-datenkategorie: Bauen & Verfahren
 zuständige-einheit: oe-amt-63
 bpmn:
   typ: datenspeicher

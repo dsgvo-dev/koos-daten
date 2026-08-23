@@ -3,7 +3,6 @@ id: dstore-namensfuehrung-selbstbestimmung
 typ: datenspeicher
 system: null
 name: Namensführung und Selbstbestimmung
-datenkategorie: Personenstand & Namensrecht
 zuständige-einheit: oe-amt-31
 bpmn:
   typ: datenspeicher

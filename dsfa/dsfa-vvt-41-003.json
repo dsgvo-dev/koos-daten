@@ -24,8 +24,8 @@
     "rechtsgrundlage": "Art. 6 Abs. 1 lit. c) und e) DSGVO, § 3 NDSG, § 7 NArchG (Archivgut der kommunalen Körperschaften), § 5 Abs. 1 NArchG (Nutzung auf Antrag zu wissenschaftlichen Zwecken oder bei sonst berechtigtem Interesse) i. V. m. der Benutzungsordnung, § 5 Abs. 2 NArchG (Schutzfristen); für besondere Kategorien p",
     "betroffene": "< 100",
     "daten": {
-      "schutzstufe": "C",
-      "schutzstufe_text": "mittel",
+      "schutzstufe": "D",
+      "schutzstufe_text": "hoch",
       "art9": true,
       "art9_kategorien": [],
       "art10": false,
@@ -59,7 +59,7 @@
     "angemessenheit": {
       "ueberschrift": "Angemessenheit im engeren Sinne",
       "eingriffstiefe": {
-        "schutzstufe": "mittel",
+        "schutzstufe": "hoch",
         "art9": true,
         "art10": false,
         "sozialdaten": false,
@@ -69,7 +69,7 @@
       "zweckgewicht": "Gesetzlicher Auftrag",
       "abmilderung_tom": {
         "baseline_anzahl": 27,
-        "ergaenzend_anzahl": 22,
+        "ergaenzend_anzahl": 31,
         "ergaenzend_toms": [
           {
             "id": "TOM-ORG-056",
@@ -243,16 +243,25 @@
       "TOM-SW-012",
       "TOM-SW-015",
       "TOM-SW-014",
-      "TOM-ORG-046",
-      "TOM-ORG-045",
-      "TOM-ORG-055",
       "TOM-ORG-019",
       "TOM-ORG-014",
       "TOM-ORG-016",
       "TOM-ORG-015",
-      "TOM-SW-013"
+      "TOM-SW-013",
+      "TOM-ORG-021",
+      "TOM-ORG-022",
+      "TOM-ORG-046",
+      "TOM-ORG-045",
+      "TOM-ORG-055",
+      "TOM-ORG-026",
+      "TOM-ORG-013",
+      "TOM-ORG-024",
+      "TOM-ORG-023",
+      "TOM-SW-018",
+      "TOM-SW-016",
+      "TOM-SW-017"
     ],
-    "ergaenzend_anzahl": 22
+    "ergaenzend_anzahl": 31
   },
   "ergebnis": {
     "bewertung": "offen",

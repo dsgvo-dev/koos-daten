@@ -3,7 +3,6 @@ id: dstore-gewerbeuntersagung
 typ: datenspeicher
 system: null
 name: Gewerbeuntersagung und Unzuverlässigkeit
-datenkategorie: Gewerbe & Betrieb
 zuständige-einheit: oe-amt-32
 bpmn:
   typ: datenobjekt

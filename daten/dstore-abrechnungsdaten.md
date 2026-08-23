@@ -3,7 +3,6 @@ id: dstore-abrechnungsdaten
 typ: datenspeicher
 system: null
 name: Abrechnungsdaten
-datenkategorie: Personal & HR
 zuständige-einheit: oe-amt-11
 bpmn:
   typ: datenspeicher

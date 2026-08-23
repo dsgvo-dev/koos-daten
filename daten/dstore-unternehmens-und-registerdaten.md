@@ -3,7 +3,6 @@ id: dstore-unternehmens-und-registerdaten
 typ: datenspeicher
 system: null
 name: Unternehmens- und Registerdaten
-datenkategorie: Gewerbe & Organisation
 zuständige-einheit: oe-amt-32
 bpmn:
   typ: datenspeicher

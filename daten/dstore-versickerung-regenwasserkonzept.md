@@ -3,7 +3,6 @@ id: dstore-versickerung-regenwasserkonzept
 typ: datenspeicher
 system: null
 name: Versickerungs- und Regenwasserkonzept
-datenkategorie: Umwelt & Entwässerung
 zuständige-einheit: oe-amt-67
 bpmn:
   typ: datenobjekt

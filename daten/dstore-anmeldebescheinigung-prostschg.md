@@ -3,7 +3,6 @@ id: dstore-anmeldebescheinigung-prostschg
 typ: datenspeicher
 system: null
 name: Anmeldebescheinigung und Aliasname nach ProstSchG
-datenkategorie: Gesundheit & Erlaubnisse
 zuständige-einheit: oe-amt-53
 bpmn:
   typ: datenobjekt

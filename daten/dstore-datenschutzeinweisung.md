@@ -1,7 +1,6 @@
 ---
 id: dstore-datenschutzeinweisung
 name: Datenschutzeinweisung
-datenkategorie: Compliance-Dokument
 zuständige-einheit: oe-amt-11
 bpmn:
   typ: datenobjekt

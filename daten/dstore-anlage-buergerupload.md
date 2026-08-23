@@ -3,7 +3,6 @@ id: dstore-anlage-buergerupload
 typ: datenspeicher
 system: null
 name: Von Bürgerinnen und Bürgern hochgeladene Anlagen
-datenkategorie: Digitale Verwaltung
 zuständige-einheit: oe-amt-33
 bpmn:
   typ: datenobjekt

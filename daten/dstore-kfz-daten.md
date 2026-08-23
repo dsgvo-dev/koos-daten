@@ -3,7 +3,6 @@ id: dstore-kfz-daten
 typ: datenspeicher
 system: null
 name: KFZ-Daten
-datenkategorie: Ordnung & Sicherheit
 zuständige-einheit: oe-amt-34
 bpmn:
   typ: datenobjekt

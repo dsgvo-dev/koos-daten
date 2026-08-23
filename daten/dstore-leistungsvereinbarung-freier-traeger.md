@@ -3,7 +3,6 @@ id: dstore-leistungsvereinbarung-freier-traeger
 typ: datenspeicher
 system: null
 name: Leistungsvereinbarung mit freien Trägern
-datenkategorie: Soziales & Jugend
 zuständige-einheit: oe-amt-51
 bpmn:
   typ: datenobjekt

@@ -3,7 +3,6 @@ id: dstore-pflegegrad-pflegeleistungen
 typ: datenspeicher
 system: null
 name: Pflegegrad und Pflegeleistungen
-datenkategorie: Soziales & Gesundheit
 zuständige-einheit: oe-amt-50
 bpmn:
   typ: datenspeicher

@@ -1,7 +1,6 @@
 ---
 id: dstore-it-berechtigungsantrag
 name: IT-Berechtigungsantrag
-datenkategorie: Verwaltungsformular
 zuständige-einheit: oe-amt-15
 bpmn:
   typ: datenobjekt

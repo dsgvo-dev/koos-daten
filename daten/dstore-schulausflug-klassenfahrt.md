@@ -3,7 +3,6 @@ id: dstore-schulausflug-klassenfahrt
 typ: datenspeicher
 system: null
 name: Schulausflug und Klassenfahrt
-datenkategorie: Bildung & Teilhabe
 zuständige-einheit: oe-amt-40
 bpmn:
   typ: datenobjekt

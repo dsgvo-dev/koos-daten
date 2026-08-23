@@ -3,7 +3,6 @@ id: dstore-tiergesundheitszeugnis
 typ: datenspeicher
 system: null
 name: Tiergesundheitszeugnis
-datenkategorie: Veterinär & Gesundheit
 zuständige-einheit: oe-amt-71
 bpmn:
   typ: datenobjekt

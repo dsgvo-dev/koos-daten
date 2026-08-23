@@ -3,7 +3,6 @@ id: dstore-kaufvertragsdaten-immobilie
 typ: datenspeicher
 system: null
 name: Kaufvertragsdaten Immobilie
-datenkategorie: Liegenschaften
 zuständige-einheit: oe-amt-23
 bpmn:
   typ: datenobjekt

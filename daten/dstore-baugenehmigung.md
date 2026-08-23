@@ -3,7 +3,6 @@ id: dstore-baugenehmigung
 typ: datenspeicher
 system: null
 name: Baugenehmigung
-datenkategorie: Bescheid / Nachweis
 zuständige-einheit: oe-amt-63
 bpmn:
   typ: datenobjekt

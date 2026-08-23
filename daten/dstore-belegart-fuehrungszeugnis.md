@@ -3,7 +3,6 @@ id: dstore-belegart-fuehrungszeugnis
 typ: datenspeicher
 system: null
 name: Belegart Führungszeugnis
-datenkategorie: Sicherheit & Nachweise
 zuständige-einheit: oe-amt-32
 bpmn:
   typ: datenobjekt

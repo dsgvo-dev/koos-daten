@@ -3,7 +3,6 @@ id: dstore-einwilligung-widerruf
 typ: datenspeicher
 system: null
 name: Einwilligung und Widerruf
-datenkategorie: Verfahrensorganisation
 zuständige-einheit: oe-amt-1-4
 bpmn:
   typ: datenobjekt

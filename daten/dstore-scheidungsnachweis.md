@@ -3,7 +3,6 @@ id: dstore-scheidungsnachweis
 typ: datenspeicher
 system: null
 name: Scheidungsnachweis
-datenkategorie: Personenstandsdaten
 zuständige-einheit: oe-amt-31
 bpmn:
   typ: datenobjekt

@@ -3,7 +3,6 @@ id: dstore-behoerdenanschrift-fuehrungszeugnis
 typ: datenspeicher
 system: null
 name: Behördenanschrift für Führungszeugnisse
-datenkategorie: Sicherheit & Nachweise
 zuständige-einheit: oe-amt-32
 bpmn:
   typ: datenobjekt

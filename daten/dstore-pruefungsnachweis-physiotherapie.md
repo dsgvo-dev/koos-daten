@@ -3,7 +3,6 @@ id: dstore-pruefungsnachweis-physiotherapie
 typ: datenspeicher
 system: null
 name: Prüfungsnachweis Physiotherapie
-datenkategorie: Gesundheit & Erlaubnisse
 zuständige-einheit: oe-amt-53
 bpmn:
   typ: datenobjekt

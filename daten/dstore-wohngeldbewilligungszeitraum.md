@@ -3,7 +3,6 @@ id: dstore-wohngeldbewilligungszeitraum
 typ: datenspeicher
 system: null
 name: Bewilligungszeitraum Wohngeld
-datenkategorie: Wohnen & Soziales
 zuständige-einheit: oe-amt-64
 bpmn:
   typ: datenobjekt

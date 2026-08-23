@@ -3,7 +3,6 @@ id: dstore-vergabeunterlagen
 typ: datenspeicher
 system: null
 name: Vergabeunterlagen
-datenkategorie: Finanzen & Steuern
 zuständige-einheit: oe-amt-10
 bpmn:
   typ: datenobjekt

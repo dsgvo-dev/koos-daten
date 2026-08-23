@@ -3,7 +3,6 @@ id: dstore-wohnstatus-haupt-nebenwohnung
 typ: datenspeicher
 system: null
 name: Wohnstatus Haupt- und Nebenwohnung
-datenkategorie: Wohnen & Melderecht
 zuständige-einheit: oe-amt-33
 bpmn:
   typ: datenobjekt

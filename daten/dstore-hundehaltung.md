@@ -3,7 +3,6 @@ id: dstore-hundehaltung
 typ: datenspeicher
 system: null
 name: Hundehaltung
-datenkategorie: Tiere & Haltung
 zuständige-einheit: oe-amt-32
 bpmn:
   typ: nachricht

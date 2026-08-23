@@ -3,7 +3,6 @@ id: dstore-bewerbungsunterlagen
 typ: datenspeicher
 system: null
 name: Bewerbungsunterlagen
-datenkategorie: Personal & HR
 zuständige-einheit: oe-amt-11
 bpmn:
   typ: datenspeicher

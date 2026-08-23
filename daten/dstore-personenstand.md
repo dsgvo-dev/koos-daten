@@ -3,7 +3,6 @@ id: dstore-personenstand
 typ: datenspeicher
 system: null
 name: Personenstandsdaten
-datenkategorie: Standesamt
 zuständige-einheit: oe-amt-31
 bpmn:
   typ: datenobjekt

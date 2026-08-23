@@ -3,7 +3,6 @@ id: dstore-mutterschaftsgeld
 typ: datenspeicher
 system: null
 name: Mutterschaftsgeld
-datenkategorie: Familie & Soziales
 zuständige-einheit: oe-amt-50
 bpmn:
   typ: datenobjekt

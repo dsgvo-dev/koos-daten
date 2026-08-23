@@ -3,7 +3,6 @@ id: dstore-antragsberechtigung-personenstand
 typ: datenspeicher
 system: null
 name: Antragsberechtigung im Personenstandsrecht
-datenkategorie: Berechtigungsdaten
 zuständige-einheit: oe-amt-31
 bpmn:
   typ: datenobjekt

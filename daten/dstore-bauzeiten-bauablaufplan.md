@@ -3,7 +3,6 @@ id: dstore-bauzeiten-bauablaufplan
 typ: datenspeicher
 system: null
 name: Bauzeiten- und Bauablaufplan
-datenkategorie: Bauen & Organisation
 zuständige-einheit: oe-amt-63
 bpmn:
   typ: datenobjekt

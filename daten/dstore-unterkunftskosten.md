@@ -3,7 +3,6 @@ id: dstore-unterkunftskosten
 typ: datenspeicher
 system: null
 name: Unterkunftskosten
-datenkategorie: Wohnen & Soziales
 zuständige-einheit: oe-amt-64
 bpmn:
   typ: datenobjekt

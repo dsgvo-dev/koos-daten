@@ -3,7 +3,6 @@ id: dstore-wohnberechtigung
 typ: datenspeicher
 system: null
 name: Wohnberechtigung
-datenkategorie: Wohnen & Soziales
 zuständige-einheit: oe-amt-64
 bpmn:
   typ: datenobjekt

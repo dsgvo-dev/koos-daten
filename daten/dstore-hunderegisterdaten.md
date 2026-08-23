@@ -3,7 +3,6 @@ id: dstore-hunderegisterdaten
 typ: datenspeicher
 system: null
 name: Hunderegisterdaten
-datenkategorie: Tiere & Haltung
 zuständige-einheit: oe-amt-32
 bpmn:
   typ: datenspeicher

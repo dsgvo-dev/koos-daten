@@ -3,7 +3,6 @@ id: dstore-sachkundenachweis-hundehaltung
 typ: datenspeicher
 system: null
 name: Sachkundenachweis Hundehaltung
-datenkategorie: Ordnung & Tiere
 zuständige-einheit: oe-amt-32
 bpmn:
   typ: datenobjekt

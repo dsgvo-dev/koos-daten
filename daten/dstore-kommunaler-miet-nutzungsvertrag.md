@@ -3,7 +3,6 @@ id: dstore-kommunaler-miet-nutzungsvertrag
 typ: datenspeicher
 system: null
 name: Kommunaler Miet- und Nutzungsvertrag
-datenkategorie: Liegenschaften
 zuständige-einheit: oe-amt-23
 bpmn:
   typ: datenspeicher

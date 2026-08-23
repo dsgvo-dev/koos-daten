@@ -3,7 +3,6 @@ id: dstore-verpflichtungserklaerung
 typ: datenspeicher
 system: null
 name: Verpflichtungserklärung
-datenkategorie: Migration & Verpflichtung
 zuständige-einheit: oe-amt-47
 bpmn:
   typ: datenobjekt

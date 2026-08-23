@@ -3,7 +3,6 @@ id: dstore-mietvertrag
 typ: datenspeicher
 system: null
 name: Mietvertrag
-datenkategorie: Bau & Liegenschaften
 zuständige-einheit: oe-amt-63
 bpmn:
   typ: datenspeicher

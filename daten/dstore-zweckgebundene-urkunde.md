@@ -3,7 +3,6 @@ id: dstore-zweckgebundene-urkunde
 typ: datenspeicher
 system: null
 name: Zweckgebundene Urkunde
-datenkategorie: Personenstandsdaten
 zuständige-einheit: oe-amt-50
 bpmn:
   typ: datenobjekt

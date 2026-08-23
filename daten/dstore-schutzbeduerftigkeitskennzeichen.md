@@ -3,7 +3,6 @@ id: dstore-schutzbeduerftigkeitskennzeichen
 typ: datenspeicher
 system: null
 name: Schutzbedürftigkeitskennzeichen
-datenkategorie: Bürgerdienste & Meldewesen
 zuständige-einheit: oe-amt-33
 bpmn:
   typ: datenobjekt

@@ -3,7 +3,6 @@ id: dstore-grossraum-schwertransportdaten
 typ: datenspeicher
 system: null
 name: Großraum- und Schwertransportdaten
-datenkategorie: Verkehr & Genehmigungen
 zuständige-einheit: oe-amt-34
 bpmn:
   typ: datenobjekt

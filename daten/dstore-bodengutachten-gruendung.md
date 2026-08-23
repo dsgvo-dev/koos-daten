@@ -3,7 +3,6 @@ id: dstore-bodengutachten-gruendung
 typ: datenspeicher
 system: null
 name: Bodengutachten und Gründung
-datenkategorie: Bauen & Geotechnik
 zuständige-einheit: oe-amt-63
 bpmn:
   typ: datenobjekt

@@ -3,7 +3,6 @@ id: dstore-grundstuecksbezug
 typ: datenspeicher
 system: null
 name: Grundstücksbezug
-datenkategorie: Bauen & Grundstück
 zuständige-einheit: oe-amt-63
 bpmn:
   typ: datenobjekt

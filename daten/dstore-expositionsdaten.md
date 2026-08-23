@@ -3,7 +3,6 @@ id: dstore-expositionsdaten
 typ: datenspeicher
 system: null
 name: Expositionsdaten Einsatzkräfte
-datenkategorie: Feuerwehr & Gesundheit
 zuständige-einheit: oe-amt-37
 bpmn:
   typ: datenobjekt

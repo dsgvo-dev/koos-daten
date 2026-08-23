@@ -3,7 +3,6 @@ id: dstore-darlehensverpflichtung-eigenheim
 typ: datenspeicher
 system: null
 name: Darlehensverpflichtung Eigenheim
-datenkategorie: Wohnen & Eigentum
 zuständige-einheit: oe-amt-64
 bpmn:
   typ: datenspeicher

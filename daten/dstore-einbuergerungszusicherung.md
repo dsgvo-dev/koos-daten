@@ -3,7 +3,6 @@ id: dstore-einbuergerungszusicherung
 typ: datenspeicher
 system: null
 name: Einbürgerungszusicherung
-datenkategorie: Migration & Einbürgerung
 zuständige-einheit: oe-amt-47
 bpmn:
   typ: datenobjekt

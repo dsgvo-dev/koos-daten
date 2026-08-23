@@ -3,7 +3,6 @@ id: dstore-heimbegehung-pruefbericht
 typ: datenspeicher
 system: null
 name: Heimbegehung und Prüfbericht
-datenkategorie: Pflegeaufsicht
 zuständige-einheit: oe-amt-53
 bpmn:
   typ: datenobjekt

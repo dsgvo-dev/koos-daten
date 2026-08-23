@@ -3,7 +3,6 @@ id: dstore-wohnungszuordnungsmerkmal
 typ: datenspeicher
 system: null
 name: Wohnungszuordnungsmerkmal
-datenkategorie: Wohnen & Melderecht
 zuständige-einheit: oe-amt-64
 bpmn:
   typ: datenobjekt

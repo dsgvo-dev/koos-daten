@@ -3,7 +3,6 @@ id: dstore-geburtsurkunde
 typ: datenspeicher
 system: null
 name: Geburtsurkunde
-datenkategorie: Standesamt
 zuständige-einheit: oe-amt-31
 bpmn:
   typ: datenobjekt

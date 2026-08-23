@@ -3,7 +3,6 @@ id: dstore-rechnungsadressierung-kommune
 typ: datenspeicher
 system: null
 name: Rechnungsadressierung Kommune
-datenkategorie: Finanzen & E-Government
 personenbezug: nein   # festgestellt 2026-08-12, siehe Vermerk unten
 zuständige-einheit: oe-amt-20
 bpmn:

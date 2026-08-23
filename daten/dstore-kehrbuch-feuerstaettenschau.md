@@ -3,7 +3,6 @@ id: dstore-kehrbuch-feuerstaettenschau
 typ: datenspeicher
 system: null
 name: Kehrbuch und Feuerstättenschau
-datenkategorie: Gewerbe & Erlaubnisse
 zuständige-einheit: oe-amt-60
 bpmn:
   typ: datenobjekt

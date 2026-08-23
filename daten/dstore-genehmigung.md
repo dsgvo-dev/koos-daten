@@ -3,7 +3,6 @@ id: dstore-genehmigung
 typ: datenspeicher
 system: null
 name: Genehmigung
-datenkategorie: Verwaltungsakte & Dokumente
 zuständige-einheit: oe-amt-30
 bpmn:
   typ: datenobjekt

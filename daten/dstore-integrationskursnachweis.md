@@ -3,7 +3,6 @@ id: dstore-integrationskursnachweis
 typ: datenspeicher
 system: null
 name: Integrationskursnachweis
-datenkategorie: Migration & Integration
 zuständige-einheit: oe-amt-47
 bpmn:
   typ: datenobjekt

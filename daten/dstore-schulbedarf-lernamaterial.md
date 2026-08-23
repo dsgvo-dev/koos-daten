@@ -3,7 +3,6 @@ id: dstore-schulbedarf-lernamaterial
 typ: datenspeicher
 system: null
 name: Schulbedarf und Lernmaterial
-datenkategorie: Bildung & Teilhabe
 zuständige-einheit: oe-amt-40
 bpmn:
   typ: datenobjekt

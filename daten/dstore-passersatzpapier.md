@@ -3,7 +3,6 @@ id: dstore-passersatzpapier
 typ: datenspeicher
 system: null
 name: Passersatzpapier
-datenkategorie: Identitätsdaten
 zuständige-einheit: oe-amt-47
 bpmn:
   typ: datenobjekt

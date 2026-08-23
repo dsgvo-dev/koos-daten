@@ -3,7 +3,6 @@ id: dstore-einkommens-und-leistungsdaten
 typ: datenspeicher
 system: null
 name: Einkommens- und Leistungsdaten
-datenkategorie: Sozialleistungsdaten
 zuständige-einheit: oe-amt-50
 bpmn:
   typ: datenobjekt

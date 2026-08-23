@@ -3,7 +3,6 @@ id: dstore-postzustelladresse-korrespondenz
 typ: datenspeicher
 system: null
 name: Postzustelladresse und Korrespondenz
-datenkategorie: Kommunikation & Zustellung
 zuständige-einheit: oe-amt-33
 bpmn:
   typ: datenobjekt

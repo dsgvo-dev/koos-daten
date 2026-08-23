@@ -3,7 +3,6 @@ id: dstore-identitaetsnachweis
 typ: datenspeicher
 system: null
 name: Identitätsnachweis
-datenkategorie: Identitätsdaten
 zuständige-einheit: oe-amt-33
 bpmn:
   typ: datenobjekt

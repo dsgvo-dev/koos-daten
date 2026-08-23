@@ -3,7 +3,6 @@ id: dstore-kinderbetreuung-kosten
 typ: datenspeicher
 system: null
 name: Kinderbetreuungskosten
-datenkategorie: Bildung & Betreuung
 zuständige-einheit: oe-amt-51
 bpmn:
   typ: datenobjekt

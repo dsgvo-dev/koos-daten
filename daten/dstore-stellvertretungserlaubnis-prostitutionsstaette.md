@@ -3,7 +3,6 @@ id: dstore-stellvertretungserlaubnis-prostitutionsstaette
 typ: datenspeicher
 system: null
 name: Stellvertretungserlaubnis Prostitutionsstätte
-datenkategorie: Ordnung & Erlaubnisse
 zuständige-einheit: oe-amt-32
 bpmn:
   typ: datenobjekt

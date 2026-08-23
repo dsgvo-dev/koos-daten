@@ -3,7 +3,6 @@ id: dstore-wohngeld
 typ: datenspeicher
 system: null
 name: Wohngeldantrag
-datenkategorie: Soziales & Jugend
 zuständige-einheit: oe-amt-64
 bpmn:
   typ: datenobjekt

@@ -3,7 +3,6 @@ id: dstore-krankenversicherungsbeitraege
 typ: datenspeicher
 system: null
 name: Krankenversicherungsbeiträge
-datenkategorie: Gesundheit & Soziales
 zuständige-einheit: oe-amt-50
 bpmn:
   typ: datenobjekt

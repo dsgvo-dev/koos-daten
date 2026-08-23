@@ -3,7 +3,6 @@ id: dstore-zuverlaessigkeitsanfrage-sicherheitsbehoerden
 typ: datenspeicher
 system: null
 name: Zuverlässigkeitsanfrage bei Sicherheitsbehörden
-datenkategorie: Sicherheit & Nachweise
 zuständige-einheit: oe-amt-32
 bpmn:
   typ: datenobjekt

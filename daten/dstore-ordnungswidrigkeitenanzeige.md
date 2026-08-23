@@ -3,7 +3,6 @@ id: dstore-ordnungswidrigkeitenanzeige
 typ: datenspeicher
 system: null
 name: Ordnungswidrigkeitenanzeige
-datenkategorie: Ordnung & Vollzug
 zuständige-einheit: oe-amt-32
 bpmn:
   typ: datenobjekt

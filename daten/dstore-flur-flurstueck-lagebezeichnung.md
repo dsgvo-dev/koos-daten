@@ -3,7 +3,6 @@ id: dstore-flur-flurstueck-lagebezeichnung
 typ: datenspeicher
 system: null
 name: Flur, Flurstück und Lagebezeichnung
-datenkategorie: Bauen & Grundstück
 zuständige-einheit: oe-amt-62
 bpmn:
   typ: datenobjekt

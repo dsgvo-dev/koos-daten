@@ -3,7 +3,6 @@ id: dstore-aenderungsmitteilung-wohngeld
 typ: datenspeicher
 system: null
 name: Änderungsmitteilung Wohngeld
-datenkategorie: Wohnen & Soziales
 zuständige-einheit: oe-amt-64
 bpmn:
   typ: datenobjekt

@@ -3,7 +3,6 @@ id: dstore-grabstaette-belegung
 typ: datenspeicher
 system: null
 name: Grabstätte, Nutzungsrecht und Belegung
-datenkategorie: Friedhof & Bestattung
 zuständige-einheit: oe-amt-66
 bpmn:
   typ: datenobjekt

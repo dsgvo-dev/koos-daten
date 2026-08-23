@@ -3,7 +3,6 @@ id: dstore-aufenthaltstitel
 typ: datenspeicher
 system: null
 name: Aufenthaltstitel und Aufenthaltsstatus
-datenkategorie: Migration & Aufenthalt
 zuständige-einheit: oe-amt-47
 bpmn:
   typ: datenobjekt

@@ -3,7 +3,6 @@ id: dstore-debitoren-kreditorendaten
 typ: datenspeicher
 system: null
 name: Debitoren- und Kreditorendaten
-datenkategorie: Finanzen & Zahlung
 zuständige-einheit: oe-amt-20
 bpmn:
   typ: datenspeicher

@@ -3,7 +3,6 @@ id: dstore-foerderantrag
 typ: datenspeicher
 system: null
 name: Förderantrag
-datenkategorie: Finanzen & Steuern
 zuständige-einheit: oe-amt-80
 bpmn:
   typ: datenobjekt

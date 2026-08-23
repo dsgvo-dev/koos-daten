@@ -3,7 +3,6 @@ id: dstore-schuelerbefoerderungskosten
 typ: datenspeicher
 system: null
 name: Schülerbeförderungskosten
-datenkategorie: Bildung & Schule
 zuständige-einheit: oe-amt-40
 bpmn:
   typ: datenobjekt

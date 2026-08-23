@@ -3,7 +3,6 @@ id: dstore-beratungsdokumentation
 typ: datenspeicher
 system: null
 name: Beratungsdokumentation
-datenkategorie: Kontakt & Kommunikation
 zuständige-einheit: oe-amt-53
 bpmn:
   typ: datenobjekt

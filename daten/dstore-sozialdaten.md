@@ -3,7 +3,6 @@ id: dstore-sozialdaten
 typ: datenspeicher
 system: null
 name: Sozialdaten
-datenkategorie: Soziales & Jugend
 zuständige-einheit: oe-amt-50
 bpmn:
   typ: datenobjekt

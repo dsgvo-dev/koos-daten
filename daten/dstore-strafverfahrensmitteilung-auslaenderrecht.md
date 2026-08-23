@@ -3,7 +3,6 @@ id: dstore-strafverfahrensmitteilung-auslaenderrecht
 typ: datenspeicher
 system: null
 name: Strafverfahrensmitteilung an die Ausländerbehörde
-datenkategorie: Migration & Aufenthalt
 zuständige-einheit: oe-amt-47
 bpmn:
   typ: datenobjekt

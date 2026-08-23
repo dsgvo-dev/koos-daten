@@ -3,7 +3,6 @@ id: dstore-verwendungszweck-fuehrungszeugnis
 typ: datenspeicher
 system: null
 name: Verwendungszweck Führungszeugnis
-datenkategorie: Sicherheit & Nachweise
 zuständige-einheit: oe-amt-32
 bpmn:
   typ: datenobjekt

@@ -3,7 +3,6 @@ id: dstore-grundsteuerbescheid-eigentum
 typ: datenspeicher
 system: null
 name: Grundsteuerbescheid Eigentum
-datenkategorie: Steuern & Eigentum
 zuständige-einheit: oe-amt-22
 bpmn:
   typ: datenobjekt

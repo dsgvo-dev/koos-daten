@@ -3,7 +3,6 @@ id: dstore-baulastenauszug
 typ: datenspeicher
 system: null
 name: Baulastenauszug
-datenkategorie: Bauen & Grundstück
 zuständige-einheit: oe-amt-63
 bpmn:
   typ: datenobjekt

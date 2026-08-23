@@ -3,7 +3,6 @@ id: dstore-zeugenangaben-schadensfall
 typ: datenspeicher
 system: null
 name: Zeugenangaben im Schadensfall
-datenkategorie: Ordnung & Sicherheit
 zuständige-einheit: oe-amt-86
 bpmn:
   typ: datenobjekt

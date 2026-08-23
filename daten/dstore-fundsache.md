@@ -3,7 +3,6 @@ id: dstore-fundsache
 typ: datenspeicher
 system: null
 name: Fundsache und Fundverwaltung
-datenkategorie: Ordnung & Vollzug
 zuständige-einheit: oe-amt-33
 bpmn:
   typ: datenobjekt

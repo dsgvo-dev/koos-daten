@@ -3,7 +3,6 @@ id: dstore-zahlungsziel-faelligkeit
 typ: datenspeicher
 system: null
 name: Zahlungsziel und Fälligkeit
-datenkategorie: Finanzen & Zahlung
 zuständige-einheit: oe-amt-20
 bpmn:
   typ: datenspeicher

@@ -3,7 +3,6 @@ id: dstore-forderungstitel-vollstreckung
 typ: datenspeicher
 system: null
 name: Forderungstitel Vollstreckung
-datenkategorie: Finanzen & Vollstreckung
 zuständige-einheit: oe-amt-21
 bpmn:
   typ: datenobjekt

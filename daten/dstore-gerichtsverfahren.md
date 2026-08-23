@@ -3,7 +3,6 @@ id: dstore-gerichtsverfahren
 typ: datenspeicher
 system: null
 name: Gerichtsverfahren
-datenkategorie: Recht & Compliance
 zuständige-einheit: oe-amt-30
 bpmn:
   typ: datenobjekt

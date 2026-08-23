@@ -3,7 +3,6 @@ id: dstore-erwerbseinkommen-bezugszeitraum
 typ: datenspeicher
 system: null
 name: Erwerbseinkommen im Bezugszeitraum
-datenkategorie: Arbeit & Einkommen
 zuständige-einheit: oe-amt-50
 bpmn:
   typ: datenobjekt

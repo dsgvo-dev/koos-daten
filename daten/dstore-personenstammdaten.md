@@ -3,7 +3,6 @@ id: dstore-personenstammdaten
 typ: datenspeicher
 system: null
 name: Personenstammdaten
-datenkategorie: Identitätsdaten
 zuständige-einheit: oe-amt-33
 bpmn:
   typ: datenobjekt

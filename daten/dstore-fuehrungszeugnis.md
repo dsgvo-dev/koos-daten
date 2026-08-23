@@ -3,7 +3,6 @@ id: dstore-fuehrungszeugnis
 typ: datenspeicher
 system: null
 name: Führungszeugnis
-datenkategorie: Ordnung & Sicherheit
 zuständige-einheit: oe-amt-33
 bpmn:
   typ: datenobjekt

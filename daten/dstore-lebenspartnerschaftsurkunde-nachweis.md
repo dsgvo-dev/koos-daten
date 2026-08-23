@@ -3,7 +3,6 @@ id: dstore-lebenspartnerschaftsurkunde-nachweis
 typ: datenspeicher
 system: null
 name: Lebenspartnerschaftsurkunde als Nachweis
-datenkategorie: Personenstandsdaten
 zuständige-einheit: oe-amt-31
 bpmn:
   typ: datenobjekt

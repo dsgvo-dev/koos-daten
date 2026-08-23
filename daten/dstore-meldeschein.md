@@ -3,7 +3,6 @@ id: dstore-meldeschein
 typ: datenspeicher
 system: null
 name: Meldeschein
-datenkategorie: Wohnen & Melderecht
 zuständige-einheit: oe-amt-33
 bpmn:
   typ: nachricht

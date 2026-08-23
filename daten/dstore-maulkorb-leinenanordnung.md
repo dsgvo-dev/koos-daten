@@ -3,7 +3,6 @@ id: dstore-maulkorb-leinenanordnung
 typ: datenspeicher
 system: null
 name: Maulkorb- und Leinenanordnung
-datenkategorie: Ordnung & Tiere
 zuständige-einheit: oe-amt-32
 bpmn:
   typ: datenobjekt

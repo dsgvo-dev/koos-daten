@@ -3,7 +3,6 @@ id: dstore-polizeiliche-verlustmeldung
 typ: datenspeicher
 system: null
 name: Polizeiliche Verlustmeldung
-datenkategorie: Sicherheit & Nachweise
 zuständige-einheit: oe-amt-33
 bpmn:
   typ: nachricht

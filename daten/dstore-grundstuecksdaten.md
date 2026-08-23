@@ -3,7 +3,6 @@ id: dstore-grundstuecksdaten
 typ: datenspeicher
 system: null
 name: Grundstücksdaten
-datenkategorie: Bau & Liegenschaften
 zuständige-einheit: oe-amt-63
 bpmn:
   typ: datenspeicher
