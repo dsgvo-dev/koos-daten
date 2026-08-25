@@ -1,16 +1,11 @@
 ---
-id: reg-da-001
+id: reg-da-cloud
 name: Dienstanweisung zur Nutzung von Cloud-Diensten (DA Cloud)
 typ: Dienstanweisung
 status: aktiv
 datum: '2023-03-15'
 zustaendigeEinheit: oe-amt-1-5
 entscheidendesGremium: Hauptverwaltungsbeamter
-kontext: Die Verwaltung benötigt verbindliche Regelungen für den Einsatz von Cloud-Dienstleistungen.
-entscheidung: Die DA Cloud gilt für alle Mitarbeitenden der Gemeindeverwaltung. Sie
-  regelt den Einsatz von Cloud-Dienstleistungen im IT-Bereich. Insbesondere regelt
-  sie, welche Daten mit welchem Schutzbedarf in Cloud-Lösungen eingestellt werden
-  dürfen.
 ---
 
 # **Dienstanweisung zur Nutzung von Cloud-Diensten in der [Name der Kommune]**

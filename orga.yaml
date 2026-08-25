@@ -82,6 +82,13 @@ einheiten:
     parent: oe-hvb
     rollen:
       - Digitalisierungsbeauftragte/r
+  - id: oe-amt-1-7
+    name: 1.7 – Korruptionsprävention
+    parent: oe-hvb
+    rollen:
+      - Antikorruptionsbeauftragte/r
+    sonderfunktionen:
+      - Antikorruptionsbeauftragte/r
 
   # ── 80 – Wirtschaftsförderung (direkt der Verwaltungsleitung zugeordnet) ──
 

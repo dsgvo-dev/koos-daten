@@ -50,7 +50,9 @@ module:
   prozesse:
     pfad: prozesse/
     muster: "proc-*.md"
+    ausgenommen: ["_duplikate/", "_abgeloest/"]
     beschreibung: Verwaltungsprozesse mit Zuständigkeiten und Datenarten
+    herkunft: gepflegt
     status: aktiv
 
   daten:
@@ -65,6 +67,96 @@ module:
     beschreibung: Dienstanweisungen, Richtlinien, Gesetze (in Vorbereitung)
     status: geplant
 
+  # ── gepflegte Bestände ───────────────────────────────────────────────────
+  vvt:
+    pfad: vvt/
+    muster: "vvt-*.md"
+    beschreibung: Verarbeitungstätigkeiten nach Art. 30 DSGVO
+    herkunft: gepflegt
+    status: aktiv
+
+  regeln:
+    pfad: regeln/
+    muster: "*.yaml"
+    beschreibung: Kontextregeln für die Schutzstufenermittlung (ADR 010)
+    herkunft: gepflegt
+    status: aktiv
+
+  # ── erzeugte Bestände ────────────────────────────────────────────────────
+  # Diese Ordner werden aus den gepflegten Beständen berechnet. Sie sind
+  # KEINE Pflegeorte: eine Änderung darin geht beim nächsten Lauf verloren.
+  # Alle Generatoren liegen in dsms-knowledge/scripts/.
+  besonderheiten:
+    pfad: besonderheiten/
+    muster: "bes-vvt-*.json"
+    beschreibung: Merkmale der Verarbeitung je VVT — Art, Umfang, Umstände
+    herkunft: erzeugt
+    erzeugt-von: besonderheiten_generator.py
+    quelle: [vvt, daten]
+    status: aktiv
+
+  risikoanalyse:
+    pfad: risikoanalyse/
+    muster: "risiko-vvt-*.json"
+    beschreibung: Basisrisiko je Schutzziel
+    herkunft: erzeugt
+    erzeugt-von: risikoanalyse_generator.py
+    quelle: [besonderheiten]
+    status: aktiv
+
+  schwellwert:
+    pfad: schwellwert/
+    muster: "schwellwert-vvt-*.json"
+    beschreibung: Schwellwertprüfung — ist eine DSFA erforderlich?
+    herkunft: erzeugt
+    erzeugt-von: schwellwert_generator.py
+    quelle: [besonderheiten, risikoanalyse]
+    status: aktiv
+
+  tom:
+    pfad: tom/
+    muster: ["tom-vvt-*.json", "bedrohungen-vvt-*.json",
+             "ergaenzend-vvt-*.json", "baseline-organisation.json"]
+    beschreibung: >
+      Zuordnung von Maßnahmen und Gefährdungen auf die einzelne VVT.
+      Enthält keine Maßnahmentexte — nur Verweise auf den Katalog in
+      dsms-knowledge/toms/.
+    herkunft: erzeugt
+    erzeugt-von: [tom_generator.py, bedrohungen_generator.py,
+                  ergaenzend_generator.py]
+    quelle: [besonderheiten, risikoanalyse]
+    status: aktiv
+    anmerkung: >
+      tom_generator.py und bedrohungen_generator.py schreiben beide
+      tom-{vvt-id}.json, in unterschiedlichem Format. Wer zuletzt läuft,
+      gewinnt. Ungelöst, Stand 24.08.2026.
+
+  baseline:
+    pfad: baseline/
+    muster: ["baseline-vvt-*.json", "baseline-katalog.json"]
+    beschreibung: Grundmaßnahmen je VVT, nach Geltungsbereich gruppiert
+    herkunft: erzeugt
+    erzeugt-von: baseline_generator.py
+    quelle: [besonderheiten]
+    status: aktiv
+
+  dsfa:
+    pfad: dsfa/
+    muster: "dsfa-vvt-*.json"
+    beschreibung: Datenschutz-Folgenabschätzung, wo der Schwellwert überschritten ist
+    herkunft: erzeugt
+    erzeugt-von: dsfa_generator.py
+    quelle: [besonderheiten, risikoanalyse, schwellwert, tom, vvt]
+    status: aktiv
+
+  ableitungen:
+    pfad: _ableitungen/
+    muster: "*.json"
+    beschreibung: Nachschlagetabellen und offene Posten
+    herkunft: erzeugt
+    erzeugt-von: skills/vvt-datenspeicher/scripts/
+    status: aktiv
+
 # ---------------------------------------------------------------------------
 # 3. ID-PRÄFIXE
 #    Stabile Präfix-Konvention für alle Entitäts-IDs.
@@ -75,7 +167,7 @@ id-praefixe:
   oe:        "oe-"       # Organisationseinheit, z. B. oe-fb1-personal
   prozess:   "proc-"     # Prozess,              z. B. proc-onboarding
   datenart:  "dstore-"    # Datenart,             z. B. dstore-personalakte
-  regelung:  "reg-"      # Regelung,             z. B. reg-da-personal-001
+  regelung:  "reg-"      # Regelung,             z. B. reg-da-personal
 
 # ID-Bildungsregel:
 #   Dateiname (ohne .md) = ID der Entität
@@ -142,7 +234,7 @@ versionierung:
 #    Erweiterungen hier eintragen — nie direkt in den Inhaltsdateien erfinden.
 #
 #    FÜHRENDE QUELLE ist die Richtlinie zur Datenklassifizierung
-#    (dsms-knowledge/facts/muster/dienstanweisungen/reg-klassifizierung-001.md,
+#    (dsms-knowledge/facts/muster/dienstanweisungen/reg-klassifizierung.md,
 #    Fassung 0.3 vom 2026-08-12). Weicht koos.yaml von ihr ab, gilt die
 #    Richtlinie.
 #

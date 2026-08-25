@@ -1,5 +1,5 @@
 ---
-id: reg-go-001
+id: reg-go
 name: Geschäftsordnung
 typ: Geschäftsordnung
 status: aktiv
@@ -8,13 +8,8 @@ entscheidendes-gremium: Rat
 ersetzt: ~
 zustaendigeEinheit: oe-hvb
 
-kontext: >
-  Die Gemeinde bedarf einer Geschäftsordnung als grundlegendes Regelwerk für den Rat und die Ausschüsse. Die Geschäftsordnung regelt den Ablauf der Sitzungen der Gremien, soweit dies nicht durch die Hauptsatzung oder das Gesetz geregelt wird.
 
-entscheidung: >
-  Der Rat beschließt die Geschäftsordnung mit einfacher Mehrheit.
 
-alternativen:
   
 ---
 

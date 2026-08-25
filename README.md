@@ -174,7 +174,7 @@ proc-onboarding       →  "Onboarding neuer Mitarbeiter/innen"
 |---|---|---|
 | Prozess | `proc-` | `proc-baugenehmigung-beantragen` |
 | Datenart | `dstore-` | `dstore-personalakte` |
-| Regelung | `reg-` | `reg-adga-001` |
+| Regelung | `reg-` | `reg-adga` |
 | Organisationseinheit | `oe-` | `oe-amt-63` |
 
 ID-Bildungsregel: `präfix` + kebab-case des Anzeigenamens (Umlaute ausschreiben: ä→ae, ö→oe, ü→ue, ß→ss, Leerzeichen→-).
@@ -385,7 +385,7 @@ Regelungen folgen dem **ADR-Muster** — nicht nur der Inhalt, sondern auch Kont
 
 ```markdown
 ---
-id: reg-adga-001
+id: reg-adga
 name: Allgemeine Dienstgebrauchsanweisung
 typ: Dienstanweisung
 status: aktiv

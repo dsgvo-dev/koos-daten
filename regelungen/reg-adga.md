@@ -1,17 +1,11 @@
 ---
-id: reg-adga-001
+id: reg-adga
 name: Allgemeine Dienst- und Geschäftsanweisung (ADGA)
 typ: Dienstanweisung
 status: aktiv
 datum: '2023-03-15'
 zustaendigeEinheit: oe-hvb
 entscheidendesGremium: Hauptverwaltungsbeamter
-kontext: Die Verwaltung benötigt verbindliche Regelungen für den internen Dienstbetrieb,
-  die über die gesetzlichen Vorgaben hinausgehen.
-entscheidung: Die ADGA gilt für alle Mitarbeitenden der Gemeindeverwaltung. Sie regelt
-  Zuständigkeiten, Vertretungsregelungen, Unterschriftenregelungen, Postbearbeitung,
-  Aktenführung sowie allgemeine Verhaltensregeln im Dienstbetrieb. Abweichende Regelungen
-  einzelner Fachbereiche bleiben unberührt, soweit sie der ADGA nicht widersprechen.
 ---
 
 # Allgemeine Dienst- und Geschäftsanweisung (ADGA) für die [Name der Kommune]

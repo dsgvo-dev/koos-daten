@@ -1,5 +1,5 @@
 ---
-id: reg-satzung-001
+id: reg-satzung
 name: Hauptsatzung
 typ: Satzung
 status: aktiv
@@ -8,17 +8,8 @@ entscheidendes-gremium: Rat
 ersetzt: ~
 zustaendigeEinheit: oe-hvb
 
-kontext: >
-  Die Gemeinde bedarf einer Hauptsatzung als grundlegende Organisationssatzung
-  nach § 12 NKomVG. Sie regelt die wesentlichen Fragen der kommunalen
-  Verfassung, die nicht unmittelbar durch Gesetz geregelt sind.
 
-entscheidung: >
-  Der Rat beschließt die Hauptsatzung mit einfacher Mehrheit. Sie gilt
-  für die gesamte Gemeindeverwaltung und alle nachgeordneten Stellen.
-  Änderungen bedürfen der qualifizierten Mehrheit des Rates.
 
-alternativen:
   
 ---
 
