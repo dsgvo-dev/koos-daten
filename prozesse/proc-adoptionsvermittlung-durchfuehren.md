@@ -12,13 +12,15 @@ beteiligte:
     phase: "1"
     aufgabe: "Amtsärztliche Stellungnahme zur gesundheitlichen Eignung der Adoptionsbewerber"
 daten:
+  input: []
+  output: []
   datenspeicher:
-    - id: dstore-personenstammdaten
-    - id: dstore-familienstand-ehebezug
-    - id: dstore-gesundheitsdaten
-    - id: dstore-elternbezug-abstammung
-    - id: dstore-fuehrungszeugnis
     - id: dstore-einkommensnachweise-haushalt
+    - id: dstore-elternbezug-abstammung
+    - id: dstore-familienstand-ehebezug
+    - id: dstore-fuehrungszeugnis
+    - id: dstore-gesundheitsdaten
+    - id: dstore-personenstammdaten
 regelungen:
   - "§§ 1744 ff. BGB (Adoption), Adoptionsvermittlungsgesetz (AdVermiG)"
   - "§ 7 AdVermiG (Führungszeugnis)"
