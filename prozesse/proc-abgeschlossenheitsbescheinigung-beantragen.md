@@ -11,6 +11,7 @@ daten:
   datenspeicher:
   - id: dstore-abgeschlossenheitsbescheinigung
   - id: dstore-grundstuecksbezug
+  - id: dstore-lageplan-geobasisdaten
 regelungen:
 - § 7 Absatz 4 Satz 1 Nummer 2 Wohnungseigentumsgesetz (WEG)
 - § 32 Absatz 1, Absatz 2 Satz 2 Nummer 2 Wohnungseigentumsgesetz (WEG)
