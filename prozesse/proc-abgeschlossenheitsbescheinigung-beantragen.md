@@ -42,3 +42,5 @@ letzte-aktualisierung: '2026-07-10'
 
 
 *Quelle: service.niedersachsen.de — Abgeschlossenheitsbescheinigung nach dem Wohnungseigentumsgesetz beantragen (ID 8668940)*
+
+Testzusatz
