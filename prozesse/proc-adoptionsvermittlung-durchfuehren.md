@@ -6,10 +6,10 @@ zustaendigeEinheit: oe-amt-51
 zustaendigeRolle: fachkraft
 beteiligte:
   - rolle: fallfuehrung
-    phase: 1,2,3
+    phase: "1,2,3"
     aufgabe: Prüfung der Adoptionsbewerber, Vermittlung, Begleitung der Adoptionspflege
   - rolle: gesundheitsamt
-    phase: 1,2
+    phase: "1,3"
     aufgabe: Amtsärztliche Stellungnahme zur gesundheitlichen Eignung der Adoptionsbewerber
 daten:
   input: []
