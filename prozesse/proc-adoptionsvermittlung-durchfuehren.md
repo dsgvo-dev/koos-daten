@@ -7,20 +7,18 @@ zustaendigeRolle: fachkraft
 beteiligte:
   - rolle: fallfuehrung
     phase: "1,2,3"
-    aufgabe: Prüfung der Adoptionsbewerber, Vermittlung, Begleitung der Adoptionspflege
+    aufgabe: "Prüfung der Adoptionsbewerber, Vermittlung, Begleitung der Adoptionspflege"
   - rolle: gesundheitsamt
-    phase: "1,3"
-    aufgabe: Amtsärztliche Stellungnahme zur gesundheitlichen Eignung der Adoptionsbewerber
+    phase: "1"
+    aufgabe: "Amtsärztliche Stellungnahme zur gesundheitlichen Eignung der Adoptionsbewerber"
 daten:
-  input: []
-  output: []
   datenspeicher:
-    - id: dstore-einkommensnachweise-haushalt
-    - id: dstore-elternbezug-abstammung
-    - id: dstore-familienstand-ehebezug
-    - id: dstore-fuehrungszeugnis
-    - id: dstore-gesundheitsdaten
     - id: dstore-personenstammdaten
+    - id: dstore-familienstand-ehebezug
+    - id: dstore-gesundheitsdaten
+    - id: dstore-elternbezug-abstammung
+    - id: dstore-fuehrungszeugnis
+    - id: dstore-einkommensnachweise-haushalt
 regelungen:
   - "§§ 1744 ff. BGB (Adoption), Adoptionsvermittlungsgesetz (AdVermiG)"
   - "§ 7 AdVermiG (Führungszeugnis)"

@@ -15,7 +15,8 @@ daten:
 regelungen:
 - § 7 Absatz 4 Satz 1 Nummer 2 Wohnungseigentumsgesetz (WEG)
 - § 32 Absatz 1, Absatz 2 Satz 2 Nummer 2 Wohnungseigentumsgesetz (WEG)
-- Allgemeine Verwaltungsvorschrift für die Ausstellung von Bescheinigungen nach dem Wohnungseigentumsgesetz (AVA)
+- Allgemeine Verwaltungsvorschrift für die Ausstellung von Bescheinigungen nach dem
+  Wohnungseigentumsgesetz (AVA)
 leika_id: '99012002012000'
 ozg_id: '10514'
 letzte-aktualisierung: '2026-07-10'
@@ -42,5 +43,3 @@ letzte-aktualisierung: '2026-07-10'
 
 
 *Quelle: service.niedersachsen.de — Abgeschlossenheitsbescheinigung nach dem Wohnungseigentumsgesetz beantragen (ID 8668940)*
-
-Testzusatz
