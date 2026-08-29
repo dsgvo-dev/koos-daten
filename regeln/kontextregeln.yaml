@@ -136,10 +136,6 @@ pruefregeln:
 - id: K3
   regel: >-
     Traegt eine Verarbeitung das Merkmal nicht, darf sie keine Kontextvariante fuehren.
-- id: K4
-  regel: >-
-    Das Feld effektive-schutzstufe einer Verarbeitung muss dem berechneten Wert
-    entsprechen.
 - id: K5
   regel: >-
     Jede Kontextvariante muss ein Feld kontext.variante-von tragen, das auf einen

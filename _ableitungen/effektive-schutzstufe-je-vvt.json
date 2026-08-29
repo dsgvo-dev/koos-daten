@@ -471,6 +471,18 @@
       "dstore-sicherheitserkenntnisse"
     ]
   },
+  "vvt-10-030": {
+    "titel": "Eigenschaden (KSA-Meldung)",
+    "organisationseinheit": "oe-amt-10",
+    "verfahren_vertraulich": false,
+    "fallgruppe": null,
+    "effektive_schutzstufe": "D",
+    "datenspeicher": [
+      "dstore-kfz-daten",
+      "dstore-sicherheitsmangelmeldung",
+      "dstore-zeugenangaben-schadensfall"
+    ]
+  },
   "vvt-11-001": {
     "titel": "Bewerbungsverfahren",
     "organisationseinheit": "oe-amt-11",
@@ -655,6 +667,28 @@
       "dstore-krankenversicherungsbeitraege"
     ]
   },
+  "vvt-11-015": {
+    "titel": "Mitarbeiterbefragung",
+    "organisationseinheit": "oe-amt-11",
+    "verfahren_vertraulich": false,
+    "fallgruppe": null,
+    "effektive_schutzstufe": "D",
+    "datenspeicher": [
+      "dstore-mitarbeiterbefragung"
+    ]
+  },
+  "vvt-11-016": {
+    "titel": "Homeoffice / Mobiles Arbeiten",
+    "organisationseinheit": "oe-amt-11",
+    "verfahren_vertraulich": false,
+    "fallgruppe": null,
+    "effektive_schutzstufe": "D",
+    "datenspeicher": [
+      "dstore-personalakte",
+      "dstore-arbeitsverhaeltnis-beschaeftigung",
+      "dstore-it-berechtigungsantrag"
+    ]
+  },
   "vvt-12-002": {
     "titel": "Kommunalstatistik",
     "organisationseinheit": "oe-amt-12",
@@ -758,6 +792,17 @@
     "datenspeicher": [
       "dstore-technische-nutzungsdaten-webangebot",
       "dstore-social-media-interaktion"
+    ]
+  },
+  "vvt-15-008": {
+    "titel": "IT-Sicherheitsvorfälle (Incident Response)",
+    "organisationseinheit": "oe-amt-15",
+    "verfahren_vertraulich": true,
+    "fallgruppe": "sicherheit",
+    "effektive_schutzstufe": "C",
+    "datenspeicher": [
+      "dstore-sicherheitsmangelmeldung",
+      "dstore-it-berechtigungsantrag"
     ]
   },
   "vvt-20-001": {

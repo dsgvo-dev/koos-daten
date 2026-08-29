@@ -84,11 +84,13 @@ module:
     pfad: vvt/
     muster: "vvt-*.md"
     beschreibung: Verarbeitungstätigkeiten nach Art. 30 DSGVO
-    herkunft: gemischt
-    # Die Datei wird gepflegt, einzelne Felder werden maschinell überschrieben.
-    # Eine Handänderung an diesen Feldern geht beim nächsten Lauf verloren.
-    maschinelle-felder:
-      effektive-schutzstufe: skills/vvt-datenspeicher/scripts/kontextpruefung.py
+    herkunft: gepflegt
+    # Das Feld `effektive-schutzstufe` ist am 2026-08-29 aus den VVT-Dateien
+    # entfallen. Die effektive Schutzstufe ist ein abgeleiteter Wert und wird
+    # nicht mehr zwischengespeichert: der Server bildet sie in
+    # GET /api/vvt/{id}/schutzstufe, der Prüfstand schreibt sie nach
+    # _ableitungen/effektive-schutzstufe-je-vvt.json. Formel und Anlässe zur
+    # Neuberechnung stehen in regeln/kontextregeln.yaml, Punkt 4.
     status: aktiv
 
   regeln:

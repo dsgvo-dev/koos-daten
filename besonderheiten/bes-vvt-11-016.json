@@ -1,0 +1,226 @@
+{
+  "$schema": "./besonderheiten-schema.json",
+  "id": "bes-vvt-11-016",
+  "schema_version": "1.0.0",
+  "meta": {
+    "erstellt_am": "2026-08-29",
+    "aktualisiert_am": "",
+    "geprueft_am": "",
+    "status": "entwurf",
+    "erlaeuterung": ""
+  },
+  "vvt_referenz": {
+    "vvt_id": "vvt-11-016",
+    "prozess_id": "proc-homeoffice-beantragen",
+    "bezeichnung": "Homeoffice / Mobiles Arbeiten"
+  },
+  "art": {
+    "schutzstufe": {
+      "stufe": "D",
+      "risiko": 3
+    },
+    "sensitive_daten": {
+      "art9": {
+        "vorhanden": false,
+        "kategorien": [],
+        "risiko": 1
+      },
+      "art10": {
+        "vorhanden": false,
+        "kategorien": [],
+        "risiko": 1
+      },
+      "ordnungswidrigkeiten": {
+        "vorhanden": false,
+        "risiko": 1
+      },
+      "beschaeftigtendaten": {
+        "vorhanden": true,
+        "risiko": 2
+      },
+      "sozialdaten": {
+        "vorhanden": false,
+        "risiko": 1
+      }
+    },
+    "verarbeitungsform": {
+      "digital": {
+        "vorhanden": true,
+        "beschreibung": "Personalmanagementsystem; IT-Berechtigungsmanagement; VPN-Infrastruktur",
+        "risiko": 2
+      },
+      "nicht_automatisiert": {
+        "vorhanden": false,
+        "beschreibung": "",
+        "risiko": 1
+      }
+    },
+    "risiko_art": 3,
+    "vertraulichkeit_bsi": {
+      "wert": "hoch",
+      "risiko": 2
+    },
+    "integritaet": {
+      "wert": "sehr hoch",
+      "risiko": 3
+    },
+    "verfuegbarkeit": {
+      "wert": "hoch",
+      "risiko": 2
+    }
+  },
+  "umfang": {
+    "anzahl_betroffene": {
+      "wert": "< 100",
+      "risiko": 1
+    },
+    "datenmenge": {
+      "wert": "gering",
+      "risiko": 1
+    },
+    "speicherdauer": {
+      "wert": "lang (1–10 jahre)",
+      "jahre": 5.0,
+      "risiko": 2
+    },
+    "geografische_reichweite": {
+      "wert": "mehrere oe / kommune",
+      "risiko": 2
+    },
+    "risiko_umfang": 2
+  },
+  "umstaende": {
+    "verantwortlichkeit": {
+      "form": "auftragsverarbeitung",
+      "auftragsverarbeiter": [],
+      "risiko": 2
+    },
+    "oeffentliche_stelle": {
+      "ist_behoerde": true,
+      "ueber_unterordnungsverhaeltnis": true,
+      "risiko": 1
+    },
+    "betriebsmittel": [
+      {
+        "name": "Personalmanagementsystem",
+        "typ": "fachverfahren",
+        "hersteller": "",
+        "version": "",
+        "eigene_personenbezogene_daten": {
+          "erzeugt": false,
+          "beschreibung": "",
+          "eigene_vvt_id": ""
+        },
+        "ki_spezifisch": {
+          "ist_betriebsmittel": true,
+          "abgrenzung_kriterien": {
+            "profiling_natuerlicher_personen": false,
+            "komplexe_musteranalyse_personenuebergreifend": false,
+            "personenbezogene_prognosen": false,
+            "ausblenden_atypischer_faelle_vorwegnahme_entscheidung": false,
+            "grosser_umfang_neue_erkenntnismoeglichkeiten": false,
+            "verarbeitung_besondere_kategorien": false
+          },
+          "rechtsgrundlage_erforderlich": false,
+          "risiko": 1
+        },
+        "risiko": 1
+      },
+      {
+        "name": "IT-Berechtigungsmanagement",
+        "typ": "fachverfahren",
+        "hersteller": "",
+        "version": "",
+        "eigene_personenbezogene_daten": {
+          "erzeugt": false,
+          "beschreibung": "",
+          "eigene_vvt_id": ""
+        },
+        "ki_spezifisch": {
+          "ist_betriebsmittel": true,
+          "abgrenzung_kriterien": {
+            "profiling_natuerlicher_personen": false,
+            "komplexe_musteranalyse_personenuebergreifend": false,
+            "personenbezogene_prognosen": false,
+            "ausblenden_atypischer_faelle_vorwegnahme_entscheidung": false,
+            "grosser_umfang_neue_erkenntnismoeglichkeiten": false,
+            "verarbeitung_besondere_kategorien": false
+          },
+          "rechtsgrundlage_erforderlich": false,
+          "risiko": 1
+        },
+        "risiko": 1
+      },
+      {
+        "name": "VPN-Infrastruktur",
+        "typ": "netzwerk_infrastruktur",
+        "hersteller": "",
+        "version": "",
+        "eigene_personenbezogene_daten": {
+          "erzeugt": false,
+          "beschreibung": "",
+          "eigene_vvt_id": ""
+        },
+        "ki_spezifisch": {
+          "ist_betriebsmittel": true,
+          "abgrenzung_kriterien": {
+            "profiling_natuerlicher_personen": false,
+            "komplexe_musteranalyse_personenuebergreifend": false,
+            "personenbezogene_prognosen": false,
+            "ausblenden_atypischer_faelle_vorwegnahme_entscheidung": false,
+            "grosser_umfang_neue_erkenntnismoeglichkeiten": false,
+            "verarbeitung_besondere_kategorien": false
+          },
+          "rechtsgrundlage_erforderlich": false,
+          "risiko": 1
+        },
+        "risiko": 1
+      }
+    ],
+    "technologie": {
+      "cloud": {
+        "vorhanden": false,
+        "modell": "",
+        "risiko": 1
+      },
+      "microsoft365": {
+        "vorhanden": false,
+        "risiko": 1
+      },
+      "kuenstliche_intelligenz": {
+        "vorhanden": false,
+        "anwendungsfall": "",
+        "risiko": 1
+      },
+      "videoüberwachung": {
+        "vorhanden": false,
+        "risiko": 1
+      }
+    },
+    "besondere_lagen": {
+      "homeoffice": {
+        "vorhanden": false,
+        "risiko": 1
+      },
+      "fernwartung": {
+        "vorhanden": false,
+        "risiko": 1
+      },
+      "eigenes_rechenzentrum": {
+        "vorhanden": false,
+        "risiko": 1
+      },
+      "fremdes_rechenzentrum_av": {
+        "vorhanden": false,
+        "risiko": 1
+      }
+    },
+    "risiko_umstaende": 2
+  },
+  "gesamt": {
+    "schadenshoehe": 3,
+    "risiko_art": 3,
+    "risiko_umfang": 2,
+    "risiko_umstaende": 2
+  }
+}

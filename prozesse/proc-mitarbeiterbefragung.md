@@ -16,7 +16,8 @@ daten:
     - Beschluss oder Auftrag zur Durchführung, Befragungskonzept, Fragebogen
   output:
     - Auswertungsbericht, Maßnahmenplan, Löschprotokoll der Rohdaten
-  datenspeicher: []
+  datenspeicher:
+    - dstore-mitarbeiterbefragung
 regelungen:
   - "Art. 88 DSGVO i.V.m. § 12 NDSG (Beschäftigtendatenschutz)"
   - "§§ 64–67, 75, 78 NPersVG (Mitbestimmung, Dienstvereinbarung)"
@@ -35,7 +36,7 @@ letzte-aktualisierung: '2026-08-22'
 
 Der Prozess umfasst die Planung, Durchführung und Auswertung einer Befragung der Beschäftigten der Verwaltung — etwa zur Arbeitszufriedenheit, zu psychischen Belastungen oder zu organisatorischen Themen. Die Befragung verarbeitet personenbezogene Daten der Beschäftigten nach Art. 88 DSGVO i.V.m. § 12 NDSG. Soweit die Befragung der Gefährdungsbeurteilung psychischer Belastung nach § 5 Abs. 3 Nr. 6 ArbSchG dient, ist sie keine freiwillige Umfrage, sondern gesetzliche Pflicht. Es besteht keine LeiKa-Leistung (interner Prozess).
 
-**Vermerk:** Für die Befragungsdaten (Antworten, Auswertungsgrundlagen) existiert keine passende Datenart im Bestand — ein Datenspeicher wie `dstore-mitarbeiterbefragung` müsste angelegt werden. Die Liste bleibt bewusst leer, keine erfundene ID.
+**Vermerk:** Die Datenart `dstore-mitarbeiterbefragung` ist am 29.08.2026 angelegt und hier verknüpft worden (Schutzstufe D, streng vertraulich). Der anonymisierte Auswertungsbericht ist kein personenbezogener Datenbestand und wird nicht als Datenspeicher geführt.
 
 ## Prozessschritte
 

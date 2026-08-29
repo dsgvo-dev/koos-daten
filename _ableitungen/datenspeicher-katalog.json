@@ -373,7 +373,7 @@
     "bsi-schutzbedarf": "normal",
     "datenschutz_geprueft": true,
     "bsi_geprueft": true,
-    "verwendungen": 8,
+    "verwendungen": 9,
     "beschreibung": "Daten zu bestehenden oder früheren Beschäftigungsverhältnissen für Leistungs- und Antragsverfahren.",
     "felder": [
       "Arbeitgeber",
@@ -3443,7 +3443,7 @@
     "bsi-schutzbedarf": "hoch",
     "datenschutz_geprueft": true,
     "bsi_geprueft": true,
-    "verwendungen": 3,
+    "verwendungen": 5,
     "beschreibung": "Formular zur Beantragung, Änderung oder zum Entzug von IT-Zugriffsrechten für Beschäftigte und ggf. externe Personen.",
     "felder": [
       "Antragstellende Person und genehmigungsberechtigte Führungskraft",
@@ -3611,7 +3611,7 @@
     "bsi-schutzbedarf": "hoch",
     "datenschutz_geprueft": true,
     "bsi_geprueft": true,
-    "verwendungen": 12,
+    "verwendungen": 13,
     "beschreibung": "Daten zur Kfz-Zulassung: Fahrzeughalter, Kennzeichen, Fahrzeugdaten.",
     "felder": [
       "Kennzeichen",
@@ -4380,6 +4380,29 @@
     ]
   },
   {
+    "id": "dstore-mitarbeiterbefragung",
+    "name": "Mitarbeiterbefragung",
+    "einheit": "oe-amt-11",
+    "schutzstufe": "D",
+    "schutzbedarf": "hoch",
+    "vertraulichkeitsklasse": "streng vertraulich",
+    "bsi-vertraulichkeit": "hoch",
+    "bsi-integritaet": "normal",
+    "bsi-verfuegbarkeit": "normal",
+    "bsi-schutzbedarf": "hoch",
+    "datenschutz_geprueft": true,
+    "bsi_geprueft": true,
+    "verwendungen": 1,
+    "beschreibung": "Antworten und Rohdaten aus Befragungen der Beschäftigten — zur Arbeitszufriedenheit, zu psychischen Belastungen oder zu organisatorischen Themen. Der Speicher umfasst den Bestand bis zur Löschung der Rohdaten; der anonymisierte Auswertungsbericht ist kein personenbezogener Datenbestand und wird hier nicht geführt.",
+    "felder": [
+      "Antworten (strukturiert)",
+      "Antworten (Freitext)",
+      "Demografische Angaben (Altersgruppe, Geschlecht, Organisationseinheit, Dauer der Betriebszugehörigkeit)",
+      "Pseudonyme Teilnahmekennung",
+      "Rohdatensatz bis zur Löschung"
+    ]
+  },
+  {
     "id": "dstore-mitgliedschaft-realverband",
     "name": "Mitgliedschaft und Beiträge Realverband",
     "einheit": "oe-amt-86",
@@ -4750,7 +4773,7 @@
     "bsi-schutzbedarf": "sehr hoch",
     "datenschutz_geprueft": true,
     "bsi_geprueft": true,
-    "verwendungen": 5,
+    "verwendungen": 6,
     "beschreibung": "Vollständige Personalakte eines Mitarbeiters der Kommunalverwaltung.",
     "felder": [
       "Personalnummer",
@@ -5542,7 +5565,7 @@
     "bsi-schutzbedarf": "hoch",
     "datenschutz_geprueft": true,
     "bsi_geprueft": true,
-    "verwendungen": 7,
+    "verwendungen": 9,
     "beschreibung": "Hinweis- oder Meldedaten zu Sicherheitsmängeln im öffentlichen Raum.",
     "felder": [
       "Ort",
@@ -7198,7 +7221,7 @@
     "bsi-schutzbedarf": "hoch",
     "datenschutz_geprueft": true,
     "bsi_geprueft": true,
-    "verwendungen": 1,
+    "verwendungen": 2,
     "beschreibung": "Angaben von Personen, die einen Schaden an einer öffentlichen Straße oder dessen Verursachung beobachtet haben.",
     "felder": [
       "Zeugin oder Zeuge mit Name und Kontaktdaten",
