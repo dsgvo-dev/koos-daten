@@ -2,7 +2,7 @@
 id: reg-go
 name: Geschäftsordnung
 typ: Geschäftsordnung
-status: aktiv
+status: entwurf
 datum: 2022-01-01
 entscheidendes-gremium: Rat
 ersetzt: ~

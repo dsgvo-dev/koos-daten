@@ -41,10 +41,20 @@ organisation:
 #    Pfade relativ zu koos.yaml (= diesem Ordner).
 # ---------------------------------------------------------------------------
 
+# HINWEIS zum Feld `status` in den Modulen:
+#   Bei REGELUNGEN ist `aktiv` eine Rechtsaussage — erlassen und verbindlich.
+#   Bei PROZESSEN und VVT ist `aktiv` eine Betriebsaussage — wird geführt.
+#   Dieser Bestand ist ein Blueprint; er kann nichts erlassen. Alle Regelungen
+#   tragen deshalb `entwurf`. Der Mandant setzt sie nach dem Erlass auf `aktiv`.
+#
+#   Endzustand: Regelungen führen `aufgehoben`, Prozesse und VVT `inaktiv` —
+#   zwei Wörter, weil die Fachsprache verschieden ist.
+
 module:
   oe:
     pfad: orga.yaml
     beschreibung: Organisationsstruktur — Einheiten, Rollen, Hierarchie
+    herkunft: gepflegt
     status: aktiv
 
   prozesse:
@@ -59,12 +69,14 @@ module:
     pfad: daten/
     muster: "dstore-*.md"
     beschreibung: Datenarten mit Aufbewahrungsfristen und Rechtsgrundlagen
+    herkunft: gepflegt
     status: aktiv
 
   regelungen:
     pfad: regelungen/
     muster: "reg-*.md"
     beschreibung: Dienstanweisungen, Richtlinien, Gesetze (in Vorbereitung)
+    herkunft: gepflegt
     status: geplant
 
   # ── gepflegte Bestände ───────────────────────────────────────────────────
@@ -72,7 +84,11 @@ module:
     pfad: vvt/
     muster: "vvt-*.md"
     beschreibung: Verarbeitungstätigkeiten nach Art. 30 DSGVO
-    herkunft: gepflegt
+    herkunft: gemischt
+    # Die Datei wird gepflegt, einzelne Felder werden maschinell überschrieben.
+    # Eine Handänderung an diesen Feldern geht beim nächsten Lauf verloren.
+    maschinelle-felder:
+      effektive-schutzstufe: skills/vvt-datenspeicher/scripts/kontextpruefung.py
     status: aktiv
 
   regeln:
@@ -432,8 +448,8 @@ bearbeitung:
   # ── Superadmin ─────────────────────────────────────────────────────────────
   # Vollzugriff: alle OE, Schemapflege, Subadmin-Verwaltung
   superadmin:
-    passwort-hash: e34f4b940d9e21f0ef7e0ac647704ad01d964c00b0148fbeb19995be6d80e123
-    # Standardpasswort: koos2026 — vor Produktiveinsatz ändern!
+    passwort-hash: 5ad7c2af9ba7115b557f91e29e98af07c0e73751930b510d5bac0c26f224decc
+    # Passwort am 2026-08-26 zurückgesetzt — vor Produktiveinsatz ändern!
 
   # ── Subadmins ──────────────────────────────────────────────────────────────
   # Dezentrale Bearbeiter: dürfen Prozesse und Datenarten anlegen/bearbeiten,

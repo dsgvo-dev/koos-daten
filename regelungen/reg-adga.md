@@ -2,10 +2,10 @@
 id: reg-adga
 name: Allgemeine Dienst- und Geschäftsanweisung (ADGA)
 typ: Dienstanweisung
-status: aktiv
+status: entwurf
 datum: '2023-03-15'
 zustaendigeEinheit: oe-hvb
-entscheidendesGremium: Hauptverwaltungsbeamter
+entscheidendes-gremium: Hauptverwaltungsbeamter
 ---
 
 # Allgemeine Dienst- und Geschäftsanweisung (ADGA) für die [Name der Kommune]

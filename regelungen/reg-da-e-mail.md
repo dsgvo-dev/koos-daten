@@ -2,10 +2,10 @@
 id: reg-da-e-mail
 name: Dienstanweisung zur Nutzung von E-Mails (DA E-Mail)
 typ: Dienstanweisung
-status: aktiv
+status: entwurf
 datum: '2023-03-15'
 zustaendigeEinheit: oe-amt-15
-entscheidendesGremium: Hauptverwaltungsbeamter
+entscheidendes-gremium: Hauptverwaltungsbeamter
 ---
 
 # Dienstanweisung zur Nutzung von E-Mails in der [Name der Kommune] (DA E-Mail)

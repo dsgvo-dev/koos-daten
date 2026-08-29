@@ -41,7 +41,7 @@ klassifizierung:
   - gesetz: GewSchG
     artikel: § 1
     titel: Gerichtliche Schutzanordnungen
-aufbewahrung:
+  aufbewahrung:
     frist: Dauer der Gefaehrdungslage
     beginn: mit Eintragung
     hinweis: >-

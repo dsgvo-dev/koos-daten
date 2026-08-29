@@ -2,10 +2,10 @@
 id: reg-da-cloud
 name: Dienstanweisung zur Nutzung von Cloud-Diensten (DA Cloud)
 typ: Dienstanweisung
-status: aktiv
+status: entwurf
 datum: '2023-03-15'
 zustaendigeEinheit: oe-amt-1-5
-entscheidendesGremium: Hauptverwaltungsbeamter
+entscheidendes-gremium: Hauptverwaltungsbeamter
 ---
 
 # **Dienstanweisung zur Nutzung von Cloud-Diensten in der [Name der Kommune]**
