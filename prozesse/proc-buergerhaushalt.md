@@ -9,12 +9,12 @@ daten:
   input: []
   output: []
   datenspeicher:
-  - id: dstore-verwaltungsakte
   - id: dstore-bescheid
+  - id: dstore-verwaltungsakte
 regelungen:
-  - '§§ 22-26 NKomVG (Bürgerbegehren und Bürgerentscheid)'
-  - '§ 26 NKomVG (Einwohnerversammlung)'
-  - '§ 34 NKomVG (Akteneinsicht)'
+- '§§ 22-26 NKomVG (Bürgerbegehren und Bürgerentscheid)'
+- '§ 26 NKomVG (Einwohnerversammlung)'
+- '§ 34 NKomVG (Akteneinsicht)'
 letzte-aktualisierung: 2026-04-29
 ---
 # Bürgerhaushalt
