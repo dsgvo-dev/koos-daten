@@ -75,9 +75,9 @@ module:
   regelungen:
     pfad: regelungen/
     muster: "reg-*.md"
-    beschreibung: Dienstanweisungen, Richtlinien, Gesetze (in Vorbereitung)
+    beschreibung: Dienstanweisungen, Richtlinien, Gesetze
     herkunft: gepflegt
-    status: geplant
+    status: aktiv
 
   # ── gepflegte Bestände ───────────────────────────────────────────────────
   vvt:
@@ -422,6 +422,47 @@ vokabular:
     - Leitung          # Formal verantwortliche Person der OE; Entscheidungs- und Zeichnungsbefugnis
     - Sachbearbeitung  # Operativ tätig; führt Verwaltungsverfahren durch
     - Mitarbeitende    # Alle übrigen Personen der OE ohne benannte Funktion
+
+  # ═══ REGELUNGEN ═══════════════════════════════════════════════════════════
+  # Status einer Regelung — beschreibt die GELTUNG, nicht den Bearbeitungsstand.
+  # Quelle: dsms-knowledge/documentation/
+  #   ENTSCHEIDUNGSVORLAGE-2026-08-24-status-typ-regelungen.md, E1 und E2
+  #
+  # Bei einer Regelung ist `aktiv` eine Rechtsaussage: erlassen und verbindlich.
+  # Ein Blueprint kann nichts erlassen — im Musterbestand tragen deshalb alle
+  # Regelungen `entwurf`. Der Mandant setzt sie nach dem Erlass auf `aktiv`.
+  #
+  # Kein Zwischenzustand für die Mitbestimmung nach NPersVG (entschieden am
+  # 2026-08-25): vor dem Erlass gibt es rechtlich nur erlassen oder nicht
+  # erlassen. `aufgehoben` statt `inaktiv`, weil Aufhebung hier der Fachbegriff ist.
+  regelungStatus:
+    entwurf:    In Erarbeitung, noch nicht erlassen — keine Bindung
+    aktiv:      Erlassen und in Kraft — verbindlich
+    ersetzt:    Durch eine Nachfolgeregelung abgelöst; das Feld `ersetzt` benennt sie — die Nachfolgerin bindet
+    aufgehoben: Außer Kraft gesetzt, ohne Nachfolgerin — keine Bindung mehr
+
+  # Typ einer Regelung. Quelle: dieselbe Vorlage, E4. Schreibweise durchgehend groß.
+  # `Norm` ist gestrichen: technische Normen (DIN, ISO, BSI-Standards) sind
+  # Quellen, auf die Regelungen verweisen, keine Regelungen der Verwaltung.
+  # Dafür gibt es die Felder `basierend_auf` und `rechtsgrundlagen`.
+  regelungTyp:
+    Dienstanweisung:    Einseitige Anordnung, gestützt auf die Organisationsgewalt
+    Dienstvereinbarung: Zwischen Dienststelle und Personalrat, § 78 NPersVG
+    Richtlinie:         Verwaltungsvorschrift, steuert die Ermessensausübung
+    Leitlinie:          Programmatisch, ohne unmittelbare Verhaltensanordnung
+    Satzung:            Ortsrecht, vom Rat beschlossen, öffentlich bekannt gemacht
+    Geschäftsordnung:   Binnenrecht eines Gremiums
+    Gesetz:             Importiertes höherrangiges Recht
+    Vertrag:            AV-Vertrag, interkommunale Vereinbarung
+    Beschluss:          Rats- oder Ausschussbeschluss mit Regelungswirkung
+
+  # ═══ PROZESSE ═════════════════════════════════════════════════════════════
+  # Status eines Prozesses — Betriebsaussage, keine Rechtsaussage.
+  # Quelle: dieselbe Vorlage, E3. `entwurf` entfällt hier, `ersetzt` kommt hinzu.
+  prozessStatus:
+    aktiv:   Wird geführt
+    ersetzt: Durch einen anderen Prozess abgelöst; `ersetzt-durch` benennt ihn
+    inaktiv: Wird nicht mehr geführt, ohne Nachfolger
 
 # ---------------------------------------------------------------------------
 # METADATEN
