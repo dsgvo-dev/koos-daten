@@ -1,5 +1,5 @@
 ---
-id: reg-satzung
+id: reg-hauptsatzung
 name: Hauptsatzung
 typ: Satzung
 status: entwurf
