@@ -1,5 +1,5 @@
 ---
-id: proc-entschaedigung-tätigkeitsverbot-bearbeiten
+id: proc-entschaedigung-taetigkeitsverbot-bearbeiten
 titel: Entschädigung nach Tätigkeitsverbot (§ 56 IfSG) bearbeiten
 status: aktiv
 zustaendigeEinheit: oe-amt-53
