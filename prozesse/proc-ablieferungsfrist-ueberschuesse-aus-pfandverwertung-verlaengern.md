@@ -13,6 +13,6 @@ daten:
   - id: dstore-personenstammdaten
   - id: dstore-identitaetsnachweis
 regelungen: []
-letzte-aktualisierung: 2026-04-06
+letzte-aktualisierung: '2026-04-06'
 ---
 # Ablieferungsfrist
