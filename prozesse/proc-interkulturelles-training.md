@@ -13,8 +13,8 @@ daten:
   - id: dstore-verwaltungsakte
   - id: dstore-lebenslauf-qualifikationsnachweis
 regelungen:
-  - '§ 43 ff. Aufenthaltsgesetz (AufenthG) (Integrationsmaßnahmen)'
-  - '§ 9 BVFG (Aussiedlerintegration)'
+- '§ 43 ff. Aufenthaltsgesetz (AufenthG) (Integrationsmaßnahmen)'
+- '§ 9 BVFG (Aussiedlerintegration)'
 letzte-aktualisierung: 2026-04-29
 ---
 # Interkulturelles Training

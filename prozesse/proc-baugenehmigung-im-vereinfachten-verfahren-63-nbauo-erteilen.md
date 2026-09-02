@@ -15,7 +15,7 @@ daten:
   - id: dstore-grundstuecksbezug
   - id: dstore-lageplan-geobasisdaten
 regelungen:
-  - '§ 63 Niedersächsische Bauordnung (NBauO)'
+- '§ 63 Niedersächsische Bauordnung (NBauO)'
 letzte-aktualisierung: 2026-04-06
 ---
 # Baugenehmigung im vereinfachten Verfahren (§ 63 NBauO) erteilen

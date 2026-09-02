@@ -16,9 +16,9 @@ daten:
   - id: dstore-personenstammdaten
   - id: dstore-amtsaerztliches-zeugnis
 regelungen:
-  - '§§ 38-40 Lebensmittel- und Futtermittelgesetzbuch (LFGB)'
-  - '§ 40 LFGB (Öffentliche Warnung)'
-  - 'EU-Verordnung (EG) Nr. 178/2002 (Basisverordnung Lebensmittel)'
+- '§§ 38-40 Lebensmittel- und Futtermittelgesetzbuch (LFGB)'
+- '§ 40 LFGB (Öffentliche Warnung)'
+- 'EU-Verordnung (EG) Nr. 178/2002 (Basisverordnung Lebensmittel)'
 letzte-aktualisierung: 2026-04-06
 ---
 # Hygieneüberwachung: Beratung

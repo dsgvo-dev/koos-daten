@@ -13,8 +13,8 @@ daten:
   - id: dstore-personenstammdaten
   - id: dstore-verwaltungsakte
 regelungen:
-  - '§ 71 SGB XII (Altenhilfe)'
-  - '§ 5 NKomVG (eigener Wirkungskreis)'
+- '§ 71 SGB XII (Altenhilfe)'
+- '§ 5 NKomVG (eigener Wirkungskreis)'
 letzte-aktualisierung: 2026-04-29
 ---
 # Seniorengruppe betreuen

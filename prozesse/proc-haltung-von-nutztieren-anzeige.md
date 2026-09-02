@@ -15,8 +15,8 @@ daten:
   - id: dstore-tiergesundheitszeugnis
   - id: dstore-personenstammdaten
 regelungen:
-  - '§§ 1-5 Tierschutz-Nutztierhaltungsverordnung (TierSchNutztV)'
-  - '§ 2a TierSchG (Tierhaltungsanforderungen)'
+- '§§ 1-5 Tierschutz-Nutztierhaltungsverordnung (TierSchNutztV)'
+- '§ 2a TierSchG (Tierhaltungsanforderungen)'
 letzte-aktualisierung: 2026-04-06
 ---
 # Haltung von Nutztieren: Anzeige

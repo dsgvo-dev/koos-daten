@@ -26,8 +26,7 @@ klassifizierung:
   aufbewahrung:
     frist: 3 Jahre
     beginn: nach Abschluss des Schadensfalls
-    hinweis: Regelmäßige Verjährung nach § 195 BGB; bei gerichtlicher Geltendmachung
-      bis zum rechtskräftigen Abschluss.
+    hinweis: Regelmäßige Verjährung nach § 195 BGB; bei gerichtlicher Geltendmachung bis zum rechtskräftigen Abschluss.
 letzte-aktualisierung: '2026-08-04'
 tags:
 - Zeugen

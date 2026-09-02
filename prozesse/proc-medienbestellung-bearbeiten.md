@@ -12,8 +12,8 @@ daten:
   - id: dstore-verwaltungsakte
   - id: dstore-personenstammdaten
 regelungen:
-  - '§ 1 Nds. Bibliotheksgesetz (NBibG)'
-  - '§ 11 NKomVG (Kommunale Einrichtungen)'
+- '§ 1 Nds. Bibliotheksgesetz (NBibG)'
+- '§ 11 NKomVG (Kommunale Einrichtungen)'
 letzte-aktualisierung: 2026-04-29
 ---
 # Medienbestellung bearbeiten

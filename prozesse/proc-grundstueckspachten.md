@@ -18,9 +18,9 @@ daten:
   - id: dstore-grundstuecks-pachtverhaeltnis
   - id: dstore-kommunaler-miet-nutzungsvertrag
 regelungen:
-  - '§§ 581-597 BGB (Pacht)'
-  - '§§ 1-39 ErbbauRG (Erbbaurecht)'
-  - '§§ 97-100 NKomVG (Kommunale Vermögensverwaltung)'
+- '§§ 581-597 BGB (Pacht)'
+- '§§ 1-39 ErbbauRG (Erbbaurecht)'
+- '§§ 97-100 NKomVG (Kommunale Vermögensverwaltung)'
 letzte-aktualisierung: 2026-04-06
 ---
 # Erbbaurecht vergeben

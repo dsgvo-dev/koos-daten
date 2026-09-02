@@ -12,12 +12,8 @@ daten:
   - id: dstore-unternehmens-und-registerdaten
   - id: dstore-identitaetsnachweis
 regelungen:
-- § 8 Gesetz zum Schutz vor schädlichen Umwelteinwirkungen durch Luftverunreinigungen,
-  Geräusche, Erschütterungen und ähnliche Vorgänge (Bundes-Immissionsschutzgesetz
-  – BImSchG)
-- § 10 Gesetz zum Schutz vor schädlichen Umwelteinwirkungen durch Luftverunreinigungen,
-  Geräusche, Erschütterungen und ähnliche Vorgänge (Bundes-Immissionsschutzgesetz
-  – BImSchG)
+- § 8 Gesetz zum Schutz vor schädlichen Umwelteinwirkungen durch Luftverunreinigungen, Geräusche, Erschütterungen und ähnliche Vorgänge (Bundes-Immissionsschutzgesetz – BImSchG)
+- § 10 Gesetz zum Schutz vor schädlichen Umwelteinwirkungen durch Luftverunreinigungen, Geräusche, Erschütterungen und ähnliche Vorgänge (Bundes-Immissionsschutzgesetz – BImSchG)
 leika_id: '99063012001000'
 ozg_id: null
 letzte-aktualisierung: '2026-07-10'

@@ -17,11 +17,8 @@ regelungen:
 - § 4 Absatz 6 Allgemeines Eisenbahngesetz (AEG)
 - §§ 8 bis 12 Gesetz zur Ordnung des Wasserhaushalts (Wasserhaushaltsgesetz - WHG)
 - Gesetz über Gebühren und Auslagen des Bundes (Bundesgebührengesetz - BGebG)
-- § 22 Absatz 3 und 4 Gesetz über Gebühren und Auslagen des Bundes (Bundesgebührengesetz
-  - BGebG)
-- Anlage 1 Besondere Gebührenverordnung des Bundesministeriums für Verkehr und digitale
-  Infrastruktur für individuell zurechenbare öffentliche Leistungen des Eisenbahn-Bundesamtes
-  – (EBABGebV)
+- § 22 Absatz 3 und 4 Gesetz über Gebühren und Auslagen des Bundes (Bundesgebührengesetz - BGebG)
+- Anlage 1 Besondere Gebührenverordnung des Bundesministeriums für Verkehr und digitale Infrastruktur für individuell zurechenbare öffentliche Leistungen des Eisenbahn-Bundesamtes – (EBABGebV)
 leika_id: '99159006001000'
 ozg_id: null
 letzte-aktualisierung: '2026-07-10'

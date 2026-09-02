@@ -14,8 +14,7 @@ daten:
   - id: dstore-abfallbehaelter-gebuehrenobjekt
   - id: dstore-gebuehrenbescheid-zahlungsdaten
 regelungen:
-- Gesetz zur Förderung der Kreislaufwirtschaft und Sicherung der umweltverträglichen
-  Bewirtschaftung von Abfällen (KrWG)
+- Gesetz zur Förderung der Kreislaufwirtschaft und Sicherung der umweltverträglichen Bewirtschaftung von Abfällen (KrWG)
 - Niedersächsisches Abfallgesetz (NAbfG)
 leika_id: '99001001002000'
 ozg_id: null

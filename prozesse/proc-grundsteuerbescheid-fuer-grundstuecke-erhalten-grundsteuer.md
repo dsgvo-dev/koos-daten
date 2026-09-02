@@ -15,9 +15,9 @@ daten:
   - id: dstore-flur-flurstueck-lagebezeichnung
   - id: dstore-grundsteuerbescheid-eigentum
 regelungen:
-  - '§ 15 bis § 21, Grundsteuergesetz (GrStG)'
-  - '§ 27 bis § 31, Grundsteuergesetz (GrStG)'
-  - '§ 70 Bewertungsgesetz (BewG)'
+- '§ 15 bis § 21, Grundsteuergesetz (GrStG)'
+- '§ 27 bis § 31, Grundsteuergesetz (GrStG)'
+- '§ 70 Bewertungsgesetz (BewG)'
 letzte-aktualisierung: 2026-04-06
 ---
 # Grundsteuer festsetzen

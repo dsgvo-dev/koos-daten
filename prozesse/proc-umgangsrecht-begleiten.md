@@ -15,8 +15,8 @@ daten:
   - id: dstore-personenstammdaten
   - id: dstore-verwaltungsakte
 regelungen:
-  - '§§ 1684-1686 BGB (Umgang des Kindes mit den Eltern)'
-  - '§ 52 SGB VIII (Mitwirkung in familiengerichtlichen Verfahren)'
+- '§§ 1684-1686 BGB (Umgang des Kindes mit den Eltern)'
+- '§ 52 SGB VIII (Mitwirkung in familiengerichtlichen Verfahren)'
 letzte-aktualisierung: 2026-04-29
 ---
 # Umgangsrecht begleiten

@@ -14,9 +14,9 @@ daten:
   - id: dstore-bankverbindung
   - id: dstore-personenstammdaten
 regelungen:
-  - '§ 37 SGB XII (Darlehen)'
-  - '§ 38 SGB XII (Darlehen für Kranken-/Pflegeversicherungsbeiträge)'
-  - '§ 37a SGB XII (Überbrückungsdarlehen Rentenzahlung)'
+- '§ 37 SGB XII (Darlehen)'
+- '§ 38 SGB XII (Darlehen für Kranken-/Pflegeversicherungsbeiträge)'
+- '§ 37a SGB XII (Überbrückungsdarlehen Rentenzahlung)'
 letzte-aktualisierung: 2026-04-06
 ---
 # Darlehen nach § 38 SGB XII beantragen

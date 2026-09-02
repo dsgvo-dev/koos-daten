@@ -16,7 +16,7 @@ daten:
   - id: dstore-identitaetsnachweis
   - id: dstore-personenstammdaten
 regelungen:
-  - '§27 Sprengstoffgesetz'
+- '§27 Sprengstoffgesetz'
 letzte-aktualisierung: 2026-04-06
 ---
 # Erlaubnis nach §27 Sprengstoffgesetz

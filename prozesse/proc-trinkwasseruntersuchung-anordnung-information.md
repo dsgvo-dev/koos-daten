@@ -15,9 +15,9 @@ daten:
   - id: dstore-personenstammdaten
   - id: dstore-amtsaerztliches-zeugnis
 regelungen:
-  - '§§ 36-37 Infektionsschutzgesetz (IfSG) (Trinkwasser)'
-  - 'Trinkwasserverordnung (TrinkwV)'
-  - '§§ 8-13 WHG'
+- '§§ 36-37 Infektionsschutzgesetz (IfSG) (Trinkwasser)'
+- 'Trinkwasserverordnung (TrinkwV)'
+- '§§ 8-13 WHG'
 letzte-aktualisierung: 2026-04-06
 ---
 # Trinkwasseruntersuchung: Anordnung/Information

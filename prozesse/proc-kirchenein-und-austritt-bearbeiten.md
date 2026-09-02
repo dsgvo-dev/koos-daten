@@ -17,8 +17,8 @@ daten:
   - id: dstore-identitaetsnachweis
   - id: dstore-meldeadresse-wohnsitz
 regelungen:
-  - '§ 1 Nds. Kirchenaustrittsgesetz (NKiAustrG)'
-  - 'Art. 140 GG i.V.m. Art. 137 WRV (Religionsfreiheit)'
+- '§ 1 Nds. Kirchenaustrittsgesetz (NKiAustrG)'
+- 'Art. 140 GG i.V.m. Art. 137 WRV (Religionsfreiheit)'
 letzte-aktualisierung: 2026-04-06
 ---
 # Kirchenein- und -austritt bearbeiten

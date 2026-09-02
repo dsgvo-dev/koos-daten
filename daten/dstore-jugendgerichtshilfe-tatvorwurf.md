@@ -30,9 +30,7 @@ klassifizierung:
   aufbewahrung:
     frist: bis zur Vollendung des 24. Lebensjahres
     beginn: nach Abschluss des Verfahrens
-    hinweis: Angelehnt an § 63 Abs. 1 Nr. 3 JGG für die Tilgung im Erziehungsregister.
-      Festlegung des Trägers; abweichende Fristen des Bundeszentralregisters bleiben
-      unberührt.
+    hinweis: Angelehnt an § 63 Abs. 1 Nr. 3 JGG für die Tilgung im Erziehungsregister. Festlegung des Trägers; abweichende Fristen des Bundeszentralregisters bleiben unberührt.
 letzte-aktualisierung: '2026-08-10'
 tags:
 - Jugendhilfe

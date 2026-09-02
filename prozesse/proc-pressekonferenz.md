@@ -12,8 +12,8 @@ daten:
   - id: dstore-verwaltungsakte
   - id: dstore-kontaktdaten
 regelungen:
-  - '§ 4 Nds. Pressegesetz (NPresseG) (Auskunftspflicht)'
-  - '§ 11 NKomVG (Kommunale Selbstverwaltung)'
+- '§ 4 Nds. Pressegesetz (NPresseG) (Auskunftspflicht)'
+- '§ 11 NKomVG (Kommunale Selbstverwaltung)'
 letzte-aktualisierung: 2026-04-29
 ---
 # Pressekonferenz

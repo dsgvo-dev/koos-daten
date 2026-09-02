@@ -13,9 +13,9 @@ daten:
   datenspeicher:
   - id: dstore-umweltdaten
 regelungen:
-  - '§§ 20-21 Energiewirtschaftsgesetz (EnWG) (Netzzugang)'
-  - '§ 23a EnWG (Entgeltgenehmigung)'
-  - 'Strom-/GasNEV'
+- '§§ 20-21 Energiewirtschaftsgesetz (EnWG) (Netzzugang)'
+- '§ 23a EnWG (Entgeltgenehmigung)'
+- 'Strom-/GasNEV'
 letzte-aktualisierung: 2026-04-06
 ---
 # Energiemonitor: Datenbereitstellung/Kommunikation

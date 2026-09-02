@@ -14,9 +14,9 @@ daten:
   - id: dstore-sondernutzung-oeffentlicher-raum
   - id: dstore-kfz-daten
 regelungen:
-  - '§§ 45-46 Straßenverkehrs-Ordnung (StVO) (Verkehrszeichen/Ausnahmegenehmigungen)'
-  - '§§ 18-22 Nds. Straßengesetz (NStrG) (Sondernutzung)'
-  - '§§ 9-11 NStrG (Straßenbaulast)'
+- '§§ 45-46 Straßenverkehrs-Ordnung (StVO) (Verkehrszeichen/Ausnahmegenehmigungen)'
+- '§§ 18-22 Nds. Straßengesetz (NStrG) (Sondernutzung)'
+- '§§ 9-11 NStrG (Straßenbaulast)'
 letzte-aktualisierung: 2026-04-06
 ---
 # Befahren gesperrter Straßen beantragen

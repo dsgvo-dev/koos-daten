@@ -15,9 +15,9 @@ daten:
   - id: dstore-grundstuecksbezug
   - id: dstore-lageplan-geobasisdaten
 regelungen:
-  - '§ 1 Nds. Informationszugangsgesetz (NDIG)'
-  - '§ 29 VwVfG (Akteneinsicht)'
-  - '§§ 59 ff. NBauO'
+- '§ 1 Nds. Informationszugangsgesetz (NDIG)'
+- '§ 29 VwVfG (Akteneinsicht)'
+- '§§ 59 ff. NBauO'
 letzte-aktualisierung: 2026-04-06
 ---
 # Bauaktenarchiv: Akteneinsicht beantragen

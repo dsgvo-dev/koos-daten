@@ -31,9 +31,7 @@ klassifizierung:
     frist: 10 Jahre
     beginn: nach Bestandskraft des Plans
     hinweis: >-
-      Bei anhängigem Normenkontroll- oder Rechtsbehelfsverfahren bis zu dessen
-      rechtskräftigem Abschluss. Der Plan selbst wird nach § 3 NArchG dauerhaft
-      archiviert; die Stellungnahmen einzelner Personen teilen diese Frist nicht.
+      Bei anhängigem Normenkontroll- oder Rechtsbehelfsverfahren bis zu dessen rechtskräftigem Abschluss. Der Plan selbst wird nach § 3 NArchG dauerhaft archiviert; die Stellungnahmen einzelner Personen teilen diese Frist nicht.
 letzte-aktualisierung: '2026-08-10'
 tags:
 - Bauleitplanung

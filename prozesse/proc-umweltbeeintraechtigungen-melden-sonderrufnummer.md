@@ -15,8 +15,8 @@ daten:
   - id: dstore-beschwerde-anregungsdaten
   - id: dstore-kontaktdaten
 regelungen:
-  - '§ 22 BImSchG (Nicht genehmigungsbedürftige Anlagen)'
-  - '§§ 8-13 WHG (Benutzungserlaubnisse)'
+- '§ 22 BImSchG (Nicht genehmigungsbedürftige Anlagen)'
+- '§§ 8-13 WHG (Benutzungserlaubnisse)'
 letzte-aktualisierung: 2026-04-06
 ---
 # Umweltbeeinträchtigungen melden (Sonderrufnummer)

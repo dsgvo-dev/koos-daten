@@ -16,7 +16,7 @@ daten:
   - id: dstore-ausweisdokument
   - id: dstore-meldeadresse-wohnsitz
 regelungen:
-  - § 27 Abs. 1 Nr. 3 Gesetz über Personalausweise und den elektronischen Identitätsnachweis (PAuswG)
+- § 27 Abs. 1 Nr. 3 Gesetz über Personalausweise und den elektronischen Identitätsnachweis (PAuswG)
 leika_id: '99008001014002'
 letzte-aktualisierung: '2026-07-28'
 ---

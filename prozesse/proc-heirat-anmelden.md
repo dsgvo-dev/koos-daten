@@ -14,9 +14,9 @@ daten:
   - id: dstore-personenstammdaten
   - id: dstore-registerbezug-personenstand
 regelungen:
-  - '§§ 11-17 Personenstandsgesetz (PStG) (Anmeldung der Eheschließung)'
-  - '§§ 28-30 PStG (Eheschließung)'
-  - 'Nds. AVO-PStG'
+- '§§ 11-17 Personenstandsgesetz (PStG) (Anmeldung der Eheschließung)'
+- '§§ 28-30 PStG (Eheschließung)'
+- 'Nds. AVO-PStG'
 letzte-aktualisierung: 2026-04-06
 ---
 # Heirat anmelden

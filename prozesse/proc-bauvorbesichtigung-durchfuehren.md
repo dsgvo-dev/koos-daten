@@ -14,8 +14,8 @@ daten:
   - id: dstore-baugenehmigung
   - id: dstore-verwaltungsakte
 regelungen:
-  - '§§ 81-84 NBauO (Baubeginn, Rohbauabnahme, Schlussabnahme)'
-  - '§ 82 NBauO (Baugenehmigung: Fertigstellungsanzeige)'
+- '§§ 81-84 NBauO (Baubeginn, Rohbauabnahme, Schlussabnahme)'
+- '§ 82 NBauO (Baugenehmigung: Fertigstellungsanzeige)'
 letzte-aktualisierung: 2026-04-29
 ---
 # Bauvorbesichtigung durchführen

@@ -14,9 +14,9 @@ daten:
   - id: dstore-grundstuecksbezug
   - id: dstore-bodengutachten-gruendung
 regelungen:
-  - '§§ 1-7 Bundesberggesetz (BBergG) (Anwendungsbereich)'
-  - '§ 57a BBergG (Planfeststellungsverfahren)'
-  - '§ 4 BBergG (Bergfreie Bodenschätze)'
+- '§§ 1-7 Bundesberggesetz (BBergG) (Anwendungsbereich)'
+- '§ 57a BBergG (Planfeststellungsverfahren)'
+- '§ 4 BBergG (Bergfreie Bodenschätze)'
 letzte-aktualisierung: 2026-04-06
 ---
 # Genehmigung zum Abbau von Bodenschätzen

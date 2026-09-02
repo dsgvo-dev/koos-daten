@@ -16,8 +16,8 @@ daten:
   - id: dstore-grundstuecksbezug
   - id: dstore-kaufvertragsdaten-immobilie
 regelungen:
-  - '§§ 92-100 NKomVG (Kommunales Vermögen)'
-  - '§ 11 NKomVG (Kommunale Selbstverwaltung)'
+- '§§ 92-100 NKomVG (Kommunales Vermögen)'
+- '§ 11 NKomVG (Kommunale Selbstverwaltung)'
 letzte-aktualisierung: 2026-04-06
 ---
 # Immobilienangebote (kommunale Angebote)

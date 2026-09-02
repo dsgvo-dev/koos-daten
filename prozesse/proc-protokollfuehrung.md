@@ -12,8 +12,8 @@ daten:
   - id: dstore-sitzungsprotokoll
   - id: dstore-verwaltungsakte
 regelungen:
-  - '§ 64 NKomVG (Niederschrift der Ratssitzung)'
-  - '§§ 58-68 NKomVG (Geschäftsgang des Rates)'
+- '§ 64 NKomVG (Niederschrift der Ratssitzung)'
+- '§§ 58-68 NKomVG (Geschäftsgang des Rates)'
 letzte-aktualisierung: 2026-04-29
 ---
 # Protokollführung

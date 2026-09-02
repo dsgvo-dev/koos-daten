@@ -15,10 +15,10 @@ daten:
   - id: dstore-personenstammdaten
   - id: dstore-register-und-zuverlaessigkeitsauskuenfte
 regelungen:
-  - § 4 Waffengesetz (WaffG)
-  - § 10 Waffengesetz (WaffG)
-  - § 13 Allgemeine Waffengesetz-Verordnung (AWaffV)
-  - § 36 Waffengesetz (WaffG)
+- § 4 Waffengesetz (WaffG)
+- § 10 Waffengesetz (WaffG)
+- § 13 Allgemeine Waffengesetz-Verordnung (AWaffV)
+- § 36 Waffengesetz (WaffG)
 letzte-aktualisierung: 2026-04-06
 ---
 # Waffenschein beantragen

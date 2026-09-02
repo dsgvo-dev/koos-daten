@@ -17,9 +17,9 @@ daten:
   - id: dstore-schwerbehindertennachweis
   - id: dstore-schulbesuch-ausbildungsstatus
 regelungen:
-  - '§§ 27-40 SGB XII (Sozialhilfe)'
-  - '§§ 53-60 SGB XII (Eingliederungshilfe)'
-  - '§ 19 SGB XII (Leistungsberechtigte)'
+- '§§ 27-40 SGB XII (Sozialhilfe)'
+- '§§ 53-60 SGB XII (Eingliederungshilfe)'
+- '§ 19 SGB XII (Leistungsberechtigte)'
 letzte-aktualisierung: 2026-04-06
 ---
 # Schulbegleitung im Rahmen Eingliederungshilfe beantragen

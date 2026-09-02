@@ -15,14 +15,11 @@ daten:
   - id: dstore-personenstammdaten
   - id: dstore-kontaktdaten
 regelungen:
-- Art. 6 Abs. 1 lit. b) DSGVO - öffentlich-rechtliches Ausbildungsverhältnis eigener
-  Art zwischen Ausbildungsstelle und auszubildender Person
-- Art. 6 Abs. 1 lit. c) DSGVO i. V. m. NJAG und NJAVO - gesetzlich vorgeschriebene
-  Ausbildungsnachweise und Stationszeugnisse
+- Art. 6 Abs. 1 lit. b) DSGVO - öffentlich-rechtliches Ausbildungsverhältnis eigener Art zwischen Ausbildungsstelle und auszubildender Person
+- Art. 6 Abs. 1 lit. c) DSGVO i. V. m. NJAG und NJAVO - gesetzlich vorgeschriebene Ausbildungsnachweise und Stationszeugnisse
 - Art. 6 Abs. 1 lit. e) DSGVO, § 3 NDSG - Wahrnehmung der Ausbildungsaufgabe
 - NJAG - Niedersächsisches Gesetz zur Ausbildung der Juristinnen und Juristen
-- NJAVO - Verordnung zum Niedersächsischen Gesetz zur Ausbildung der Juristinnen und
-  Juristen
+- NJAVO - Verordnung zum Niedersächsischen Gesetz zur Ausbildung der Juristinnen und Juristen
 - § 195 BGB - regelmäßige Verjährung als Anker der Aufbewahrung des Doppels
 leika_id: null
 ozg_id: null

@@ -16,8 +16,8 @@ daten:
   - id: dstore-personenstammdaten
   - id: dstore-identitaetsnachweis
 regelungen:
-  - § 55 Gewerbeordnung (GewO)
-  - §§ 55a, 55b Gewerbeordnung (GewO)
+- § 55 Gewerbeordnung (GewO)
+- §§ 55a, 55b Gewerbeordnung (GewO)
 leika_id: '99050023005000'
 letzte-aktualisierung: '2026-07-28'
 ---

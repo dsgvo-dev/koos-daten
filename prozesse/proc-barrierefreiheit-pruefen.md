@@ -13,9 +13,9 @@ daten:
   - id: dstore-bescheid
   - id: dstore-schwerbehindertennachweis
 regelungen:
-  - '§§ 1-4 Behindertengleichstellungsgesetz (BGG)'
-  - '§ 3 Nds. Behindertengleichstellungsgesetz (NBGG)'
-  - '§ 4 BGG (Barrierefreiheit)'
+- '§§ 1-4 Behindertengleichstellungsgesetz (BGG)'
+- '§ 3 Nds. Behindertengleichstellungsgesetz (NBGG)'
+- '§ 4 BGG (Barrierefreiheit)'
 letzte-aktualisierung: 2026-04-29
 ---
 # Barrierefreiheit prüfen

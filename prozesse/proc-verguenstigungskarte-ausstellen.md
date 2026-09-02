@@ -13,8 +13,8 @@ daten:
   - id: dstore-identitaetsnachweis
   - id: dstore-bescheinigung
 regelungen:
-  - '§ 5 NKomVG (eigener Wirkungskreis)'
-  - '§ 36 SGB XII (Hilfe in anderen Lebenslagen)'
+- '§ 5 NKomVG (eigener Wirkungskreis)'
+- '§ 36 SGB XII (Hilfe in anderen Lebenslagen)'
 letzte-aktualisierung: 2026-04-29
 ---
 # Vergünstigungskarte ausstellen

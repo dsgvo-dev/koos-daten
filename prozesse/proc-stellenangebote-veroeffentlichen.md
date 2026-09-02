@@ -14,8 +14,8 @@ daten:
   - id: dstore-bewerbungsunterlagen
   - id: dstore-lebenslauf-qualifikationsnachweis
 regelungen:
-  - '§ 16 Absatz 1 Sozialgesetzbuch II'
-  - 'i.V.m. § 35 Absatz 3 Sozialgesetzbuch III'
+- '§ 16 Absatz 1 Sozialgesetzbuch II'
+- 'i.V.m. § 35 Absatz 3 Sozialgesetzbuch III'
 letzte-aktualisierung: 2026-04-06
 ---
 # Stellenangebote veröffentlichen

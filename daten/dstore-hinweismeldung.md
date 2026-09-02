@@ -30,11 +30,7 @@ klassifizierung:
   aufbewahrung:
     frist: 3 Jahre
     beginn: nach Abschluss des Verfahrens
-    hinweis: Frist aus § 11 Abs. 5 HinSchG. Eine längere Aufbewahrung ist nur zulässig,
-      soweit sie zur Erfüllung von Anforderungen nach dem HinSchG oder anderen Rechtsvorschriften
-      erforderlich und verhältnismäßig ist -- etwa solange ein Straf- oder Disziplinarverfahren
-      anhängig ist. Unbegründete Hinweise werden mit Abschluss der Vorprüfung gelöscht,
-      spätestens nach drei Monaten (Festlegung des Trägers).
+    hinweis: Frist aus § 11 Abs. 5 HinSchG. Eine längere Aufbewahrung ist nur zulässig, soweit sie zur Erfüllung von Anforderungen nach dem HinSchG oder anderen Rechtsvorschriften erforderlich und verhältnismäßig ist -- etwa solange ein Straf- oder Disziplinarverfahren anhängig ist. Unbegründete Hinweise werden mit Abschluss der Vorprüfung gelöscht, spätestens nach drei Monaten (Festlegung des Trägers).
 letzte-aktualisierung: '2026-08-10'
 tags:
 - Hinweisgeberschutz

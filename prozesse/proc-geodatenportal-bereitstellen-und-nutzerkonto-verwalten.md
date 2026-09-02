@@ -17,12 +17,10 @@ daten:
   - id: dstore-rechnungsdaten
 regelungen:
 - § 2 Abs. 1 Nr. 2 NGDIG - die Kommune ist geodatenhaltende Stelle
-- § 3 Abs. 4 NGDIG - für Stellen der untersten Verwaltungsebene gilt das Gesetz nur
-  bei gesetzlich vorgeschriebener Sammlung oder Verbreitung
+- § 3 Abs. 4 NGDIG - für Stellen der untersten Verwaltungsebene gilt das Gesetz nur bei gesetzlich vorgeschriebener Sammlung oder Verbreitung
 - §§ 5, 6 und 7 NGDIG - Bereitstellen von Geodaten, Geodatendiensten und Metadaten
 - § 9 NGDIG - Geodaten und Geodatendienste sind öffentlich zugänglich
-- § 10 Abs. 4 NGDIG - Zugang ist zu beschränken, soweit personenbezogene Daten offenbart
-  würden; vorherige Anhörung der betroffenen Person
+- § 10 Abs. 4 NGDIG - Zugang ist zu beschränken, soweit personenbezogene Daten offenbart würden; vorherige Anhörung der betroffenen Person
 - § 11 NGDIG - Nutzungsbedingungen, Lizenzen und Geldleistungen; Suchdienste sind kostenlos
 - § 5 NKomVG - eigener Wirkungskreis für freiwillig geführte kommunale Geodaten
 - Art. 6 Abs. 1 lit. e) DSGVO, § 3 NDSG - Bereitstellung des Portals

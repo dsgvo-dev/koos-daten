@@ -30,8 +30,7 @@ klassifizierung:
   aufbewahrung:
     frist: wie die zugehörige Erlaubnis
     beginn: mit Bestandskraft der Entscheidung
-    hinweis: Die Auskunft darf nicht länger vorgehalten werden als die Erlaubnis,
-      deren Erteilung sie trägt.
+    hinweis: Die Auskunft darf nicht länger vorgehalten werden als die Erlaubnis, deren Erteilung sie trägt.
 letzte-aktualisierung: '2026-08-10'
 tags:
 - Zuverlässigkeit

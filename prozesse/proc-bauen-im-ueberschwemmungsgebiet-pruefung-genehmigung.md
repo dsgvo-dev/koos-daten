@@ -12,9 +12,9 @@ daten:
   - id: dstore-unternehmens-und-registerdaten
   - id: dstore-identitaetsnachweis
 regelungen:
-  - '§§ 76-78 Wasserhaushaltsgesetz (WHG) (Überschwemmungsgebiete)'
-  - '§ 78 WHG (Bauverbote)'
-  - '§§ 59 ff. Nds. Bauordnung (NBauO)'
+- '§§ 76-78 Wasserhaushaltsgesetz (WHG) (Überschwemmungsgebiete)'
+- '§ 78 WHG (Bauverbote)'
+- '§§ 59 ff. Nds. Bauordnung (NBauO)'
 letzte-aktualisierung: 2026-04-06
 ---
 # Bauen im Überschwemmungsgebiet: Prüfung/Genehmigung

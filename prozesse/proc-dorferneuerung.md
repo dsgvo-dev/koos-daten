@@ -14,9 +14,9 @@ daten:
   - id: dstore-grundstuecksbezug
   - id: dstore-foerderantrag
 regelungen:
-  - '§§ 1-13b BauGB (Bauleitplanung)'
-  - '§ 5 BauGB (Flächennutzungsplan)'
-  - '§§ 8-10 BauGB (Bebauungsplan)'
+- '§§ 1-13b BauGB (Bauleitplanung)'
+- '§ 5 BauGB (Flächennutzungsplan)'
+- '§§ 8-10 BauGB (Bebauungsplan)'
 letzte-aktualisierung: 2026-04-06
 ---
 # Dorferneuerung

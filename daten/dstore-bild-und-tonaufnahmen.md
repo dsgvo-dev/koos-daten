@@ -28,10 +28,7 @@ klassifizierung:
   aufbewahrung:
     frist: bis zum Widerruf der Einwilligung; Archivgut nach NArchG dauerhaft
     beginn: mit der Aufnahme
-    hinweis: Zweistufig. Aufnahmen erkennbar einzeln abgebildeter Personen beruhen
-      auf Einwilligung und sind bei Widerruf aus künftigen Nutzungen zu entfernen.
-      Übersichtsaufnahmen, auf denen Einzelne nur Beiwerk sind, beruhen auf § 3 NDSG
-      und § 23 Abs. 1 Nr. 3 KUG.
+    hinweis: Zweistufig. Aufnahmen erkennbar einzeln abgebildeter Personen beruhen auf Einwilligung und sind bei Widerruf aus künftigen Nutzungen zu entfernen. Übersichtsaufnahmen, auf denen Einzelne nur Beiwerk sind, beruhen auf § 3 NDSG und § 23 Abs. 1 Nr. 3 KUG.
 letzte-aktualisierung: '2026-08-04'
 tags:
 - Bildaufnahme

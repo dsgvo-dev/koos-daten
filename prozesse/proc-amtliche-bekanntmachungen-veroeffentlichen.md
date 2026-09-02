@@ -14,8 +14,8 @@ daten:
   - id: dstore-verwaltungsakte
   - id: dstore-bescheid
 regelungen:
-  - '§ 11 NKomVG (Bekanntmachungen)'
-  - 'Nds. Bekanntmachungsverordnung (NBekanntmV)'
+- '§ 11 NKomVG (Bekanntmachungen)'
+- 'Nds. Bekanntmachungsverordnung (NBekanntmV)'
 letzte-aktualisierung: 2026-04-06
 ---
 # Amtliche Bekanntmachungen veröffentlichen

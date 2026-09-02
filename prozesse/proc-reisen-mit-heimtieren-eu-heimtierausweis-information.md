@@ -15,8 +15,8 @@ daten:
   - id: dstore-personenstammdaten
   - id: dstore-tierhalterbestand-nutztiere
 regelungen:
-  - 'EU-Verordnung (EU) Nr. 576/2013 (Verbringung von Heimtieren)'
-  - '§§ 1 ff. BinnenmarktpflanzenschutzV'
+- 'EU-Verordnung (EU) Nr. 576/2013 (Verbringung von Heimtieren)'
+- '§§ 1 ff. BinnenmarktpflanzenschutzV'
 letzte-aktualisierung: 2026-04-06
 ---
 # Reisen mit Heimtieren (EU-Heimtierausweis/Information)

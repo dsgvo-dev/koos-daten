@@ -13,9 +13,9 @@ daten:
   - id: dstore-grundstuecksdaten
   - id: dstore-bescheinigung
 regelungen:
-  - '§§ 1-5 Nds. Vermessungs- und Geoinformationsgesetz (NVermG)'
-  - '§ 6 NVermG (Aufgaben der Katasterbehörden)'
-  - '§ 14 NVermG (Liegenschaftskataster)'
+- '§§ 1-5 Nds. Vermessungs- und Geoinformationsgesetz (NVermG)'
+- '§ 6 NVermG (Aufgaben der Katasterbehörden)'
+- '§ 14 NVermG (Liegenschaftskataster)'
 letzte-aktualisierung: 2026-04-29
 ---
 # Kartenauskunft

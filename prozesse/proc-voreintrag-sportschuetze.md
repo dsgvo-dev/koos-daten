@@ -13,8 +13,8 @@ daten:
   - id: dstore-fuehrungszeugnis
   - id: dstore-kontaktdaten
 regelungen:
-  - '§§ 14-15 Waffengesetz (WaffG) (Bedürfnisnachweis Sportschützen)'
-  - '§ 15 WaffG (Sportliches Schießen)'
+- '§§ 14-15 Waffengesetz (WaffG) (Bedürfnisnachweis Sportschützen)'
+- '§ 15 WaffG (Sportliches Schießen)'
 letzte-aktualisierung: 2026-04-06
 ---
 # Voreintrag Sportschütze

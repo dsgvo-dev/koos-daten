@@ -13,9 +13,9 @@ daten:
   - id: dstore-personenstammdaten
   - id: dstore-amtsaerztliches-zeugnis
 regelungen:
-  - '§§ 6-9 Infektionsschutzgesetz (IfSG) (Meldepflichten)'
-  - '§ 6 IfSG (Namentliche Meldepflicht)'
-  - '§ 25 IfSG (Ermittlungen)'
+- '§§ 6-9 Infektionsschutzgesetz (IfSG) (Meldepflichten)'
+- '§ 6 IfSG (Namentliche Meldepflicht)'
+- '§ 25 IfSG (Ermittlungen)'
 letzte-aktualisierung: 2026-04-06
 ---
 # Masernmeldung

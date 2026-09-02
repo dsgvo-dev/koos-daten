@@ -15,14 +15,14 @@ daten:
     - Buchungsbestätigungen
     - Kassenanordnungen
   datenspeicher:
-  - id: dstore-rechnungsdaten
-  - id: dstore-debitoren-kreditorendaten
-  - id: dstore-elektronische-rechnungsstellung
-  - id: dstore-leitwegid-peppolid
-  - id: dstore-rechnungsadressierung-kommune
-  - id: dstore-rechnungskorrektur-storno
-  - id: dstore-zahlungsziel-faelligkeit
-  - id: dstore-steuerdaten
+    - id: dstore-rechnungsdaten
+    - id: dstore-debitoren-kreditorendaten
+    - id: dstore-elektronische-rechnungsstellung
+    - id: dstore-leitwegid-peppolid
+    - id: dstore-rechnungsadressierung-kommune
+    - id: dstore-rechnungskorrektur-storno
+    - id: dstore-zahlungsziel-faelligkeit
+    - id: dstore-steuerdaten
 regelungen:
   - KomHKVO
   - ERechV

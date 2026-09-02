@@ -14,9 +14,9 @@ daten:
   - id: dstore-personenstammdaten
   - id: dstore-identitaetsnachweis
 regelungen:
-  - '§§ 1-4 Nds. Gaststättengesetz (NGastG)'
-  - '§ 10 NGastG (Sperrzeit)'
-  - 'GewO §§ 14-15 (Gewerbeanzeige)'
+- '§§ 1-4 Nds. Gaststättengesetz (NGastG)'
+- '§ 10 NGastG (Sperrzeit)'
+- 'GewO §§ 14-15 (Gewerbeanzeige)'
 letzte-aktualisierung: 2026-04-06
 ---
 # Gaststättenerlaubnis erteilen

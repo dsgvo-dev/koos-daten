@@ -20,8 +20,7 @@ daten:
   - id: dstore-termin-und-vorsprachedaten
 regelungen:
 - § 10 - 13 Personenstandsgesetz (PStG)
-- § 28 Verordnung zur Ausführung des Personenstandsgesetzes (Personenstandsverordnung
-  - PStV)
+- § 28 Verordnung zur Ausführung des Personenstandsgesetzes (Personenstandsverordnung - PStV)
 - § 1309 - 1310 Bürgerliches Gesetzbuch (BGB)
 - § 1314 Bürgerliches Gesetzbuch (BGB)
 - § 1353 Bürgerliches Gesetzbuch (BGB)

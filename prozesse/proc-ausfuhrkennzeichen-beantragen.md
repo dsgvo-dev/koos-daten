@@ -15,7 +15,7 @@ daten:
   - id: dstore-personenstammdaten
   - id: dstore-identitaetsnachweis
 regelungen:
-  - '§ 19 Fahrzeug-Zulassungsverordnung (FZV)'
+- '§ 19 Fahrzeug-Zulassungsverordnung (FZV)'
 leika_id: '99036040069000'
 letzte-aktualisierung: 2026-04-06
 ---

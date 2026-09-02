@@ -17,10 +17,8 @@ daten:
   - id: dstore-ausweisdokument
   - id: dstore-meldeadresse-wohnsitz
 regelungen:
-- § 1 Absatz 4 Nummer 1 Gesetz über Personalausweise und den elektronischen Identitätsnachweis
-  (Personalausweisgesetz - PAuswG)
-- § 9 Absatz 2 Gesetz über Personalausweise und den elektronischen Identitätsnachweis
-  (Personalausweisgesetz - PAuswG)
+- § 1 Absatz 4 Nummer 1 Gesetz über Personalausweise und den elektronischen Identitätsnachweis (Personalausweisgesetz - PAuswG)
+- § 9 Absatz 2 Gesetz über Personalausweise und den elektronischen Identitätsnachweis (Personalausweisgesetz - PAuswG)
 - Personalausweis- und eID-Karten-Gebührenverordnung
 leika_id: '99008001012009'
 ozg_id: null

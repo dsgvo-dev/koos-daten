@@ -14,8 +14,8 @@ daten:
   - id: dstore-debitoren-kreditorendaten
   - id: dstore-verwaltungsakte
 regelungen:
-  - '§§ 110-127 NKomVG (Haushaltswirtschaft)'
-  - '§§ 1 ff. GemHKVO Nds. (Gemeindehaushalts- und -kassenverordnung)'
+- '§§ 110-127 NKomVG (Haushaltswirtschaft)'
+- '§§ 1 ff. GemHKVO Nds. (Gemeindehaushalts- und -kassenverordnung)'
 letzte-aktualisierung: 2026-04-29
 ---
 # Rechnung prüfen

@@ -15,9 +15,9 @@ daten:
   - id: dstore-sorgerechtsnachweis
   - id: dstore-einverstaendnis-sorgeberechtigte
 regelungen:
-  - '§ 8a SGB VIII (Schutzauftrag bei Kindeswohlgefährdung)'
-  - '§§ 1666-1667 BGB (Maßnahmen bei Kindeswohlgefährdung)'
-  - '§ 4 KKG (Beratung und Übermittlung von Informationen)'
+- '§ 8a SGB VIII (Schutzauftrag bei Kindeswohlgefährdung)'
+- '§§ 1666-1667 BGB (Maßnahmen bei Kindeswohlgefährdung)'
+- '§ 4 KKG (Beratung und Übermittlung von Informationen)'
 letzte-aktualisierung: 2026-04-29
 ---
 # Kindeswohlgefährdung prüfen

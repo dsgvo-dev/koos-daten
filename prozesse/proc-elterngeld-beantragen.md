@@ -16,8 +16,7 @@ daten:
   - id: dstore-mutterschaftsgeld
   - id: dstore-personenstammdaten
 regelungen:
-- §§ 1 bis 4d Gesetz zum Elterngeld und zur Elternzeit (Bundeselterngeld- und Elternzeitgesetz
-  - BEEG)
+- §§ 1 bis 4d Gesetz zum Elterngeld und zur Elternzeit (Bundeselterngeld- und Elternzeitgesetz - BEEG)
 leika_id: '99041006017000'
 ozg_id: '10000'
 letzte-aktualisierung: '2026-07-10'

@@ -30,9 +30,7 @@ klassifizierung:
   aufbewahrung:
     frist: wie die Ausländerakte
     beginn: nach Abschluss des aufenthaltsrechtlichen Verfahrens
-    hinweis: Die Mitteilung ist Teil der Ausländerakte und teilt deren Frist. Nach
-      Tilgung der zugrunde liegenden Eintragung im Bundeszentralregister darf sie
-      nicht mehr zum Nachteil der betroffenen Person verwertet werden.
+    hinweis: Die Mitteilung ist Teil der Ausländerakte und teilt deren Frist. Nach Tilgung der zugrunde liegenden Eintragung im Bundeszentralregister darf sie nicht mehr zum Nachteil der betroffenen Person verwertet werden.
 letzte-aktualisierung: '2026-08-10'
 tags:
 - Aufenthaltsrecht

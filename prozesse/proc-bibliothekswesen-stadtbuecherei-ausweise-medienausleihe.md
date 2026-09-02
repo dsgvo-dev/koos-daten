@@ -16,8 +16,8 @@ daten:
   - id: dstore-personenstammdaten
   - id: dstore-servicekonto-nutzeridentitaet
 regelungen:
-  - '§ 1 Nds. Bibliotheksgesetz (NBibG)'
-  - '§ 11 NKomVG (Kommunale Einrichtungen)'
+- '§ 1 Nds. Bibliotheksgesetz (NBibG)'
+- '§ 11 NKomVG (Kommunale Einrichtungen)'
 letzte-aktualisierung: 2026-04-06
 ---
 # Bibliotheksausweis ausstellen und Medien verleihen

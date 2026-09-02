@@ -11,8 +11,8 @@ daten:
   datenspeicher:
   - id: dstore-kfz-daten
 regelungen:
-  - '§§ 62-63 Wasserhaushaltsgesetz (WHG) (Anlagen mit wassergef. Stoffen)'
-  - 'Nds. Verordnung über JGS-Anlagen'
+- '§§ 62-63 Wasserhaushaltsgesetz (WHG) (Anlagen mit wassergef. Stoffen)'
+- 'Nds. Verordnung über JGS-Anlagen'
 letzte-aktualisierung: 2026-04-06
 ---
 # JGS-Anlage: Errichtung/Änderung/Stilllegung anzeigen

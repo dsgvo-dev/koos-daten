@@ -13,9 +13,9 @@ daten:
   - id: dstore-personenstammdaten
   - id: dstore-verwaltungsakte
 regelungen:
-  - 'Art. 30 DSGVO (Verzeichnis der Verarbeitungstätigkeiten)'
-  - 'Art. 35 DSGVO (Datenschutz-Folgenabschätzung)'
-  - '§§ 1 ff. Nds. Datenschutzgesetz (NDSG)'
+- 'Art. 30 DSGVO (Verzeichnis der Verarbeitungstätigkeiten)'
+- 'Art. 35 DSGVO (Datenschutz-Folgenabschätzung)'
+- '§§ 1 ff. Nds. Datenschutzgesetz (NDSG)'
 letzte-aktualisierung: 2026-04-29
 ---
 # Betroffenenanfrage bearbeiten

@@ -19,9 +19,9 @@ daten:
   - id: dstore-vergabe-auftragsbezug
   - id: dstore-bauvorhabensdaten
 regelungen:
-  - '§§ 63-65 NSchG (Schulträger)'
-  - '§§ 59 ff. NBauO (Baugenehmigung)'
-  - '§§ 1 ff. VgV (Vergabe von Bauleistungen)'
+- '§§ 63-65 NSchG (Schulträger)'
+- '§§ 59 ff. NBauO (Baugenehmigung)'
+- '§§ 1 ff. VgV (Vergabe von Bauleistungen)'
 letzte-aktualisierung: 2026-04-06
 ---
 # Neubau Rudolf-Bembenneck-Gesamtschule: Projektsteuerung

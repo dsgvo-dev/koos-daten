@@ -12,18 +12,10 @@ daten:
   - id: dstore-unternehmens-und-registerdaten
   - id: dstore-identitaetsnachweis
 regelungen:
-- § 4 Gesetz zum Schutz vor schädlichen Umwelteinwirkungen durch Luftverunreinigungen,
-  Geräusche, Erschütterungen und ähnliche Vorgänge (Bundes-Immissionsschutzgesetz
-  – BImSchG)
-- § 5 Gesetz zum Schutz vor schädlichen Umwelteinwirkungen durch Luftverunreinigungen,
-  Geräusche, Erschütterungen und ähnliche Vorgänge (Bundes-Immissionsschutzgesetz
-  – BImSchG)
-- § 10 Gesetz zum Schutz vor schädlichen Umwelteinwirkungen durch Luftverunreinigungen,
-  Geräusche, Erschütterungen und ähnliche Vorgänge (Bundes-Immissionsschutzgesetz
-  – BImSchG)
-- § 6 Gesetz zum Schutz vor schädlichen Umwelteinwirkungen durch Luftverunreinigungen,
-  Geräusche, Erschütterungen und ähnliche Vorgänge (Bundes-Immissionsschutzgesetz
-  – BImSchG)
+- § 4 Gesetz zum Schutz vor schädlichen Umwelteinwirkungen durch Luftverunreinigungen, Geräusche, Erschütterungen und ähnliche Vorgänge (Bundes-Immissionsschutzgesetz – BImSchG)
+- § 5 Gesetz zum Schutz vor schädlichen Umwelteinwirkungen durch Luftverunreinigungen, Geräusche, Erschütterungen und ähnliche Vorgänge (Bundes-Immissionsschutzgesetz – BImSchG)
+- § 10 Gesetz zum Schutz vor schädlichen Umwelteinwirkungen durch Luftverunreinigungen, Geräusche, Erschütterungen und ähnliche Vorgänge (Bundes-Immissionsschutzgesetz – BImSchG)
+- § 6 Gesetz zum Schutz vor schädlichen Umwelteinwirkungen durch Luftverunreinigungen, Geräusche, Erschütterungen und ähnliche Vorgänge (Bundes-Immissionsschutzgesetz – BImSchG)
 - Vierte Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes – 4. BImSchV
 leika_id: '99063009006000'
 ozg_id: null

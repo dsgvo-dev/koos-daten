@@ -20,8 +20,7 @@ regelungen:
 - Art. 6 Abs. 1 lit. e) DSGVO, § 3 NDSG - Teilnahme externer Personen
 - Art. 6 Abs. 1 lit. a) DSGVO - Aufzeichnung
 - Art. 88 DSGVO, § 12 NDSG - Verarbeitung bei Dienst- und Arbeitsverhältnissen
-- § 67 Abs. 1 Nr. 2 NPersVG - Mitbestimmung bei technischen Einrichtungen, die zur
-  Überwachung von Verhalten oder Leistung geeignet sind
+- § 67 Abs. 1 Nr. 2 NPersVG - Mitbestimmung bei technischen Einrichtungen, die zur Überwachung von Verhalten oder Leistung geeignet sind
 - § 78 NPersVG - Dienstvereinbarung Videokonferenzen
 - Art. 28 DSGVO - Auftragsverarbeitung durch den Betreiber des Systems
 - Art. 32 DSGVO - Sicherheit der Verarbeitung

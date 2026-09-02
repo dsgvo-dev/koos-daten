@@ -15,8 +15,8 @@ daten:
   - id: dstore-unternehmens-und-registerdaten
   - id: dstore-personenstammdaten
 regelungen:
-  - '§§ 4-5 Viehverkehrsverordnung (ViehVerkV)'
-  - '§§ 1 ff. Tiergesundheitsgesetz (TierGesG)'
+- '§§ 4-5 Viehverkehrsverordnung (ViehVerkV)'
+- '§§ 1 ff. Tiergesundheitsgesetz (TierGesG)'
 letzte-aktualisierung: 2026-04-06
 ---
 # Viehhandel (gewerblich): Anzeige

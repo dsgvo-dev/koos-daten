@@ -15,9 +15,9 @@ daten:
   - id: dstore-registerbezug-personenstand
   - id: dstore-auslaendische-personenstandsurkunde
 regelungen:
-  - '§§ 11-17 Personenstandsgesetz (PStG) (Anmeldung der Eheschließung)'
-  - '§§ 28-30 PStG (Eheschließung)'
-  - 'Nds. AVO-PStG'
+- '§§ 11-17 Personenstandsgesetz (PStG) (Anmeldung der Eheschließung)'
+- '§§ 28-30 PStG (Eheschließung)'
+- 'Nds. AVO-PStG'
 letzte-aktualisierung: 2026-04-06
 ---
 # Befreiung von der Vorlage des Ehefähigkeitszeugnisses (ausländische Staatsangehörige)

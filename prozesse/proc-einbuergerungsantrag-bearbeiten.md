@@ -15,8 +15,8 @@ daten:
   - id: dstore-sprachkenntnisnachweis
   - id: dstore-leistungsbezug-sozialleistung
 regelungen:
-  - '§§ 8-15 Staatsangehörigkeitsgesetz (StAG) (Einbürgerung)'
-  - '§ 10 StAG (Anspruch auf Einbürgerung)'
+- '§§ 8-15 Staatsangehörigkeitsgesetz (StAG) (Einbürgerung)'
+- '§ 10 StAG (Anspruch auf Einbürgerung)'
 letzte-aktualisierung: 2026-04-29
 ---
 # Einbürgerungsantrag bearbeiten

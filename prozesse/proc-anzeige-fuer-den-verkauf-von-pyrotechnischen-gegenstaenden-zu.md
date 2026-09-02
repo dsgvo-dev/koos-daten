@@ -15,9 +15,9 @@ daten:
   - id: dstore-kontaktdaten
   - id: dstore-gewerbedaten
 regelungen:
-  - '§§ 20-23 Sprengstoffgesetz (SprengG)'
-  - '§ 22 SprengG (Verkauf pyrotechnischer Gegenstände)'
-  - '§§ 45-46 StVO'
+- '§§ 20-23 Sprengstoffgesetz (SprengG)'
+- '§ 22 SprengG (Verkauf pyrotechnischer Gegenstände)'
+- '§§ 45-46 StVO'
 letzte-aktualisierung: 2026-04-06
 ---
 # Anzeige für den Verkauf von pyrotechnischen Gegenständen zu Silvester

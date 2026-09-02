@@ -15,9 +15,9 @@ daten:
   - id: dstore-lageplan-geobasisdaten
   - id: dstore-erbbaurechtsverhaeltnis
 regelungen:
-  - '§§ 1-5 Nds. Vermessungs- und Geoinformationsgesetz (NVermG)'
-  - '§ 6 NVermG (Aufgaben der Katasterbehörden)'
-  - '§ 14 NVermG (Liegenschaftskataster)'
+- '§§ 1-5 Nds. Vermessungs- und Geoinformationsgesetz (NVermG)'
+- '§ 6 NVermG (Aufgaben der Katasterbehörden)'
+- '§ 14 NVermG (Liegenschaftskataster)'
 letzte-aktualisierung: 2026-04-06
 ---
 # Liegenschaftskataster: Auskunft/Flurkarte beantragen

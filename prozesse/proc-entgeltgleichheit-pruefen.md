@@ -12,8 +12,8 @@ daten:
   - id: dstore-arbeitsverhaeltnis-beschaeftigung
   - id: dstore-verwaltungsakte
 regelungen:
-  - '§ 1 Entgelttransparenzgesetz (EntgTranspG)'
-  - '§ 1 AGG (Benachteiligungsverbot)'
+- '§ 1 Entgelttransparenzgesetz (EntgTranspG)'
+- '§ 1 AGG (Benachteiligungsverbot)'
 letzte-aktualisierung: 2026-04-29
 ---
 # Entgeltgleichheit prüfen

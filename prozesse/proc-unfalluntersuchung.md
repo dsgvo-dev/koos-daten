@@ -13,9 +13,9 @@ daten:
   - id: dstore-amtsaerztliches-zeugnis
   - id: dstore-verwaltungsakte
 regelungen:
-  - '§§ 8-13 SGB VII (Arbeitsunfall/Berufskrankheit)'
-  - '§ 193 SGB VII (Unfallanzeige)'
-  - '§§ 1 ff. DGUV Vorschrift 1'
+- '§§ 8-13 SGB VII (Arbeitsunfall/Berufskrankheit)'
+- '§ 193 SGB VII (Unfallanzeige)'
+- '§§ 1 ff. DGUV Vorschrift 1'
 letzte-aktualisierung: 2026-04-29
 ---
 # Unfalluntersuchung

@@ -12,8 +12,8 @@ daten:
   - id: dstore-verwaltungsakte
   - id: dstore-bescheinigung
 regelungen:
-  - '§§ 97-100 NKomVG (Kommunale Liegenschaften)'
-  - '§§ 1 ff. DGUV-Vorschrift 1 (Unfallverhütung)'
+- '§§ 97-100 NKomVG (Kommunale Liegenschaften)'
+- '§§ 1 ff. DGUV-Vorschrift 1 (Unfallverhütung)'
 letzte-aktualisierung: 2026-04-29
 ---
 # Objektübernahme dokumentieren

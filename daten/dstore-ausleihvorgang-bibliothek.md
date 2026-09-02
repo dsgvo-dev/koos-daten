@@ -28,9 +28,7 @@ klassifizierung:
   aufbewahrung:
     frist: bis zur Rückgabe, danach unverzüglich
     beginn: mit der Rückgabe des Mediums
-    hinweis: Nach der Rückgabe besteht kein Zweck mehr für die Zuordnung von Person
-      und Medium. Offene Gebührenforderungen sind getrennt zu führen, ohne den Titel
-      des Mediums zu nennen.
+    hinweis: Nach der Rückgabe besteht kein Zweck mehr für die Zuordnung von Person und Medium. Offene Gebührenforderungen sind getrennt zu führen, ohne den Titel des Mediums zu nennen.
 letzte-aktualisierung: '2026-08-10'
 tags:
 - Bibliothek

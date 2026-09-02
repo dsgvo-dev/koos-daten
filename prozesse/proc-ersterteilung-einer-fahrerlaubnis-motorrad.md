@@ -16,9 +16,9 @@ daten:
   - id: dstore-personenstammdaten
   - id: dstore-kfz-daten
 regelungen:
-  - '§§ 2-6 Straßenverkehrsgesetz (StVG) (Fahrerlaubnis)'
-  - '§§ 7 ff. Fahrerlaubnis-Verordnung (FeV)'
-  - '§ 4 StVG (Fahreignungs-Bewertungssystem)'
+- '§§ 2-6 Straßenverkehrsgesetz (StVG) (Fahrerlaubnis)'
+- '§§ 7 ff. Fahrerlaubnis-Verordnung (FeV)'
+- '§ 4 StVG (Fahreignungs-Bewertungssystem)'
 letzte-aktualisierung: 2026-04-06
 ---
 

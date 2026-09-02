@@ -17,8 +17,8 @@ daten:
   - id: dstore-personenstand
   - id: dstore-kontaktdaten
 regelungen:
-  - '§§ 1-5 Personenstandsgesetz (PStG) (Allgemeine Vorschriften)'
-  - 'Nds. AVO-PStG'
+- '§§ 1-5 Personenstandsgesetz (PStG) (Allgemeine Vorschriften)'
+- 'Nds. AVO-PStG'
 letzte-aktualisierung: 2026-04-06
 ---
 # Standesamt (allgemeine Leistungen/Informationen)

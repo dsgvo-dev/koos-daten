@@ -14,8 +14,8 @@ daten:
   - id: dstore-grundsteuerbescheid-eigentum
   - id: dstore-grundstuecksbezug
 regelungen:
-  - '§§ 1-38 Grundsteuergesetz (GrStG)'
-  - 'Nds. Grundsteuergesetz (NGrStG) i.V.m. GrStG'
+- '§§ 1-38 Grundsteuergesetz (GrStG)'
+- 'Nds. Grundsteuergesetz (NGrStG) i.V.m. GrStG'
 letzte-aktualisierung: 2026-04-06
 ---
 # Grundsteuerreform in Niedersachsen

@@ -28,8 +28,7 @@ klassifizierung:
   aufbewahrung:
     frist: 6 Jahre
     beginn: nach Abschluss des Rückforderungsverfahrens
-    hinweis: § 102 Abs. 4 SGB XII (Erlöschen des Kostenersatzanspruchs drei Jahre
-      nach dem Tod), zuzüglich Vollstreckungszeitraum.
+    hinweis: § 102 Abs. 4 SGB XII (Erlöschen des Kostenersatzanspruchs drei Jahre nach dem Tod), zuzüglich Vollstreckungszeitraum.
 letzte-aktualisierung: '2026-08-10'
 tags:
 - Sozialhilfe

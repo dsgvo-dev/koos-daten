@@ -26,8 +26,7 @@ klassifizierung:
   aufbewahrung:
     frist: 3 Jahre
     beginn: nach Rückgabe, Versteigerung oder Aneignung
-    hinweis: Sechsmonatsfrist des § 973 BGB zuzüglich Rechtsbehelfs- und Prüfzeitraum;
-      Festlegung des Trägers.
+    hinweis: Sechsmonatsfrist des § 973 BGB zuzüglich Rechtsbehelfs- und Prüfzeitraum; Festlegung des Trägers.
 letzte-aktualisierung: '2026-08-12'
 tags:
 - Fundrecht

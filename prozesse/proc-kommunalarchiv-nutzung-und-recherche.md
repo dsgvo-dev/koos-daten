@@ -14,9 +14,9 @@ daten:
   - id: dstore-personenstammdaten
   - id: dstore-archivgut
 regelungen:
-  - '§§ 1-8 Nds. Archivgesetz (NArchG)'
-  - '§ 3 NArchG (Anbietungspflicht)'
-  - '§ 5 NArchG (Archivwürdigkeit)'
+- '§§ 1-8 Nds. Archivgesetz (NArchG)'
+- '§ 3 NArchG (Anbietungspflicht)'
+- '§ 5 NArchG (Archivwürdigkeit)'
 letzte-aktualisierung: 2026-08-15
 ---
 # Kommunalarchiv: Nutzung und Recherche

@@ -13,8 +13,8 @@ daten:
   - id: dstore-identitaetsnachweis
   - id: dstore-meldeadresse-wohnsitz
 regelungen:
-  - '§§ 965 ff. Bürgerliches Gesetzbuch (BGB)'
-  - '§ 1 Informationsfreiheitsgesetz (IFG)'
+- '§§ 965 ff. Bürgerliches Gesetzbuch (BGB)'
+- '§ 1 Informationsfreiheitsgesetz (IFG)'
 letzte-aktualisierung: 2026-04-06
 ---
 # Fundsachen: Entgegennahme und Ausgabe

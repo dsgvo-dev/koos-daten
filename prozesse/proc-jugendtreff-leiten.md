@@ -13,8 +13,8 @@ daten:
   - id: dstore-ehrenamtsdaten
   - id: dstore-personenstammdaten
 regelungen:
-  - '§ 11 SGB VIII (Jugendarbeit)'
-  - '§ 79 SGB VIII (Gesamtverantwortung der Jugendämter)'
+- '§ 11 SGB VIII (Jugendarbeit)'
+- '§ 79 SGB VIII (Gesamtverantwortung der Jugendämter)'
 letzte-aktualisierung: 2026-04-29
 ---
 # Jugendtreff leiten

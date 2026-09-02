@@ -15,8 +15,8 @@ daten:
   - id: dstore-bebauungsplan
   - id: dstore-verwaltungsakte
 regelungen:
-  - '§ 73 Nds. Bauordnung (NBauO) (Bauvorbescheid)'
-  - '§§ 29-38 BauGB (Planungsrechtliche Zulässigkeit)'
+- '§ 73 Nds. Bauordnung (NBauO) (Bauvorbescheid)'
+- '§§ 29-38 BauGB (Planungsrechtliche Zulässigkeit)'
 letzte-aktualisierung: 2026-04-29
 ---
 # Vorbescheidanfrage bearbeiten

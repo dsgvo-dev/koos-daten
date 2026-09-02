@@ -32,10 +32,7 @@ klassifizierung:
   aufbewahrung:
     frist: 10 Jahre
     beginn: nach rechtskräftigem Abschluss des Verfahrens
-    hinweis: Festlegung des Trägers. Ist ein Anspruch rechtskräftig festgestellt worden
-      -- durch Urteil, Vergleich oder vollstreckbare Urkunde --, beträgt die Aufbewahrung
-      30 Jahre nach § 197 Abs. 1 Nr. 3 BGB, weil der Titel so lange vollstreckbar
-      bleibt.
+    hinweis: Festlegung des Trägers. Ist ein Anspruch rechtskräftig festgestellt worden -- durch Urteil, Vergleich oder vollstreckbare Urkunde --, beträgt die Aufbewahrung 30 Jahre nach § 197 Abs. 1 Nr. 3 BGB, weil der Titel so lange vollstreckbar bleibt.
 letzte-aktualisierung: '2026-08-10'
 tags:
 - Gerichtsverfahren

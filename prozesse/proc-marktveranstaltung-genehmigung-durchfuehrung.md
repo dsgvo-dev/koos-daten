@@ -14,8 +14,8 @@ daten:
     - Standplatzzuweisungen
     - Marktordnung
   datenspeicher:
-  - id: dstore-marktveranstaltungsdaten
-  - id: dstore-veranstalterdaten
+    - id: dstore-marktveranstaltungsdaten
+    - id: dstore-veranstalterdaten
 
 regelungen:
   - GewO §§ 64–68 (Messen, Ausstellungen, Märkte)

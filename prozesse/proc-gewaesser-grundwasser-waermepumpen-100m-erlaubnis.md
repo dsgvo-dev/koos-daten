@@ -1,7 +1,6 @@
 ---
 id: proc-gewaesser-grundwasser-waermepumpen-100m-erlaubnis
-titel: 'Gewässer (öffentlich): gewerbliche Nutzung (Grundwasser-Wärmepumpen > 100m)
-  – Erlaubnis'
+titel: 'Gewässer (öffentlich): gewerbliche Nutzung (Grundwasser-Wärmepumpen > 100m) – Erlaubnis'
 status: aktiv
 zustaendigeEinheit: oe-amt-60
 zustaendigeRolle: ''
@@ -14,9 +13,9 @@ daten:
   datenspeicher:
   - id: dstore-entwaesserungsantrag-kanalanschluss
 regelungen:
-  - '§§ 8-13 Wasserhaushaltsgesetz (WHG) (Erlaubnis/Bewilligung)'
-  - '§§ 52-53 WHG (Wasserschutzgebiete)'
-  - 'Nds. Wassergesetz (NWG)'
+- '§§ 8-13 Wasserhaushaltsgesetz (WHG) (Erlaubnis/Bewilligung)'
+- '§§ 52-53 WHG (Wasserschutzgebiete)'
+- 'Nds. Wassergesetz (NWG)'
 letzte-aktualisierung: 2026-04-06
 ---
 # Gewässer (öffentlich): gewerbliche Nutzung (Grundwasser-Wärmepumpen > 100m)

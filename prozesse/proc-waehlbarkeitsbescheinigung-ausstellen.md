@@ -16,9 +16,9 @@ daten:
   - id: dstore-wahlunterlagen
   - id: dstore-personenstammdaten
 regelungen:
-  - '§§ 12-13 Bundeswahlgesetz (BWahlG) (Wahlrecht)'
-  - '§§ 1-5 Nds. Kommunalwahlgesetz (NKWG)'
-  - '§ 6 NKWG (Wählbarkeit)'
+- '§§ 12-13 Bundeswahlgesetz (BWahlG) (Wahlrecht)'
+- '§§ 1-5 Nds. Kommunalwahlgesetz (NKWG)'
+- '§ 6 NKWG (Wählbarkeit)'
 letzte-aktualisierung: 2026-04-06
 ---
 # Wählbarkeitsbescheinigung ausstellen

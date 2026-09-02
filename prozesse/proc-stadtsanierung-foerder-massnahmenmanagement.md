@@ -16,9 +16,9 @@ daten:
   - id: dstore-grundstuecksbezug
   - id: dstore-foerderantrag
 regelungen:
-  - '§§ 136-164 BauGB (Städtebauliche Sanierungsmaßnahmen)'
-  - '§ 164a BauGB (Städtebauförderungsmittel)'
-  - 'BauGB §§ 171a ff. (Stadtumbau)'
+- '§§ 136-164 BauGB (Städtebauliche Sanierungsmaßnahmen)'
+- '§ 164a BauGB (Städtebauförderungsmittel)'
+- 'BauGB §§ 171a ff. (Stadtumbau)'
 letzte-aktualisierung: 2026-04-06
 ---
 # Städtische Wohnung vermieten

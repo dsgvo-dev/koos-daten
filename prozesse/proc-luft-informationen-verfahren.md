@@ -12,9 +12,9 @@ daten:
   - id: dstore-umweltdaten
   - id: dstore-beschwerde-anregungsdaten
 regelungen:
-  - '§§ 44-47 BImSchG (Luftreinhaltepläne)'
-  - '§ 40 BImSchG (Verkehrsverbote)'
-  - '35. BImSchV (Kennzeichnungsverordnung)'
+- '§§ 44-47 BImSchG (Luftreinhaltepläne)'
+- '§ 40 BImSchG (Verkehrsverbote)'
+- '35. BImSchV (Kennzeichnungsverordnung)'
 letzte-aktualisierung: 2026-04-06
 ---
 # Luft: Informationen/Verfahren

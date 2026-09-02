@@ -22,8 +22,7 @@ klassifizierung:
   aufbewahrung:
     frist: prozessabhängig
     beginn: prozessabhängig
-    hinweis: Aus kommunalen Serviceportaltexten abgeleiteter Datentyp; Frist und Beginn
-      fachlich zu validieren.
+    hinweis: Aus kommunalen Serviceportaltexten abgeleiteter Datentyp; Frist und Beginn fachlich zu validieren.
 letzte-aktualisierung: '2026-08-10'
 tags:
 - Sorgerecht

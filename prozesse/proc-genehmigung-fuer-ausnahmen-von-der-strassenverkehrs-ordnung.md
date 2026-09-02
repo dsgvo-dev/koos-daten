@@ -16,8 +16,8 @@ daten:
   - id: dstore-kfz-daten
   - id: dstore-personenstammdaten
 regelungen:
-  - '§§ 45-46 StVO (Ausnahmegenehmigungen von Verkehrsverboten)'
-  - '§ 46 StVO (Ausnahmegenehmigungen der Straßenverkehrsbehörde)'
+- '§§ 45-46 StVO (Ausnahmegenehmigungen von Verkehrsverboten)'
+- '§ 46 StVO (Ausnahmegenehmigungen der Straßenverkehrsbehörde)'
 letzte-aktualisierung: 2026-04-06
 ---
 # Genehmigung für Ausnahmen von der Straßenverkehrs-Ordnung beantragen

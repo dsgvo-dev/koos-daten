@@ -16,8 +16,8 @@ daten:
     - Bußgeldbescheid
     - Zahlungsaufforderung
   datenspeicher:
-  - id: dstore-bussgeldakte
-  - id: dstore-parkverstossanzeige
+    - id: dstore-bussgeldakte
+    - id: dstore-parkverstossanzeige
 
 regelungen:
   - OWiG (Gesetz über Ordnungswidrigkeiten)

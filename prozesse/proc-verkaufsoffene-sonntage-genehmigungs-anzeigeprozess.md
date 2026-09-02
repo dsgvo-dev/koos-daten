@@ -17,8 +17,8 @@ daten:
   - id: dstore-identitaetsnachweis
   - id: dstore-personenstammdaten
 regelungen:
-  - '§§ 1-10 Nds. Ladenöffnungsgesetz (NLadÖG)'
-  - '§ 14 NLadÖG (Verkaufsoffene Sonntage)'
+- '§§ 1-10 Nds. Ladenöffnungsgesetz (NLadÖG)'
+- '§ 14 NLadÖG (Verkaufsoffene Sonntage)'
 letzte-aktualisierung: 2026-04-06
 ---
 # Verkaufsoffene Sonntage (Genehmigungs-/Anzeigeprozess)

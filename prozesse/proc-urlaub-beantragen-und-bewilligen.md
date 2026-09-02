@@ -25,8 +25,7 @@ regelungen:
 - §§ 60 bis 69 NBG - Arbeitszeit und Urlaub der Beamtinnen und Beamten
 - BUrlG und TVöD - Urlaubsanspruch der Tarifbeschäftigten
 - § 208 SGB IX - Zusatzurlaub für schwerbehinderte Menschen
-- § 3 Abs. 3 NBG - Vorgesetzte erteilen Weisungen für die dienstliche Tätigkeit und
-  entscheiden über den Urlaubsantrag
+- § 3 Abs. 3 NBG - Vorgesetzte erteilen Weisungen für die dienstliche Tätigkeit und entscheiden über den Urlaubsantrag
 leika_id: null
 ozg_id: null
 letzte-aktualisierung: '2026-07-30'

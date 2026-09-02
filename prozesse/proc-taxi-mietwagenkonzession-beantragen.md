@@ -15,9 +15,9 @@ daten:
   - id: dstore-identitaetsnachweis
   - id: dstore-personenstammdaten
 regelungen:
-  - '§§ 13-21 Personenbeförderungsgesetz (PBefG) (Genehmigung)'
-  - '§ 47 PBefG (Taxiverkehr)'
-  - '§ 49 PBefG (Mietwagenverkehr)'
+- '§§ 13-21 Personenbeförderungsgesetz (PBefG) (Genehmigung)'
+- '§ 47 PBefG (Taxiverkehr)'
+- '§ 49 PBefG (Mietwagenverkehr)'
 letzte-aktualisierung: 2026-04-06
 ---
 # Taxi-/Mietwagenkonzession beantragen

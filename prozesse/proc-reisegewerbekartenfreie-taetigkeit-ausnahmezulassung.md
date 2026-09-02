@@ -18,8 +18,8 @@ daten:
   - id: dstore-veranstaltungssicherheitskonzept
   - id: dstore-personenstammdaten
 regelungen:
-  - '§§ 55-60c GewO (Reisegewerbe)'
-  - '§ 55 GewO (Reisegewerbekarte)'
+- '§§ 55-60c GewO (Reisegewerbe)'
+- '§ 55 GewO (Reisegewerbekarte)'
 letzte-aktualisierung: 2026-04-06
 ---
 # Reisegewerbekartenfreie Tätigkeit: Ausnahmezulassung Verkaufsveranstaltungen

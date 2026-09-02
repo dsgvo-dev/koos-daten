@@ -14,8 +14,8 @@ daten:
   - id: dstore-betriebsdaten
   - id: dstore-verwaltungsakte
 regelungen:
-  - '§§ 48-55 KrWG (Gefährliche Abfälle)'
-  - '§ 50 KrWG (Getrennthaltung gefährlicher Abfälle)'
+- '§§ 48-55 KrWG (Gefährliche Abfälle)'
+- '§ 50 KrWG (Getrennthaltung gefährlicher Abfälle)'
 letzte-aktualisierung: 2026-04-29
 ---
 # Sondermüll annahme

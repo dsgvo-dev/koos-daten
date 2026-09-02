@@ -15,8 +15,8 @@ daten:
     - Bescheid zur Übernahme von Mietschulden (§ 36 SGB XII)
     - Wohnraumnachweise
   datenspeicher:
-  - id: dstore-mietschulden-wohnraumsicherung
-  - id: dstore-darlehensverpflichtung-eigenheim
+    - id: dstore-mietschulden-wohnraumsicherung
+    - id: dstore-darlehensverpflichtung-eigenheim
 
 regelungen:
   - SGB XII §36 (Mietschuldenübernahme)

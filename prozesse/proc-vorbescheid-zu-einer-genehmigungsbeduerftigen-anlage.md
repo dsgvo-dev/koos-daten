@@ -12,9 +12,7 @@ daten:
   - id: dstore-unternehmens-und-registerdaten
   - id: dstore-identitaetsnachweis
 regelungen:
-- § 9 Gesetz zum Schutz vor schädlichen Umwelteinwirkungen durch Luftverunreinigungen,
-  Geräusche, Erschütterungen und ähnliche Vorgänge (Bundes-Immissionsschutzgesetz
-  BImSchG)
+- § 9 Gesetz zum Schutz vor schädlichen Umwelteinwirkungen durch Luftverunreinigungen, Geräusche, Erschütterungen und ähnliche Vorgänge (Bundes-Immissionsschutzgesetz BImSchG)
 leika_id: '99063015001000'
 ozg_id: null
 letzte-aktualisierung: '2026-07-10'

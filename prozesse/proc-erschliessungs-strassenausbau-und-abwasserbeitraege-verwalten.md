@@ -17,9 +17,9 @@ daten:
   datenspeicher:
   - id: dstore-erschliessungsbeitragsdaten
 regelungen:
-  - '§§ 127-135b BauGB (Erschließung)'
-  - '§§ 6-7 Nds. Kommunalabgabengesetz (NKAG) (Erschließungsbeiträge)'
-  - '§§ 9-11 Nds. Straßengesetz (NStrG)'
+- '§§ 127-135b BauGB (Erschließung)'
+- '§§ 6-7 Nds. Kommunalabgabengesetz (NKAG) (Erschließungsbeiträge)'
+- '§§ 9-11 Nds. Straßengesetz (NStrG)'
 letzte-aktualisierung: 2026-04-06
 ---
 # Erschließungs-, Straßenausbau- und Abwasserbeiträge verwalten

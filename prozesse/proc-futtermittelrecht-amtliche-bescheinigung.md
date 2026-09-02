@@ -16,8 +16,8 @@ daten:
   - id: dstore-tierhalterbestand-nutztiere
   - id: dstore-personenstammdaten
 regelungen:
-  - '§ 4 Absatz 2 und Absatz 3 Tierische Lebensmittel-Hygieneverordnung (Tier-LMHV)'
-  - '§ 6 Tierische Lebensmittel-Überwachungsverordnung (Tier-LMÜV)'
+- '§ 4 Absatz 2 und Absatz 3 Tierische Lebensmittel-Hygieneverordnung (Tier-LMHV)'
+- '§ 6 Tierische Lebensmittel-Überwachungsverordnung (Tier-LMÜV)'
 letzte-aktualisierung: 2026-04-06
 ---
 # Futtermittelrecht: Amtliche Bescheinigung

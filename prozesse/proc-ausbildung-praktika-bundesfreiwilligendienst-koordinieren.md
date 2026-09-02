@@ -18,9 +18,9 @@ daten:
   - id: dstore-kontaktdaten
   - id: dstore-abrechnungsdaten
 regelungen:
-  - '§§ 4-16 BBiG (Berufsausbildungsverhältnis)'
-  - '§§ 1 ff. Bundesfreiwilligendienstgesetz (BFDG)'
-  - '§ 1 ff. TVAöD (Tarifvertrag Auszubildende)'
+- '§§ 4-16 BBiG (Berufsausbildungsverhältnis)'
+- '§§ 1 ff. Bundesfreiwilligendienstgesetz (BFDG)'
+- '§ 1 ff. TVAöD (Tarifvertrag Auszubildende)'
 letzte-aktualisierung: 2026-04-06
 ---
 # Ausbildung/Praktika/Bundesfreiwilligendienst koordinieren

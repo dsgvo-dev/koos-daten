@@ -41,9 +41,7 @@ klassifizierung:
     frist: nach den Fristen des jeweiligen Fachverfahrens
     beginn: mit Abschluss des Verfahrens
     hinweis: >-
-      Der frühere Name ist zu löschen, sobald das Verfahren ihn nicht mehr benötigt.
-      Eine Vorhaltung "für alle Fälle" ist unzulässig, weil sie das Offenbarungsrisiko
-      ohne Zweck aufrechterhält.
+      Der frühere Name ist zu löschen, sobald das Verfahren ihn nicht mehr benötigt. Eine Vorhaltung "für alle Fälle" ist unzulässig, weil sie das Offenbarungsrisiko ohne Zweck aufrechterhält.
 letzte-aktualisierung: '2026-08-10'
 tags:
 - Selbstbestimmungsgesetz

@@ -30,8 +30,7 @@ klassifizierung:
   aufbewahrung:
     frist: 3 Jahre nach Erlöschen aller Erlaubnisse
     beginn: mit dem Erlöschen der letzten Erlaubnis
-    hinweis: § 26 WaffG für das Nationale Waffenregister; Jagdscheindaten 10 Jahre
-      entsprechend kommunaler Aktenordnung.
+    hinweis: § 26 WaffG für das Nationale Waffenregister; Jagdscheindaten 10 Jahre entsprechend kommunaler Aktenordnung.
 letzte-aktualisierung: '2026-08-10'
 tags:
 - Waffenrecht

@@ -15,9 +15,9 @@ daten:
   - id: dstore-kommunaler-miet-nutzungsvertrag
   - id: dstore-fischereischein-sachkunde
 regelungen:
-  - '§§ 15-17 Bundesjagdgesetz (BJagdG) (Jagdschein)'
-  - '§§ 1 ff. Nds. Jagdgesetz (NJagdG)'
-  - '§ 23 BJagdG (Jagdpachtvertrag)'
+- '§§ 15-17 Bundesjagdgesetz (BJagdG) (Jagdschein)'
+- '§§ 1 ff. Nds. Jagdgesetz (NJagdG)'
+- '§ 23 BJagdG (Jagdpachtvertrag)'
 letzte-aktualisierung: 2026-04-06
 ---
 # Jagdpachtvertrag: Anzeige/Prüfung

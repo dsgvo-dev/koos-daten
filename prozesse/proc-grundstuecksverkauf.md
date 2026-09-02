@@ -14,9 +14,9 @@ daten:
   - id: dstore-grundstuecks-pachtverhaeltnis
   - id: dstore-verwaltungsakte
 regelungen:
-  - '§§ 92-96 NKomVG (Veräußerung von Gemeindevermögen)'
-  - '§ 93 NKomVG (Veräußerungsverbot)'
-  - '§§ 311b, 433 ff. BGB (Grundstückskauf)'
+- '§§ 92-96 NKomVG (Veräußerung von Gemeindevermögen)'
+- '§ 93 NKomVG (Veräußerungsverbot)'
+- '§§ 311b, 433 ff. BGB (Grundstückskauf)'
 letzte-aktualisierung: 2026-04-29
 ---
 # Grundstücksverkauf

@@ -13,9 +13,9 @@ daten:
   datenspeicher:
   - id: dstore-grundstuecksbezug
 regelungen:
-  - '§§ 10-11 NKomVG (Satzungsrecht der Gemeinde)'
-  - '§ 10 BauGB (Bebauungspläne als Satzungen)'
-  - '§ 11 NKomVG (Bekanntmachungen)'
+- '§§ 10-11 NKomVG (Satzungsrecht der Gemeinde)'
+- '§ 10 BauGB (Bebauungspläne als Satzungen)'
+- '§ 11 NKomVG (Bekanntmachungen)'
 letzte-aktualisierung: 2026-04-06
 ---
 # Bebauungspläne und sonstige Satzungen

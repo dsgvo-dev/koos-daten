@@ -26,6 +26,7 @@ klassifizierung:
     beginn: nach Beendigung des Beschäftigungsverhältnisses
     hinweis: Unterzeichnetes Exemplar verbleibt in der Personalakte
 letzte-aktualisierung: '2026-08-10'
+typ: datenspeicher
 ---
 
 

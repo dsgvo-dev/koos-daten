@@ -12,8 +12,8 @@ daten:
   - id: dstore-verwaltungsakte
   - id: dstore-bescheid
 regelungen:
-  - '§§ 1-7 Nds. Gleichberechtigungsgesetz (NGG)'
-  - '§ 5 NGG (Frauenförderplan)'
+- '§§ 1-7 Nds. Gleichberechtigungsgesetz (NGG)'
+- '§ 5 NGG (Frauenförderplan)'
 letzte-aktualisierung: 2026-04-29
 ---
 # Frauenförderplan umsetzen

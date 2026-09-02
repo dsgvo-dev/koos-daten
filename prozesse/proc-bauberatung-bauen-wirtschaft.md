@@ -15,9 +15,9 @@ daten:
   - id: dstore-lageplan-geobasisdaten
   - id: dstore-bauzeiten-bauablaufplan
 regelungen:
-  - '§§ 59 ff. Nds. Bauordnung (NBauO)'
-  - '§§ 29-38 BauGB (Zulässigkeit von Vorhaben)'
-  - '§ 25 VwVfG (Beratungspflicht)'
+- '§§ 59 ff. Nds. Bauordnung (NBauO)'
+- '§§ 29-38 BauGB (Zulässigkeit von Vorhaben)'
+- '§ 25 VwVfG (Beratungspflicht)'
 letzte-aktualisierung: 2026-04-06
 ---
 # Bauberatung (Bauen & Wirtschaft)

@@ -28,8 +28,7 @@ klassifizierung:
   aufbewahrung:
     frist: 7 Tage
     beginn: nach der Sitzung
-    hinweis: Nur solange, wie es zur Abwehr von Störungen und Angriffen erforderlich
-      ist. Längere Vorhaltung bedarf einer eigenen Begründung.
+    hinweis: Nur solange, wie es zur Abwehr von Störungen und Angriffen erforderlich ist. Längere Vorhaltung bedarf einer eigenen Begründung.
 letzte-aktualisierung: '2026-08-04'
 tags:
 - Webangebot

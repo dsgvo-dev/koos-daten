@@ -16,17 +16,14 @@ daten:
   - id: dstore-einkommensnachweise-haushalt
   - id: dstore-wohnungszuordnungsmerkmal
 regelungen:
-- Art. 6 Abs. 1 lit. b) DSGVO - vorvertragliche Verarbeitung auf Anfrage der bewerbenden
-  Person
+- Art. 6 Abs. 1 lit. b) DSGVO - vorvertragliche Verarbeitung auf Anfrage der bewerbenden Person
 - Art. 6 Abs. 1 lit. e) DSGVO, § 3 NDSG - Vergabe kommunalen Wohnraums
-- § 19 Abs. 3 AGG - zulässige unterschiedliche Behandlung zur Schaffung und Erhaltung
-  sozial stabiler Bewohnerstrukturen
+- § 19 Abs. 3 AGG - zulässige unterschiedliche Behandlung zur Schaffung und Erhaltung sozial stabiler Bewohnerstrukturen
 - § 19 Abs. 5 Satz 3 AGG - Schwelle von 50 Wohnungen für die Einordnung als Massengeschäft
 - § 21 Abs. 5 AGG - Zweimonatsfrist für Ansprüche wegen Benachteiligung
 - § 22 AGG - Beweislast bei Indizien für eine Benachteiligung
 - WoFG - Wohnberechtigungsschein bei gefördertem Wohnraum
-- Art. 9 Abs. 2 lit. a) DSGVO - freiwillige Angaben zu Behinderung oder gesundheitlicher
-  Dringlichkeit
+- Art. 9 Abs. 2 lit. a) DSGVO - freiwillige Angaben zu Behinderung oder gesundheitlicher Dringlichkeit
 - §§ 535 ff. BGB - Mietvertrag im Anschluss
 leika_id: null
 ozg_id: null

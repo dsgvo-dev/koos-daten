@@ -17,7 +17,7 @@ daten:
   input: []
   output: []
   datenspeicher:
-  - id: dstore-bauakte
+    - id: dstore-bauakte
 regelungen:
   - § 62 Niedersächsische Bauordnung (NBauO)
   - § 65 Niedersächsische Bauordnung (NBauO)

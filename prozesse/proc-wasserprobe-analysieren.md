@@ -13,9 +13,9 @@ daten:
   - id: dstore-verwaltungsakte
   - id: dstore-bescheid
 regelungen:
-  - '§§ 38-42 LFGB (Amtliche Probenahme)'
-  - '§ 20 TrinkwV (Untersuchungen)'
-  - '§ 25 IfSG (Ermittlungen)'
+- '§§ 38-42 LFGB (Amtliche Probenahme)'
+- '§ 20 TrinkwV (Untersuchungen)'
+- '§ 25 IfSG (Ermittlungen)'
 letzte-aktualisierung: 2026-04-29
 ---
 # Wasserprobe analysieren

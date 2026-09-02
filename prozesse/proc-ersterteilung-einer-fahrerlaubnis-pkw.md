@@ -16,10 +16,10 @@ daten:
   - id: dstore-personenstammdaten
   - id: dstore-kfz-daten
 regelungen:
-  - § 21 FeV
-  - § 2 StVG
-  - FS-VwV
-  - § 2 BMG
+- § 21 FeV
+- § 2 StVG
+- FS-VwV
+- § 2 BMG
 letzte-aktualisierung: 2026-04-06
 ---
 

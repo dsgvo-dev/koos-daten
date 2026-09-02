@@ -16,8 +16,7 @@ daten:
   - id: dstore-identitaetsnachweis
   - id: dstore-meldeadresse-wohnsitz
 regelungen:
-- § 27 Abs. 1 Nr. 3 Gesetz über Personalausweise und den elektronischen Identitätsnachweis
-  (PAuswG)
+- § 27 Abs. 1 Nr. 3 Gesetz über Personalausweise und den elektronischen Identitätsnachweis (PAuswG)
 - §§ 1-5 Personalausweisgesetz (PAuswG)
 - §§ 1-4 Passgesetz (PassG)
 - § 6 PAuswG (Ausweispflicht)

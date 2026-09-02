@@ -13,8 +13,8 @@ daten:
   - id: dstore-lebenslauf-qualifikationsnachweis
   - id: dstore-verwaltungsakte
 regelungen:
-  - '§ 45 NBG (Fortbildung)'
-  - '§§ 5-6 TVöD (Qualifizierung)'
+- '§ 45 NBG (Fortbildung)'
+- '§§ 5-6 TVöD (Qualifizierung)'
 letzte-aktualisierung: 2026-04-29
 ---
 # Fortbildung organisieren

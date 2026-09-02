@@ -15,8 +15,8 @@ daten:
   datenspeicher:
   - id: dstore-personenstammdaten
 regelungen:
-  - '§§ 1-7 Parteiengesetz (PartG)'
-  - 'Art. 21 GG (Parteien)'
+- '§§ 1-7 Parteiengesetz (PartG)'
+- 'Art. 21 GG (Parteien)'
 letzte-aktualisierung: 2026-04-06
 ---
 # Politische Partei: Gründung anzeigen (Verfahren)

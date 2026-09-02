@@ -14,8 +14,8 @@ daten:
   - id: dstore-biometrische-daten-lichtbild
   - id: dstore-identitaetsnachweis
 regelungen:
-  - '§ 1 Absatz 2 Nummer 3 Passgesetz (PassG)'
-  - '§ 6 Absatz 1 Passgesetz (PassG)'
+- '§ 1 Absatz 2 Nummer 3 Passgesetz (PassG)'
+- '§ 6 Absatz 1 Passgesetz (PassG)'
 letzte-aktualisierung: 2026-04-29
 ---
 # Vorläufigen Reisepass ausstellen

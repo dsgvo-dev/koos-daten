@@ -36,8 +36,7 @@ klassifizierung:
     frist: nach den Fristen des jeweiligen Fachverfahrens
     beginn: mit Abschluss des Verfahrens
     hinweis: >-
-      Die Frist richtet sich nach dem Verfahren, in dem der Speicher gefuehrt wird,
-      nicht nach der Datenart.
+      Die Frist richtet sich nach dem Verfahren, in dem der Speicher gefuehrt wird, nicht nach der Datenart.
 letzte-aktualisierung: '2026-08-10'
 tags:
 - Kontextvariante

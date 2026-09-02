@@ -16,9 +16,9 @@ daten:
   - id: dstore-grundstuecksbezug
   - id: dstore-lageplan-geobasisdaten
 regelungen:
-  - '§§ 8-13 Wasserhaushaltsgesetz (WHG) (Erlaubnis/Bewilligung)'
-  - '§§ 57-61 WHG (Abwassereinleitung)'
-  - 'Nds. Wassergesetz (NWG) § 46 ff.'
+- '§§ 8-13 Wasserhaushaltsgesetz (WHG) (Erlaubnis/Bewilligung)'
+- '§§ 57-61 WHG (Abwassereinleitung)'
+- 'Nds. Wassergesetz (NWG) § 46 ff.'
 letzte-aktualisierung: 2026-04-06
 ---
 # Entwässerungsgenehmigung beantragen

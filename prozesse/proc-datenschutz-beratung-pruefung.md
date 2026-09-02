@@ -15,7 +15,7 @@ daten:
     - Meldungen an die Aufsichtsbehörde (LfD)
     - Datenschutzeinweisungen
   datenspeicher:
-  - id: dstore-datenschutzeinweisung
+    - id: dstore-datenschutzeinweisung
 
 regelungen:
   - DSGVO (Datenschutz-Grundverordnung)

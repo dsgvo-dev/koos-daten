@@ -13,8 +13,8 @@ daten:
   datenspeicher:
   - id: dstore-sicherheitsmangelmeldung
 regelungen:
-  - '§ 17 NStrG (Straßenverkehrssicherungspflicht)'
-  - '§ 839 BGB i.V.m. Art. 34 GG (Amtshaftung)'
+- '§ 17 NStrG (Straßenverkehrssicherungspflicht)'
+- '§ 839 BGB i.V.m. Art. 34 GG (Amtshaftung)'
 letzte-aktualisierung: 2026-04-06
 ---
 # Schäden im Straßenbereich und an Brücken: Meldung

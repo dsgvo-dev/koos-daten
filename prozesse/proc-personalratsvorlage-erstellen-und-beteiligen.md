@@ -24,8 +24,7 @@ regelungen:
 - § 61 Abs. 2 NPersVG - Aufbewahrung der Niederschriften und Personallisten des Personalrats
 - § 9 NPersVG - Schweigepflicht der Personalratsmitglieder
 - Art. 6 Abs. 1 lit. c) DSGVO - rechtliche Verpflichtung zur Beteiligung
-- Art. 9 Abs. 2 lit. b) DSGVO - Gesundheits- und Sozialdaten bei krankheitsbedingten
-  Maßnahmen und sozialer Auswahl
+- Art. 9 Abs. 2 lit. b) DSGVO - Gesundheits- und Sozialdaten bei krankheitsbedingten Maßnahmen und sozialer Auswahl
 - Art. 88 DSGVO und § 12 NDSG - Verarbeitung bei Dienst- und Arbeitsverhältnissen
 - § 88 NBG - Personaldatenverarbeitung
 - § 94 Abs. 1 NBG - Aufbewahrung der Personalakte

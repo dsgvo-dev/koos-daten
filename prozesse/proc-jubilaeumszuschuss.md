@@ -12,8 +12,8 @@ daten:
   - id: dstore-personenstammdaten
   - id: dstore-einkommens-und-leistungsdaten
 regelungen:
-  - '§ 23 TVöD (Jubiläumsgeld)'
-  - '§ 45 NBG (Fürsorge)'
+- '§ 23 TVöD (Jubiläumsgeld)'
+- '§ 45 NBG (Fürsorge)'
 letzte-aktualisierung: 2026-04-06
 ---
 # Jubiläumszuschuss

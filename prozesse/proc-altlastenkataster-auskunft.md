@@ -12,9 +12,9 @@ daten:
   - id: dstore-flur-flurstueck-lagebezeichnung
   - id: dstore-lageplan-geobasisdaten
 regelungen:
-  - '§ 3 Umweltinformationsgesetz (UIG)'
-  - '§ 4 Umweltinformationsgesetz (UIG)'
-  - '§ 21 Bundesbodenschutzgesetz (BBodSchG)'
+- '§ 3 Umweltinformationsgesetz (UIG)'
+- '§ 4 Umweltinformationsgesetz (UIG)'
+- '§ 21 Bundesbodenschutzgesetz (BBodSchG)'
 letzte-aktualisierung: 2026-04-06
 ---
 # Altlastenkataster: Auskunft

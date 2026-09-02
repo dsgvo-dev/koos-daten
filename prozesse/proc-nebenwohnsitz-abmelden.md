@@ -14,9 +14,9 @@ daten:
   - id: dstore-personenstammdaten
   - id: dstore-identitaetsnachweis
 regelungen:
-  - '§§ 17-19 Bundesmeldegesetz (BMG) (An-/Ab-/Ummeldung)'
-  - '§ 34 BMG (Melderegisterauskunft)'
-  - '§ 51 BMG (Auskunftssperre)'
+- '§§ 17-19 Bundesmeldegesetz (BMG) (An-/Ab-/Ummeldung)'
+- '§ 34 BMG (Melderegisterauskunft)'
+- '§ 51 BMG (Auskunftssperre)'
 letzte-aktualisierung: 2026-04-06
 ---
 # Nebenwohnsitz abmelden

@@ -14,8 +14,8 @@ daten:
   - id: dstore-personenstammdaten
   - id: dstore-verwaltungsakte
 regelungen:
-  - '§ 43 ff. Aufenthaltsgesetz (AufenthG) (Integrationsmaßnahmen)'
-  - '§ 9 BVFG (Aussiedlerintegration)'
+- '§ 43 ff. Aufenthaltsgesetz (AufenthG) (Integrationsmaßnahmen)'
+- '§ 9 BVFG (Aussiedlerintegration)'
 letzte-aktualisierung: 2026-04-29
 ---
 # Sprachkurs organisieren

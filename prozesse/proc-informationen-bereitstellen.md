@@ -11,7 +11,7 @@ daten:
   datenspeicher:
   - id: dstore-verwaltungsakte
 regelungen:
-  - '§ 25 VwVfG (Beratungs- und Auskunftspflicht der Behörde)'
+- '§ 25 VwVfG (Beratungs- und Auskunftspflicht der Behörde)'
 letzte-aktualisierung: 2026-04-30
 ---
 

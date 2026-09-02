@@ -15,17 +15,12 @@ daten:
   - id: dstore-amtsaerztliches-zeugnis
 regelungen:
 - DIN EN12740 - Leitfaden für die Behandlung, Inaktivierung und Prüfung von Abfällen
-- DIN 30739 - Behälter für ansteckungsgefährlichen Abfall mit einem Nennvolumen von
-  30 l bis 60 l
-- DIN 58956-10 - Medizinische Mikrobiologie; Medizinisch-mikrobiologische Laboratorien;
-  Sicherheitskennzeichnung
-- DIN 58956-3 - Medizinische Mikrobiologie; Medizinisch-mikrobiologische Laboratorien;
-  Anforderungen an den Organisationsplan
-- DIN 58956-5 - Medizinische Mikrobiologie; Medizinisch-mikrobiologische Laboratorien;
-  Anforderungen an den Hygieneplan
+- DIN 30739 - Behälter für ansteckungsgefährlichen Abfall mit einem Nennvolumen von 30 l bis 60 l
+- DIN 58956-10 - Medizinische Mikrobiologie; Medizinisch-mikrobiologische Laboratorien; Sicherheitskennzeichnung
+- DIN 58956-3 - Medizinische Mikrobiologie; Medizinisch-mikrobiologische Laboratorien; Anforderungen an den Organisationsplan
+- DIN 58956-5 - Medizinische Mikrobiologie; Medizinisch-mikrobiologische Laboratorien; Anforderungen an den Hygieneplan
 - § 49 Absatz 1 Infektionsschutzgesetz (IfSG) - Anzeigepflicht
-- § 44 Infektionsschutzgesetz (IfSG) - erlaubnispflichtige Taetigkeiten, auf die sich die
-  Anzeige bezieht
+- § 44 Infektionsschutzgesetz (IfSG) - erlaubnispflichtige Taetigkeiten, auf die sich die Anzeige bezieht
 leika_id: '99003021169000'
 ozg_id: null
 letzte-aktualisierung: '2026-07-28'

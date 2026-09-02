@@ -14,9 +14,9 @@ daten:
   - id: dstore-kontaktdaten
   - id: dstore-pflegegrad-pflegeleistungen
 regelungen:
-  - '§ 71 SGB XII (Altenhilfe)'
-  - '§§ 28 ff. SGB XI (Pflegeleistungen)'
-  - '§ 37 SGB XI (Pflegegeld)'
+- '§ 71 SGB XII (Altenhilfe)'
+- '§§ 28 ff. SGB XI (Pflegeleistungen)'
+- '§ 37 SGB XI (Pflegegeld)'
 letzte-aktualisierung: 2026-04-29
 ---
 # Seniorenberatung

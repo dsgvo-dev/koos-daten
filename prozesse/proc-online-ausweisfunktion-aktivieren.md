@@ -13,9 +13,9 @@ daten:
   - id: dstore-servicekonto-nutzeridentitaet
   - id: dstore-biometrische-daten-lichtbild
 regelungen:
-  - '§§ 10-15 Personalausweisgesetz (PAuswG) (Online-Ausweisfunktion)'
-  - '§§ 1 ff. Onlinezugangsgesetz (OZG)'
-  - '§ 1 Nds. E-Government-Gesetz (NEGG)'
+- '§§ 10-15 Personalausweisgesetz (PAuswG) (Online-Ausweisfunktion)'
+- '§§ 1 ff. Onlinezugangsgesetz (OZG)'
+- '§ 1 Nds. E-Government-Gesetz (NEGG)'
 letzte-aktualisierung: '2026-07-28'
 ---
 # Online-Ausweisfunktion aktivieren

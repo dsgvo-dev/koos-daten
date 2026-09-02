@@ -16,8 +16,8 @@ daten:
   - id: dstore-kontaktdaten
   - id: dstore-grundstuecksdaten
 regelungen:
-  - '§§ 11-17 Nds. Kommunalverfassungsgesetz (NKomVG) (Verwaltung des Gemeindevermögens)'
-  - '§ 99 NKomVG (Gemeindevermögen)'
+- '§§ 11-17 Nds. Kommunalverfassungsgesetz (NKomVG) (Verwaltung des Gemeindevermögens)'
+- '§ 99 NKomVG (Gemeindevermögen)'
 letzte-aktualisierung: 2026-04-06
 ---
 # Gebäudeverwaltung

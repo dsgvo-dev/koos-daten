@@ -15,12 +15,10 @@ daten:
 regelungen:
 - § 14 Abs. 1 NDSG - Zulässigkeit der Videoüberwachung öffentlich zugänglicher Räume
 - § 14 Abs. 1 Satz 2 NDSG - Schutz von Personen und Sachen, Wahrnehmung des Hausrechts
-- § 14 Abs. 1 Satz 3 NDSG - Zweckänderung nur zur Abwehr einer konkreten Gefahr oder
-  zur Verfolgung von Straftaten
+- § 14 Abs. 1 Satz 3 NDSG - Zweckänderung nur zur Abwehr einer konkreten Gefahr oder zur Verfolgung von Straftaten
 - § 14 Abs. 2 NDSG - Kennzeichnungspflicht
 - § 14 Abs. 3 NDSG - Angaben gegenüber der oder dem Datenschutzbeauftragten
-- Art. 35 Abs. 3 Buchst. c DSGVO - Datenschutz-Folgenabschätzung bei systematischer
-  umfangreicher Überwachung öffentlich zugänglicher Bereiche
+- Art. 35 Abs. 3 Buchst. c DSGVO - Datenschutz-Folgenabschätzung bei systematischer umfangreicher Überwachung öffentlich zugänglicher Bereiche
 - Art. 6 Abs. 1 lit. e) DSGVO
 - Art. 88 DSGVO, § 12 NDSG - miterfasste Beschäftigte
 - § 67 Abs. 1 Nr. 2 NPersVG - Mitbestimmung; § 78 NPersVG - Dienstvereinbarung Videoüberwachung

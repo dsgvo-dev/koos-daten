@@ -14,9 +14,7 @@ daten:
 letzte-aktualisierung: 2026-04-06
 regelungen:
 - § 10 ElektroG
-- § 17 KrWG
-  - '§ 13  Elektro- und Elektronikgerätegesetz  (ElektroG)'
-  - '§ 20 Kreislaufwirtschaftsgesetz (KrWG)'
+- § 17 KrWG - '§ 13  Elektro- und Elektronikgerätegesetz  (ElektroG)' - '§ 20 Kreislaufwirtschaftsgesetz (KrWG)'
 ---
 # Elektro-Altgeräte zur Entsorgung abgeben
 

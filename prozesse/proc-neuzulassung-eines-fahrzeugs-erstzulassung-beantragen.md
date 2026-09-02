@@ -16,10 +16,10 @@ daten:
   - id: dstore-identitaetsnachweis
   - id: dstore-personenstammdaten
 regelungen:
-  - '§ 6 Verordnung über die Zulassung von Fahrzeugen zum Straßenverkehr (Fahrzeug-Zulassungsverordnung - FZV)'
-  - '§ 3 Absatz 4 Verordnung über die Zulassung von Fahrzeugen zum Straßenverkehr (Fahrzeug-Zulassungsverordnung - FZV)'
-  - '§ 3 Absatz 1 Verordnung über die Zulassung von Fahrzeugen zum Straßenverkehr (Fahrzeug-Zulassungsverordnung - FZV)'
-  - 'Gebührennummer 221 Anlage der Gebührenordnung für Maßnahmen im Straßenverkehr (GebOSt)'
+- '§ 6 Verordnung über die Zulassung von Fahrzeugen zum Straßenverkehr (Fahrzeug-Zulassungsverordnung - FZV)'
+- '§ 3 Absatz 4 Verordnung über die Zulassung von Fahrzeugen zum Straßenverkehr (Fahrzeug-Zulassungsverordnung - FZV)'
+- '§ 3 Absatz 1 Verordnung über die Zulassung von Fahrzeugen zum Straßenverkehr (Fahrzeug-Zulassungsverordnung - FZV)'
+- 'Gebührennummer 221 Anlage der Gebührenordnung für Maßnahmen im Straßenverkehr (GebOSt)'
 leika_id: '99036020001000'
 letzte-aktualisierung: 2026-04-06
 ---

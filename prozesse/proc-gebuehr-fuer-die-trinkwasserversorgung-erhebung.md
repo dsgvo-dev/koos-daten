@@ -14,9 +14,9 @@ daten:
   - id: dstore-bankverbindung
   - id: dstore-kassenzeichen-buchungsreferenz
 regelungen:
-  - '§§ 8-13 Wasserhaushaltsgesetz (WHG) (Erlaubnis/Bewilligung)'
-  - '§§ 52-53 WHG (Wasserschutzgebiete)'
-  - 'Nds. Wassergesetz (NWG)'
+- '§§ 8-13 Wasserhaushaltsgesetz (WHG) (Erlaubnis/Bewilligung)'
+- '§§ 52-53 WHG (Wasserschutzgebiete)'
+- 'Nds. Wassergesetz (NWG)'
 letzte-aktualisierung: 2026-04-06
 ---
 # Gebühr für die Trinkwasserversorgung: Erhebung

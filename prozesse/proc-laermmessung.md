@@ -13,9 +13,9 @@ daten:
   - id: dstore-verwaltungsakte
   - id: dstore-bescheid
 regelungen:
-  - '§§ 17-20 Nds. Gesetz über die öffentliche Sicherheit (Nds. SOG)'
-  - '§ 117 OWiG (Unzulässiger Lärm)'
-  - 'ZustVO-SOG Nds.'
+- '§§ 17-20 Nds. Gesetz über die öffentliche Sicherheit (Nds. SOG)'
+- '§ 117 OWiG (Unzulässiger Lärm)'
+- 'ZustVO-SOG Nds.'
 letzte-aktualisierung: 2026-04-29
 ---
 # Lärmmessung

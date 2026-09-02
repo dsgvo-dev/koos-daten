@@ -13,8 +13,8 @@ daten:
   - id: dstore-lageplan-geobasisdaten
   - id: dstore-bescheid
 regelungen:
-  - '§ 45 Abs. 1c StVO (Innerörtliche Straßen mit Tempo 30)'
-  - '§ 45 StVO (Verkehrszeichen und Verkehrseinrichtungen)'
+- '§ 45 Abs. 1c StVO (Innerörtliche Straßen mit Tempo 30)'
+- '§ 45 StVO (Verkehrszeichen und Verkehrseinrichtungen)'
 letzte-aktualisierung: 2026-04-29
 ---
 # Tempo-30-Zone einrichten

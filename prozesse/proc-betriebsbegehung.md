@@ -14,9 +14,9 @@ daten:
   - id: dstore-verwaltungsakte
   - id: dstore-bescheid
 regelungen:
-  - '§§ 38-40 LFGB (Lebensmittelüberwachung)'
-  - '§§ 52-53 IfSG (Überwachung)'
-  - '§§ 1 ff. ZLG (Zentralstelle der Länder)'
+- '§§ 38-40 LFGB (Lebensmittelüberwachung)'
+- '§§ 52-53 IfSG (Überwachung)'
+- '§§ 1 ff. ZLG (Zentralstelle der Länder)'
 letzte-aktualisierung: 2026-04-29
 ---
 # Betriebsbegehung

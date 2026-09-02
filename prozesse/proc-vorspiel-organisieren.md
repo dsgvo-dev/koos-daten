@@ -12,8 +12,8 @@ daten:
   - id: dstore-musikschul-kursanmeldung
   - id: dstore-verwaltungsakte
 regelungen:
-  - '§ 64 NSchG (Schulaufnahme)'
-  - '§ 5 Nds. Gesetz über den öffentlichen Gesundheitsdienst (NGöGD)'
+- '§ 64 NSchG (Schulaufnahme)'
+- '§ 5 Nds. Gesetz über den öffentlichen Gesundheitsdienst (NGöGD)'
 letzte-aktualisierung: 2026-04-29
 ---
 # Vorspiel organisieren

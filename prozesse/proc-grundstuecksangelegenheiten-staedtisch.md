@@ -16,8 +16,8 @@ daten:
   - id: dstore-grundstuecksbezug
   - id: dstore-flur-flurstueck-lagebezeichnung
 regelungen:
-  - '§§ 92-100 NKomVG (Verwaltung des Gemeindevermögens)'
-  - '§§ 311b, 873 BGB (Grundstücksrecht)'
+- '§§ 92-100 NKomVG (Verwaltung des Gemeindevermögens)'
+- '§§ 311b, 873 BGB (Grundstücksrecht)'
 letzte-aktualisierung: 2026-04-06
 ---
 # Grundstücksangelegenheiten (städtisch)

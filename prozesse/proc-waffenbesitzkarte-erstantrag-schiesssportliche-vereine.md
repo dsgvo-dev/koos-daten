@@ -14,8 +14,8 @@ daten:
   - id: dstore-register-und-zuverlaessigkeitsauskuenfte
   - id: dstore-unternehmens-und-registerdaten
 regelungen:
-  - '§§ 21-22 Waffengesetz (WaffG) (Waffenhandel)'
-  - '§ 4 WaffG (Erlaubnispflicht)'
+- '§§ 21-22 Waffengesetz (WaffG) (Waffenhandel)'
+- '§ 4 WaffG (Erlaubnispflicht)'
 letzte-aktualisierung: 2026-04-06
 ---
 # Waffenbesitzkarte Erstantrag (schießsportliche Vereine)

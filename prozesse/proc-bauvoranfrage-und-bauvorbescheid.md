@@ -14,7 +14,7 @@ daten:
   - id: dstore-lageplan-geobasisdaten
   - id: dstore-grundstuecksbezug
 regelungen:
-  - § 73 Niedersächsische Bauordnung (NBauO)
+- § 73 Niedersächsische Bauordnung (NBauO)
 letzte-aktualisierung: 2026-04-06
 ---
 # Bauvoranfrage und Bauvorbescheid

@@ -28,7 +28,6 @@ klassifizierung:
     titel: Prüfung planungsrechtlicher Zulässigkeit
   aufbewahrung:
     frist: dauerhaft (öffentliche Satzung)
-    beginn: null
     hinweis: Bebauungspläne sind öffentliche Satzungen; kein Ablaufdatum
 letzte-aktualisierung: '2026-08-10'
 ---

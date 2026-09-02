@@ -13,8 +13,8 @@ daten:
   - id: dstore-lebenslauf-qualifikationsnachweis
   - id: dstore-verwaltungsakte
 regelungen:
-  - '§§ 26-27 BBiG (Praktika)'
-  - '§§ 1 ff. MiLoG i.V.m. PraktikumsverhältnisG'
+- '§§ 26-27 BBiG (Praktika)'
+- '§§ 1 ff. MiLoG i.V.m. PraktikumsverhältnisG'
 letzte-aktualisierung: 2026-04-29
 ---
 # Praktikum vergeben

@@ -17,8 +17,8 @@ daten:
   - id: dstore-verstorbenenhinweis-melderegister
   - id: dstore-registerbezug-personenstand
 regelungen:
-  - '§ 31 PStG'
-  - '§ 56 PStG'
+- '§ 31 PStG'
+- '§ 56 PStG'
 letzte-aktualisierung: 2026-04-06
 ---
 

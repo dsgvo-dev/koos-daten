@@ -26,8 +26,7 @@ klassifizierung:
   aufbewahrung:
     frist: 3 Jahre
     beginn: nach Widerruf oder Wegfall des Zwecks
-    hinweis: Nachweispflicht nach Art. 7 Abs. 1 DSGVO; angelehnt an die regelmäßige
-      Verjährung nach § 195 BGB.
+    hinweis: Nachweispflicht nach Art. 7 Abs. 1 DSGVO; angelehnt an die regelmäßige Verjährung nach § 195 BGB.
 letzte-aktualisierung: '2026-08-10'
 tags:
 - Einwilligung

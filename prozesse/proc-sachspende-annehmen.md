@@ -12,8 +12,8 @@ daten:
   - id: dstore-verwaltungsakte
   - id: dstore-bescheinigung
 regelungen:
-  - '§ 97 NKomVG (Annahme von Schenkungen)'
-  - '§§ 516-534 BGB (Schenkungsvertrag)'
+- '§ 97 NKomVG (Annahme von Schenkungen)'
+- '§§ 516-534 BGB (Schenkungsvertrag)'
 letzte-aktualisierung: 2026-04-29
 ---
 # Sachspende annehmen

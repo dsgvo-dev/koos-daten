@@ -14,11 +14,11 @@ daten:
   - id: dstore-personenstammdaten
   - id: dstore-registerbezug-personenstand
 regelungen:
-  - '§ 5 Absatz 5 Personenstandsgesetz (PStG)'
-  - '§ 57 Personenstandsgesetz (PStG)'
-  - '§§ 61 bis 66 Personenstandsgesetz (PStG)'
-  - '§ 48 Absatz 1 Personenstandsverordnung (PStV)'
-  - '§ 50 Absatz 1 Personenstandsverordnung (PStV)'
+- '§ 5 Absatz 5 Personenstandsgesetz (PStG)'
+- '§ 57 Personenstandsgesetz (PStG)'
+- '§§ 61 bis 66 Personenstandsgesetz (PStG)'
+- '§ 48 Absatz 1 Personenstandsverordnung (PStV)'
+- '§ 50 Absatz 1 Personenstandsverordnung (PStV)'
 letzte-aktualisierung: 2026-04-06
 ---
 # Urkunde: Eheurkunde beantragen

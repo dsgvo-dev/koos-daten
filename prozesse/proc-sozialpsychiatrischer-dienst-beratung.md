@@ -15,7 +15,7 @@ daten:
     - Berichte an Betreuungsgericht
     - Unterbringungsberichte (PsychKG)
   datenspeicher:
-  - id: dstore-sozialdaten
+    - id: dstore-sozialdaten
 
 regelungen:
   - NPsychKG (Niedersächsisches Psychiatriegesetz)

@@ -15,8 +15,8 @@ daten:
   - id: dstore-personenstammdaten
   - id: dstore-einkommens-und-leistungsdaten
 regelungen:
-  - '§ 1 AsylbLG'
-  - '§ 3 AsylbLG'
+- '§ 1 AsylbLG'
+- '§ 3 AsylbLG'
 letzte-aktualisierung: 2026-04-06
 ---
 

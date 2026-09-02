@@ -14,9 +14,9 @@ daten:
   - id: dstore-verwaltungsakte
   - id: dstore-bescheid
 regelungen:
-  - '§§ 1-3 Nds. Gesetz über den öffentlichen Gesundheitsdienst (NGöGD)'
-  - '§§ 28-31 Infektionsschutzgesetz (IfSG)'
-  - '§ 5 NGöGD (Aufgaben der Gesundheitsämter)'
+- '§§ 1-3 Nds. Gesetz über den öffentlichen Gesundheitsdienst (NGöGD)'
+- '§§ 28-31 Infektionsschutzgesetz (IfSG)'
+- '§ 5 NGöGD (Aufgaben der Gesundheitsämter)'
 letzte-aktualisierung: 2026-04-29
 ---
 # Infektionsschutzmaßnahmen

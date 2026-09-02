@@ -13,9 +13,9 @@ daten:
   - id: dstore-genehmigung
   - id: dstore-veranstalterdaten
 regelungen:
-  - '§ 18 Nds. Straßengesetz (NStrG) (Sondernutzungserlaubnis)'
-  - '§§ 45-46 StVO (Anordnungen der Straßenverkehrsbehörde)'
-  - 'Kommunale Sondernutzungssatzung'
+- '§ 18 Nds. Straßengesetz (NStrG) (Sondernutzungserlaubnis)'
+- '§§ 45-46 StVO (Anordnungen der Straßenverkehrsbehörde)'
+- 'Kommunale Sondernutzungssatzung'
 letzte-aktualisierung: 2026-04-29
 ---
 # Stadtführung genehmigen

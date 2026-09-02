@@ -26,8 +26,7 @@ klassifizierung:
   aufbewahrung:
     frist: bis zum Ende der Grundschulzeit
     beginn: mit der Zuweisung zum Schulbezirk
-    hinweis: Die Angabe ist nur zu speichern, solange die Zuweisung zu einer Bekenntnisschule
-      sie erfordert. Entfällt dieser Zweck, ist sie unverzüglich zu löschen.
+    hinweis: Die Angabe ist nur zu speichern, solange die Zuweisung zu einer Bekenntnisschule sie erfordert. Entfällt dieser Zweck, ist sie unverzüglich zu löschen.
 letzte-aktualisierung: '2026-08-10'
 tags:
 - Schule

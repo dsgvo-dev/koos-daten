@@ -16,9 +16,9 @@ daten:
   - id: dstore-personenstammdaten
   - id: dstore-identitaetsnachweis
 regelungen:
-  - '§ 45 Abs. 1b StVO (Parkerleichterungen für Behinderte)'
-  - '§§ 228-231 SGB IX (Nachteilsausgleiche/Merkzeichen)'
-  - '§§ 45-46 StVO'
+- '§ 45 Abs. 1b StVO (Parkerleichterungen für Behinderte)'
+- '§§ 228-231 SGB IX (Nachteilsausgleiche/Merkzeichen)'
+- '§§ 45-46 StVO'
 letzte-aktualisierung: 2026-04-06
 ---
 

@@ -15,10 +15,10 @@ daten:
   - id: dstore-lebenslauf-qualifikationsnachweis
   - id: dstore-unternehmens-und-registerdaten
 regelungen:
-  - '§ 17 Waffengesetz (WaffG)'
-  - '§ 4 Waffengesetz (WaffG)'
-  - '§ 36 Waffengesetz (WaffG)'
-  - '§ 13 Allgemeine Waffengesetz-Verordnung (AWaffV)'
+- '§ 17 Waffengesetz (WaffG)'
+- '§ 4 Waffengesetz (WaffG)'
+- '§ 36 Waffengesetz (WaffG)'
+- '§ 13 Allgemeine Waffengesetz-Verordnung (AWaffV)'
 letzte-aktualisierung: 2026-04-06
 ---
 # Waffenbesitzkarte erteilen (Waffen- oder Munitionssammler/Sachverständige)

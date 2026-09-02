@@ -12,9 +12,9 @@ daten:
   - id: dstore-verwaltungsakte
   - id: dstore-bescheid
 regelungen:
-  - '§§ 1-5 Nds. Brandschutzgesetz (NBrandSchG)'
-  - '§ 26 NBrandSchG (Brandsicherheitsdienst bei Veranstaltungen)'
-  - '§ 29 NBrandSchG (Feuerwehreinsatz)'
+- '§§ 1-5 Nds. Brandschutzgesetz (NBrandSchG)'
+- '§ 26 NBrandSchG (Brandsicherheitsdienst bei Veranstaltungen)'
+- '§ 29 NBrandSchG (Feuerwehreinsatz)'
 letzte-aktualisierung: 2026-04-29
 ---
 # Alarmplan aktualisieren

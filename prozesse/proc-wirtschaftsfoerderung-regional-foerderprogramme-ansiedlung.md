@@ -16,9 +16,9 @@ daten:
   - id: dstore-unternehmens-und-registerdaten
   - id: dstore-foerderantrag
 regelungen:
-  - '§ 1 Nds. Wirtschaftsförderungsgesetz (NWFG)'
-  - '§ 14 GewO (Gewerbeanzeige)'
-  - '§ 11 NKomVG (Kommunale Selbstverwaltung)'
+- '§ 1 Nds. Wirtschaftsförderungsgesetz (NWFG)'
+- '§ 14 GewO (Gewerbeanzeige)'
+- '§ 11 NKomVG (Kommunale Selbstverwaltung)'
 letzte-aktualisierung: 2026-04-06
 ---
 # Wirtschaftsförderung regional (Förderprogramme/Ansiedlung)

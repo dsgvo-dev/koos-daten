@@ -12,8 +12,8 @@ daten:
   - id: dstore-verwaltungsakte
   - id: dstore-sicherheitsmangelmeldung
 regelungen:
-  - '§ 11 NKomVG (Kommunale Einrichtungen/Spielplätze)'
-  - 'DIN EN 1176 (Spielplatzgeräte) i.V.m. DGUV-Vorschriften'
+- '§ 11 NKomVG (Kommunale Einrichtungen/Spielplätze)'
+- 'DIN EN 1176 (Spielplatzgeräte) i.V.m. DGUV-Vorschriften'
 letzte-aktualisierung: 2026-04-29
 ---
 # Spielgerät instand setzen

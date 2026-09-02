@@ -28,7 +28,6 @@ klassifizierung:
     titel: Geltungsdauer
   aufbewahrung:
     frist: dauerhaft
-    beginn: null
     hinweis: Dauerhafter Bestandteil der Bauakte; Genehmigung bleibt rechtlich relevant
 letzte-aktualisierung: '2026-08-10'
 ---

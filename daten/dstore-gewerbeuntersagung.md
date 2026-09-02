@@ -30,8 +30,7 @@ klassifizierung:
   aufbewahrung:
     frist: nach den Tilgungsfristen des § 153 GewO
     beginn: mit Eintragung in das Gewerbezentralregister
-    hinweis: '§ 153 GewO: Tilgung nach drei bis fünf Jahren je nach Entscheidung.
-      Nach Tilgung darf die Untersagung nicht mehr verwertet werden.'
+    hinweis: '§ 153 GewO: Tilgung nach drei bis fünf Jahren je nach Entscheidung. Nach Tilgung darf die Untersagung nicht mehr verwertet werden.'
 letzte-aktualisierung: '2026-08-10'
 tags:
 - Gewerberecht

@@ -45,9 +45,7 @@ klassifizierung:
     frist: Dauer der Gefaehrdungslage
     beginn: mit Eintragung
     hinweis: >-
-      Die Auskunftssperre nach § 51 BMG ist auf zwei Jahre befristet und wird auf
-      Antrag verlaengert. Das Kennzeichen ist mit Ablauf der Sperre zu ueberpruefen,
-      nicht automatisch zu loeschen -- die Gefaehrdung endet nicht mit der Frist.
+      Die Auskunftssperre nach § 51 BMG ist auf zwei Jahre befristet und wird auf Antrag verlaengert. Das Kennzeichen ist mit Ablauf der Sperre zu ueberpruefen, nicht automatisch zu loeschen -- die Gefaehrdung endet nicht mit der Frist.
 letzte-aktualisierung: '2026-08-10'
 tags:
 - Gewaltschutz

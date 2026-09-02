@@ -28,10 +28,7 @@ klassifizierung:
   aufbewahrung:
     frist: 3 Jahre
     beginn: nach Übermittlung des Stationszeugnisses an das Landesjustizprüfungsamt
-    hinweis: Festlegung des Trägers, angelehnt an die regelmäßige Verjährung nach
-      § 195 BGB für etwaige Ansprüche aus der Ausbildung. Die eigentliche Ausbildungsakte
-      führt das Landesjustizprüfungsamt nach dessen Aufbewahrungsregeln; die Ausbildungsstelle
-      hält lediglich ein Doppel vor.
+    hinweis: Festlegung des Trägers, angelehnt an die regelmäßige Verjährung nach § 195 BGB für etwaige Ansprüche aus der Ausbildung. Die eigentliche Ausbildungsakte führt das Landesjustizprüfungsamt nach dessen Aufbewahrungsregeln; die Ausbildungsstelle hält lediglich ein Doppel vor.
 letzte-aktualisierung: '2026-08-10'
 tags:
 - Ausbildung

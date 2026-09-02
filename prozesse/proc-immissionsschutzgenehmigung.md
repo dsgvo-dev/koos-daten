@@ -15,9 +15,9 @@ daten:
   - id: dstore-fachstellungnahme
   - id: dstore-genehmigung
 regelungen:
-  - '§§ 4-19 Bundesimmissionsschutzgesetz (BImSchG) (Genehmigung)'
-  - '§ 4 BImSchG (Genehmigungsbedürftige Anlagen)'
-  - '4. BImSchV (Verordnung über genehmigungsbedürftige Anlagen)'
+- '§§ 4-19 Bundesimmissionsschutzgesetz (BImSchG) (Genehmigung)'
+- '§ 4 BImSchG (Genehmigungsbedürftige Anlagen)'
+- '4. BImSchV (Verordnung über genehmigungsbedürftige Anlagen)'
 letzte-aktualisierung: 2026-04-29
 ---
 # Immissionsschutzgenehmigung

@@ -12,8 +12,8 @@ daten:
   - id: dstore-verwaltungsakte
   - id: dstore-genehmigung
 regelungen:
-  - '§ 55 Nds. Bauordnung (NBauO) (Werbeanlagen)'
-  - '§ 13 NBauO (Verunstaltungsverbot)'
+- '§ 55 Nds. Bauordnung (NBauO) (Werbeanlagen)'
+- '§ 13 NBauO (Verunstaltungsverbot)'
 letzte-aktualisierung: 2026-04-29
 ---
 # Werbeanlage genehmigen

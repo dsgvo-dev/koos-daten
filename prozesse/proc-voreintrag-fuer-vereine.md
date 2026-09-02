@@ -13,8 +13,8 @@ daten:
   - id: dstore-personenstammdaten
   - id: dstore-identitaetsnachweis
 regelungen:
-  - '§§ 55-79 BGB (Eingetragener Verein)'
-  - '§ 59 BGB (Anmeldung zum Vereinsregister)'
+- '§§ 55-79 BGB (Eingetragener Verein)'
+- '§ 59 BGB (Anmeldung zum Vereinsregister)'
 letzte-aktualisierung: 2026-04-06
 ---
 # Voreintrag für Vereine

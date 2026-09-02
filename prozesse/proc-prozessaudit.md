@@ -12,8 +12,8 @@ daten:
   - id: dstore-verwaltungsakte
   - id: dstore-bescheid
 regelungen:
-  - '§§ 110-114 NKomVG (Wirtschaftlichkeit der Verwaltung)'
-  - '§ 12 GemHKVO Nds. (Wirtschaftlichkeit)'
+- '§§ 110-114 NKomVG (Wirtschaftlichkeit der Verwaltung)'
+- '§ 12 GemHKVO Nds. (Wirtschaftlichkeit)'
 letzte-aktualisierung: 2026-04-29
 ---
 # Prozessaudit

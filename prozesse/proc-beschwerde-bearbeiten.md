@@ -14,8 +14,8 @@ daten:
   - id: dstore-bescheid
   - id: dstore-personenstammdaten
 regelungen:
-  - '§ 25 VwVfG (Beratungspflicht der Behörde)'
-  - '§ 22 NKomVG (Informations- und Beschwerderechte der Einwohner)'
+- '§ 25 VwVfG (Beratungspflicht der Behörde)'
+- '§ 22 NKomVG (Informations- und Beschwerderechte der Einwohner)'
 letzte-aktualisierung: 2026-04-29
 ---
 # Beschwerde bearbeiten

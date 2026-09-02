@@ -15,8 +15,8 @@ daten:
   - id: dstore-tierhalterbestand-nutztiere
   - id: dstore-personenstammdaten
 regelungen:
-  - '§§ 24-26 Tiergesundheitsgesetz (TierGesG) (Labordiagnostik)'
-  - '§ 44 IfSG (Laboratoriumsdiagnostik)'
+- '§§ 24-26 Tiergesundheitsgesetz (TierGesG) (Labordiagnostik)'
+- '§ 44 IfSG (Laboratoriumsdiagnostik)'
 letzte-aktualisierung: 2026-04-06
 ---
 # Tierseuchenerreger: Laborerlaubnis

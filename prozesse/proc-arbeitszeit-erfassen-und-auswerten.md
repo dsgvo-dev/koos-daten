@@ -16,20 +16,16 @@ daten:
   - id: dstore-arbeitsverhaeltnis-beschaeftigung
 regelungen:
 - § 3 Abs. 2 Nr. 1 ArbSchG - Aufzeichnungspflicht, EuGH C-518/15 und BAG 1 ABR 22/21
-- § 16 Abs. 2 ArbZG - Aufzeichnung der über die werktägliche Arbeitszeit hinausgehenden
-  Arbeitszeit, Aufbewahrung zwei Jahre
+- § 16 Abs. 2 ArbZG - Aufzeichnung der über die werktägliche Arbeitszeit hinausgehenden Arbeitszeit, Aufbewahrung zwei Jahre
 - § 17 Abs. 2 MiLoG - Aufzeichnung und Aufbewahrung zwei Jahre
 - Art. 6 Abs. 1 lit. b) DSGVO - Arbeitsverhältnisse
 - Art. 6 Abs. 1 lit. c) DSGVO - Beamtenverhältnisse
 - Art. 88 DSGVO und § 12 NDSG - Verarbeitung bei Dienst- und Arbeitsverhältnissen
 - § 88 NBG - Personaldatenverarbeitung
 - § 94 Abs. 2 Satz 1 NBG - Unterlagen über Erkrankungen fünf Jahre
-- § 94 Abs. 2 Satz 2 NBG - Unterlagen, aus denen die Art einer Erkrankung ersichtlich
-  ist, sind unverzüglich zurückzugeben oder zu vernichten
-- § 6 Abs. 1 Nr. 1 NDSG - Zweckänderung für Aufsichts- und Kontrollbefugnisse, Rechnungsprüfung
-  und Organisationsuntersuchungen
-- § 67 Abs. 1 Nr. 1 und 2 NPersVG - Mitbestimmung bei automatisierter Verarbeitung von
-  Beschäftigtendaten und bei technischen Einrichtungen zur Verhaltens- oder Leistungsüberwachung
+- § 94 Abs. 2 Satz 2 NBG - Unterlagen, aus denen die Art einer Erkrankung ersichtlich ist, sind unverzüglich zurückzugeben oder zu vernichten
+- § 6 Abs. 1 Nr. 1 NDSG - Zweckänderung für Aufsichts- und Kontrollbefugnisse, Rechnungsprüfung und Organisationsuntersuchungen
+- § 67 Abs. 1 Nr. 1 und 2 NPersVG - Mitbestimmung bei automatisierter Verarbeitung von Beschäftigtendaten und bei technischen Einrichtungen zur Verhaltens- oder Leistungsüberwachung
 - § 78 NPersVG - Dienstvereinbarung als Kollektivvereinbarung im Sinne des Art. 88 DSGVO
 - § 147 AO und NKomHKVO - Aufbewahrung lohnabrechnungsrelevanter Zeitdaten
 leika_id: '99143051000000'

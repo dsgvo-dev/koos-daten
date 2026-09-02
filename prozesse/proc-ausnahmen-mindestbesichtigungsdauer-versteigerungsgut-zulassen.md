@@ -13,7 +13,7 @@ daten:
   - id: dstore-personenstammdaten
   - id: dstore-identitaetsnachweis
 regelungen:
-  - '§ 4 Satz 2 Versteigererverordnung (VerstV)'
+- '§ 4 Satz 2 Versteigererverordnung (VerstV)'
 letzte-aktualisierung: 2026-04-06
 ---
 # Ausnahmen Mindestbesichtigungsdauer Versteigerungsgut zulassen

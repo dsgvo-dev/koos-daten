@@ -12,8 +12,8 @@ daten:
   - id: dstore-verwaltungsakte
   - id: dstore-abrechnungsdaten
 regelungen:
-  - '§§ 97-100 NKomVG (Kommunale Vermögensverwaltung)'
-  - '§ 6 NBG (Fürsorge- und Treuepflichten)'
+- '§§ 97-100 NKomVG (Kommunale Vermögensverwaltung)'
+- '§ 6 NBG (Fürsorge- und Treuepflichten)'
 letzte-aktualisierung: 2026-04-29
 ---
 # Fuhrpark verwalten

@@ -16,8 +16,8 @@ daten:
   - id: dstore-grundstuecksbezug
   - id: dstore-sondernutzung-oeffentlicher-raum
 regelungen:
-  - '§ 29 Bundesnaturschutzgesetz (BNatSchG) (Gehölzschutz)'
-  - 'Nds. Naturschutzgesetz (NNatSchG) i.V.m. Baumschutzsatzung'
+- '§ 29 Bundesnaturschutzgesetz (BNatSchG) (Gehölzschutz)'
+- 'Nds. Naturschutzgesetz (NNatSchG) i.V.m. Baumschutzsatzung'
 letzte-aktualisierung: 2026-04-06
 ---
 # Baumfällgenehmigung erteilen

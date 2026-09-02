@@ -11,8 +11,8 @@ daten:
   datenspeicher:
   - id: dstore-unternehmens-und-registerdaten
 regelungen:
-  - '§§ 62-63 Wasserhaushaltsgesetz (WHG) (Anlagen mit wassergef. Stoffen)'
-  - '§§ 1 ff. AwSV (Verordnung über Anlagen zum Umgang mit wassergefährdenden Stoffen)'
+- '§§ 62-63 Wasserhaushaltsgesetz (WHG) (Anlagen mit wassergef. Stoffen)'
+- '§§ 1 ff. AwSV (Verordnung über Anlagen zum Umgang mit wassergefährdenden Stoffen)'
 letzte-aktualisierung: 2026-04-06
 ---
 # Heizölverbraucheranlage anzeigen

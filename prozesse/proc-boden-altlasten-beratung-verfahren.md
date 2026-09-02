@@ -14,9 +14,9 @@ daten:
   - id: dstore-grundstuecksbezug
   - id: dstore-bodengutachten-gruendung
 regelungen:
-  - '§ 3 Umweltinformationsgesetz (UIG)'
-  - '§ 4 Umweltinformationsgesetz (UIG)'
-  - '§ 21 Bundesbodenschutzgesetz (BBodSchG)'
+- '§ 3 Umweltinformationsgesetz (UIG)'
+- '§ 4 Umweltinformationsgesetz (UIG)'
+- '§ 21 Bundesbodenschutzgesetz (BBodSchG)'
 letzte-aktualisierung: 2026-04-06
 ---
 # Boden & Altlasten: Beratung/Verfahren

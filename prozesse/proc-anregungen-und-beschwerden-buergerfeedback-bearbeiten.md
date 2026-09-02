@@ -17,8 +17,8 @@ daten:
   datenspeicher:
   - id: dstore-beschwerde-anregungsdaten
 regelungen:
-  - '§ 25 VwVfG (Beratungspflicht der Behörde)'
-  - '§ 22 NKomVG (Informations- und Beschwerderechte der Einwohner)'
+- '§ 25 VwVfG (Beratungspflicht der Behörde)'
+- '§ 22 NKomVG (Informations- und Beschwerderechte der Einwohner)'
 letzte-aktualisierung: 2026-04-06
 ---
 # Anregungen und Beschwerden (Bürgerfeedback) bearbeiten

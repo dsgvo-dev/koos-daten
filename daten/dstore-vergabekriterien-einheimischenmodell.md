@@ -26,8 +26,7 @@ klassifizierung:
   aufbewahrung:
     frist: 10 Jahre
     beginn: nach Abschluss des Vergabeverfahrens
-    hinweis: Bindungsfristen der Vergaberichtlinie und Nachweispflichten gegenüber
-      der Kommunalaufsicht; Festlegung des Trägers.
+    hinweis: Bindungsfristen der Vergaberichtlinie und Nachweispflichten gegenüber der Kommunalaufsicht; Festlegung des Trägers.
 letzte-aktualisierung: '2026-08-04'
 tags:
 - Grundstücksvergabe

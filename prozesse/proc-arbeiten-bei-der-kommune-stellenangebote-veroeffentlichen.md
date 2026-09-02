@@ -16,9 +16,9 @@ daten:
   - id: dstore-bewerbungsunterlagen
   - id: dstore-lebenslauf-qualifikationsnachweis
 regelungen:
-  - '§§ 10-13 Nds. Beamtengesetz (NBG) (Begründung des Beamtenverhältnisses)'
-  - '§§ 1 ff. TVöD (Geltungsbereich/Einstellung)'
-  - '§ 85 NKomVG (Personalhoheit)'
+- '§§ 10-13 Nds. Beamtengesetz (NBG) (Begründung des Beamtenverhältnisses)'
+- '§§ 1 ff. TVöD (Geltungsbereich/Einstellung)'
+- '§ 85 NKomVG (Personalhoheit)'
 letzte-aktualisierung: 2026-04-06
 ---
 # Arbeiten bei der Kommune: Stellenangebote veröffentlichen

@@ -14,18 +14,18 @@ daten:
   - id: dstore-sitzungsprotokoll
   - id: dstore-bild-und-tonaufnahmen
 regelungen:
-  - '§ 64 Abs. 3 NKomVG (Teilnahme per Videokonferenztechnik, Zulassung durch die Hauptsatzung)'
-  - '§ 64 Abs. 3 Satz 4 NKomVG (Zweidrittelmehrheit für den Beschluss)'
-  - '§ 64 Abs. 3 Satz 5 NKomVG (Zugeschaltete gelten als anwesend)'
-  - '§ 64 Abs. 3 Satz 6 NKomVG (keine geheimen Wahlen und Abstimmungen, keine geheimhaltungsbedürftigen Beratungen)'
-  - '§ 64 Abs. 4 Sätze 1 und 2 NKomVG (gegenseitige Wahrnehmbarkeit in Bild und Ton)'
-  - '§ 64 Abs. 4 Satz 3 NKomVG (Bild- und Tonaufnahmen zu diesem Zweck auch ohne Zustimmung zulässig)'
-  - '§ 64 Abs. 2 Satz 3 NKomVG (Widerspruch gegen Aufnahme oder Veröffentlichung des Redebeitrags)'
-  - '§ 64 Abs. 5 NKomVG (Störungen der Zuschaltung)'
-  - '§ 64 Abs. 6 NKomVG (nicht öffentliche Sitzungen: kein Mithören Dritter)'
-  - '§ 64 Abs. 8 NKomVG (entsprechende Geltung für Hauptausschuss und Ausschüsse)'
-  - 'Art. 6 Abs. 1 lit. e) DSGVO, § 3 NDSG'
-  - 'Art. 6 Abs. 1 lit. a) DSGVO (Aufzeichnung über die Sitzung hinaus)'
+- '§ 64 Abs. 3 NKomVG (Teilnahme per Videokonferenztechnik, Zulassung durch die Hauptsatzung)'
+- '§ 64 Abs. 3 Satz 4 NKomVG (Zweidrittelmehrheit für den Beschluss)'
+- '§ 64 Abs. 3 Satz 5 NKomVG (Zugeschaltete gelten als anwesend)'
+- '§ 64 Abs. 3 Satz 6 NKomVG (keine geheimen Wahlen und Abstimmungen, keine geheimhaltungsbedürftigen Beratungen)'
+- '§ 64 Abs. 4 Sätze 1 und 2 NKomVG (gegenseitige Wahrnehmbarkeit in Bild und Ton)'
+- '§ 64 Abs. 4 Satz 3 NKomVG (Bild- und Tonaufnahmen zu diesem Zweck auch ohne Zustimmung zulässig)'
+- '§ 64 Abs. 2 Satz 3 NKomVG (Widerspruch gegen Aufnahme oder Veröffentlichung des Redebeitrags)'
+- '§ 64 Abs. 5 NKomVG (Störungen der Zuschaltung)'
+- '§ 64 Abs. 6 NKomVG (nicht öffentliche Sitzungen: kein Mithören Dritter)'
+- '§ 64 Abs. 8 NKomVG (entsprechende Geltung für Hauptausschuss und Ausschüsse)'
+- 'Art. 6 Abs. 1 lit. e) DSGVO, § 3 NDSG'
+- 'Art. 6 Abs. 1 lit. a) DSGVO (Aufzeichnung über die Sitzung hinaus)'
 letzte-aktualisierung: '2026-07-30'
 ---
 # Online-Sitzungen

@@ -16,8 +16,8 @@ daten:
   - id: dstore-personenstammdaten
   - id: dstore-identitaetsnachweis
 regelungen:
-  - '§§ 3-6 Güterkraftverkehrsgesetz (GüKG) (Erlaubnispflicht)'
-  - '§ 7 GüKG (Kabotagetransporte)'
+- '§§ 3-6 Güterkraftverkehrsgesetz (GüKG) (Erlaubnispflicht)'
+- '§ 7 GüKG (Kabotagetransporte)'
 letzte-aktualisierung: 2026-04-06
 ---
 # Güterkraftverkehr Erlaubnis beantragen

@@ -16,8 +16,8 @@ daten:
   - id: dstore-personenstammdaten
   - id: dstore-kfz-daten
 regelungen:
-  - '§ 4 Absatz 4 Nummer 1 und Absatz 5 der Verordnung zur Durchführung des Fahrpersonalgesetzes (Fahrpersonalverordnung - FPersV)'
-  - 'Artikel 29 und Artikel 35 II Verordnung (EU) Nummer 165/2014'
+- '§ 4 Absatz 4 Nummer 1 und Absatz 5 der Verordnung zur Durchführung des Fahrpersonalgesetzes (Fahrpersonalverordnung - FPersV)'
+- 'Artikel 29 und Artikel 35 II Verordnung (EU) Nummer 165/2014'
 letzte-aktualisierung: 2026-04-06
 ---
 # Fahrerlaubnis: Ersatzdokument bei Verlust

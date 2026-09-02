@@ -12,8 +12,8 @@ daten:
   - id: dstore-verwaltungsakte
   - id: dstore-abrechnungsdaten
 regelungen:
-  - '§§ 97-100 NKomVG (Kommunale Gebäudewirtschaft)'
-  - 'TVöD BT-K (Kommunaler Bereich)'
+- '§§ 97-100 NKomVG (Kommunale Gebäudewirtschaft)'
+- 'TVöD BT-K (Kommunaler Bereich)'
 letzte-aktualisierung: 2026-04-29
 ---
 # Gebäudereinigung

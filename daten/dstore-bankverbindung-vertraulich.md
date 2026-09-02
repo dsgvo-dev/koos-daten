@@ -2,7 +2,7 @@
 id: dstore-bankverbindung-vertraulich
 typ: datenspeicher
 system: null
-name: Kontoverbindung von Personen in Verfahren, deren Zugehörigkeit selbst schutzbedürftig ist 
+name: Kontoverbindung von Personen in Verfahren, deren Zugehörigkeit selbst schutzbedürftig ist
 zuständige-einheit: oe-amt-20
 bpmn:
   typ: datenobjekt
@@ -36,8 +36,7 @@ klassifizierung:
     frist: nach den Fristen des jeweiligen Fachverfahrens
     beginn: mit Abschluss des Verfahrens
     hinweis: >-
-      Die Frist richtet sich nach dem Verfahren, in dem der Speicher gefuehrt wird,
-      nicht nach der Datenart.
+      Die Frist richtet sich nach dem Verfahren, in dem der Speicher gefuehrt wird, nicht nach der Datenart.
 letzte-aktualisierung: '2026-08-10'
 tags:
 - Kontextvariante

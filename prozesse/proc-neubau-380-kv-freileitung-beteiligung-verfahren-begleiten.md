@@ -16,8 +16,8 @@ daten:
   - id: dstore-verwaltungsakte
   - id: dstore-grundstuecksdaten
 regelungen:
-  - '§§ 43-43h EnWG (Planfeststellungsverfahren für Energieleitungen)'
-  - '§§ 1-7 NABEG (Netzausbaubeschleunigungsgesetz)'
+- '§§ 43-43h EnWG (Planfeststellungsverfahren für Energieleitungen)'
+- '§§ 1-7 NABEG (Netzausbaubeschleunigungsgesetz)'
 letzte-aktualisierung: 2026-04-06
 ---
 # Neubau 380 kV Freileitung: Beteiligung/Verfahren begleiten

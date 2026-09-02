@@ -15,8 +15,8 @@ daten:
   - id: dstore-tierhalterbestand-nutztiere
   - id: dstore-personenstammdaten
 regelungen:
-  - '§§ 25-30 Tiergesundheitsgesetz (TierGesG) (Tierarzneimittel)'
-  - '§§ 56-62 AMG (Tierarzneimittel)'
+- '§§ 25-30 Tiergesundheitsgesetz (TierGesG) (Tierarzneimittel)'
+- '§§ 56-62 AMG (Tierarzneimittel)'
 letzte-aktualisierung: 2026-04-06
 ---
 # Tierimpfstoffe: GMP-Bescheinigung

@@ -26,8 +26,7 @@ klassifizierung:
   aufbewahrung:
     frist: bis zur Übergabe an das Fachverfahren, längstens 30 Tage
     beginn: nach Eingang
-    hinweis: Das Portal ist Eingangskanal, nicht Ablage. Nach Übergabe an das zuständige
-      Fachverfahren gilt dessen Frist; die Kopie im Portal ist zu löschen.
+    hinweis: Das Portal ist Eingangskanal, nicht Ablage. Nach Übergabe an das zuständige Fachverfahren gilt dessen Frist; die Kopie im Portal ist zu löschen.
 letzte-aktualisierung: '2026-08-10'
 tags:
 - Serviceportal

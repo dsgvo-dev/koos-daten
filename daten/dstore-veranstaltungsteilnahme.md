@@ -24,9 +24,7 @@ klassifizierung:
   aufbewahrung:
     frist: 6 Monate
     beginn: nach der Veranstaltung
-    hinweis: Sitzordnung und Verpflegungswünsche werden nach der Veranstaltung nicht
-      mehr benötigt. Eine Übernahme in Einladungslisten künftiger Veranstaltungen
-      ist eine Zweckänderung und bedarf einer eigenen Grundlage.
+    hinweis: Sitzordnung und Verpflegungswünsche werden nach der Veranstaltung nicht mehr benötigt. Eine Übernahme in Einladungslisten künftiger Veranstaltungen ist eine Zweckänderung und bedarf einer eigenen Grundlage.
 letzte-aktualisierung: '2026-08-10'
 tags:
 - Veranstaltung

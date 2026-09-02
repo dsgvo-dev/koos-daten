@@ -16,9 +16,9 @@ daten:
   - id: dstore-entwaesserungsantrag-kanalanschluss
   - id: dstore-versickerung-regenwasserkonzept
 regelungen:
-  - '§§ 8-13 Wasserhaushaltsgesetz (WHG) (Erlaubnis/Bewilligung)'
-  - '§§ 57-61 WHG (Abwassereinleitung)'
-  - 'Nds. Wassergesetz (NWG) § 46 ff.'
+- '§§ 8-13 Wasserhaushaltsgesetz (WHG) (Erlaubnis/Bewilligung)'
+- '§§ 57-61 WHG (Abwassereinleitung)'
+- 'Nds. Wassergesetz (NWG) § 46 ff.'
 letzte-aktualisierung: 2026-04-06
 ---
 # Entwässerungsgenehmigung (Einleitung in öffentliche Abwasseranlage)

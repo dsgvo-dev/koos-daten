@@ -20,12 +20,9 @@ regelungen:
 - §§ 127 bis 135 BauGB - Erschließungsbeitrag
 - § 134 Abs. 2 BauGB - der Erschließungsbeitrag ruht als öffentliche Last auf dem Grundstück
 - § 6 NKAG - Beiträge für andere Einrichtungen, insbesondere Straßenausbaubeiträge
-- § 6 Abs. 2 bis 6 NKAG - besondere Stundungstatbestände für Beiträge zu leitungsgebundenen
-  Einrichtungen, Verzicht auf Stundungszinsen, Sicherung nach § 241 AO bei Stundung
-  über vier Jahre hinaus
+- § 6 Abs. 2 bis 6 NKAG - besondere Stundungstatbestände für Beiträge zu leitungsgebundenen Einrichtungen, Verzicht auf Stundungszinsen, Sicherung nach § 241 AO bei Stundung über vier Jahre hinaus
 - § 222 AO über § 11 Abs. 1 Nr. 5 Buchst. a NKAG - Stundung im Übrigen
-- §§ 218, 219, 221 bis 223 und 225 bis 232 AO über § 11 Abs. 1 Nr. 5 Buchst. a NKAG
-  - Fälligkeit, Erlöschen und Zahlungsverjährung
+- §§ 218, 219, 221 bis 223 und 225 bis 232 AO über § 11 Abs. 1 Nr. 5 Buchst. a NKAG - Fälligkeit, Erlöschen und Zahlungsverjährung
 - Art. 6 Abs. 1 lit. c) und lit. e) DSGVO, § 3 NDSG
 leika_id: null
 ozg_id: null

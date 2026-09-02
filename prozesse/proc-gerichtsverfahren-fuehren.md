@@ -12,11 +12,9 @@ daten:
   - id: dstore-gerichtsverfahren
   - id: dstore-verwaltungsakte
 regelungen:
-- § 86 Abs. 1 Satz 2 NKomVG - die Hauptverwaltungsbeamtin oder der Hauptverwaltungsbeamte
-  vertritt die Kommune nach außen in gerichtlichen Verfahren
+- § 86 Abs. 1 Satz 2 NKomVG - die Hauptverwaltungsbeamtin oder der Hauptverwaltungsbeamte vertritt die Kommune nach außen in gerichtlichen Verfahren
 - Art. 6 Abs. 1 lit. e) DSGVO, § 3 NDSG
-- Art. 9 Abs. 2 lit. f) DSGVO - besondere Kategorien zur Geltendmachung, Ausübung oder
-  Verteidigung von Rechtsansprüchen
+- Art. 9 Abs. 2 lit. f) DSGVO - besondere Kategorien zur Geltendmachung, Ausübung oder Verteidigung von Rechtsansprüchen
 - Art. 10 DSGVO - Daten über strafrechtliche Verurteilungen und Straftaten
 - ZPO, VwGO, SGG, FGO und ArbGG je nach Rechtsweg
 - § 130a ZPO - elektronischer Rechtsverkehr über das besondere elektronische Behördenpostfach

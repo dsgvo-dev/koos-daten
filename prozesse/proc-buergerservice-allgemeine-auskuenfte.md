@@ -17,8 +17,8 @@ daten:
   - id: dstore-vollmacht-vertretung-berechtigung
   - id: dstore-antrag
 regelungen:
-  - '§ 25 VwVfG (Beratungs- und Auskunftspflicht)'
-  - '§ 1 Nds. Verwaltungsverfahrensgesetz (NVwVfG)'
+- '§ 25 VwVfG (Beratungs- und Auskunftspflicht)'
+- '§ 1 Nds. Verwaltungsverfahrensgesetz (NVwVfG)'
 letzte-aktualisierung: 2026-04-06
 ---
 # Bürgerservice: allgemeine Auskünfte

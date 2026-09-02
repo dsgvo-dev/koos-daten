@@ -25,8 +25,7 @@ klassifizierung:
   aufbewahrung:
     frist: dauerhaft (Archiv) oder 30 Jahre nach Abschluss des letzten Verfahrens
     beginn: nach Abschluss des jeweiligen Verfahrens
-    hinweis: Akteneinsicht nach §1 NArchG und auf Antrag (proc-bauaktenarchiv-akteneinsicht-bereitstellung,
-      proc-bauaktenarchiv-akteneinsicht-beantragen)
+    hinweis: Akteneinsicht nach §1 NArchG und auf Antrag (proc-bauaktenarchiv-akteneinsicht-bereitstellung, proc-bauaktenarchiv-akteneinsicht-beantragen)
 letzte-aktualisierung: '2026-08-10'
 ---
 

@@ -14,9 +14,9 @@ daten:
   - id: dstore-gebuehrenbescheid-zahlungsdaten
   - id: dstore-kassenzeichen-buchungsreferenz
 regelungen:
-  - '§§ 1-13 Nds. Kommunalabgabengesetz (NKAG)'
-  - '§ 2 NKAG (Satzungsermächtigung)'
-  - '§§ 155-178 Abgabenordnung (AO) (Steuerfestsetzung)'
+- '§§ 1-13 Nds. Kommunalabgabengesetz (NKAG)'
+- '§ 2 NKAG (Satzungsermächtigung)'
+- '§§ 155-178 Abgabenordnung (AO) (Steuerfestsetzung)'
 letzte-aktualisierung: 2026-04-06
 ---
 # Gebührenbescheid prüfen/Korrektur beantragen

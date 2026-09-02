@@ -29,8 +29,7 @@ regelungen:
 - § 1 Wohngeldgesetz (WoGG)
 - § 22 Absatz 1 Wohngeldgesetz (WoGG)
 - Wohngeldverordnung (WoGV)
-- Allgemeine Verwaltungsvorschrift zur Durchführung des Wohngeldgesetzes (Wohngeld-Verwaltungsvorschrift
-  - WoGVwV)
+- Allgemeine Verwaltungsvorschrift zur Durchführung des Wohngeldgesetzes (Wohngeld-Verwaltungsvorschrift - WoGVwV)
 leika_id: '99107023037000'
 ozg_id: '10092'
 letzte-aktualisierung: '2026-07-10'

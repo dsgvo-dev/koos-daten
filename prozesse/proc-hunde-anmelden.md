@@ -16,8 +16,8 @@ daten:
   - id: dstore-hundechip-transponder
   - id: dstore-hundesteuermarke
 regelungen:
-  - '§§ 1-5 NKAG (Kommunalabgaben/Steuern)'
-  - 'Kommunale Hundesteuersatzung i.V.m. NKAG'
+- '§§ 1-5 NKAG (Kommunalabgaben/Steuern)'
+- 'Kommunale Hundesteuersatzung i.V.m. NKAG'
 letzte-aktualisierung: 2026-04-29
 ---
 # Hunde anmelden

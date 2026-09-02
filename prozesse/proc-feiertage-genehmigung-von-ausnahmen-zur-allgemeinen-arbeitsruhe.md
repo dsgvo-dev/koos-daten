@@ -15,8 +15,8 @@ daten:
   - id: dstore-identitaetsnachweis
   - id: dstore-personenstammdaten
 regelungen:
-  - '§§ 1-5 Nds. Feiertagsgesetz (NFeiertagsG)'
-  - '§ 10 NFeiertagsG (Ausnahmegenehmigungen)'
+- '§§ 1-5 Nds. Feiertagsgesetz (NFeiertagsG)'
+- '§ 10 NFeiertagsG (Ausnahmegenehmigungen)'
 letzte-aktualisierung: 2026-04-06
 ---
 # Feiertage: Genehmigung von Ausnahmen zur allgemeinen Arbeitsruhe

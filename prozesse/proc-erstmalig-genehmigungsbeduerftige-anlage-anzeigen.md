@@ -12,8 +12,8 @@ daten:
   - id: dstore-unternehmens-und-registerdaten
   - id: dstore-identitaetsnachweis
 regelungen:
-  - '§ 67 Abs. 2 Bundes-Immissionsschutzgesetz (BImSchG )'
-  - '4. Bundesimmissionsschutzverordnung (4. BImSchV)'
+- '§ 67 Abs. 2 Bundes-Immissionsschutzgesetz (BImSchG )'
+- '4. Bundesimmissionsschutzverordnung (4. BImSchV)'
 letzte-aktualisierung: 2026-04-06
 ---
 # Erstmalig genehmigungsbedürftige Anlage anzeigen

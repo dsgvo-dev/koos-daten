@@ -13,9 +13,9 @@ daten:
   datenspeicher:
   - id: dstore-entwaesserungsantrag-kanalanschluss
 regelungen:
-  - '§§ 54-62 Wasserhaushaltsgesetz (WHG) (Abwasserbeseitigung)'
-  - 'Nds. Wassergesetz (NWG) §§ 46 ff.'
-  - '§ 60 WHG (Abwasseranlagen)'
+- '§§ 54-62 Wasserhaushaltsgesetz (WHG) (Abwasserbeseitigung)'
+- 'Nds. Wassergesetz (NWG) §§ 46 ff.'
+- '§ 60 WHG (Abwasseranlagen)'
 letzte-aktualisierung: 2026-04-06
 ---
 # Abwassergebühr festsetzen

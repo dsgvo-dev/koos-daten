@@ -13,9 +13,9 @@ daten:
   - id: dstore-bescheid
   - id: dstore-personenstammdaten
 regelungen:
-  - '§§ 63-65 Nds. Schulgesetz (NSchG) (Schulträger)'
-  - '§ 56 NSchG (Schulpflicht)'
-  - '§ 114 NSchG (Schulverwaltung)'
+- '§§ 63-65 Nds. Schulgesetz (NSchG) (Schulträger)'
+- '§ 56 NSchG (Schulpflicht)'
+- '§ 114 NSchG (Schulverwaltung)'
 letzte-aktualisierung: 2026-04-29
 ---
 # Schülerbefreiung genehmigen

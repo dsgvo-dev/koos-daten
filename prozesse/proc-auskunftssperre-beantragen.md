@@ -14,8 +14,8 @@ daten:
   - id: dstore-identitaetsnachweis
   - id: dstore-meldeadresse-wohnsitz
 regelungen:
-  - '§ 51 Bundesmeldegesetz (BMG) (Auskunftssperre)'
-  - '§ 34 BMG (Melderegisterauskunft)'
+- '§ 51 Bundesmeldegesetz (BMG) (Auskunftssperre)'
+- '§ 34 BMG (Melderegisterauskunft)'
 letzte-aktualisierung: 2026-04-06
 ---
 # Auskunftssperre beantragen

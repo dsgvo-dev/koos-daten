@@ -28,10 +28,7 @@ klassifizierung:
   aufbewahrung:
     frist: 10 Tage
     beginn: mit der Aufzeichnung
-    hinweis: Festlegung des Trägers. Wird eine Sequenz zur Abwehr einer konkreten
-      Gefahr oder zur Verfolgung einer Straftat oder Ordnungswidrigkeit benötigt,
-      wird sie vor Fristablauf gesondert gesichert und mit dem Abschluss des Verfahrens
-      gelöscht.
+    hinweis: Festlegung des Trägers. Wird eine Sequenz zur Abwehr einer konkreten Gefahr oder zur Verfolgung einer Straftat oder Ordnungswidrigkeit benötigt, wird sie vor Fristablauf gesondert gesichert und mit dem Abschluss des Verfahrens gelöscht.
 letzte-aktualisierung: '2026-08-10'
 tags:
 - Videoüberwachung

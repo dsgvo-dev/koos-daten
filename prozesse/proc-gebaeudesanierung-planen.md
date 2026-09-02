@@ -14,8 +14,8 @@ daten:
   - id: dstore-verwaltungsakte
   - id: dstore-bescheid
 regelungen:
-  - '§§ 92-100 NKomVG (Kommunale Liegenschaften)'
-  - '§§ 1 ff. GEG (Gebäudeenergiegesetz)'
+- '§§ 92-100 NKomVG (Kommunale Liegenschaften)'
+- '§§ 1 ff. GEG (Gebäudeenergiegesetz)'
 letzte-aktualisierung: 2026-04-29
 ---
 # Gebäudesanierung planen

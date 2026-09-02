@@ -14,9 +14,9 @@ daten:
   - id: dstore-identitaetsnachweis
   - id: dstore-meldeadresse-wohnsitz
 regelungen:
-  - '§ 4 Gesetz über das Ausländerzentralregister (AZR-Gesetz)'
-  - '§ 7 Durchführungsverordnung zum AZR-Gesetz (AZRG-DV)'
-  - 'Allgemeine Verwaltungsvorschrift zum AZR-Gesetz und zur AZRG-DV'
+- '§ 4 Gesetz über das Ausländerzentralregister (AZR-Gesetz)'
+- '§ 7 Durchführungsverordnung zum AZR-Gesetz (AZRG-DV)'
+- 'Allgemeine Verwaltungsvorschrift zum AZR-Gesetz und zur AZRG-DV'
 letzte-aktualisierung: 2026-04-06
 ---
 # Übermittlungssperre beantragen

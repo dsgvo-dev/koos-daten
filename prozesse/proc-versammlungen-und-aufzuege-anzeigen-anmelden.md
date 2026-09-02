@@ -13,8 +13,8 @@ daten:
   - id: dstore-personenstammdaten
   - id: dstore-identitaetsnachweis
 regelungen:
-  - '§§ 1-14 Nds. Versammlungsgesetz (NVersG)'
-  - 'Art. 8 GG (Versammlungsfreiheit)'
+- '§§ 1-14 Nds. Versammlungsgesetz (NVersG)'
+- 'Art. 8 GG (Versammlungsfreiheit)'
 letzte-aktualisierung: 2026-04-06
 ---
 # Versammlungen und Aufzüge anzeigen/anmelden

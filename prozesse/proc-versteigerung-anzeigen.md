@@ -13,8 +13,8 @@ daten:
   - id: dstore-personenstammdaten
   - id: dstore-identitaetsnachweis
 regelungen:
-  - '§ 34b GewO (Versteigerergewerbe)'
-  - 'Versteigererverordnung (VerstV)'
+- '§ 34b GewO (Versteigerergewerbe)'
+- 'Versteigererverordnung (VerstV)'
 letzte-aktualisierung: 2026-04-06
 ---
 # Versteigerung anzeigen

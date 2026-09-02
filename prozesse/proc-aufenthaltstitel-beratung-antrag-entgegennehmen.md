@@ -28,8 +28,7 @@ regelungen:
 - § 81 AufenthG
 - § 6 AZRG
 - § 61a AufenthV
-- § 79 VwVfG
-  - '§ 78 Absatz 7 Satz 2 Gesetz über den Aufenthalt, die Erwerbstätigkeit und die Integration von Ausländern im Bundesgebiet 1) (Aufenthaltsgesetz - AufenthG)'
+- § 79 VwVfG - '§ 78 Absatz 7 Satz 2 Gesetz über den Aufenthalt, die Erwerbstätigkeit und die Integration von Ausländern im Bundesgebiet 1) (Aufenthaltsgesetz - AufenthG)'
 ---
 
 # Aufenthaltstitel: Beratung/Antrag entgegennehmen

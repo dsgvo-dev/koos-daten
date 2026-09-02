@@ -16,8 +16,8 @@ daten:
   - id: dstore-personenstammdaten
   - id: dstore-identitaetsnachweis
 regelungen:
-  - '§ 8 Abs. 2 Luftverkehrsteuergesetz (LuftVStG)'
-  - '§ 214 Abgabenordnung (AO)'
+- '§ 8 Abs. 2 Luftverkehrsteuergesetz (LuftVStG)'
+- '§ 214 Abgabenordnung (AO)'
 letzte-aktualisierung: 2026-04-06
 ---
 # Gewerblicher Güterkraftverkehr: Erlaubnis beantragen

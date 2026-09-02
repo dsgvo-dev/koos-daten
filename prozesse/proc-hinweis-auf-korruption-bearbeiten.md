@@ -11,17 +11,14 @@ daten:
   datenspeicher:
   - id: dstore-hinweismeldung
 regelungen:
-- § 10 HinSchG - Verarbeitung personenbezogener Daten durch die Meldestelle, einschließlich
-  besonderer Kategorien
+- § 10 HinSchG - Verarbeitung personenbezogener Daten durch die Meldestelle, einschließlich besonderer Kategorien
 - § 8 HinSchG - Vertraulichkeitsgebot
 - § 9 HinSchG - abschließende Ausnahmen vom Vertraulichkeitsgebot
 - § 11 HinSchG - Dokumentation der Meldungen, Löschung nach drei Jahren
 - §§ 16 bis 18 HinSchG - Meldekanäle, Verfahren und Aufgaben der internen Meldestelle
 - § 1 NHinMeldG - Einrichtung und Betrieb interner Meldestellen in Niedersachsen
-- § 2 Abs. 1 NHinMeldG - Ausnahme für Kommunen unter 10 000 Einwohnerinnen und Einwohnern
-  sowie mit in der Regel weniger als 50 Beschäftigten
-- § 2 Abs. 2 NHinMeldG - gemeinsame Meldestelle oder Betrauung einer benannten staatlichen
-  Stelle als Dritter nach § 14 Abs. 1 Satz 1 HinSchG
+- § 2 Abs. 1 NHinMeldG - Ausnahme für Kommunen unter 10 000 Einwohnerinnen und Einwohnern sowie mit in der Regel weniger als 50 Beschäftigten
+- § 2 Abs. 2 NHinMeldG - gemeinsame Meldestelle oder Betrauung einer benannten staatlichen Stelle als Dritter nach § 14 Abs. 1 Satz 1 HinSchG
 - Art. 6 Abs. 1 lit. c) DSGVO, Art. 9 Abs. 2 lit. g) DSGVO, Art. 10 DSGVO
 - §§ 331 ff. StGB - materiell-rechtlicher Hintergrund
 leika_id: '99143027000000'

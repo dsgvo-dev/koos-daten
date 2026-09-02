@@ -24,8 +24,7 @@ klassifizierung:
   aufbewahrung:
     frist: 3 Jahre
     beginn: nach Abschluss der Beratung
-    hinweis: Festlegung des Trägers, angelehnt an die regelmäßige Verjährung nach
-      § 195 BGB.
+    hinweis: Festlegung des Trägers, angelehnt an die regelmäßige Verjährung nach § 195 BGB.
 letzte-aktualisierung: '2026-08-10'
 tags:
 - Beratung

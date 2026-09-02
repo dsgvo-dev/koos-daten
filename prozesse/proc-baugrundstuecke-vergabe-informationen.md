@@ -18,9 +18,9 @@ daten:
   - id: dstore-vergabe-auftragsbezug
   - id: dstore-vergabeunterlagen
 regelungen:
-  - '§§ 59 ff. Nds. Bauordnung (NBauO)'
-  - '§§ 29-38 BauGB (Zulässigkeit von Vorhaben)'
-  - '§ 25 VwVfG (Beratungspflicht)'
+- '§§ 59 ff. Nds. Bauordnung (NBauO)'
+- '§§ 29-38 BauGB (Zulässigkeit von Vorhaben)'
+- '§ 25 VwVfG (Beratungspflicht)'
 letzte-aktualisierung: 2026-04-06
 ---
 # Baugrundstücke: Vergabe/Informationen

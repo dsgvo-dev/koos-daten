@@ -18,8 +18,8 @@ daten:
   - id: dstore-personenstammdaten
   - id: dstore-einkommens-und-leistungsdaten
 regelungen:
-  - '§§ 17-22 Nds. Gesetz über die öffentliche Sicherheit und Ordnung (Nds. SOG) (Unterbringung)'
-  - '§§ 67-69 SGB XII (Hilfe bei besonderen sozialen Schwierigkeiten)'
+- '§§ 17-22 Nds. Gesetz über die öffentliche Sicherheit und Ordnung (Nds. SOG) (Unterbringung)'
+- '§§ 67-69 SGB XII (Hilfe bei besonderen sozialen Schwierigkeiten)'
 letzte-aktualisierung: 2026-04-06
 ---
 # Sozialhilfe gewähren

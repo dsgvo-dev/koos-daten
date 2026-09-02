@@ -16,7 +16,7 @@ daten:
   - id: dstore-tierhalterbestand-nutztiere
   - id: dstore-personenstammdaten
 regelungen:
-  - '§ 4 Absatz 1 Gaststättengesetz (GastG)'
+- '§ 4 Absatz 1 Gaststättengesetz (GastG)'
 letzte-aktualisierung: '2026-08-03'
 ---
 # Lebensmittel – Unterrichtungsnachweis

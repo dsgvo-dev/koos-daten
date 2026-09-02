@@ -14,9 +14,9 @@ daten:
   - id: dstore-identitaetsnachweis
   - id: dstore-meldeadresse-wohnsitz
 regelungen:
-  - '§ 33 Beurkundungsgesetz (BeurkG) (Beglaubigung)'
-  - '§ 33 VwVfG (Beglaubigung von Urkunden)'
-  - '§ 1 Nds. VwVfG i.V.m. § 33 VwVfG'
+- '§ 33 Beurkundungsgesetz (BeurkG) (Beglaubigung)'
+- '§ 33 VwVfG (Beglaubigung von Urkunden)'
+- '§ 1 Nds. VwVfG i.V.m. § 33 VwVfG'
 letzte-aktualisierung: 2026-04-06
 ---
 # Dokumente und Kopien beglaubigen

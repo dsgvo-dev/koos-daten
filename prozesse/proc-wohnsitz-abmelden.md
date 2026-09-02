@@ -17,8 +17,7 @@ regelungen:
 - § 17 Absatz 2 Bundesmeldegesetz (BMG)
 - § 21 Absatz 4 Bundesmeldegesetz (BMG)
 - § 24 Absatz 1 Bundesmeldegesetz (BMG)
-- Nummer 17.2 und 21.4 Allgemeine Verwaltungsvorschrift zur Durchführung des Bundesmeldegesetzes
-  (BMGVwV)
+- Nummer 17.2 und 21.4 Allgemeine Verwaltungsvorschrift zur Durchführung des Bundesmeldegesetzes (BMGVwV)
 leika_id: '99115005070000'
 ozg_id: null
 letzte-aktualisierung: '2026-07-10'

@@ -19,8 +19,7 @@ regelungen:
 - § 11 Gewerbeordnung (GewO)
 - § 14 Gewerbeordnung (GewO)
 - § 15 Gewerbeordnung (GewO)
-- Verordnung zur Ausgestaltung des Gewerbeanzeigeverfahrens (Gewerbeanzeigeverordnung
-  - GewAnzV)
+- Verordnung zur Ausgestaltung des Gewerbeanzeigeverfahrens (Gewerbeanzeigeverordnung - GewAnzV)
 leika_id: '99050012071000'
 ozg_id: null
 letzte-aktualisierung: '2026-07-10'

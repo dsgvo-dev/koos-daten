@@ -14,8 +14,8 @@ daten:
   - id: dstore-personenstammdaten
   - id: dstore-staatsangehoerigkeit-aufenthaltsstatus
 regelungen:
-  - '§ 60a Aufenthaltsgesetz (AufenthG) (Vorübergehende Aussetzung der Abschiebung)'
-  - '§ 60b AufenthG (Duldung für Personen mit ungeklärter Identität)'
+- '§ 60a Aufenthaltsgesetz (AufenthG) (Vorübergehende Aussetzung der Abschiebung)'
+- '§ 60b AufenthG (Duldung für Personen mit ungeklärter Identität)'
 letzte-aktualisierung: 2026-04-29
 ---
 # Duldung erteilen

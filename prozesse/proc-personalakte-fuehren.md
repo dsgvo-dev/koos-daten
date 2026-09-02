@@ -14,9 +14,9 @@ daten:
   - id: dstore-lebenslauf-qualifikationsnachweis
   - id: dstore-verwaltungsakte
 regelungen:
-  - '§§ 88-95 Nds. Beamtengesetz (NBG) (Personalakten)'
-  - '§§ 4 ff. BeamtStG (Beamtenverhältnis)'
-  - '§ 85 NKomVG (Personalhoheit)'
+- '§§ 88-95 Nds. Beamtengesetz (NBG) (Personalakten)'
+- '§§ 4 ff. BeamtStG (Beamtenverhältnis)'
+- '§ 85 NKomVG (Personalhoheit)'
 letzte-aktualisierung: 2026-04-29
 ---
 # Personalakte führen

@@ -30,8 +30,7 @@ klassifizierung:
   aufbewahrung:
     frist: solange die Anmeldung gültig ist, längstens zwei Jahre
     beginn: nach Ablauf oder Widerruf der Anmeldung
-    hinweis: '§ 34 Abs. 4 ProstSchG. Die kurze Frist ist Teil des Schutzkonzepts:
-      jede über den Zweck hinausgehende Vorhaltung erhöht das Offenbarungsrisiko.'
+    hinweis: '§ 34 Abs. 4 ProstSchG. Die kurze Frist ist Teil des Schutzkonzepts: jede über den Zweck hinausgehende Vorhaltung erhöht das Offenbarungsrisiko.'
 letzte-aktualisierung: '2026-08-10'
 tags:
 - ProstSchG

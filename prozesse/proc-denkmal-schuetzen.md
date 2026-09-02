@@ -14,9 +14,9 @@ daten:
   - id: dstore-verwaltungsakte
   - id: dstore-bescheid
 regelungen:
-  - '§§ 1-4 Nds. Denkmalschutzgesetz (NDSchG) (Schutz von Kulturdenkmälern)'
-  - '§ 10 NDSchG (Genehmigungspflicht)'
-  - '§ 23 NDSchG (Denkmalinformation)'
+- '§§ 1-4 Nds. Denkmalschutzgesetz (NDSchG) (Schutz von Kulturdenkmälern)'
+- '§ 10 NDSchG (Genehmigungspflicht)'
+- '§ 23 NDSchG (Denkmalinformation)'
 letzte-aktualisierung: 2026-04-29
 ---
 # Denkmal schützen

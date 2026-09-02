@@ -15,9 +15,9 @@ daten:
   datenspeicher:
   - id: dstore-sitzungsprotokoll
 regelungen:
-  - '§§ 58-85 NKomVG (Rat und Ausschüsse)'
-  - '§§ 31-36 NKomVG (Beschlussfassung)'
-  - '§ 64 NKomVG (Öffentlichkeit der Sitzungen)'
+- '§§ 58-85 NKomVG (Rat und Ausschüsse)'
+- '§§ 31-36 NKomVG (Beschlussfassung)'
+- '§ 64 NKomVG (Öffentlichkeit der Sitzungen)'
 letzte-aktualisierung: 2026-04-06
 ---
 # Bürger- und Ratsinformationssystem betreiben

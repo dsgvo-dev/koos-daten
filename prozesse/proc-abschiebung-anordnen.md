@@ -14,8 +14,8 @@ daten:
   - id: dstore-verwaltungsakte
   - id: dstore-staatsangehoerigkeit-aufenthaltsstatus
 regelungen:
-  - '§§ 58-62 Aufenthaltsgesetz (AufenthG) (Abschiebung)'
-  - '§ 59 AufenthG (Androhung der Abschiebung)'
+- '§§ 58-62 Aufenthaltsgesetz (AufenthG) (Abschiebung)'
+- '§ 59 AufenthG (Androhung der Abschiebung)'
 letzte-aktualisierung: 2026-04-29
 ---
 # Abschiebung anordnen

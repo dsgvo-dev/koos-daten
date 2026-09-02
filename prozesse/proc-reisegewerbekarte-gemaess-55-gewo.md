@@ -15,8 +15,8 @@ daten:
   - id: dstore-personenstammdaten
   - id: dstore-identitaetsnachweis
 regelungen:
-  - '§§ 55-60c GewO (Reisegewerbe)'
-  - '§ 55 GewO (Reisegewerbekarte)'
+- '§§ 55-60c GewO (Reisegewerbe)'
+- '§ 55 GewO (Reisegewerbekarte)'
 leika_id: '99050023005000'
 letzte-aktualisierung: '2026-07-28'
 ---

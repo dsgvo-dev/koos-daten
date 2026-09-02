@@ -13,9 +13,9 @@ daten:
   - id: dstore-foerderantrag
   - id: dstore-verwaltungsakte
 regelungen:
-  - '§§ 1 ff. Klimaschutzgesetz Nds. (NKlimaG)'
-  - '§ 1 ff. Klimaschutzprogramm der Bundesregierung'
-  - '§ 11 NKomVG (Kommunale Selbstverwaltung)'
+- '§§ 1 ff. Klimaschutzgesetz Nds. (NKlimaG)'
+- '§ 1 ff. Klimaschutzprogramm der Bundesregierung'
+- '§ 11 NKomVG (Kommunale Selbstverwaltung)'
 letzte-aktualisierung: 2026-04-29
 ---
 # Klimaschutzmaßnahmen

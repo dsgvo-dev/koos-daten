@@ -13,8 +13,8 @@ daten:
   - id: dstore-personenstammdaten
   - id: dstore-identitaetsnachweis
 regelungen:
-  - '§§ 21-22 Waffengesetz (WaffG) (Waffenhandel)'
-  - '§ 4 WaffG (Erlaubnispflicht)'
+- '§§ 21-22 Waffengesetz (WaffG) (Waffenhandel)'
+- '§ 4 WaffG (Erlaubnispflicht)'
 letzte-aktualisierung: 2026-04-06
 ---
 # Waffenbesitzkarte Erstantrag (jagdliche Vereinigungen)

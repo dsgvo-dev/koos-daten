@@ -17,9 +17,9 @@ daten:
   - id: dstore-elternbezug-abstammung
   - id: dstore-registerbezug-personenstand
 regelungen:
-  - '§§ 18-23 Personenstandsgesetz (PStG) (Geburtenregister)'
-  - '§§ 35-38 PStG (Beurkundung der Geburt)'
-  - 'Nds. AVO-PStG'
+- '§§ 18-23 Personenstandsgesetz (PStG) (Geburtenregister)'
+- '§§ 35-38 PStG (Beurkundung der Geburt)'
+- 'Nds. AVO-PStG'
 letzte-aktualisierung: 2026-04-06
 ---
 # Geburt anzeigen

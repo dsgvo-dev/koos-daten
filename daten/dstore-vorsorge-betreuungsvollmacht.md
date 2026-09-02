@@ -26,8 +26,7 @@ klassifizierung:
   aufbewahrung:
     frist: prozessabhängig
     beginn: nach Abschluss des Verfahrens
-    hinweis: Fachlich zu validieren. Vorsorgevollmachten bleiben bis zum Widerruf wirksam;
-      Bestellungen nach dem Betreuungsrecht bis zur Aufhebung durch das Gericht.
+    hinweis: Fachlich zu validieren. Vorsorgevollmachten bleiben bis zum Widerruf wirksam; Bestellungen nach dem Betreuungsrecht bis zur Aufhebung durch das Gericht.
 letzte-aktualisierung: '2026-08-14'
 tags:
 - Vorsorgevollmacht

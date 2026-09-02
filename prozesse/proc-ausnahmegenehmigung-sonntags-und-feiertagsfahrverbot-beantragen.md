@@ -16,7 +16,7 @@ daten:
   - id: dstore-personenstammdaten
   - id: dstore-identitaetsnachweis
 regelungen:
-  - '§ 21a Straßenverkehrs-Ordnung (StVO)'
+- '§ 21a Straßenverkehrs-Ordnung (StVO)'
 letzte-aktualisierung: 2026-04-06
 ---
 # Ausnahmegenehmigung Sonntags- und Feiertagsfahrverbot beantragen

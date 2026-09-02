@@ -15,8 +15,8 @@ daten:
   - id: dstore-bauantragsstatus-bearbeitungsstand
   - id: dstore-fachstellungnahme
 regelungen:
-  - '§§ 81-84 NBauO (Baubeginn, Rohbauabnahme, Schlussabnahme)'
-  - '§ 82 NBauO (Baugenehmigung: Fertigstellungsanzeige)'
+- '§§ 81-84 NBauO (Baubeginn, Rohbauabnahme, Schlussabnahme)'
+- '§ 82 NBauO (Baugenehmigung: Fertigstellungsanzeige)'
 letzte-aktualisierung: 2026-04-29
 ---
 # Bauabnahme durchführen

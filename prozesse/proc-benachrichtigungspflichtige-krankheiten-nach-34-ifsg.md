@@ -12,7 +12,7 @@ daten:
   - id: dstore-infektionsschutzdaten
   - id: dstore-personenstammdaten
 regelungen:
-  - '§ 34 IfSG'
+- '§ 34 IfSG'
 letzte-aktualisierung: 2026-04-06
 ---
 # Benachrichtigungspflichtige Krankheiten nach § 34 IfSG

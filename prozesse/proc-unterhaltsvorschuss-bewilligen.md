@@ -12,8 +12,7 @@ daten:
   - id: dstore-unterhaltszahlungen-ansprueche
   - id: dstore-personenstammdaten
 regelungen:
-- § 1 Gesetz zur Sicherung des Unterhalts von Kindern alleinstehender Mütter und Väter
-  durch Unterhaltsvorschüsse oder -ausfallleistungen (Unterhaltsvorschussgesetz)
+- § 1 Gesetz zur Sicherung des Unterhalts von Kindern alleinstehender Mütter und Väter durch Unterhaltsvorschüsse oder -ausfallleistungen (Unterhaltsvorschussgesetz)
 - § 1612a Absatz 1 Satz 3 Nummer 1, 2 oder 3 Bürgerliches Gesetzbuch (BGB)
 leika_id: '99107021017000'
 ozg_id: '10035'

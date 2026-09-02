@@ -15,9 +15,9 @@ daten:
   - id: dstore-personenstammdaten
   - id: dstore-lebenslauf-qualifikationsnachweis
 regelungen:
-  - '§ 1 Nds. Wirtschaftsförderungsgesetz (NWFG)'
-  - '§ 14 GewO (Gewerbeanzeige)'
-  - '§ 11 NKomVG (Kommunale Selbstverwaltung)'
+- '§ 1 Nds. Wirtschaftsförderungsgesetz (NWFG)'
+- '§ 14 GewO (Gewerbeanzeige)'
+- '§ 11 NKomVG (Kommunale Selbstverwaltung)'
 letzte-aktualisierung: 2026-04-06
 ---
 # Gründungsberatung

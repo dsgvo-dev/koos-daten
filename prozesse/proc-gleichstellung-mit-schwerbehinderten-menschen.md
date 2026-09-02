@@ -13,12 +13,12 @@ daten:
   - id: dstore-personenstammdaten
   - id: dstore-einkommens-und-leistungsdaten
 regelungen:
-  - '§ 168 Sozialgesetzbuch Neuntes Buch (SGB IX)'
-  - '§ 169 Sozialgesetzbuch Neuntes Buch (SGB IX)'
-  - '§ 170 Sozialgesetzbuch Neuntes Buch (SGB IX)'
-  - '§ 171 Sozialgesetzbuch Neuntes Buch (SGB IX)'
-  - '§ 172 Sozialgesetzbuch Neuntes Buch (SGB IX)'
-  - '§ 173 Sozialgesetzbuch Neuntes Buch (SGB IX)'
+- '§ 168 Sozialgesetzbuch Neuntes Buch (SGB IX)'
+- '§ 169 Sozialgesetzbuch Neuntes Buch (SGB IX)'
+- '§ 170 Sozialgesetzbuch Neuntes Buch (SGB IX)'
+- '§ 171 Sozialgesetzbuch Neuntes Buch (SGB IX)'
+- '§ 172 Sozialgesetzbuch Neuntes Buch (SGB IX)'
+- '§ 173 Sozialgesetzbuch Neuntes Buch (SGB IX)'
 letzte-aktualisierung: 2026-04-06
 ---
 # Gleichstellung mit schwerbehinderten Menschen

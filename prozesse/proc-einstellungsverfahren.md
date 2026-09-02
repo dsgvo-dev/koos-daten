@@ -15,9 +15,9 @@ daten:
   - id: dstore-arbeitsverhaeltnis-beschaeftigung
   - id: dstore-verwaltungsakte
 regelungen:
-  - '§§ 10-13 Nds. Beamtengesetz (NBG) (Begründung des Beamtenverhältnisses)'
-  - '§§ 1 ff. TVöD (Geltungsbereich/Einstellung)'
-  - '§ 85 NKomVG (Personalhoheit)'
+- '§§ 10-13 Nds. Beamtengesetz (NBG) (Begründung des Beamtenverhältnisses)'
+- '§§ 1 ff. TVöD (Geltungsbereich/Einstellung)'
+- '§ 85 NKomVG (Personalhoheit)'
 letzte-aktualisierung: 2026-04-29
 ---
 # Einstellungsverfahren

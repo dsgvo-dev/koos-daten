@@ -13,8 +13,8 @@ daten:
   - id: dstore-personenstammdaten
   - id: dstore-einkommens-und-leistungsdaten
 regelungen:
-  - '§ 2 Nds. Sportförderungsgesetz (NSportFöG)'
-  - '§ 11 NKomVG (Kommunale Einrichtungen/Daseinsvorsorge)'
+- '§ 2 Nds. Sportförderungsgesetz (NSportFöG)'
+- '§ 11 NKomVG (Kommunale Einrichtungen/Daseinsvorsorge)'
 letzte-aktualisierung: 2026-04-06
 ---
 # Sportgeräteförderung

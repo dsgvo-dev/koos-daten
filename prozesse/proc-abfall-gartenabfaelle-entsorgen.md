@@ -16,9 +16,9 @@ daten:
   - id: dstore-abfallentsorgungsrhythmus
   - id: dstore-abfallbehaelter-gebuehrenobjekt
 regelungen:
-  - '§§ 17-21 Kreislaufwirtschaftsgesetz (KrWG) (Überlassungspflichten)'
-  - '§ 20 KrWG (Pflichten der öffentlich-rechtlichen Entsorgungsträger)'
-  - '§§ 11-12 Nds. Abfallgesetz (NAbfG)'
+- '§§ 17-21 Kreislaufwirtschaftsgesetz (KrWG) (Überlassungspflichten)'
+- '§ 20 KrWG (Pflichten der öffentlich-rechtlichen Entsorgungsträger)'
+- '§§ 11-12 Nds. Abfallgesetz (NAbfG)'
 leika_id: '99001003004001'
 letzte-aktualisierung: '2026-07-28'
 ---

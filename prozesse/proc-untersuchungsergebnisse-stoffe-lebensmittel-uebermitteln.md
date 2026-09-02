@@ -1,7 +1,6 @@
 ---
 id: proc-untersuchungsergebnisse-stoffe-lebensmittel-uebermitteln
-titel: 'Untersuchungsergebnisse: gesundheitlich nicht erwünschte Stoffe in/auf Lebensmitteln
-  übermitteln'
+titel: 'Untersuchungsergebnisse: gesundheitlich nicht erwünschte Stoffe in/auf Lebensmitteln übermitteln'
 status: aktiv
 zustaendigeEinheit: oe-amt-71
 zustaendigeRolle: ''

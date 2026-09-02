@@ -28,9 +28,7 @@ klassifizierung:
   aufbewahrung:
     frist: Rohdaten unverzüglich nach Abschluss der Auswertung
     beginn: Auswertungsabschluss
-    hinweis: Anonymisierte Ergebnisse und Auswertungsbericht nach Dienstvereinbarung,
-      in der Regel 3-10 Jahre. Bei externem Institut Löschung der Rohdaten nach
-      Art. 28 Abs. 3 lit. g DSGVO.
+    hinweis: Anonymisierte Ergebnisse und Auswertungsbericht nach Dienstvereinbarung, in der Regel 3-10 Jahre. Bei externem Institut Löschung der Rohdaten nach Art. 28 Abs. 3 lit. g DSGVO.
 letzte-aktualisierung: '2026-08-29'
 tags:
 - Befragung

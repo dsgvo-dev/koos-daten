@@ -12,8 +12,8 @@ daten:
   - id: dstore-verwaltungsakte
   - id: dstore-bescheinigung
 regelungen:
-  - '§§ 1 ff. Nds. Hochschulgesetz (NHG)'
-  - '§ 23 ff. LHO Nds. (Zuwendungen)'
+- '§§ 1 ff. Nds. Hochschulgesetz (NHG)'
+- '§ 23 ff. LHO Nds. (Zuwendungen)'
 letzte-aktualisierung: 2026-04-29
 ---
 # Forschungsprojekt begleiten

@@ -15,8 +15,8 @@ daten:
   - id: dstore-verstorbenenhinweis-melderegister
   - id: dstore-registerbezug-personenstand
 regelungen:
-  - §§ 28 ff. Personenstandsgesetz (PStG)
-  - § 38 Personenstandsverordnung (PStV)
+- §§ 28 ff. Personenstandsgesetz (PStG)
+- § 38 Personenstandsverordnung (PStV)
 letzte-aktualisierung: 2026-04-06
 ---
 

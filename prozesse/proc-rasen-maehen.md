@@ -11,8 +11,8 @@ daten:
   datenspeicher:
   - id: dstore-verwaltungsakte
 regelungen:
-  - '§§ 97-100 NKomVG (Kommunale Grünanlagen/Liegenschaften)'
-  - '§ 11 NKomVG (Kommunale Einrichtungen)'
+- '§§ 97-100 NKomVG (Kommunale Grünanlagen/Liegenschaften)'
+- '§ 11 NKomVG (Kommunale Einrichtungen)'
 letzte-aktualisierung: 2026-04-29
 ---
 # Rasen mähen

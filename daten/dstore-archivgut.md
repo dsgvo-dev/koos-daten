@@ -23,12 +23,10 @@ klassifizierung:
     artikel: § 3
   - gesetz: DSGVO
     artikel: Art. 9 Abs. 2 lit. j
-    titel: Öffnungsklausel für Archivzwecke im öffentlichen Interesse; die Erlaubnis
-      selbst folgt aus § 3b NArchG
+    titel: Öffnungsklausel für Archivzwecke im öffentlichen Interesse; die Erlaubnis selbst folgt aus § 3b NArchG
   - gesetz: NArchG
     artikel: § 3b
-    titel: Verarbeitung besonderer Kategorien personenbezogener Daten ist zulässig;
-      sie berührt stets schutzwürdige Interessen der betroffenen Person
+    titel: Verarbeitung besonderer Kategorien personenbezogener Daten ist zulässig; sie berührt stets schutzwürdige Interessen der betroffenen Person
   - gesetz: NArchG
     artikel: § 7 Abs. 3 Satz 2
     titel: Geltung der §§ 3a, 3b, 4 Satz 1 und 5 bis 6a für kommunale Archive
@@ -45,12 +43,7 @@ klassifizierung:
     frist: dauerhaft
     beginn: mit Übernahme in das Archiv
     hinweis: >-
-      Archivgut wird nicht geloescht, sondern nach § 4 Satz 1 NArchG auf Dauer und
-      sicher verwahrt. Fuer die Nutzung gelten die Schutzfristen des § 5 Abs. 2 NArchG:
-      30 Jahre nach der letzten inhaltlichen Bearbeitung, 50 Jahre bei besonders
-      geheimhaltungsbeduerftigem Schriftgut, bei personenbezogenem Archivgut fruehestens
-      10 Jahre nach dem Tod der betroffenen Person oder, wenn das Sterbedatum nicht
-      feststellbar ist, 100 Jahre nach ihrer Geburt.
+      Archivgut wird nicht geloescht, sondern nach § 4 Satz 1 NArchG auf Dauer und sicher verwahrt. Fuer die Nutzung gelten die Schutzfristen des § 5 Abs. 2 NArchG: 30 Jahre nach der letzten inhaltlichen Bearbeitung, 50 Jahre bei besonders geheimhaltungsbeduerftigem Schriftgut, bei personenbezogenem Archivgut fruehestens 10 Jahre nach dem Tod der betroffenen Person oder, wenn das Sterbedatum nicht feststellbar ist, 100 Jahre nach ihrer Geburt.
 letzte-aktualisierung: '2026-08-15'
 tags:
 - Archivgut

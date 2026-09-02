@@ -13,8 +13,8 @@ daten:
   - id: dstore-genehmigung
   - id: dstore-bescheid
 regelungen:
-  - '§§ 1-8 UrhG (Urheberrecht)'
-  - '§ 11 NKomVG (Kommunale Kultureinrichtungen)'
+- '§§ 1-8 UrhG (Urheberrecht)'
+- '§ 11 NKomVG (Kommunale Kultureinrichtungen)'
 letzte-aktualisierung: 2026-04-29
 ---
 # Ausstellungslizenz erteilen

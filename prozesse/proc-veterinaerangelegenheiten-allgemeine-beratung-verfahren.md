@@ -17,9 +17,9 @@ daten:
   - id: dstore-tiertransportgenehmigung
   - id: dstore-wildursprungsschein
 regelungen:
-  - '§§ 11 ff. Tierschutzgesetz (TierSchG)'
-  - '§ 1 Nds. Gesetz über das Halten gefährlicher Tiere (GefTierG Nds.)'
-  - 'BGB §§ 90a, 965 ff. (Tierfund)'
+- '§§ 11 ff. Tierschutzgesetz (TierSchG)'
+- '§ 1 Nds. Gesetz über das Halten gefährlicher Tiere (GefTierG Nds.)'
+- 'BGB §§ 90a, 965 ff. (Tierfund)'
 letzte-aktualisierung: 2026-04-06
 ---
 # Veterinärangelegenheiten (allgemeine Beratung/Verfahren)

@@ -13,8 +13,8 @@ daten:
   - id: dstore-personenstammdaten
   - id: dstore-verwaltungsakte
 regelungen:
-  - '§§ 1 ff. Statistikgesetz Nds. (NStatG)'
-  - '§ 11 NKomVG (Kommunale Selbstverwaltung)'
+- '§§ 1 ff. Statistikgesetz Nds. (NStatG)'
+- '§ 11 NKomVG (Kommunale Selbstverwaltung)'
 letzte-aktualisierung: 2026-04-29
 ---
 # Bevölkerungsstatistik

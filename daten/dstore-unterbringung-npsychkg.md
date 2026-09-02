@@ -22,11 +22,9 @@ klassifizierung:
   - gesetz: DSGVO
     artikel: Art. 9 Abs. 2 lit. b, lit. g, lit. i
   - gesetz: NPsychKG
-    artikel: § 33 (besonders schutzwürdige Daten — bereichsspezifische Erlaubnis für
-      Daten nach Art. 9 Abs. 1 DSGVO und berufs- oder amtsgeheimnisgeschützte Daten)
+    artikel: § 33 (besonders schutzwürdige Daten — bereichsspezifische Erlaubnis für Daten nach Art. 9 Abs. 1 DSGVO und berufs- oder amtsgeheimnisgeschützte Daten)
   - gesetz: NPsychKG
-    artikel: § 16 (sofortige Unterbringung), §§ 17-29 (Unterbringung durch Verwaltungsbehörde,
-      gerichtliches Verfahren)
+    artikel: § 16 (sofortige Unterbringung), §§ 17-29 (Unterbringung durch Verwaltungsbehörde, gerichtliches Verfahren)
   - gesetz: FamFG
     artikel: §§ 312 ff. (Verfahren in Unterbringungssachen)
   aufbewahrung:

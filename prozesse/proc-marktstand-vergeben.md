@@ -14,9 +14,9 @@ daten:
   - id: dstore-verwaltungsakte
   - id: dstore-bescheid
 regelungen:
-  - '§ 68 GewO (Jahrmärkte/Volksfeste)'
-  - '§ 69 GewO (Marktfestsetzung)'
-  - 'Nds. kommunale Marktsatzung'
+- '§ 68 GewO (Jahrmärkte/Volksfeste)'
+- '§ 69 GewO (Marktfestsetzung)'
+- 'Nds. kommunale Marktsatzung'
 letzte-aktualisierung: 2026-04-29
 ---
 # Marktstand vergeben

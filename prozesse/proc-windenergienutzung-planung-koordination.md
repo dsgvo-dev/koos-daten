@@ -14,9 +14,9 @@ daten:
   - id: dstore-bebauungsplan
   - id: dstore-grundstuecksdaten
 regelungen:
-  - '§§ 4-19 BImSchG (Genehmigung von Windenergieanlagen)'
-  - '§ 35 BauGB (Bauen im Außenbereich)'
-  - '§§ 1 ff. EEG (Erneuerbares-Energien-Gesetz)'
+- '§§ 4-19 BImSchG (Genehmigung von Windenergieanlagen)'
+- '§ 35 BauGB (Bauen im Außenbereich)'
+- '§§ 1 ff. EEG (Erneuerbares-Energien-Gesetz)'
 letzte-aktualisierung: 2026-04-06
 ---
 # Windenergienutzung: Planung/Koordination

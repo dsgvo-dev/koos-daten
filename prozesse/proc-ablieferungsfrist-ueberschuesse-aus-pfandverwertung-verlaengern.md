@@ -13,7 +13,7 @@ daten:
   - id: dstore-personenstammdaten
   - id: dstore-identitaetsnachweis
 regelungen:
-  - '§ 11 Absatz 1 Satz 1 Pfandleiherverordnung (PfandlV)'
+- '§ 11 Absatz 1 Satz 1 Pfandleiherverordnung (PfandlV)'
 letzte-aktualisierung: 2026-04-06
 ---
 # Ablieferungsfrist Überschüsse aus Pfandverwertung verlängern

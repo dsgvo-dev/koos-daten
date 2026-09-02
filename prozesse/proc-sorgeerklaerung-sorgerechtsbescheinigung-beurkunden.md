@@ -17,11 +17,11 @@ daten:
   - id: dstore-sorgerechtsnachweis
   - id: dstore-personenstammdaten
 regelungen:
-  - '§1626a Bürgerliches Gesetzbuch (BGB)'
-  - '§1626 b Bürgerliches Gesetzbuch (BGB)'
-  - '§1626 c Bürgerliches Gesetzbuch (BGB)'
-  - '§ 1626d Absatz 1 Bürgerliches Gesetzbuch (BGB)'
-  - '§ 59 Sozialgesetzbuch Achtes Buch (SGB VIII)'
+- '§1626a Bürgerliches Gesetzbuch (BGB)'
+- '§1626 b Bürgerliches Gesetzbuch (BGB)'
+- '§1626 c Bürgerliches Gesetzbuch (BGB)'
+- '§ 1626d Absatz 1 Bürgerliches Gesetzbuch (BGB)'
+- '§ 59 Sozialgesetzbuch Achtes Buch (SGB VIII)'
 letzte-aktualisierung: 2026-04-06
 ---
 # Sorgeerklärung (Sorgerechtsbescheinigung) beurkunden

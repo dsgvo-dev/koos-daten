@@ -12,8 +12,8 @@ daten:
   - id: dstore-personenstammdaten
   - id: dstore-beschwerde-anregungsdaten
 regelungen:
-  - 'Art. 17 Grundgesetz (GG) (Petitionsrecht)'
-  - 'Art. 25 Nds. Verfassung (Petitionsrecht)'
+- 'Art. 17 Grundgesetz (GG) (Petitionsrecht)'
+- 'Art. 25 Nds. Verfassung (Petitionsrecht)'
 letzte-aktualisierung: 2026-04-06
 ---
 # Petitionen einreichen: Annahme und Weiterleitung

@@ -16,9 +16,9 @@ daten:
   - id: dstore-betriebsdaten
   - id: dstore-umweltdaten
 regelungen:
-  - '§§ 36-37 Infektionsschutzgesetz (IfSG) (Trinkwasser)'
-  - 'Trinkwasserverordnung (TrinkwV)'
-  - '§§ 8-13 WHG'
+- '§§ 36-37 Infektionsschutzgesetz (IfSG) (Trinkwasser)'
+- 'Trinkwasserverordnung (TrinkwV)'
+- '§§ 8-13 WHG'
 letzte-aktualisierung: 2026-04-06
 ---
 # Anzeige von Trinkwasseranlagen und Nicht-Trinkwasseranlagen

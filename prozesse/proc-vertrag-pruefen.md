@@ -12,9 +12,9 @@ daten:
   - id: dstore-verwaltungsakte
   - id: dstore-vergabe-auftragsbezug
 regelungen:
-  - '§§ 145-157 BGB (Vertragsschluss)'
-  - '§§ 97-100 NKomVG'
-  - '§§ 1 ff. VgV (bei öffentlichen Beschaffungen)'
+- '§§ 145-157 BGB (Vertragsschluss)'
+- '§§ 97-100 NKomVG'
+- '§§ 1 ff. VgV (bei öffentlichen Beschaffungen)'
 letzte-aktualisierung: 2026-04-29
 ---
 # Vertrag prüfen

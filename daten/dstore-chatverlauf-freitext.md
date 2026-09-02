@@ -28,8 +28,7 @@ klassifizierung:
   aufbewahrung:
     frist: 30 Tage
     beginn: nach Ende der Konversation
-    hinweis: Kurze Frist, weil der Inhalt nicht steuerbar ist. Eine längere Vorhaltung
-      vergrößert nur die Menge unkontrolliert mitgeteilter Daten.
+    hinweis: Kurze Frist, weil der Inhalt nicht steuerbar ist. Eine längere Vorhaltung vergrößert nur die Menge unkontrolliert mitgeteilter Daten.
 letzte-aktualisierung: '2026-08-10'
 tags:
 - Chatbot

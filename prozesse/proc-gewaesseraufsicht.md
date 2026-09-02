@@ -11,8 +11,8 @@ daten:
   datenspeicher:
   - id: dstore-entwaesserungsantrag-kanalanschluss
 regelungen:
-  - §§ 100 und 101 Gesetz zur Ordnung des Wasserhaushalts (WHG)
-  - § 128 Niedersächsisches Wassergesetz (NWG)
+- §§ 100 und 101 Gesetz zur Ordnung des Wasserhaushalts (WHG)
+- § 128 Niedersächsisches Wassergesetz (NWG)
 letzte-aktualisierung: 2026-04-06
 ---
 # Gewässeraufsicht

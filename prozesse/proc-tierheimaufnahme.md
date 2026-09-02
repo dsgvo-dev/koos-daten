@@ -13,9 +13,9 @@ daten:
   - id: dstore-tierhalterbestand-nutztiere
   - id: dstore-verwaltungsakte
 regelungen:
-  - '§§ 11-16 TierSchG (Tierschutz-Erlaubnispflicht)'
-  - '§ 2 TierSchG (Tierpflege)'
-  - '§ 965 ff. BGB (Fund)'
+- '§§ 11-16 TierSchG (Tierschutz-Erlaubnispflicht)'
+- '§ 2 TierSchG (Tierpflege)'
+- '§ 965 ff. BGB (Fund)'
 letzte-aktualisierung: 2026-04-29
 ---
 # Tierheimaufnahme

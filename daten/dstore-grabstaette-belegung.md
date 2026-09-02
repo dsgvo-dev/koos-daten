@@ -24,8 +24,7 @@ klassifizierung:
   aufbewahrung:
     frist: bis zum Ablauf des Nutzungsrechts, danach 10 Jahre
     beginn: nach Ablauf oder Rückgabe des Nutzungsrechts
-    hinweis: Die längere Vorhaltung dient der Klärung von Nutzungsrechten bei Rückfragen
-      von Angehörigen; Festlegung des Trägers.
+    hinweis: Die längere Vorhaltung dient der Klärung von Nutzungsrechten bei Rückfragen von Angehörigen; Festlegung des Trägers.
 letzte-aktualisierung: '2026-08-04'
 tags:
 - Friedhof

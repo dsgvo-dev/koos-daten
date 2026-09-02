@@ -14,9 +14,9 @@ daten:
   - id: dstore-kontaktdaten
   - id: dstore-person
 regelungen:
-  - § 30 Gesetz über Naturschutz und Landschaftspflege (BNatSchG)
-  - § 24 Niedersächsisches Naturschutzgesetz (NNatSchG)
-  - § 14 Niedersächsisches Naturschutzgesetz (NNatSchG)
+- § 30 Gesetz über Naturschutz und Landschaftspflege (BNatSchG)
+- § 24 Niedersächsisches Naturschutzgesetz (NNatSchG)
+- § 14 Niedersächsisches Naturschutzgesetz (NNatSchG)
 letzte-aktualisierung: 2026-04-06
 ---
 # Gesetzlicher Biotopschutz

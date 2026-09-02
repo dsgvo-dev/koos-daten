@@ -13,9 +13,9 @@ daten:
   datenspeicher:
   - id: dstore-fischereischein-sachkunde
 regelungen:
-  - '§§ 1-13 Nds. Kommunalabgabengesetz (NKAG)'
-  - '§ 2 NKAG (Satzungsermächtigung)'
-  - '§§ 155-178 Abgabenordnung (AO) (Steuerfestsetzung)'
+- '§§ 1-13 Nds. Kommunalabgabengesetz (NKAG)'
+- '§ 2 NKAG (Satzungsermächtigung)'
+- '§§ 155-178 Abgabenordnung (AO) (Steuerfestsetzung)'
 letzte-aktualisierung: 2026-04-06
 ---
 # Jagdsteuer/sonstige kommunale Abgaben (Hinweis/Weiterleitung)

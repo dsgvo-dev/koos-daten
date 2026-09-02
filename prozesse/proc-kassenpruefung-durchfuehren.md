@@ -14,9 +14,9 @@ daten:
   - id: dstore-kassenzeichen-buchungsreferenz
   - id: dstore-verwaltungsakte
 regelungen:
-  - '§§ 110-124 NKomVG (Haushaltswirtschaft)'
-  - '§ 113 NKomVG (Haushaltsplan)'
-  - '§§ 1 ff. Gemeindehaushalts- und -kassenverordnung Nds. (GemHKVO)'
+- '§§ 110-124 NKomVG (Haushaltswirtschaft)'
+- '§ 113 NKomVG (Haushaltsplan)'
+- '§§ 1 ff. Gemeindehaushalts- und -kassenverordnung Nds. (GemHKVO)'
 letzte-aktualisierung: 2026-04-29
 ---
 # Kassenprüfung durchführen

@@ -13,8 +13,8 @@ daten:
   - id: dstore-verwaltungsakte
   - id: dstore-betriebsdaten
 regelungen:
-  - '§§ 29-46 Messstellenbetriebsgesetz (MsbG)'
-  - '§ 21b EnWG (Messeinrichtungen)'
+- '§§ 29-46 Messstellenbetriebsgesetz (MsbG)'
+- '§ 21b EnWG (Messeinrichtungen)'
 letzte-aktualisierung: 2026-04-29
 ---
 # Lastgangmessung einrichten

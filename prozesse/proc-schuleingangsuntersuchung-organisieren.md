@@ -14,8 +14,8 @@ daten:
   - id: dstore-personenstammdaten
   - id: dstore-amtsaerztliches-zeugnis
 regelungen:
-  - '§ 5 Nds. Gesetz über den öffentlichen Gesundheitsdienst (NGöGD)'
-  - '§ 64 Nds. Schulgesetz (NSchG) (Schulaufnahme)'
+- '§ 5 Nds. Gesetz über den öffentlichen Gesundheitsdienst (NGöGD)'
+- '§ 64 Nds. Schulgesetz (NSchG) (Schulaufnahme)'
 letzte-aktualisierung: 2026-04-06
 ---
 # Schuleingangsuntersuchung organisieren

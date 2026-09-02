@@ -16,9 +16,9 @@ daten:
   - id: dstore-kontaktdaten
   - id: dstore-personenstammdaten
 regelungen:
-  - '§§ 1-3 Nds. Gleichberechtigungsgesetz (NGG)'
-  - '§ 1 Allgemeines Gleichbehandlungsgesetz (AGG)'
-  - '§ 2 NGG (Frauenförderung)'
+- '§§ 1-3 Nds. Gleichberechtigungsgesetz (NGG)'
+- '§ 1 Allgemeines Gleichbehandlungsgesetz (AGG)'
+- '§ 2 NGG (Frauenförderung)'
 letzte-aktualisierung: 2026-04-06
 ---
 # Gleichstellungsplan erstellen

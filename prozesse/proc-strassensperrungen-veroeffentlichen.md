@@ -14,9 +14,9 @@ daten:
   - id: dstore-sondernutzung-oeffentlicher-raum
   - id: dstore-verwaltungsakte
 regelungen:
-  - '§§ 9-11 Nds. Straßengesetz (NStrG) (Straßenbaulast)'
-  - '§ 17 NStrG (Straßenverkehrspflicht)'
-  - '§ 3 NStrG (Einteilung der Öffentlichen Straßen)'
+- '§§ 9-11 Nds. Straßengesetz (NStrG) (Straßenbaulast)'
+- '§ 17 NStrG (Straßenverkehrspflicht)'
+- '§ 3 NStrG (Einteilung der Öffentlichen Straßen)'
 letzte-aktualisierung: 2026-04-06
 ---
 # Straßensperrungen veröffentlichen

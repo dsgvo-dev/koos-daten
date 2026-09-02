@@ -14,8 +14,8 @@ daten:
   - id: dstore-verwaltungsakte
   - id: dstore-grundstuecks-pachtverhaeltnis
 regelungen:
-  - '§ 11 BauGB (Städtebaulicher Vertrag)'
-  - '§§ 1 ff. VgV (sofern Beschaffungselemente enthalten)'
+- '§ 11 BauGB (Städtebaulicher Vertrag)'
+- '§§ 1 ff. VgV (sofern Beschaffungselemente enthalten)'
 letzte-aktualisierung: 2026-04-29
 ---
 # Städtebaulicher Vertrag

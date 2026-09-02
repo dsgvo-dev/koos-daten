@@ -18,9 +18,9 @@ daten:
   - id: dstore-marktveranstaltungsdaten
   - id: dstore-gewerbedaten
 regelungen:
-  - '§ 55a Absatz 1 Nummer 1 Gewerbeordnung (GewO)'
-  - '§ 55a GewO - Einzelnorm (gesetze-im-internet.de)'
-  - '§ 56 Gewerbeordnung'
+- '§ 55a Absatz 1 Nummer 1 Gewerbeordnung (GewO)'
+- '§ 55a GewO - Einzelnorm (gesetze-im-internet.de)'
+- '§ 56 Gewerbeordnung'
 letzte-aktualisierung: 2026-04-06
 ---
 # Erlaubnis zum Verkauf von Waren auf Messen, Festen und zu besonderen Anlässen

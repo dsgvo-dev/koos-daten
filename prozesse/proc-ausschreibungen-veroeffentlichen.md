@@ -15,10 +15,10 @@ daten:
   datenspeicher:
   - id: dstore-vergabe-auftragsbezug
 regelungen:
-  - '§§ 97-184 GWB (Vergaberecht)'
-  - '§§ 1 ff. Vergabeverordnung (VgV)'
-  - '§§ 1 ff. Unterschwellenvergabeordnung (UVgO)'
-  - '§§ 1 ff. Nds. Tariftreue- und Vergabegesetz (NTVergG)'
+- '§§ 97-184 GWB (Vergaberecht)'
+- '§§ 1 ff. Vergabeverordnung (VgV)'
+- '§§ 1 ff. Unterschwellenvergabeordnung (UVgO)'
+- '§§ 1 ff. Nds. Tariftreue- und Vergabegesetz (NTVergG)'
 letzte-aktualisierung: 2026-04-06
 ---
 # Ausschreibungen veröffentlichen

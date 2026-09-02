@@ -14,8 +14,7 @@ daten:
   - id: dstore-betriebsdaten
   - id: dstore-umweltdaten
 regelungen:
-- § 40 Absatz 4 Verordnung über Anlagen zum Umgang mit wassergefährdenden Stoffen
-  (AwSV)
+- § 40 Absatz 4 Verordnung über Anlagen zum Umgang mit wassergefährdenden Stoffen (AwSV)
 leika_id: '99129008037000'
 ozg_id: '10750'
 letzte-aktualisierung: '2026-07-10'

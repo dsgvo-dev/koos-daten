@@ -17,9 +17,7 @@ daten:
   - id: dstore-unternehmens-und-registerdaten
   - id: dstore-lebenslauf-qualifikationsnachweis
 regelungen:
-- § 16 Absatz 3 Satz 1 Fahrzeug-Zulassungsverordnung (FZV) - Prüfungsfahrten im Rahmen von
-  Hauptuntersuchung, Sicherheitsprüfung, Begutachtung nach § 23 StVZO und Untersuchung nach
-  § 5 FZV
+- § 16 Absatz 3 Satz 1 Fahrzeug-Zulassungsverordnung (FZV) - Prüfungsfahrten im Rahmen von Hauptuntersuchung, Sicherheitsprüfung, Begutachtung nach § 23 StVZO und Untersuchung nach § 5 FZV
 - § 23 Straßenverkehrs-Zulassungs-Ordnung (StVZO) - Begutachtung
 - § 6 Straßenverkehrsgesetz (StVG) - Fahrzeugregister
 leika_id: '99036033069000'

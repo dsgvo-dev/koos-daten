@@ -16,9 +16,9 @@ daten:
   - id: dstore-personenstammdaten
   - id: dstore-identitaetsnachweis
 regelungen:
-  - '§ 35 GewO (Gewerbeuntersagung)'
-  - '§ 14 GewO (Gewerbeanzeige)'
-  - '§ 15 GewO (Empfangsbescheinigung)'
+- '§ 35 GewO (Gewerbeuntersagung)'
+- '§ 14 GewO (Gewerbeanzeige)'
+- '§ 15 GewO (Empfangsbescheinigung)'
 letzte-aktualisierung: 2026-04-06
 ---
 # Gewerbeuntersagung prüfen/veranlassen

@@ -15,8 +15,8 @@ daten:
   - id: dstore-tierhalterbestand-nutztiere
   - id: dstore-personenstammdaten
 regelungen:
-  - '§ 3 Tierische Lebensmittel-Hygieneverordnung (Tier-LMHV)'
-  - 'EU-Verordnung (EG) Nr. 853/2004 (Lebensmittelhygiene)'
+- '§ 3 Tierische Lebensmittel-Hygieneverordnung (Tier-LMHV)'
+- 'EU-Verordnung (EG) Nr. 853/2004 (Lebensmittelhygiene)'
 letzte-aktualisierung: 2026-04-06
 ---
 # Hausschlachtung (Anzeige/Verfahren)

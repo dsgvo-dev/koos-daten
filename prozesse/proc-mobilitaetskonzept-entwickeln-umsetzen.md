@@ -15,8 +15,8 @@ daten:
   datenspeicher:
   - id: dstore-sondernutzung-oeffentlicher-raum
 regelungen:
-  - '§§ 1-8 Personenbeförderungsgesetz (PBefG) (ÖPNV-Grundsätze)'
-  - '§§ 1-5 NNVG (Nds. Nahverkehrsgesetz)'
+- '§§ 1-8 Personenbeförderungsgesetz (PBefG) (ÖPNV-Grundsätze)'
+- '§§ 1-5 NNVG (Nds. Nahverkehrsgesetz)'
 letzte-aktualisierung: 2026-04-06
 ---
 # Mobilitätskonzept entwickeln/umsetzen

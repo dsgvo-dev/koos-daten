@@ -14,9 +14,9 @@ daten:
   - id: dstore-infektionsschutzdaten
   - id: dstore-personenstammdaten
 regelungen:
-  - '§§ 6-9 Infektionsschutzgesetz (IfSG) (Meldepflichten)'
-  - '§ 6 IfSG (Namentliche Meldepflicht)'
-  - '§ 25 IfSG (Ermittlungen)'
+- '§§ 6-9 Infektionsschutzgesetz (IfSG) (Meldepflichten)'
+- '§ 6 IfSG (Namentliche Meldepflicht)'
+- '§ 25 IfSG (Ermittlungen)'
 letzte-aktualisierung: 2026-04-29
 ---
 # Tuberkulose-Untersuchung

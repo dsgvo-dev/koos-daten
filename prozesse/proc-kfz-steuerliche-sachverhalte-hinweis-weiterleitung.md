@@ -15,8 +15,8 @@ daten:
   - id: dstore-fahrzeugnutzungserklaerung
   - id: dstore-personenstammdaten
 regelungen:
-  - '§§ 1-14 Kraftfahrzeugsteuergesetz (KraftStG)'
-  - '§ 2 KraftStG (Steuerpflicht)'
+- '§§ 1-14 Kraftfahrzeugsteuergesetz (KraftStG)'
+- '§ 2 KraftStG (Steuerpflicht)'
 letzte-aktualisierung: 2026-04-06
 ---
 # Kfz-Steuerliche Sachverhalte (Hinweis/Weiterleitung)

@@ -18,9 +18,9 @@ daten:
   - id: dstore-feuerwehrzufahrt-aufstellflaechen
   - id: dstore-loeschwasserversorgung
 regelungen:
-  - '§§ 59-80 Nds. Bauordnung (NBauO) (Baugenehmigungsverfahren)'
-  - '§§ 29-38 BauGB (Zulässigkeit von Vorhaben)'
-  - '§ 64 NBauO (Baugenehmigung Sonderbauten)'
+- '§§ 59-80 Nds. Bauordnung (NBauO) (Baugenehmigungsverfahren)'
+- '§§ 29-38 BauGB (Zulässigkeit von Vorhaben)'
+- '§ 64 NBauO (Baugenehmigung Sonderbauten)'
 letzte-aktualisierung: 2026-04-06
 ---
 # Baugenehmigung Sonderbauten (§ 64 NBauO) erteilen

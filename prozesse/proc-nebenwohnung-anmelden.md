@@ -15,8 +15,8 @@ daten:
   - id: dstore-personenstammdaten
   - id: dstore-identitaetsnachweis
 regelungen:
-  - '§§ 21-22 Bundesmeldegesetz (BMG) (Haupt- und Nebenwohnung)'
-  - '§ 17 BMG (Anmeldepflicht)'
+- '§§ 21-22 Bundesmeldegesetz (BMG) (Haupt- und Nebenwohnung)'
+- '§ 17 BMG (Anmeldepflicht)'
 letzte-aktualisierung: 2026-04-06
 ---
 # Nebenwohnung anmelden

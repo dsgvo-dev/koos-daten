@@ -13,11 +13,8 @@ daten:
   - id: dstore-identitaetsnachweis
   - id: dstore-personenstammdaten
 regelungen:
-- § 19 Gesetz zum Schutz vor schädlichen Umwelteinwirkungen durch Luftverunreinigungen,
-  Geräusche, Erschütterungen und ähnliche Vorgänge (Bundes-Immissionsschutzgesetz
-  BImSchG)
-- Vierte Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes (Verordnung
-  über genehmigungsbedürftige Anlagen - 4. BImSchV) Anhang 1
+- § 19 Gesetz zum Schutz vor schädlichen Umwelteinwirkungen durch Luftverunreinigungen, Geräusche, Erschütterungen und ähnliche Vorgänge (Bundes-Immissionsschutzgesetz BImSchG)
+- Vierte Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes (Verordnung über genehmigungsbedürftige Anlagen - 4. BImSchV) Anhang 1
 leika_id: '99063014006000'
 ozg_id: null
 letzte-aktualisierung: '2026-07-10'

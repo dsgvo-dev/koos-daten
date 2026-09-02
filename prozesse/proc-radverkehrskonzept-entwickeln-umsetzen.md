@@ -15,9 +15,9 @@ daten:
   datenspeicher:
   - id: dstore-sondernutzung-oeffentlicher-raum
 regelungen:
-  - '§ 2 StVO (Fahrstreifen für Radfahrer)'
-  - '§§ 9-11 NStrG (Straßenbaulast)'
-  - '§ 45 StVO (Verkehrszeichen)'
+- '§ 2 StVO (Fahrstreifen für Radfahrer)'
+- '§§ 9-11 NStrG (Straßenbaulast)'
+- '§ 45 StVO (Verkehrszeichen)'
 letzte-aktualisierung: 2026-04-06
 ---
 # Radverkehrskonzept entwickeln/umsetzen

@@ -15,9 +15,9 @@ daten:
   - id: dstore-personenstammdaten
   - id: dstore-identitaetsnachweis
 regelungen:
-  - '§§ 11 ff. Tierschutzgesetz (TierSchG)'
-  - '§ 1 Nds. Gesetz über das Halten gefährlicher Tiere (GefTierG Nds.)'
-  - 'BGB §§ 90a, 965 ff. (Tierfund)'
+- '§§ 11 ff. Tierschutzgesetz (TierSchG)'
+- '§ 1 Nds. Gesetz über das Halten gefährlicher Tiere (GefTierG Nds.)'
+- 'BGB §§ 90a, 965 ff. (Tierfund)'
 letzte-aktualisierung: 2026-04-06
 ---
 # Fundtiere melden

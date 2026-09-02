@@ -12,8 +12,8 @@ daten:
   - id: dstore-umweltdaten
   - id: dstore-verwaltungsakte
 regelungen:
-  - '§ 11 NKomVG (Kommunale Selbstverwaltung)'
-  - '§§ 1 ff. NKlimaG (Klimaschutz)'
+- '§ 11 NKomVG (Kommunale Selbstverwaltung)'
+- '§§ 1 ff. NKlimaG (Klimaschutz)'
 letzte-aktualisierung: 2026-04-29
 ---
 # Nachhaltigkeitsbericht

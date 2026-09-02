@@ -26,9 +26,7 @@ klassifizierung:
   aufbewahrung:
     frist: 3 Jahre
     beginn: nach Rückgabe an die berechtigte Person oder nach Verwertung
-    hinweis: Festlegung des Trägers, angelehnt an die regelmäßige Verjährung des Kostenerstattungsanspruchs
-      nach § 29 NPOG. Ist ein Streit über Herausgabe oder Kosten anhängig, wird bis
-      zum rechtskräftigen Abschluss aufbewahrt.
+    hinweis: Festlegung des Trägers, angelehnt an die regelmäßige Verjährung des Kostenerstattungsanspruchs nach § 29 NPOG. Ist ein Streit über Herausgabe oder Kosten anhängig, wird bis zum rechtskräftigen Abschluss aufbewahrt.
 letzte-aktualisierung: '2026-08-04'
 tags:
 - Sicherstellung

@@ -17,11 +17,9 @@ daten:
 regelungen:
 - Art. 17 GG - Recht, sich mit Beschwerden an die zuständigen Stellen zu wenden
 - Art. 6 Abs. 1 lit. c) und lit. e) DSGVO
-- Art. 10 DSGVO i. V. m. § 24 NDiszG und § 88 NBG - Daten über Straftaten, soweit der
-  Vorwurf strafrechtlich relevant ist
+- Art. 10 DSGVO i. V. m. § 24 NDiszG und § 88 NBG - Daten über Straftaten, soweit der Vorwurf strafrechtlich relevant ist
 - Art. 88 DSGVO, § 12 NDSG - Daten der oder des Beschäftigten
-- § 3 NDSG - Daten der beschwerdeführenden Person und der Zeuginnen und Zeugen, die
-  in keinem Dienstverhältnis stehen
+- § 3 NDSG - Daten der beschwerdeführenden Person und der Zeuginnen und Zeugen, die in keinem Dienstverhältnis stehen
 - § 88 NBG - Personaldatenverarbeitung und Inhalt der Personalakten
 - § 90 NBG - Anhörung vor Aufnahme ungünstiger Unterlagen in die Personalakte
 - § 93 NBG - Entfernung von Unterlagen aus Personalakten

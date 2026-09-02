@@ -14,8 +14,8 @@ daten:
   - id: dstore-personenstammdaten
   - id: dstore-wohnflaeche-nutzflaeche
 regelungen:
-  - '§§ 535-580a BGB (Mietvertrag)'
-  - '§§ 92-96 NKomVG (Kommunale Grundstücksverwaltung)'
+- '§§ 535-580a BGB (Mietvertrag)'
+- '§§ 92-96 NKomVG (Kommunale Grundstücksverwaltung)'
 letzte-aktualisierung: 2026-04-29
 ---
 # Mietvertrag für städtische Wohnung

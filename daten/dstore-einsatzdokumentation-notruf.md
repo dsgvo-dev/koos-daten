@@ -33,8 +33,7 @@ klassifizierung:
   aufbewahrung:
     frist: 10 Jahre
     beginn: nach Abschluss des Einsatzes
-    hinweis: Einsatzdokumentation als Nachweis gegenüber Aufsicht, Versicherungen
-      und Gerichten; § 197 BGB bei geltend gemachten Ansprüchen.
+    hinweis: Einsatzdokumentation als Nachweis gegenüber Aufsicht, Versicherungen und Gerichten; § 197 BGB bei geltend gemachten Ansprüchen.
 letzte-aktualisierung: '2026-08-10'
 tags:
 - Feuerwehr

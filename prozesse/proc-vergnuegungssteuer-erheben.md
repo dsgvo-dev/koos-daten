@@ -15,8 +15,8 @@ daten:
   - id: dstore-bescheid
   - id: dstore-verwaltungsakte
 regelungen:
-  - '§§ 1-5 NKAG (Kommunalabgaben)'
-  - 'Kommunale Vergnügungssteuersatzung i.V.m. NKAG'
+- '§§ 1-5 NKAG (Kommunalabgaben)'
+- 'Kommunale Vergnügungssteuersatzung i.V.m. NKAG'
 letzte-aktualisierung: 2026-04-29
 ---
 # Vergnügungssteuer erheben

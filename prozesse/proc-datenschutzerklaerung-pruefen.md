@@ -12,9 +12,9 @@ daten:
   - id: dstore-datenschutzeinweisung
   - id: dstore-verwaltungsakte
 regelungen:
-  - 'Art. 30 DSGVO (Verzeichnis der Verarbeitungstätigkeiten)'
-  - 'Art. 35 DSGVO (Datenschutz-Folgenabschätzung)'
-  - '§§ 1 ff. Nds. Datenschutzgesetz (NDSG)'
+- 'Art. 30 DSGVO (Verzeichnis der Verarbeitungstätigkeiten)'
+- 'Art. 35 DSGVO (Datenschutz-Folgenabschätzung)'
+- '§§ 1 ff. Nds. Datenschutzgesetz (NDSG)'
 letzte-aktualisierung: 2026-04-29
 ---
 # Datenschutzerklärung prüfen

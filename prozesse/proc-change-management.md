@@ -11,8 +11,8 @@ daten:
   datenspeicher:
   - id: dstore-verwaltungsakte
 regelungen:
-  - '§ 80 NKomVG (Verwaltungsorganisation)'
-  - '§ 11 NKomVG (Kommunale Selbstverwaltung)'
+- '§ 80 NKomVG (Verwaltungsorganisation)'
+- '§ 11 NKomVG (Kommunale Selbstverwaltung)'
 letzte-aktualisierung: 2026-04-29
 ---
 # Change Management

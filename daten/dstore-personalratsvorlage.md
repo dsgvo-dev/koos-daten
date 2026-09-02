@@ -30,11 +30,7 @@ klassifizierung:
   aufbewahrung:
     frist: bis zum Abschluss des Beteiligungsverfahrens
     beginn: mit Übergabe der Vorlage an den Personalrat
-    hinweis: Nach § 61 Abs. 1 NPersVG sind Unterlagen, die dem Personalrat aus Anlass
-      seiner Beteiligung an einer bestimmten Maßnahme zur Verfügung gestellt wurden,
-      nach Abschluss des Beteiligungsverfahrens an die Dienststelle zurückzugeben.
-      Niederschriften und Personallisten des Personalrats unterliegen § 61 Abs. 2
-      NPersVG.
+    hinweis: Nach § 61 Abs. 1 NPersVG sind Unterlagen, die dem Personalrat aus Anlass seiner Beteiligung an einer bestimmten Maßnahme zur Verfügung gestellt wurden, nach Abschluss des Beteiligungsverfahrens an die Dienststelle zurückzugeben. Niederschriften und Personallisten des Personalrats unterliegen § 61 Abs. 2 NPersVG.
 letzte-aktualisierung: '2026-08-04'
 tags:
 - Personal

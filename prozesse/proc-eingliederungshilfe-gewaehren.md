@@ -15,8 +15,7 @@ daten:
   - id: dstore-bescheid
   - id: dstore-bankverbindung
 regelungen:
-- §§ 90 fortfolgende Sozialgesetzbuch Neuntes Buch (SGB IX) in Verbindung mit §§ 75
-  – 84 SGB IX
+- §§ 90 fortfolgende Sozialgesetzbuch Neuntes Buch (SGB IX) in Verbindung mit §§ 75 – 84 SGB IX
 - §§ 75 – 84  Sozialgesetzbuch Neuntes Buch (SGB IX)
 leika_id: null
 ozg_id: '10206'

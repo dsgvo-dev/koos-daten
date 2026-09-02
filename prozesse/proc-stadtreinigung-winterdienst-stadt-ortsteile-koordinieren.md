@@ -8,8 +8,8 @@ zustaendigeEinheit: oe-amt-66
 zustaendigeRolle: ""
 
 beteiligte:
-  - einheit: oe-amt-60
-    aufgabe: ""
+- einheit: oe-amt-60
+  aufgabe: ""
 
 daten:
   input: []

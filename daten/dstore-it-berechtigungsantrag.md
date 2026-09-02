@@ -21,6 +21,7 @@ klassifizierung:
     beginn: nach Entzug der Berechtigung
     hinweis: Dokument bleibt während der gesamten Dauer der Berechtigung aufzubewahren
 letzte-aktualisierung: '2026-08-10'
+typ: datenspeicher
 ---
 
 

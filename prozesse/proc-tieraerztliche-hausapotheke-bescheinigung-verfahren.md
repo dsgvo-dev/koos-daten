@@ -15,8 +15,8 @@ daten:
   - id: dstore-personenstammdaten
   - id: dstore-tierhalterbestand-nutztiere
 regelungen:
-  - '§§ 56-57 Arzneimittelgesetz (AMG) (Tierärztliche Hausapotheke)'
-  - '§§ 1 ff. Tierärztliche Hausapothekenverordnung (TÄHAV)'
+- '§§ 56-57 Arzneimittelgesetz (AMG) (Tierärztliche Hausapotheke)'
+- '§§ 1 ff. Tierärztliche Hausapothekenverordnung (TÄHAV)'
 letzte-aktualisierung: 2026-04-06
 ---
 # Tierärztliche Hausapotheke (Bescheinigung/Verfahren)

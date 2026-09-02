@@ -13,9 +13,9 @@ daten:
   - id: dstore-lageplan-geobasisdaten
   - id: dstore-bescheid
 regelungen:
-  - '§§ 9-11 Nds. Straßengesetz (NStrG) (Straßenbaulast)'
-  - '§ 17 NStrG (Straßenverkehrspflicht)'
-  - '§ 3 NStrG (Einteilung der Öffentlichen Straßen)'
+- '§§ 9-11 Nds. Straßengesetz (NStrG) (Straßenbaulast)'
+- '§ 17 NStrG (Straßenverkehrspflicht)'
+- '§ 3 NStrG (Einteilung der Öffentlichen Straßen)'
 letzte-aktualisierung: 2026-04-29
 ---
 # Haltestellen planen

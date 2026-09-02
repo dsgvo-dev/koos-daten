@@ -29,11 +29,8 @@ klassifizierung:
   - gesetz: TVöD
   aufbewahrung:
     frist: 3 Jahre
-    beginn: nach Ablauf des Jahres, in dem die Bearbeitung des einzelnen Urlaubsvorgangs
-      abgeschlossen wurde
-    hinweis: Frist aus § 94 Abs. 2 Satz 1 NBG für Unterlagen über Erholungsurlaub.
-      Soweit Urlaubsunterlagen in die Personalakte übernommen werden, gilt für diese
-      § 94 Abs. 1 NBG mit fünf Jahren nach Abschluss der Personalakte.
+    beginn: nach Ablauf des Jahres, in dem die Bearbeitung des einzelnen Urlaubsvorgangs abgeschlossen wurde
+    hinweis: Frist aus § 94 Abs. 2 Satz 1 NBG für Unterlagen über Erholungsurlaub. Soweit Urlaubsunterlagen in die Personalakte übernommen werden, gilt für diese § 94 Abs. 1 NBG mit fünf Jahren nach Abschluss der Personalakte.
 letzte-aktualisierung: '2026-08-04'
 tags:
 - Personal

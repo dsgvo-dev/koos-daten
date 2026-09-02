@@ -20,9 +20,9 @@ klassifizierung:
     titel: Meldebescheinigung
   aufbewahrung:
     frist: kein eigener Aufbewahrungsbedarf der Behörde
-    beginn: null
     hinweis: Verbleibt bei der meldepflichtigen Person
 letzte-aktualisierung: '2026-08-10'
+typ: datenspeicher
 ---
 
 

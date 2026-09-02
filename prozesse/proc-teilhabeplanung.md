@@ -13,8 +13,8 @@ daten:
   - id: dstore-schwerbehindertennachweis
   - id: dstore-verwaltungsakte
 regelungen:
-  - '§§ 1-3 SGB IX (Rehabilitation und Teilhabe)'
-  - '§ 19 SGB IX (Koordinierungsstelle)'
+- '§§ 1-3 SGB IX (Rehabilitation und Teilhabe)'
+- '§ 19 SGB IX (Koordinierungsstelle)'
 letzte-aktualisierung: 2026-04-29
 ---
 # Teilhabeplanung

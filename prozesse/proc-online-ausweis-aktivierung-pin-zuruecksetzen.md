@@ -16,9 +16,9 @@ daten:
   - id: dstore-personenstammdaten
   - id: dstore-meldeadresse-wohnsitz
 regelungen:
-  - '§§ 10-15 Personalausweisgesetz (PAuswG) (Online-Ausweisfunktion)'
-  - '§§ 1 ff. Onlinezugangsgesetz (OZG)'
-  - '§ 1 Nds. E-Government-Gesetz (NEGG)'
+- '§§ 10-15 Personalausweisgesetz (PAuswG) (Online-Ausweisfunktion)'
+- '§§ 1 ff. Onlinezugangsgesetz (OZG)'
+- '§ 1 Nds. E-Government-Gesetz (NEGG)'
 letzte-aktualisierung: 2026-04-06
 ---
 # Online-Ausweis: Aktivierung/PIN zurücksetzen

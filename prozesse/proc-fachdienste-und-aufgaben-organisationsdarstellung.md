@@ -7,8 +7,7 @@ status: aktiv
 zustaendigeEinheit: oe-amt-1-1
 zustaendigeRolle: ""
 
-beteiligte:
-  []
+beteiligte: []
 
 daten:
   input: []

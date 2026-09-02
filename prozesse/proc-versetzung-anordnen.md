@@ -14,8 +14,8 @@ daten:
   - id: dstore-verwaltungsakte
   - id: dstore-bescheid
 regelungen:
-  - '§§ 27-29 Nds. Beamtengesetz (NBG) (Versetzung/Umsetzung)'
-  - '§ 26 BeamtStG (Versetzung)'
+- '§§ 27-29 Nds. Beamtengesetz (NBG) (Versetzung/Umsetzung)'
+- '§ 26 BeamtStG (Versetzung)'
 letzte-aktualisierung: 2026-04-29
 ---
 # Versetzung anordnen

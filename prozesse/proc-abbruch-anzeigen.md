@@ -12,7 +12,7 @@ daten:
   - id: dstore-lageplan-geobasisdaten
   - id: dstore-grundstuecksbezug
 regelungen:
-  - '§ 60 Abs. 3 Niedersächsische Bauordnung (NBauO)'
+- '§ 60 Abs. 3 Niedersächsische Bauordnung (NBauO)'
 letzte-aktualisierung: 2026-04-06
 ---
 # Abbruch anzeigen

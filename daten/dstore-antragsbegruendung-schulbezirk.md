@@ -26,8 +26,7 @@ klassifizierung:
   aufbewahrung:
     frist: bis zum Ende des Schulbesuchs an der aufnehmenden Schule
     beginn: mit Bestandskraft der Entscheidung
-    hinweis: Die Begründung wird nur solange benötigt, wie die Ausnahme trägt. Sie
-      ist getrennt von der Schülerakte zu führen.
+    hinweis: Die Begründung wird nur solange benötigt, wie die Ausnahme trägt. Sie ist getrennt von der Schülerakte zu führen.
 letzte-aktualisierung: '2026-08-10'
 tags:
 - Schule

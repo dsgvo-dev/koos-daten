@@ -18,9 +18,9 @@ daten:
   - id: dstore-personenstammdaten
   - id: dstore-identitaetsnachweis
 regelungen:
-  - '§ 68 GewO (Jahrmärkte/Volksfeste)'
-  - '§ 69 GewO (Marktfestsetzung)'
-  - 'Nds. kommunale Marktsatzung'
+- '§ 68 GewO (Jahrmärkte/Volksfeste)'
+- '§ 69 GewO (Marktfestsetzung)'
+- 'Nds. kommunale Marktsatzung'
 letzte-aktualisierung: 2026-04-06
 ---
 # Marktfestsetzung beantragen

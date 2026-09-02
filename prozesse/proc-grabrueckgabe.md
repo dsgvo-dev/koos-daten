@@ -11,9 +11,9 @@ daten:
   datenspeicher:
   - id: dstore-personenstammdaten
 regelungen:
-  - '§§ 1-6 Nds. Bestattungsgesetz (NbestG)'
-  - '§ 8 NbestG (Bestattungspflicht)'
-  - 'Kommunale Friedhofssatzung i.V.m. NbestG'
+- '§§ 1-6 Nds. Bestattungsgesetz (NbestG)'
+- '§ 8 NbestG (Bestattungspflicht)'
+- 'Kommunale Friedhofssatzung i.V.m. NbestG'
 letzte-aktualisierung: 2026-04-06
 ---
 # Grabrückgabe

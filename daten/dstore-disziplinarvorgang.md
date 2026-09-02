@@ -29,9 +29,7 @@ klassifizierung:
   aufbewahrung:
     frist: nach den Tilgungsfristen des § 24 NDiszG
     beginn: mit Abschluss des Verfahrens
-    hinweis: '§ 24 NDiszG: Verweis nach zwei Jahren, Geldbuße und Kürzung der Bezüge
-      nach drei Jahren, Zurückstufung nach sieben Jahren zu tilgen. Nach Tilgung darf
-      der Vorgang nicht mehr verwertet werden.'
+    hinweis: '§ 24 NDiszG: Verweis nach zwei Jahren, Geldbuße und Kürzung der Bezüge nach drei Jahren, Zurückstufung nach sieben Jahren zu tilgen. Nach Tilgung darf der Vorgang nicht mehr verwertet werden.'
 letzte-aktualisierung: '2026-08-10'
 tags:
 - Disziplinarrecht

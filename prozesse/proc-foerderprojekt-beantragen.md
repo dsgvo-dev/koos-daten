@@ -13,8 +13,8 @@ daten:
   - id: dstore-abrechnungsdaten
   - id: dstore-verwaltungsakte
 regelungen:
-  - '§§ 23-44 LHO Nds. (Zuwendungen)'
-  - 'EFRE/ESF EU-Verordnungen (Strukturfondsprogramm)'
+- '§§ 23-44 LHO Nds. (Zuwendungen)'
+- 'EFRE/ESF EU-Verordnungen (Strukturfondsprogramm)'
 letzte-aktualisierung: 2026-04-29
 ---
 # Förderprojekt beantragen

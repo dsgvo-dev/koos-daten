@@ -12,7 +12,7 @@ daten:
   - id: dstore-verwaltungsakte
   - id: dstore-personenstammdaten
 regelungen:
-  - '§ 25 VwVfG (Beratungs- und Auskunftspflicht der Behörde)'
+- '§ 25 VwVfG (Beratungs- und Auskunftspflicht der Behörde)'
 letzte-aktualisierung: 2026-04-29
 ---
 # Benutzerberatung

@@ -13,9 +13,9 @@ daten:
   - id: dstore-personenstammdaten
   - id: dstore-bescheinigung
 regelungen:
-  - '§§ 965-984 BGB (Fund)'
-  - '§ 978 BGB (Fund in öffentlichen Behörden)'
-  - 'Nds. Kommunale Satzung (Fundsachen)'
+- '§§ 965-984 BGB (Fund)'
+- '§ 978 BGB (Fund in öffentlichen Behörden)'
+- 'Nds. Kommunale Satzung (Fundsachen)'
 letzte-aktualisierung: 2026-04-29
 ---
 # Fundsache bearbeiten

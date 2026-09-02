@@ -13,8 +13,7 @@ daten:
   - id: dstore-gewerbedaten
   - id: dstore-kontaktdaten
 regelungen:
-- Gesetz zur Förderung der Kreislaufwirtschaft und Sicherung der umweltverträglichen
-  Bewirtschaftung von Abfällen
+- Gesetz zur Förderung der Kreislaufwirtschaft und Sicherung der umweltverträglichen Bewirtschaftung von Abfällen
 - Niedersächsisches Abfallgesetz (NAbfG)
 leika_id: '99001006004000'
 ozg_id: null

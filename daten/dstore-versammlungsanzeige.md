@@ -30,9 +30,7 @@ klassifizierung:
   aufbewahrung:
     frist: 3 Jahre
     beginn: nach der Versammlung
-    hinweis: Rechtsbehelfsfristen und mögliche Amtshaftungsansprüche; Festlegung des
-      Trägers. Bei Versammlungen, die ohne Beanstandung verlaufen sind, ist eine kürzere
-      Frist zu erwägen.
+    hinweis: Rechtsbehelfsfristen und mögliche Amtshaftungsansprüche; Festlegung des Trägers. Bei Versammlungen, die ohne Beanstandung verlaufen sind, ist eine kürzere Frist zu erwägen.
 letzte-aktualisierung: '2026-08-10'
 tags:
 - Versammlungsrecht

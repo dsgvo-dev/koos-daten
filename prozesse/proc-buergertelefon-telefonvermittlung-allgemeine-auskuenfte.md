@@ -15,8 +15,8 @@ daten:
   datenspeicher:
   - id: dstore-kontaktdaten
 regelungen:
-  - '§ 25 VwVfG (Beratungs- und Auskunftspflicht)'
-  - '§ 1 Nds. Verwaltungsverfahrensgesetz (NVwVfG)'
+- '§ 25 VwVfG (Beratungs- und Auskunftspflicht)'
+- '§ 1 Nds. Verwaltungsverfahrensgesetz (NVwVfG)'
 letzte-aktualisierung: 2026-04-06
 ---
 # Bürgertelefon / Telefonvermittlung (Allgemeine Auskünfte)

@@ -17,8 +17,8 @@ daten:
   - id: dstore-gebuehrenbescheid-zahlungsdaten
   - id: dstore-kassenzeichen-buchungsreferenz
 regelungen:
-  - '§§ 110-127 NKomVG (Haushaltswirtschaft)'
-  - '§§ 1 ff. GemHKVO Nds. (Gemeindehaushalts- und -kassenverordnung)'
+- '§§ 110-127 NKomVG (Haushaltswirtschaft)'
+- '§§ 1 ff. GemHKVO Nds. (Gemeindehaushalts- und -kassenverordnung)'
 letzte-aktualisierung: 2026-04-06
 ---
 # Zahlungsverkehr / Forderungsmanagement

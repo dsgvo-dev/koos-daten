@@ -14,9 +14,9 @@ daten:
   - id: dstore-marktveranstaltungsdaten
   - id: dstore-gewerbedaten
 regelungen:
-  - '§§ 68-69 GewO (Festsetzung von Veranstaltungen)'
-  - '§ 18 NStrG (Sondernutzungserlaubnis)'
-  - '§§ 1 ff. Nds. SOG (Gefahrenabwehr bei Veranstaltungen)'
+- '§§ 68-69 GewO (Festsetzung von Veranstaltungen)'
+- '§ 18 NStrG (Sondernutzungserlaubnis)'
+- '§§ 1 ff. Nds. SOG (Gefahrenabwehr bei Veranstaltungen)'
 letzte-aktualisierung: 2026-04-06
 ---
 # Erlaubnis Verkauf von Waren auf Messen/Festen/Anlässen

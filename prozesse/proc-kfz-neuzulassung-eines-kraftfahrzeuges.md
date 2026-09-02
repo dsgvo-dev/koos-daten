@@ -16,7 +16,7 @@ daten:
   - id: dstore-personenstammdaten
   - id: dstore-identitaetsnachweis
 regelungen:
-  - '§ 6 Abs. 3 FZV'
+- '§ 6 Abs. 3 FZV'
 leika_id: '99036020001000'
 letzte-aktualisierung: 2026-04-06
 ---

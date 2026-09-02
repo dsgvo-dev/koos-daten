@@ -21,9 +21,9 @@ daten:
   - id: dstore-bankverbindung
   - id: dstore-meldeadresse-wohnsitz
 regelungen:
-  - '§§ 1-5 Personalausweisgesetz (PAuswG)'
-  - '§§ 1-4 Passgesetz (PassG)'
-  - '§ 6 PAuswG (Ausweispflicht)'
+- '§§ 1-5 Personalausweisgesetz (PAuswG)'
+- '§§ 1-4 Passgesetz (PassG)'
+- '§ 6 PAuswG (Ausweispflicht)'
 letzte-aktualisierung: 2026-04-06
 ---
 # Reisepass: Verlustanzeige aufnehmen

@@ -14,8 +14,8 @@ daten:
   - id: dstore-unterhaltszahlungen-ansprueche
   - id: dstore-personenstammdaten
 regelungen:
-  - '§§ 1-10 Unterhaltsvorschussgesetz (UhVorschG)'
-  - '§ 7 UhVorschG (Übergang des Unterhaltsanspruchs)'
+- '§§ 1-10 Unterhaltsvorschussgesetz (UhVorschG)'
+- '§ 7 UhVorschG (Übergang des Unterhaltsanspruchs)'
 letzte-aktualisierung: 2026-04-06
 ---
 # Änderungen zum Unterhaltsvorschuss entgegennehmen/bearbeiten

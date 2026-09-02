@@ -30,8 +30,7 @@ klassifizierung:
   aufbewahrung:
     frist: wie die zugehörige Erlaubnis, längstens 10 Jahre
     beginn: nach Erlöschen der Erlaubnis
-    hinweis: Die Leistungsfähigkeit ist nach Art. 7 Abs. 1 VO (EG) 1071/2009 jährlich
-      nachzuweisen; ältere Nachweise verlieren ihre Aussagekraft und sind zu löschen.
+    hinweis: Die Leistungsfähigkeit ist nach Art. 7 Abs. 1 VO (EG) 1071/2009 jährlich nachzuweisen; ältere Nachweise verlieren ihre Aussagekraft und sind zu löschen.
 letzte-aktualisierung: '2026-08-10'
 tags:
 - Güterkraftverkehr

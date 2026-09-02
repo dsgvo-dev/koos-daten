@@ -26,8 +26,7 @@ klassifizierung:
   aufbewahrung:
     frist: bis zum Abschluss der Beratung, längstens sechs Monate
     beginn: nach Ausgabe des Testergebnisses
-    hinweis: Festlegung des Trägers. Die Nummer ist zu vernichten, sobald das Ergebnis
-      übergeben ist; danach besteht kein Zweck mehr für die Zuordnung.
+    hinweis: Festlegung des Trägers. Die Nummer ist zu vernichten, sobald das Ergebnis übergeben ist; danach besteht kein Zweck mehr für die Zuordnung.
 letzte-aktualisierung: '2026-08-10'
 tags:
 - IfSG

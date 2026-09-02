@@ -13,7 +13,7 @@ daten:
     - Controllingberichte
     - Kennzahlenberichte an Verwaltungsleitung und Rat
   datenspeicher:
-  - id: dstore-abrechnungsdaten
+    - id: dstore-abrechnungsdaten
 
 regelungen:
   - KomHKVO (Kommunale Haushalts-, Kassen- und Rechnungslegungsordnung)

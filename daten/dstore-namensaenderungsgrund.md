@@ -26,8 +26,7 @@ klassifizierung:
   aufbewahrung:
     frist: 30 Jahre
     beginn: nach Bestandskraft der Entscheidung
-    hinweis: Die Namensänderung wirkt lebenslang; die Begründung muss für Rückfragen
-      und Rechtsbehelfe nachvollziehbar bleiben.
+    hinweis: Die Namensänderung wirkt lebenslang; die Begründung muss für Rückfragen und Rechtsbehelfe nachvollziehbar bleiben.
 letzte-aktualisierung: '2026-08-10'
 tags:
 - Namensrecht

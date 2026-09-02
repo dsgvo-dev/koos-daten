@@ -34,9 +34,7 @@ klassifizierung:
   aufbewahrung:
     frist: 2 Jahre
     beginn: ab der Aufzeichnung
-    hinweis: Frist aus § 16 Abs. 2 ArbZG und § 17 Abs. 2 MiLoG. Zeitdaten, die in
-      die Lohn- und Gehaltsabrechnung eingehen, unterliegen als Buchungsbelege § 147
-      AO und der NKomHKVO mit acht Jahren.
+    hinweis: Frist aus § 16 Abs. 2 ArbZG und § 17 Abs. 2 MiLoG. Zeitdaten, die in die Lohn- und Gehaltsabrechnung eingehen, unterliegen als Buchungsbelege § 147 AO und der NKomHKVO mit acht Jahren.
 letzte-aktualisierung: '2026-08-04'
 tags:
 - Personal

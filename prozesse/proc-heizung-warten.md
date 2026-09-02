@@ -12,8 +12,8 @@ daten:
   - id: dstore-verwaltungsakte
   - id: dstore-abrechnungsdaten
 regelungen:
-  - '§§ 60-71 GEG (Heizungssysteme)'
-  - '§ 60 GEG (Inspektionspflicht Klimaanlagen)'
+- '§§ 60-71 GEG (Heizungssysteme)'
+- '§ 60 GEG (Inspektionspflicht Klimaanlagen)'
 letzte-aktualisierung: 2026-04-29
 ---
 # Heizung warten

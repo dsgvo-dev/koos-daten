@@ -15,7 +15,7 @@ daten:
     - Eingeführte Online-Dienste (OZG)
     - Schulungsunterlagen für digitale Verfahren
   datenspeicher:
-  - id: dstore-servicekonto-nutzeridentitaet
+    - id: dstore-servicekonto-nutzeridentitaet
 
 regelungen:
   - OZG (Onlinezugangsgesetz)

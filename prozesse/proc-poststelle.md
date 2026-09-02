@@ -12,8 +12,8 @@ daten:
   - id: dstore-verwaltungsakte
   - id: dstore-kontaktdaten
 regelungen:
-  - '§§ 1 ff. Nds. Aktenordnung (AktO Nds.)'
-  - '§ 25 VwVfG (Verfahrensgrundsätze)'
+- '§§ 1 ff. Nds. Aktenordnung (AktO Nds.)'
+- '§ 25 VwVfG (Verfahrensgrundsätze)'
 letzte-aktualisierung: 2026-04-29
 ---
 # Poststelle

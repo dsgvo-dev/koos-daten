@@ -15,7 +15,7 @@ daten:
   - id: dstore-personenstammdaten
   - id: dstore-einkommensnachweise-haushalt
 regelungen:
-  - '§ 43 Sozialgesetzbuch (SGB) - Achtes Buch (VIII)'
+- '§ 43 Sozialgesetzbuch (SGB) - Achtes Buch (VIII)'
 letzte-aktualisierung: 2026-04-06
 ---
 # Kindertagespflege beantragen

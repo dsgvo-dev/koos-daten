@@ -16,8 +16,8 @@ daten:
   - id: dstore-personenstammdaten
   - id: dstore-registerbezug-personenstand
 regelungen:
-  - '§ 8 NbestG'
-  - '§ 20 NbestG'
+- '§ 8 NbestG'
+- '§ 20 NbestG'
 letzte-aktualisierung: 2026-04-06
 ---
 
