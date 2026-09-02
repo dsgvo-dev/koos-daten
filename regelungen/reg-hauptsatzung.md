@@ -5,7 +5,7 @@ typ: Satzung
 status: entwurf
 datum: 2022-01-01
 entscheidendes-gremium: Rat
-ersetzt: ~
+ersetzt: null
 zustaendigeEinheit: oe-hvb
 ---
 

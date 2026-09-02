@@ -6,7 +6,7 @@ status: entwurf
 datum: '2026-08-20'
 zustaendigeEinheit: oe-amt-10
 entscheidendes-gremium: Hauptverwaltungsbeamter
-ersetzt: ~
+ersetzt: null
 ---
 
 # Dienstanweisung Prozessmanagement (DA PM)

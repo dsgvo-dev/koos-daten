@@ -6,7 +6,7 @@ zustaendigeEinheit: oe-amt-1-7
 datum: "2026-06-07"
 status: entwurf
 version: 1.1
-reviewed_by:
+reviewed_by: null
 aenderungsverzeichnis:
   - version: 1.1
     datum: 2026-06-07

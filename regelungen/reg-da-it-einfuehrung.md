@@ -6,7 +6,7 @@ typ: Dienstanweisung
 zustaendigeEinheit: oe-amt-15
 datum: '2026-06-23'
 status: entwurf
-reviewed_by:
+reviewed_by: null
 quellen:
   - dsms:_input/Muster-DV-Software.docx (Dienstvereinbarung Software-Einsatz)
   - dsms:facts/muster/dienstanweisungen/Muster-Dienstanweisung-kommunal.md (Baukasten-Module)

@@ -6,7 +6,7 @@ typ: Dienstvereinbarung
 titel: Dienstvereinbarung Homeoffice / Mobiles Arbeiten
 datum: '2026-08-23'
 status: entwurf
-reviewed_by:
+reviewed_by: null
 quellen:
   - dsms:facts/muster/Muster-Dienstvereinbarung-Software.md
   - LfD Niedersachsen, Hilfestellung Datenschutz im Homeoffice (12/2023)
