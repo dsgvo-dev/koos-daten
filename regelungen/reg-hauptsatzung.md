@@ -7,10 +7,6 @@ datum: 2022-01-01
 entscheidendes-gremium: Rat
 ersetzt: ~
 zustaendigeEinheit: oe-hvb
-
-
-
-  
 ---
 
 # Hauptsatzung der [Name der Kommune]
