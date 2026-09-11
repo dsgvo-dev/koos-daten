@@ -2,17 +2,17 @@
 id: reg-adga
 name: Allgemeine Dienst- und Geschäftsanweisung (ADGA)
 typ: Dienstanweisung
-status: entwurf
+status: aktiv
 datum: '2023-03-15'
 zustaendigeEinheit: oe-hvb
 entscheidendes-gremium: Hauptverwaltungsbeamter
 ---
 
-# Allgemeine Dienst- und Geschäftsanweisung (ADGA) für die [Name der Kommune]
+# Allgemeine Dienst- und Geschäftsanweisung (ADGA) für die [Musterkommune]
 
 ## 1. Allgemeine Grundsätze und Rechtsgrundlage
 
-1.1 **Präambel und Rechtsgrundlage.** Diese Allgemeine Dienst- und Geschäftsanweisung regelt die organisatorischen, dienstlichen und geschäftlichen Abläufe in der Verwaltung der Kommune [Name]. 
+1.1 **Präambel und Rechtsgrundlage.** Diese Allgemeine Dienst- und Geschäftsanweisung regelt die organisatorischen, dienstlichen und geschäftlichen Abläufe in der Verwaltung der Kommune [Musterkommune]. 
 
 1.2 **Zweck.** Sie dient als verbindliche Grundlage für ein einheitliches, rechtssicheres, transparentes und effizientes Verwaltungshandeln. 
 

@@ -8,10 +8,10 @@ zustaendigeEinheit: oe-amt-1-5
 entscheidendes-gremium: Hauptverwaltungsbeamter
 ---
 
-# **Dienstanweisung zur Nutzung von Cloud-Diensten in der [Name der Kommune]**
+# **Dienstanweisung zur Nutzung von Cloud-Diensten in der [Musterkommune]**
 
 ## **Geltungsbereich**
-Diese Anweisung gilt für alle Mitarbeiter:innen der [Name der Kommune], einschließlich externer Dienstleister, die im Auftrag der Kommune Cloud-Dienste nutzen oder verwalten [1].
+Diese Anweisung gilt für alle Mitarbeiter:innen der [Musterkommune], einschließlich externer Dienstleister, die im Auftrag der Kommune Cloud-Dienste nutzen oder verwalten [1].
 
 ---
 
@@ -25,13 +25,24 @@ Diese Anweisung gilt für alle Mitarbeiter:innen der [Name der Kommune], einschl
   - **Verfügbarkeit** (z. B. Notfallpläne, Bürgerdienste).
 
 ### **1.2 Datenkategorien und Cloud-Eignung**
-Die Eignung von Daten für die Cloud-Nutzung richtet sich nach ihrem **Schutzbedarf** [1]:
 
-| **Datenkategorie**                     | **Schutzbedarf**       | **Cloud-Nutzung**                     |
-|----------------------------------------|------------------------|---------------------------------------|
-| Öffentlich zugängliche Daten           | Kein Schutzbedarf      | Uneingeschränkt zulässig              |
-| Dienstliche Daten (Verwaltung/Lehre)   | Hoch bis sehr hoch     | Nur mit Verschlüsselung und Genehmigung [1] |
-| Sensible Daten (z. B. Sozialdaten, Gesundheitsdaten, Personalakten) | Sehr hoch | **Grundsätzlich unzulässig** [1]. Ausnahmen nur mit vorheriger Verschlüsselung unter Kontrolle der Kommune und schriftlicher Genehmigung der IT-Sicherheitsbeauftragten. |
+Die Eignung von Daten für die Cloud-Nutzung richtet sich nach dem **Schutzbedarf**
+gemäß der Richtlinie zur Datenklassifizierung (`reg-klassifizierung.md`). Deren
+Anlage B (Umgangsmatrix) legt in der Zeile „**Cloud-Speicher**" für jede
+Kombination aus Datenschutz-Schutzstufe (A–E) und Vertraulichkeitsstufe (V1–V4)
+fest, ob und unter welchen Bedingungen eine Cloud-Nutzung zulässig ist:
+
+- V1 / A — beliebig zulässig.
+- V2 / B — nur in vom ISB freigegebenen EU-Diensten.
+- V3 / C–D — nur freigegebene EU-Dienste + zusätzliche Verschlüsselung unter
+  Kontrolle der Verwaltung.
+- V4 / E — nicht zulässig außer mit Einzelgenehmigung der Verwaltungsleitung
+  nach ISB-Stellungnahme.
+
+Die Schutzbedarfsanalyse (§ 1.1) und die Anbieterauswahl (§ 2) setzen auf
+diesen Vorgaben auf. Eine eigene Einstufungstabelle führt diese DA nicht — die
+Klassifizierung ist in **einer** Richtlinie gebündelt. Bei Unsicherheit über
+die Einstufung einer Datenart ist die ISB hinzuzuziehen.
 
 ---
 
@@ -145,9 +156,8 @@ Die Eignung von Daten für die Cloud-Nutzung richtet sich nach ihrem **Schutzbed
 | **Datenlöschung**                      |                            |                                  |
 | - Sofortige Löschung auf Anforderung   | □                          | Vertragliche Garantie [1]       |
 | - Nachweisbare Löschung                | □                          | Protokollierung                  |
-| **Auftragsverarbeitung (AV-Vertrag)**  |                            |                                  |
-| - AV-Vertrag gemäß Art. 28 DSGVO       | □                          | Vertrag vorlegen [1]            |
-| - Subunternehmer-Regelung              | □                          | Liste der Subunternehmer        |
+| **Auftragsverarbeitung**  |                            |                                  |
+| - AV-Vertrag (Art. 28 DSGVO)       | □                          | Vertrag nach AVV-Muster vorlegen — das Muster liegt bei der Rechtsabteilung (nicht Teil dieser DA) |
 | **Notfallmanagement**                  |                            |                                  |
 | - Business-Continuity-Plan             | □                          | Dokumentation vorlegen          |
 | - Wiederherstellungszeiten (RTO/RPO)   | □                          | Max. Ausfallzeit: _______       |
@@ -177,7 +187,7 @@ Die Eignung von Daten für die Cloud-Nutzung richtet sich nach ihrem **Schutzbed
 ### **3. Sicherheitsmaßnahmen**
 - **Verschlüsselung:** □ Ja (Methode: _______) □ Nein
 - **Zugriffskontrollen:** □ RBAC □ 2FA □ Sonstiges: _______
-- **AV-Vertrag:** □ Vorhanden (Anlage) □ Fehlt [1]
+- **AV-Vertrag:** □ Vorhanden (nach AVV-Muster der Rechtsabteilung — Anlage) □ Fehlt
 
 ### **4. Schutzbedarfsanalyse & Risikoanalyse**
 - **Anlage 1 (Schutzbedarfsanalyse) beigefügt:** □ Ja □ Nein
@@ -197,54 +207,26 @@ Hiermit bestätige ich, dass die Angaben vollständig und korrekt sind. Ich verp
 - Die Bearbeitung dauert **max. 10 Werktage**.
 - Bei **sensiblen Daten** ist zusätzlich die **Genehmigung der Verwaltungsleitung** erforderlich [1].
 
-# **Auftragsverarbeitungsvertrag (AV-Vertrag) gemäß Art. 28 DSGVO**
-**Zwischen:**
-[Name der Kommune], vertreten durch ________________________
-– **nachfolgend "Auftraggeber"** –
+## **8. Auftragsverarbeitung (AV-Vertrag nach Art. 28 DSGVO)**
 
-**und:**
-[Name des Cloud-Anbieters], vertreten durch ________________________
-– **nachfolgend "Auftragnehmer"** –
+Der Abschluss eines Auftragsverarbeitungsvertrags ist **Pflicht**, bevor
+personenbezogene Daten in eine Cloud ausgelagert werden. Das AVV-Muster liegt
+bei der Rechtsabteilung und ist nicht Teil dieser DA — es wird bei Bedarf
+angefordert.
 
-### **§ 1 Gegenstand und Dauer**
-1. Der Auftragnehmer verarbeitet personenbezogene Daten im Auftrag des Auftraggebers gemäß den Weisungen des Auftraggebers.
-2. Die Verarbeitung erfolgt ausschließlich für die in **Anlage 1** beschriebenen Zwecke.
+Die **Checkliste für die Auswahl von Cloud-Dienstleistern** (Abschnitt 7)
+fragt den AV-Vertrag als Einzelkriterium ab; der Vertrag selbst wird nach dem
+Muster der Rechtsabteilung geschlossen.
 
-### **§ 2 Technische und organisatorische Maßnahmen (TOM)**
-Der Auftragnehmer gewährleistet folgende Maßnahmen:
-- Verschlüsselung der Daten (AES-256) [1].
-- Zugriff nur für autorisierte Personen (RBAC + 2FA).
-- Protokollierung aller Zugriffe (Log-Daten für 6 Monate).
-- Regelmäßige Sicherheitsaudits (mind. jährlich).
+---
 
-### **§ 3 Unterauftragsverarbeiter**
-1. Der Auftragnehmer darf Subunternehmer nur mit vorheriger schriftlicher Zustimmung des Auftraggebers einsetzen.
-2. Eine Liste aller Subunternehmer ist als **Anlage 2** beizufügen.
-
-### **§ 4 Datenlöschung und Beendigung**
-1. Der Auftragnehmer löscht alle Daten nach Beendigung des Vertrags **unverzüglich** [1].
-2. Eine Bestätigung der Löschung ist dem Auftraggeber vorzulegen.
-
-### **§ 5 Haftung und Schadensersatz**
-1. Der Auftragnehmer haftet für Schäden, die durch Verstöße gegen diesen Vertrag entstehen.
-2. Der Auftraggeber ist berechtigt, den Vertrag fristlos zu kündigen, wenn der Auftragnehmer gegen wesentliche Pflichten verstößt.
-
-### **§ 6 Schlussbestimmungen**
-1. Änderungen bedürfen der **Schriftform**.
-2. Gerichtsstand ist der Sitz des **Auftraggebers**.
-
-**Anlagen:**
-- Anlage 1: Beschreibung der Verarbeitungszwecke.
-- Anlage 2: Technische und organisatorische Maßnahmen (TOM).
-- Anlage 3: Liste der Subunternehmer.
-
-# **Cloud-Register der [Name der Kommune]**
+## **9. Cloud-Register der [Musterkommune]**
 **Stand:** ________________________
 
-| **Cloud-Dienst**       | **Anbieter**       | **Datenkategorie**       | **Schutzbedarf** | **AV-Vertrag** | **Genehmigung** | **Verantwortliche Abteilung** | **Letzte Prüfung** |
-|------------------------|--------------------|--------------------------|------------------|----------------|-----------------|-------------------------------|--------------------|
-| z. B. Microsoft 365    | Microsoft          | E-Mails, Kalender        | Hoch             | Ja [1]         | 15.03.2024      | Hauptamt                      | 01.06.2024         |
-| z. B. Nextcloud        | Eigenbetrieb       | Bürgerdaten (Formulare)  | Normal           | Nein           | 10.01.2024      | Bürgerbüro                    | 01.06.2024         |
+| **Cloud-Dienst**       | **Anbieter**       | **Datenkategorie**       | **Schutzbedarf** | **Genehmigung** | **Verantwortliche Abteilung** | **Letzte Prüfung** |
+|------------------------|--------------------|--------------------------|------------------|-----------------|-------------------------------|--------------------|
+| z. B. Microsoft 365    | Microsoft          | E-Mails, Kalender        | Hoch             | 15.03.2024      | Hauptamt                      | 01.06.2024         |
+| z. B. Nextcloud        | Eigenbetrieb       | Bürgerdaten (Formulare)  | Normal           | 10.01.2024      | Bürgerbüro                    | 01.06.2024         |
 
 **Hinweis:**
 - Das Register wird **vierteljährlich** von der IT-Sicherheitsbeauftragten überprüft.
