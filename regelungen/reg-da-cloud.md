@@ -2,8 +2,8 @@
 id: reg-da-cloud
 name: Dienstanweisung zur Nutzung von Cloud-Diensten (DA Cloud)
 typ: Dienstanweisung
-status: entwurf
-datum: '2023-03-15'
+status: aktiv
+datum: '2023-09-14'
 zustaendigeEinheit: oe-amt-1-5
 entscheidendes-gremium: Hauptverwaltungsbeamter
 ---
@@ -11,14 +11,14 @@ entscheidendes-gremium: Hauptverwaltungsbeamter
 # **Dienstanweisung zur Nutzung von Cloud-Diensten in der [Musterkommune]**
 
 ## **Geltungsbereich**
-Diese Anweisung gilt für alle Mitarbeiter:innen der [Musterkommune], einschließlich externer Dienstleister, die im Auftrag der Kommune Cloud-Dienste nutzen oder verwalten [1].
+Diese Anweisung gilt für alle Mitarbeiter:innen der [Musterkommune], einschließlich externer Dienstleister, die im Auftrag der Kommune Cloud-Dienste nutzen oder verwalten.
 
 ---
 
 ## **1. Grundsätze der Cloud-Nutzung**
 
 ### **1.1 Schutzbedarfsanalyse als Grundlage**
-- Vor der Auslagerung von Daten in die Cloud ist eine **Schutzbedarfsanalyse** gemäß der IT-Sicherheitsrichtlinie der Kommune durchzuführen [1].
+- Vor der Auslagerung von Daten in die Cloud ist eine **Schutzbedarfsanalyse** gemäß der IT-Sicherheitsrichtlinie der Kommune durchzuführen.
 - Der Schutzbedarf bestimmt sich nach:
   - **Vertraulichkeit** (z. B. personenbezogene Daten, Sozialdaten, interne Verwaltungsvorgänge),
   - **Integrität** (z. B. Finanzdaten, Baupläne, behördliche Entscheidungen),
@@ -27,7 +27,7 @@ Diese Anweisung gilt für alle Mitarbeiter:innen der [Musterkommune], einschlie�
 ### **1.2 Datenkategorien und Cloud-Eignung**
 
 Die Eignung von Daten für die Cloud-Nutzung richtet sich nach dem **Schutzbedarf**
-gemäß der Richtlinie zur Datenklassifizierung (`reg-klassifizierung.md`). Deren
+gemäß der Richtlinie zur Datenklassifizierung. Deren
 Anlage B (Umgangsmatrix) legt in der Zeile „**Cloud-Speicher**" für jede
 Kombination aus Datenschutz-Schutzstufe (A–E) und Vertraulichkeitsstufe (V1–V4)
 fest, ob und unter welchen Bedingungen eine Cloud-Nutzung zulässig ist:
@@ -40,43 +40,42 @@ fest, ob und unter welchen Bedingungen eine Cloud-Nutzung zulässig ist:
   nach ISB-Stellungnahme.
 
 Die Schutzbedarfsanalyse (§ 1.1) und die Anbieterauswahl (§ 2) setzen auf
-diesen Vorgaben auf. Eine eigene Einstufungstabelle führt diese DA nicht — die
-Klassifizierung ist in **einer** Richtlinie gebündelt. Bei Unsicherheit über
-die Einstufung einer Datenart ist die ISB hinzuzuziehen.
+diesen Vorgaben auf. Bei Unsicherheit über
+die Einstufung einer Datenart ist die/der ISB hinzuzuziehen.
 
 ---
 
 ## **2. Sicherheitsanforderungen an Cloud-Dienste**
 
 ### **2.1 Auswahl des Cloud-Anbieters**
-- Der Anbieter muss **BSI-zertifiziert** sein (z. B. nach ISO 27001 oder BSI C5) [2].
+- Der Anbieter muss **BSI-zertifiziert** sein (z. B. nach ISO 27001 oder BSI C5).
 - Es sind **deutsche oder EU-Rechenzentren** zu bevorzugen (DSGVO-konforme Datenverarbeitung).
-- Der Anbieter muss **Transparenz über Speicherorte, Subunternehmer und Löschfristen** gewährleisten [1].
+- Der Anbieter muss **Transparenz über Speicherorte, Subunternehmer und Löschfristen** gewährleisten.
 
 ### **2.2 Verschlüsselung**
-- Daten mit **hohem oder sehr hohem Schutzbedarf** sind **vor der Übertragung** zu verschlüsseln [1].
+- Daten mit **hohem oder sehr hohem Schutzbedarf** sind **vor der Übertragung** zu verschlüsseln.
 - Die Verschlüsselung muss **dem Stand der Technik entsprechen** (z. B. AES-256).
-- **Schlüsselmanagement** obliegt ausschließlich der Kommune (z. B. durch das Rechenzentrum) [1].
+- **Schlüsselmanagement** obliegt ausschließlich der Kommune (z. B. durch das Rechenzentrum).
 
 ### **2.3 Zugriffskontrollen**
 - **Rollenbasierte Zugriffsrechte (RBAC)** sind verpflichtend.
 - **Zwei-Faktor-Authentifizierung (2FA)** für alle Nutzer:innen.
-- **Protokollierung aller Zugriffe** (Log-Daten mindestens 6 Monate speichern) [1].
+- **Protokollierung aller Zugriffe** (Log-Daten mindestens 6 Monate speichern).
 
 ### **2.4 Datenlöschung**
 - Cloud-Anbieter müssen **sofortige Löschung** auf Anforderung garantieren.
-- Bei **technisch bedingten Verzögerungen** ist dies vertraglich zu regeln und zu dokumentieren [1].
+- Bei **technisch bedingten Verzögerungen** ist dies vertraglich zu regeln und zu dokumentieren.
 
 ---
 
 ## **3. Genehmigungsverfahren**
 
 ### **3.1 Änderungen an Cloud-Diensten**
-- Jede **Änderung der Datenverarbeitung in der Cloud** bedarf der **vorherigen Genehmigung** durch die IT-Sicherheitsbeauftragte und den Datenschutzbeauftragten [1].
+- Jede **Änderung der Datenverarbeitung in der Cloud** bedarf der **vorherigen Genehmigung** durch die IT-Sicherheitsbeauftragte und den Datenschutzbeauftragten.
 - Die **Dokumentation der Schutzbedarfsanalyse** ist vorzulegen.
 
 ### **3.2 Ausnahmen für sensible Daten**
-- Die Auslagerung von Daten mit **sehr hohem Schutzbedarf** ist nur in **absoluten Ausnahmefällen** zulässig [1].
+- Die Auslagerung von Daten mit **sehr hohem Schutzbedarf** ist nur in **absoluten Ausnahmefällen** zulässig.
 - Die Entscheidung trifft die **Leitung der Kommune** nach Stellungnahme der IT-Sicherheitsbeauftragten.
 
 ---
@@ -100,13 +99,13 @@ die Einstufung einer Datenart ist die ISB hinzuzuziehen.
 
 ## **6. Sanktionen bei Verstößen**
 - Verstöße gegen diese Anweisung können **disziplinarische Maßnahmen** nach sich ziehen.
-- Bei **fahrlässiger oder vorsätzlicher Missachtung** drohen zivil- oder strafrechtliche Konsequenzen (z. B. nach DSGVO).
+- Bei **fahrlässiger oder vorsätzlicher Missachtung** drohen zivil- oder strafrechtliche Konsequenzen.
 
 ---
 
 ## **7. Inkrafttreten und Aktualisierung**
 - Diese Anweisung tritt am **[Datum]** in Kraft.
-- Sie wird **jährlich** überprüft und bei Bedarf angepasst [1].
+- Sie wird **jährlich** überprüft und bei Bedarf angepasst.
 
 ---
 
@@ -131,7 +130,7 @@ die Einstufung einer Datenart ist die ISB hinzuzuziehen.
 | **Genehmigung erforderlich**| □ Ja □ Nein (Unterschrift IT-Sicherheitsbeauftragte: ______________________) |
 
 **Hinweis:**
-- Bei **hohem oder sehr hohem Schutzbedarf** ist eine **Risikoanalyse** durchzuführen [1].
+- Bei **hohem oder sehr hohem Schutzbedarf** ist eine **Risikoanalyse** durchzuführen.
 - Die Vorlage ist **vor jeder Cloud-Nutzung** auszufüllen und zu dokumentieren.
 
 # **Checkliste: Auswahl von Cloud-Dienstleistern**
@@ -164,7 +163,7 @@ die Einstufung einer Datenart ist die ISB hinzuzuziehen.
 
 **Bewertung:**
 - **Mindestens 80% der Kriterien müssen erfüllt sein** für die Zulassung.
-- Bei **sensiblen Daten** (Schutzbedarf "sehr hoch") sind **alle Kriterien verpflichtend** [1].
+- Bei **sensiblen Daten** (Schutzbedarf "sehr hoch") sind **alle Kriterien verpflichtend**.
 
 # **Genehmigungsanfrage für Cloud-Nutzung**
 **An:**
@@ -182,7 +181,7 @@ die Einstufung einer Datenart ist die ISB hinzuzuziehen.
 - **Anbieter:** ________________________
 - **Zweck der Nutzung:** ________________________
 - **Geplante Datenkategorien:** ________________________
-- **Schutzbedarf:** □ Normal □ Hoch □ Sehr hoch (gemäß Anlage 1) [1]
+- **Schutzbedarf:** □ Normal □ Hoch □ Sehr hoch (gemäß Anlage 1)
 
 ### **3. Sicherheitsmaßnahmen**
 - **Verschlüsselung:** □ Ja (Methode: _______) □ Nein
@@ -191,7 +190,7 @@ die Einstufung einer Datenart ist die ISB hinzuzuziehen.
 
 ### **4. Schutzbedarfsanalyse & Risikoanalyse**
 - **Anlage 1 (Schutzbedarfsanalyse) beigefügt:** □ Ja □ Nein
-- **Risikoanalyse durchgeführt:** □ Ja □ Nein (bei "sehr hohem" Schutzbedarf) [1]
+- **Risikoanalyse durchgeführt:** □ Ja □ Nein (bei "sehr hohem" Schutzbedarf)
 
 ### **5. Erklärung**
 Hiermit bestätige ich, dass die Angaben vollständig und korrekt sind. Ich verpflichte mich zur Einhaltung der Dienstanweisung zur Cloud-Nutzung.
@@ -230,4 +229,4 @@ Muster der Rechtsabteilung geschlossen.
 
 **Hinweis:**
 - Das Register wird **vierteljährlich** von der IT-Sicherheitsbeauftragten überprüft.
-- Bei **Verstößen** gegen die Dienstanweisung wird der Dienst **sofort gesperrt** [1].
+- Bei **Verstößen** gegen die Dienstanweisung wird der Dienst **sofort gesperrt**.

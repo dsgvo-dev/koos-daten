@@ -7,13 +7,6 @@ zustaendigeEinheit: oe-amt-15
 datum: '2026-06-23'
 status: entwurf
 reviewed_by: null
-quellen:
-  - dsms:_input/Muster-DV-Software.docx (Dienstvereinbarung Software-Einsatz)
-  - dsms:facts/muster/dienstanweisungen/Muster-Dienstanweisung-kommunal.md (Baukasten-Module)
-  - dsms:dsms/Organisation/Prozess-Einführung-IT-Verfahren.md (DSMS-Prozess)
-  - dsms:dsms/Organisation/Dienstanweisung-IT.md (DSMS-IT-DA)
-  - dsms:wiki/O/Prozess-Einführung-IT-Verfahren.md (Wiki-Prozess)
-  - BSI-Standard 200-2 (IT-Grundschutz-Methodik)
 ---
 
 # Muster-Dienstanweisung — Einführung neuer IT-Verfahren (DA IT-Einführung)

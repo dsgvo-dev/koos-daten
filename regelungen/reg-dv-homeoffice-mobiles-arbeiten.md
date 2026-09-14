@@ -7,11 +7,6 @@ titel: Dienstvereinbarung Homeoffice / Mobiles Arbeiten
 datum: '2026-08-23'
 status: entwurf
 reviewed_by: null
-quellen:
-  - dsms:facts/muster/Muster-Dienstvereinbarung-Software.md
-  - LfD Niedersachsen, Hilfestellung Datenschutz im Homeoffice (12/2023)
-  - NIST SP 800-61 Rev. 3 (IT-Sicherheit)
-  - BSI-Checkliste IT-Sicherheitsvorfall
 bemerkung: >-
   Kommentierte Muster-Dienstvereinbarung mit Anmerkungen aus der
   Dreifach-Prüfung durch Recht (juristische-rolle), DSB (dsb-rolle)

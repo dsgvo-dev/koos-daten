@@ -5,11 +5,10 @@ typ: Satzung
 status: entwurf
 datum: 2022-01-01
 entscheidendes-gremium: Rat
-ersetzt: null
 zustaendigeEinheit: oe-hvb
 ---
 
-# Hauptsatzung der [Name der Kommune]
+# Hauptsatzung der [Musterkommune]
 
 
 ## Präambel

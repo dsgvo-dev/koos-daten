@@ -3,7 +3,7 @@ id: reg-adga
 name: Allgemeine Dienst- und Geschäftsanweisung (ADGA)
 typ: Dienstanweisung
 status: aktiv
-datum: '2023-03-15'
+datum: '2023-09-14'
 zustaendigeEinheit: oe-hvb
 entscheidendes-gremium: Hauptverwaltungsbeamter
 ---
@@ -16,7 +16,7 @@ entscheidendes-gremium: Hauptverwaltungsbeamter
 
 1.2 **Zweck.** Sie dient als verbindliche Grundlage für ein einheitliches, rechtssicheres, transparentes und effizientes Verwaltungshandeln. 
 
-1.3 **Gesetzliche Basis.** Rechtsgrundlage dieser Anweisung sind die §§ 39, 40 des Niedersächsischen Kommunalverwaltungsgesetzes (NKomVG) sowie die einschlägigen Verwaltungsvorschriften des Landes Niedersachsen. 
+1.3 **Gesetzliche Basis.** Rechtsgrundlage dieser Anweisung sind die §§ 39, 40 des Niedersächsischen Kommunalverwaltungsgesetzes (NKomVG) sowie die Hauptsatzung der Musterkommune. 
 
 1.4 **Ergänzende Regelungen.** Ergänzende Regelungen können durch Einzelanweisungen für Dezernate, Fachbereiche oder besondere Funktionsstellen erlassen werden, sofern diese der ADGA nicht widersprechen.
 
@@ -24,7 +24,7 @@ entscheidendes-gremium: Hauptverwaltungsbeamter
 
 2.1 **Geltung für Beschäftigte.** Diese ADGA gilt für alle Beschäftigten der Kommunalverwaltung, einschließlich der Beamtinnen und Beamten, der Tarifbeschäftigten, der Auszubildenden sowie der Werkstudentinnen und Werkstudenten. 
 
-2.2 **Externe Dienstleister.** Externe Dienstleisterinnen und Dienstleister im Rahmen von Verwaltungsaufträgen unterliegen den entsprechenden Vorgaben dieser Anweisung. 
+2.2 **Externe Dienstleister.** Externe Dienstleisterinnen und Dienstleister im Rahmen von Verwaltungsaufträgen sind vertraglich soweit notwendig den entsprechenden Vorgaben dieser Anweisung zu unterwerfen. 
 
 2.3 **Ehrenamtliche.** Ehrenamtliche in kommunalen Organen, insbesondere Ratsmitglieder und Ausschussmitglieder, sind hinsichtlich der Geschäftsgänge der Verwaltung einzubeziehen. 
 
@@ -50,7 +50,6 @@ entscheidendes-gremium: Hauptverwaltungsbeamter
 
 4.3 **Aufgabenerfüllung.** Alle Beschäftigte haben ihre zugewiesenen Aufgaben im Rahmen der gesetzlichen Vorgaben und der haushaltsmäßigen Ermächtigung zu erfüllen. 
 
-4.4 **Zuständigkeitsklärung.** Zuständigkeitsüberschneidungen sind durch die Verwaltungsleitung verbindlich zu klären.
 
 ## 5. Geschäftsgang und Bearbeitung von Vorgängen
 
@@ -64,13 +63,9 @@ entscheidendes-gremium: Hauptverwaltungsbeamter
 
 5.5 **Dringende Vorgänge.** Dringende Vorgänge, insbesondere aus den Bereichen Gefahrenabwehr, Katastrophenschutz oder Jugendschutz, sind vorrangig zu bearbeiten und gegebenenfalls außerhalb des regulären Geschäftsgangs unmittelbar der Fachbereichsleitung zuzuleiten. 
 
-5.6 **Bearbeitungsfristen.** Die Bearbeitung von Vorgängen hat grundsätzlich innerhalb von vier Wochen zu erfolgen, sofern keine kürzere gesetzliche Frist besteht. 
+5.6 **Elektronische Aktenführung.** Jeder Vorgang ist in dem zugelassenen Dokumentenmanagementsystem elektronisch zu führen, sofern keine gesetzliche Ausnahme für eine papiergebundene Führung besteht. 
 
-5.7 **Fristverlängerung.** Ist eine fristgerechte Bearbeitung nicht möglich, ist die Antragstellerin oder der Antragsteller schriftlich über den Stand des Verfahrens und die voraussichtliche Bearbeitungsdauer zu informieren. 
-
-5.8 **Elektronische Aktenführung.** Jeder Vorgang ist in dem zugelassenen Dokumentenmanagementsystem elektronisch zu führen, sofern keine gesetzliche Ausnahme für eine papiergebundene Führung besteht. 
-
-5.9 **Grundsätze der Aktenführung.** Die Aktenführung hat nach den Grundsätzen der Vollständigkeit, der Übersichtlichkeit und der Nachvollziehbarkeit zu erfolgen.
+5.7 **Grundsätze der Aktenführung.** Die Aktenführung hat nach den Grundsätzen der Vollständigkeit, der Übersichtlichkeit und der Nachvollziehbarkeit zu erfolgen.
 
 ## 6. Erlass von Verwaltungsakten und Zeichnungsbefugnis
 
@@ -120,13 +115,9 @@ entscheidendes-gremium: Hauptverwaltungsbeamter
 
 9.2 **Gesetzliche Vorgaben.** Die Einhaltung der Datenschutz-Grundverordnung und des Niedersächsischen Datenschutzgesetzes ist für alle Beschäftigten verbindlich. 
 
-9.3 **Technische Maßnahmen.** Technische und organisatorische Maßnahmen zum Schutz personenbezogener Daten sind verpflichtend umzusetzen, insbesondere Zugangsbeschränkungen und Verschlüsselungen. 
+9.3 **Geheimhaltung.** Die Pflicht zur Geheimhaltung gilt für alle dienstlichen Informationen, auch nach Beendigung des Dienstverhältnisses.
 
-9.4 **Meldepflicht.** Bei Bekanntwerden von Datenschutzverstößen sind diese sofort der behördlichen Datenschutzbeauftragten oder dem behördlichen Datenschutzbeauftragten zu melden. 
-
-9.5 **Meldung an Aufsichtsbehörde.** Die Datenschutzbeauftragte oder der Datenschutzbeauftragte leitet die notwendigen Schritte ein und informiert die Aufsichtsbehörde innerhalb der gesetzlichen Fristen. 
-
-9.6 **Geheimhaltung.** Die Pflicht zur Geheimhaltung gilt für alle dienstlichen Informationen, auch nach Beendigung des Dienstverhältnisses.
+9.4 **Dienstanweisung Datenschutz.** Die weiteren Einzelheiten sind der DA Datenschutz zu entnehmen.
 
 ## 10. Elektronische Verwaltung und Signatur
 
@@ -153,8 +144,6 @@ entscheidendes-gremium: Hauptverwaltungsbeamter
 11.3 **Aussagegenehmigung.** Vor der Abgabe von aussagefähigen Erklärungen gegenüber Dritten, insbesondere gegenüber Medien, ist immer eine Genehmigung der direkten Vorgesetzten oder der Pressestelle einzuholen. 
 
 11.4 **Dienstrechtliche Konsequenzen.** Ohne Genehmigung abgegebene Aussagen können dienstrechtliche Konsequenzen nach sich ziehen. 
-
-11.5 **Zurückhaltung.** Im Zweifel ist zurückhaltend zu agieren und die zuständige Stelle zu kontaktieren.
 
 ## 12. Betriebliches Gesundheitsmanagement und Personalentwicklung
 
