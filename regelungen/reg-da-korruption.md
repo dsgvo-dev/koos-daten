@@ -2,73 +2,22 @@
 id: reg-da-korruption
 name: Dienstanweisung Korruptionsprävention und Annahme von Geschenken (DA Antikorruption)
 typ: Dienstanweisung
+datum: "2026-09-15"
+status: aktiv
 zustaendigeEinheit: oe-amt-1-7
-datum: "2026-06-07"
-status: entwurf
-version: 1.1
-reviewed_by: null
-aenderungsverzeichnis:
-  - version: 1.1
-    datum: 2026-06-07
-    aenderungen:
-      - "Lücke 3 (hoch): Klarstellung in Anlage 1 — Bagatellgrenzen sind keine strafrechtlichen Freigrenzen"
-      - "Lücke 4 (hoch): § 7.2 — Zustimmungsbefugnis nach § 42 BeamtStG korrekt delegiert (Ermächtigung durch oberste Dienstbehörde)"
-      - "Lücke 6 (hoch): § 6 Abs. 1 — Rechtsgrundlagen getrennt für Beamte (§ 42 BeamtStG) und Tarifbeschäftigte (§ 3 Abs. 3 TVöD)"
-      - "Lücke 5: § 6 Abs. 1 — Drittbegünstigung explizit verboten"
-      - "Lücke 7: § 14.1 — Vertretungsmeldestelle für S/M ergänzt, Unabhängigkeit präzisiert (§ 5.2 Abs. 4 → § 5.2 Abs. 5)"
-      - "Lücke 8: § 14.2 — Anonymität von Meldungen explizit geregelt"
-      - "Lücke 11 (optional): § 5a — Funktionstrennung als eigener Grundsatz (OPTIONAL)"
-      - "Lücke 12 (optional): § 5b — Rotation in gefährdeten Bereichen (OPTIONAL)"
-      - "Sprachpräzisierung A: § 7.2 Abs. 3 — Frist präzisiert"
-      - "Sprachpräzisierung B: § 8.2 Abs. 1 — ‚im Rahmen des Üblichen' konkretisiert"
-      - "Sprachpräzisierung C: § 8.1 Abs. 4 — Zuständigkeit für Beurteilung der Sponsoring-Eignung"
-      - "Sprachpräzisierung D: § 9.1 Abs. 1 — Frist und Entscheidungsstelle ergänzt"
-      - "Sprachpräzisierung E: § 12 Abs. 2 — Schulungsturnus differenziert (HinSchG jährlich)"
-      - "Sprachpräzisierung F: § 18 Abs. 1 — Aufhebung konkretisiert"
-      - "Sprachpräzisierung G: § 1 Abs. 1 — strafrechtlich präzisiert"
-      - "Sprachpräzisierung H: § 2 — § 336 StGB ergänzt"
-      - "Sprachpräzisierung I: § 4 — Interessenkonflikt-Definition präzisiert"
-      - "Sprachpräzisierung J: § 8.3 — Drittmittel konsolidiert (Verweis auf § 4)"
-      - "Sprachpräzisierung K: § 5.2 Abs. 4 — Unabhängigkeit der Antikorruptionsbeauftragten präzisiert"
-    grundlage: "Prüfvermerk unter _output/Prüfvermerk-DA-Korruptionspraevention.md"
+entscheidendes-gremium: Hauptverwaltungsbeamter
 ---
+# Dienstanweisung Korruptionsprävention und Annahme von Geschenken (DA Antikorruption)
 
-# Muster-Dienstanweisung Korruptionsprävention und Annahme von Geschenken (DA Antikorruption)
-
-## Anpassungshinweise vorab
-
-> **Diese Muster-Dienstanweisung ist für Kommunen aller Größen konzipiert.**
-> Sie enthält an jeder relevanten Stelle **Größen-Empfehlungen** (S/M/L), die je nach Verwaltungsgröße gewählt werden können:
->
-> | Größe | Beschreibung | Typische Personalstärke |
-> |---|---|---|
-> | **S (klein)** | Gemeinden/Verwaltungsgemeinschaften | bis ca. 200 Beschäftigte |
-> | **M (mittel)** | Mittelstädte/Kreisverwaltungen | 200–1.500 Beschäftigte |
-> | **L (groß)** | Großstädte/kreisfreie Städte | ab 1.500 Beschäftigte |
->
-> **Anpassungsschritte** für Ihre Kommune:
-> 1. Eigenen Verwaltungstyp (S/M/L) feststellen
-> 2. An jeder größenmarkierten Stelle die empfohlene Ausgestaltung wählen
-> 3. Platzhalter in **[ECKIGEN KLAMMERN]** ersetzen
-> 4. Formulare (Anlagen 1–4) auf das eigene Corporate Design anpassen
-> 5. Personalvertretung vor Erlass beteiligen
-> 6. Datenschutz-Folgenabschätzung für das Register und das Hinweisgebersystem prüfen
-
----
-
-**[STADT / GEMEINDE / LANDKREIS NAME]**
-
-**Stand:** [DATUM]
-**Aktenzeichen:** [AKTENZEICHEN]
-**Version:** 1.1
+**Erlassen von der Behördenleitung der Musterkommune am:** [DATUM]
 **Inkrafttreten:** [DATUM]
-**Erlassen von:** [BÜRGERMEISTER/IN / OBERBÜRGERMEISTER/IN / LANDRAT/LANDRÄTIN]
+**Verantwortlich für Fortschreibung:** [Organisation]
 
 ---
 
 ## § 1 Präambel und Zweck
 
-(1) Eine integre Verwaltung ist Voraussetzung für das Vertrauen der Bürgerinnen und Bürger in die [STADT / GEMEINDE / LANDKREIS]. Korruption — insbesondere Vorteilsannahme (§ 331 StGB), Bestechlichkeit (§ 332 StGB) und sonstige pflichtwidrige Unrechtsvereinbarungen — beschädigt dieses Vertrauen, verstößt gegen geltendes Recht und schadet der Verwaltung als Ganzes.
+(1) Eine integre Verwaltung ist Voraussetzung für das Vertrauen der Bürgerinnen und Bürger in die [Musterkommune]. Korruption — insbesondere Vorteilsannahme (§ 331 StGB), Bestechlichkeit (§ 332 StGB) und sonstige pflichtwidrige Unrechtsvereinbarungen — beschädigt dieses Vertrauen, verstößt gegen geltendes Recht und schadet der Verwaltung als Ganzes.
 
 (2) Diese Dienstanweisung verfolgt eine **Null-Toleranz-Strategie** gegenüber Korruption. Sie regelt verbindlich den Umgang mit Korruptionsrisiken, insbesondere die Annahme von Geschenken, Belohnungen und sonstigen Vorteilen, sowie den Umgang mit Interessenkonflikten, Sponsoring, Bewirtungen und Drittmittelangeboten.
 
@@ -84,18 +33,17 @@ aenderungsverzeichnis:
 - **§ 42 Beamtenstatusgesetz (BeamtStG)** — Verbot der Annahme von Belohnungen, Geschenken und sonstigen Vorteilen (gilt für Beamtinnen und Beamte)
 - **§ 3 Abs. 3 Tarifvertrag öffentlicher Dienst (TVöD)** — Hinweis- und Herausgabepflicht bei Geschenken und Zuwendungen (gilt für Tarifbeschäftigte)
 - **Hinweisgeberschutzgesetz (HinSchG) vom 2. Juli 2023** — Schutz hinweisgebender Personen
-- **[LANDESBEAMTENGESETZ]** — Pflichten, Nebentätigkeiten, Geschenkannahme
-- **[LANDESDISZIPLINARGESETZ]** — Disziplinarmaßnahmen bei Dienstvergehen
-- **[GEMEINDEORDNUNG / LANDKREISORDNUNG, z. B. § 31 GO BW, Art. 49 BayGO]** — Ausschluss und Befangenheit
-- **[LANDESANTIKORRUPTIONSGESETZ – sofern vorhanden]**
-- **[Hinweise auf kommunale Satzungen, z. B. Hauptsatzung, Bewirtungsrichtlinie]**
+- **[Niedersächsisches Beamtengesetz (NBG)]** — Pflichten, Nebentätigkeiten, Geschenkannahme
+- **[Niedersächsisches Disziplinargesetz (NDiszG)]** — Disziplinarmaßnahmen bei Dienstvergehen
+- **[Niedersächsisches Kommunalverfassungsgesetz (NKomVG)]** — Ausschluss und Befangenheit
+- **[Hauptsatzung der Musterkommune]**
 - **§ 11 Abs. 1 Nr. 4 StGB** — Für die Anwendung der §§ 331 ff. StGB gelten Tarifbeschäftigte als für den öffentlichen Dienst besonders Verpflichtete
 
 (2) Bei Widersprüchen zwischen dieser Dienstanweisung und höherrangigem Recht gilt das höherrangige Recht.
 
 ## § 3 Geltungsbereich
 
-(1) **Persönlich:** Diese Dienstanweisung gilt für alle Beschäftigten der [STADT / GEMEINDE / LANDKREIS]:
+(1) **Persönlich:** Diese Dienstanweisung gilt für alle Beschäftigten der [Musterkommune]:
 - Beamtinnen und Beamte
 - Tarifbeschäftigte
 - Auszubildende, Praktikantinnen und Praktikanten
@@ -136,14 +84,9 @@ Im Sinne dieser Dienstanweisung bedeutet:
 
 (1) Die Behördenleitung trägt die Gesamtverantwortung für die Korruptionsprävention. Sie bestellt eine Antikorruptionsbeauftragte oder einen Antikorruptionsbeauftragten.
 
-(2) **Größen-Empfehlung:**
-- **S (klein):** Antikorruptionsbeauftragte/r als Nebenamt, ggf. gemeinsam mit Nachbargemeinden (interkommunale Zusammenarbeit)
-- **M (mittel):** Antikorruptionsbeauftragte/r als Nebenamt mit Freistellungsanteil (ca. 0,2–0,5 Stellenanteil)
-- **L (groß):** Eigene Stabsstelle Antikorruption mit mehreren Beschäftigten
+(2) Die Behördenleitung entscheidet in Zweifelsfragen über die Annahme von Vorteilen und stellt die organisatorischen, personellen und finanziellen Rahmenbedingungen sicher.
 
-(3) Die Behördenleitung entscheidet in Zweifelsfragen über die Annahme von Vorteilen und stellt die organisatorischen, personellen und finanziellen Rahmenbedingungen sicher.
-
-(4) Für die Erteilung der Zustimmung nach § 42 BeamtStG (Ausnahmen vom Annahmeverbot) ist die oberste Dienstbehörde zuständig. Die Behördenleitung ist **durch die oberste Dienstbehörde ermächtigt**, diese Zustimmung im Rahmen der nachfolgenden Regelungen (§ 7) zu erteilen. Vorteile ab einem Wert von [1.000 EUR] (S/M) / [2.000 EUR] (L) bedürfen der Zustimmung der obersten Dienstbehörde.
+(3) Für die Erteilung der Zustimmung nach § 42 BeamtStG (Ausnahmen vom Annahmeverbot) ist die oberste Dienstbehörde zuständig. Die Behördenleitung ist **durch die oberste Dienstbehörde ermächtigt**, diese Zustimmung im Rahmen der nachfolgenden Regelungen (§ 7) zu erteilen.
 
 ### § 5.2 Antikorruptionsbeauftragte/r
 
@@ -184,7 +127,7 @@ Im Sinne dieser Dienstanweisung bedeutet:
 
 (3) Sie nehmen an den verpflichtenden Schulungen zur Korruptionsprävention teil.
 
-### § 5a Grundsatz der Funktionstrennung [OPTIONAL — empfohlen für M und L]
+### § 5a Grundsatz der Funktionstrennung
 
 (1) In Verfahren mit erhöhtem Korruptionsrisiko (insbesondere Vergabe, Genehmigungen, Zuwendungen, Kassenwesen) sind die Funktionen **Bedarfsanmeldung, Entscheidung und Vollzug/Kontrolle** organisatorisch zu trennen.
 
@@ -192,9 +135,9 @@ Im Sinne dieser Dienstanweisung bedeutet:
 
 (3) Kann eine vollständige Funktionstrennung aufgrund der Größe der Organisationseinheit nicht erreicht werden, sind kompensierende Maßnahmen zu ergreifen (z. B. Stichproben durch die Antikorruptionsbeauftragte/den Antikorruptionsbeauftragten, verstärkte Dokumentation).
 
-### § 5b Rotation in korruptionsgefährdeten Bereichen [OPTIONAL — empfohlen für M und L]
+### § 5b Rotation in korruptionsgefährdeten Bereichen
 
-(1) In den in Anlage 4 genannten besonders gefährdeten Bereichen ist eine **Rotation der Beschäftigten** nach spätestens **[5 Jahren]** (S/M) / **[3 Jahren]** (L) anzustreben.
+(1) In den in Anlage 4 genannten besonders gefährdeten Bereichen ist eine **Rotation der Beschäftigten** nach spätestens **[5 Jahren]** anzustreben.
 
 (2) Die Rotation ist zu dokumentieren. Kann sie aus betrieblichen Gründen nicht durchgeführt werden, ist dies von der Behördenleitung zu genehmigen und durch verstärkte Kontrollmaßnahmen zu kompensieren.
 
@@ -272,26 +215,17 @@ Vorteile werden in drei Kategorien unterteilt. Die konkreten Wertgrenzen sind in
 
 (1) Sponsoring durch Dritte für Veranstaltungen, Maßnahmen oder Einrichtungen der Verwaltung ist nur zulässig, wenn dadurch keine Einflussnahme auf Verwaltungsentscheidungen entsteht und die Transparenz gewahrt bleibt.
 
-(2) **Größen-Empfehlung:**
-- **S (klein):** Veröffentlichung ab **250 EUR** pro Vorgang im Amtsblatt oder auf der Website
-- **M (mittel):** Veröffentlichung ab **500 EUR** pro Vorgang im jährlichen Sponsoringbericht
-- **L (groß):** Veröffentlichung ab **1.000 EUR** pro Vorgang im jährlichen Sponsoringbericht; quartalsweise Aktualisierung
+(2) Sponsoring-Verträge bedürfen der Schriftform und sind von der Behördenleitung zu genehmigen. Sie enthalten eine klare Zweckbestimmung und legen den kommunikativen Gegenwert fest.
 
-(3) Sponsoring-Verträge bedürfen der Schriftform und sind von der Behördenleitung zu genehmigen. Sie enthalten eine klare Zweckbestimmung und legen den kommunikativen Gegenwert fest.
-
-(4) Die Beurteilung, ob ein Sponsoring geeignet ist, Behördenentscheidungen zu beeinflussen, trifft die Antikorruptionsbeauftragte/der Antikorruptionsbeauftragte im Einzelfall vor der Genehmigung. Stellt sie/er eine Beeinflussungseignung fest, ist das Sponsoring unzulässig.
+(3) Die Beurteilung, ob ein Sponsoring geeignet ist, Behördenentscheidungen zu beeinflussen, trifft die Antikorruptionsbeauftragte/der Antikorruptionsbeauftragte im Einzelfall vor der Genehmigung. Stellt sie/er eine Beeinflussungseignung fest, ist das Sponsoring unzulässig.
 
 ### § 8.2 Bewirtung
 
-(1) Bewirtungen aus dienstlichem Anlass sind zulässig, soweit sie im Rahmen dessen bleiben, was unter Berücksichtigung des Dienstzwecks angemessen und nicht geeignet ist, den Eindruck der Beeinflussbarkeit zu erwecken.
+(1) Bewirtungen aus dienstlichem Anlass sind zulässig, soweit sie im Rahmen dessen bleiben, was unter Berücksichtigung des Dienstzwecks angemessen und nicht geeignet ist (35 EUR), den Eindruck der Beeinflussbarkeit zu erwecken.
 
-(2) **Größen-Empfehlung (Wertgrenzen pro Person):**
-- **S/M (klein/mittel):** bis **35 EUR** zulässig, darüber anzeigepflichtig
-- **L (groß):** bis **50 EUR** zulässig, darüber anzeigepflichtig
+(2) Bewirtungen im Rahmen von Vergabeverfahren oder Genehmigungsverfahren sind stets anzeigepflichtig.
 
-(3) Bewirtungen im Rahmen von Vergabeverfahren oder Genehmigungsverfahren sind stets anzeigepflichtig.
-
-(4) Die Bewirtungskosten sind getrennt auszuweisen und zu belegen. Bei anzeigepflichtigen Vorgängen ist die Genehmigung der Führungskraft vor der Bewirtung einzuholen.
+(3) Die Bewirtungskosten sind getrennt auszuweisen und zu belegen. Bei anzeigepflichtigen Vorgängen ist die Genehmigung der Führungskraft vor der Bewirtung einzuholen.
 
 ### § 8.3 Drittmittel
 
@@ -299,7 +233,7 @@ Vorteile werden in drei Kategorien unterteilt. Die konkreten Wertgrenzen sind in
 
 (2) Eine zweckgebundene Annahme von Drittmitteln erfolgt nur, wenn der Zweck mit den Aufgaben der Verwaltung vereinbar ist und keine Einflussnahme erkennbar ist.
 
-(3) Drittmittel ab einem Wert von **[500 EUR]** (S/M) / **[1.000 EUR]** (L) sind der Behördenleitung anzuzeigen.
+(3) Drittmittel ab einem Wert von **[500 EUR]** sind der Behördenleitung anzuzeigen.
 
 ## § 9 Interessenkonflikte und Befangenheit
 
@@ -334,23 +268,18 @@ Vorteile werden in drei Kategorien unterteilt. Die konkreten Wertgrenzen sind in
 
 (2) Die Eintragungen erfolgen nach den Grundsätzen der Datensparsamkeit. Auf die Erfassung personenbezogener Daten der gebenden Personen wird verzichtet, soweit dies mit der Zweckerreichung vereinbar ist.
 
-(3) **Aufbewahrungsfrist:** Die Daten werden nach **[5 Jahren]** (S/M) / **[10 Jahren]** (L) ab dem Jahr der Eintragung gelöscht, soweit sie nicht für ein laufendes Verfahren benötigt werden.
+(3) **Aufbewahrungsfrist:** Die Daten werden nach **[5 Jahren]** ab dem Jahr der Eintragung gelöscht, soweit sie nicht für ein laufendes Verfahren benötigt werden.
 
-(4) Das Register unterliegt den Vorschriften der DSGVO und des [Landesdatenschutzgesetzes]. Die Datenschutzbeauftragte/der Datenschutzbeauftragte wurde beteiligt.
+(4) Das Register unterliegt den Vorschriften der DSGVO und des NDSG. Die Datenschutzbeauftragte/der Datenschutzbeauftragte wurde beteiligt.
 
-(5) **Größen-Empfehlung:**
-- **S (klein):** Führen im Tabellenblatt oder Formularordner
-- **M (mittel):** Elektronische Liste (Access, Excel mit Berechtigungskonzept)
-- **L (groß):** Datenbankgestützt mit Zugriffsprotokollierung
-
-(6) Die Antikorruptionsbeauftragte/der Antikorruptionsbeauftragte legt der Behördenleitung jährlich einen **Tätigkeitsbericht** vor (Anzahl der Anzeigen, Art der Vorteile, Entscheidungen, Empfehlungen).
+(5) Die Antikorruptionsbeauftragte/der Antikorruptionsbeauftragte legt der Behördenleitung jährlich einen **Tätigkeitsbericht** vor (Anzahl der Anzeigen, Art der Vorteile, Entscheidungen, Empfehlungen).
 
 ## § 11 Nebentätigkeiten
 
 (1) Die Ausübung von Nebentätigkeiten ist nach Maßgabe des [Landesbeamtengesetzes / TVöD / TV-L] anzeige- bzw. genehmigungspflichtig.
 
 (2) Eine Nebentätigkeit ist **unzulässig**, wenn:
-- sie geeignet ist, die Interessen der [STADT / GEMEINDE / LANDKREIS] zu beeinträchtigen
+- sie geeignet ist, die Interessen der [Musterkommune] zu beeinträchtigen
 - sie in einem sachlichen Zusammenhang mit der dienstlichen Tätigkeit steht, der den Anschein von Interessenkonflikten erweckt
 - sie die Arbeitsleistung oder Dienstbereitschaft beeinträchtigt
 
@@ -362,10 +291,7 @@ Vorteile werden in drei Kategorien unterteilt. Die konkreten Wertgrenzen sind in
 
 (1) Alle Beschäftigten werden bei **Dienstantritt** in die Vorschriften dieser Dienstanweisung eingewiesen und unterzeichnen die Kenntnisnahme (Anlage 3).
 
-(2) **Regelmäßige Schulung:**
-- **S (klein):** Schulung alle **[3 Jahre]** , ggf. als E-Learning oder Dienstbesprechung
-- **M (mittel):** Schulung alle **[2 Jahre]** , als E-Learning mit Präsenzvertiefung für Risikobereiche
-- **L (groß):** Schulung alle **[2 Jahre]** , gestaffelt nach Risikostufen; E-Learning für alle, Präsenz für Risikobereiche
+(2) Es müssen für alle Beschäftigten alle **[2 Jahre]** , als E-Learning mit Präsenzvertiefung für Risikobereiche stattfinden.
 
 (3) **Besonders korruptionsgefährdete Bereiche** (Beschaffung, Bauwesen, Genehmigungen, Ordnungsbehörden, Personal, Finanzen) erhalten **jährliche** Auffrischungsschulungen.
 
@@ -379,27 +305,22 @@ Vorteile werden in drei Kategorien unterteilt. Die konkreten Wertgrenzen sind in
 
 (1) Bei der Bearbeitung von Anzeigen, der Führung des Korruptionsregisters und des Hinweisgeberverfahrens werden personenbezogene Daten verarbeitet.
 
-(2) Es gelten die Vorgaben der **Dienstanweisung Datenschutz vom [DATUM]** , insbesondere zu Datensparsamkeit, Zweckbindung, Zugriffsbeschränkung und Löschfristen.
+(2) Es gelten die Vorgaben der **Dienstanweisung Datenschutz** , insbesondere zu Datensparsamkeit, Zweckbindung, Zugriffsbeschränkung und Löschfristen.
 
 (3) Anzeigen, die nicht zu einer Maßnahme führen, werden nach Ablauf von **[3 Jahren]** gelöscht. Anzeigen, die zu einer Maßnahme führen, werden in der Personalakte oder einer gesonderten Akte nach den geltenden Aufbewahrungsfristen geführt.
 
-(4) Vor Einrichtung des Korruptionsregisters und des Hinweisgebersystems ist die Durchführung einer **Datenschutz-Folgenabschätzung (DSFA)** nach Art. 35 DSGVO zu prüfen. Für Kommunen der Größe L wird die DSFA verpflichtend empfohlen.
+(4) Vor Einrichtung des Korruptionsregisters und des Hinweisgebersystems ist die Durchführung einer **Datenschutz-Folgenabschätzung (DSFA)** nach Art. 35 DSGVO zu prüfen. Für das Hinweisgebersystem ist die DSFA regelmäßig erforderlich.
 
 ## § 14 Hinweisgebersystem (HinSchG)
 
 ### § 14.1 Interne Meldestelle
 
-(1) Die [STADT / GEMEINDE / LANDKREIS] betreibt ein internes Hinweisgebersystem nach dem Hinweisgeberschutzgesetz (HinSchG). Das System steht **allen Personen offen, die im beruflichen Zusammenhang mit der Verwaltung stehen oder standen** — einschließlich Beschäftigter, ehemaliger Beschäftigter, Bewerberinnen und Bewerber, Lieferanten, Beraterinnen und Berater sowie sonstiger Dritter.
+(1) Die [Musterkommune] betreibt ein internes Hinweisgebersystem nach dem Hinweisgeberschutzgesetz (HinSchG). Das System steht **allen Personen offen, die im beruflichen Zusammenhang mit der Verwaltung stehen oder standen** — einschließlich Beschäftigter, ehemaliger Beschäftigter, Bewerberinnen und Bewerber, Lieferanten, Beraterinnen und Berater sowie sonstiger Dritter.
 
-(2) **Größen-Empfehlung:**
-- **S (klein):** Interne Meldestelle bei der Antikorruptionsbeauftragten/dem Antikorruptionsbeauftragten; **Vertretung** durch die Rechtsaufsicht des Landkreises oder externe Ombudsperson. Für den Fall, dass eine Meldung die Meldestelle selbst betrifft, tritt die Vertretung an ihre/seine Stelle.
-- **M (mittel):** Interne Meldestelle bei der Innenrevision oder beim Rechtsamt; Antikorruptionsbeauftragte/r als stellvertretende Meldestelle mit externer Vertretung für den Fall der Betroffenheit.
-- **L (groß):** Eigene interne Meldestelle (Stabsstelle), organisatorisch von der Korruptionsprävention getrennt.
+(2) Die Meldestelle ist zuständig für die Entgegennahme und Bearbeitung von Hinweisen auf Verstöße im Sinne des § 2 HinSchG.
 
-(3) Die Meldestelle ist zuständig für die Entgegennahme und Bearbeitung von Hinweisen auf Verstöße im Sinne des § 2 HinSchG.
-
-(4) Kontaktdaten:
-- **E-Mail:** [HINWEISGEBER@STADT.DE]
+(3) Kontaktdaten:
+- **E-Mail:** [HINWEISGEBER@MUSTERKOMMUNE.DE]
 - **Telefon:** [TELEFONNUMMER]
 - **Post:** [ADRESSE — verschlossen, persönlich/vertraulich]
 - **Elektronisches Meldeformular:** [URL, sofern vorhanden]
@@ -442,7 +363,7 @@ Vorteile werden in drei Kategorien unterteilt. Die konkreten Wertgrenzen sind in
 
 ## § 16 Mitwirkung und Beteiligung
 
-(1) Diese Dienstanweisung berührt Mitbestimmungstatbestände des Landespersonalvertretungsgesetzes. Der Personalrat wurde nach [§ … LPersVG] beteiligt.
+(1) Diese Dienstanweisung berührt Mitbestimmungstatbestände des Landespersonalvertretungsgesetzes. Der Personalrat wurde beteiligt.
 
 (2) Die Gleichstellungsbeauftragte und — soweit zuständig — die Schwerbehindertenvertretung wurden angehört.
 
@@ -450,11 +371,11 @@ Vorteile werden in drei Kategorien unterteilt. Die konkreten Wertgrenzen sind in
 
 ## § 17 Nachwirkung
 
-(1) Nach dem Ausscheiden aus dem Dienst ist die Annahme von Vorteilen, die im Zusammenhang mit der früheren dienstlichen Tätigkeit stehen, für die Dauer von **[12 Monaten]** (S/M) / **[24 Monaten]** (L) anzeigepflichtig. Die konkrete Frist richtet sich nach den Vorgaben des [Landesbeamtengesetzes].
+(1) Nach dem Ausscheiden aus dem Dienst ist die Annahme von Vorteilen, die im Zusammenhang mit der früheren dienstlichen Tätigkeit stehen, für die Dauer von  **12 Monaten** anzeigepflichtig. Die konkrete Frist richtet sich nach den Vorgaben des NBG.
 
 (2) Der Wechsel in ein Unternehmen oder eine Einrichtung, mit der der Beschäftigte dienstlich befasst war, ist der Behördenleitung vor dem Wechsel anzuzeigen.
 
-(3) Die Behördenleitung kann einen Wechsel unter den Voraussetzungen des [Landesbeamtengesetzes] untersagen.
+(3) Die Behördenleitung kann einen Wechsel unter den Voraussetzungen des NBG untersagen.
 
 ## § 18 Schlussvorschriften
 
@@ -464,7 +385,7 @@ Vorteile werden in drei Kategorien unterteilt. Die konkreten Wertgrenzen sind in
 
 (3) **Veröffentlichung.** Diese Dienstanweisung wird im Intranet der Verwaltung veröffentlicht. Allen Beschäftigten wird sie gegen Empfangsbestätigung ausgehändigt. Ein exemplarischer Abdruck erfolgt im [ORTSRECHT / AMTSBLATT]. Die Kontaktdaten der internen Meldestelle (§ 14.1 Abs. 4) werden gesondert und dauerhaft bekannt gemacht.
 
-(4) **Überprüfung.** Diese Dienstanweisung wird spätestens nach **[2 Jahren]** (S/M) / **[3 Jahren]** (L) auf Anpassungsbedarf überprüft. Die Antikorruptionsbeauftragte/der Antikorruptionsbeauftragte legt der Behördenleitung einen Evaluationsbericht vor.
+(4) **Überprüfung.** Diese Dienstanweisung wird spätestens nach **[2 Jahren]** auf Anpassungsbedarf überprüft. Die Antikorruptionsbeauftragte/der Antikorruptionsbeauftragte legt der Behördenleitung einen Evaluationsbericht vor.
 
 (5) **Inkrafttreten.** Diese Dienstanweisung tritt am [INKRAFTTRETENSDATUM] in Kraft.
 
@@ -478,28 +399,25 @@ Vorteile werden in drei Kategorien unterteilt. Die konkreten Wertgrenzen sind in
 
 ### Tabelle der Wertgrenzen
 
-| Stufe | Kriterium | Wertgrenze **S (klein)** | Wertgrenze **M (mittel)** | Wertgrenze **L (groß)** |
-|-------|-----------|--------------------------|---------------------------|--------------------------|
-| **Stufe 1: Bagatelle** | Pro Vorgang | bis **10 EUR** | bis **25 EUR** | bis **25 EUR** |
-| | Pro Jahr / Person/Stelle | bis **30 EUR** | bis **75 EUR** | bis **100 EUR** |
-| | Folge | Annahme zulässig, keine Anzeige | Annahme zulässig, keine Anzeige | Annahme zulässig, keine Anzeige |
-| **Stufe 2: Anzeigepflicht** | Pro Vorgang | 10–**25 EUR** | 25–**50 EUR** | 25–**75 EUR** |
-| | Pro Jahr / Person/Stelle | 30–**75 EUR** | 75–**150 EUR** | 100–**200 EUR** |
-| | Folge | Annahme nur mit Genehmigung | Annahme nur mit Genehmigung | Annahme nur mit Genehmigung |
-| **Stufe 3: Verbot** | Pro Vorgang | über **25 EUR** | über **50 EUR** | über **75 EUR** |
-| | Pro Jahr / Person/Stelle | über **75 EUR** | über **150 EUR** | über **200 EUR** |
-| | Folge | Keine Annahme | Keine Annahme | Keine Annahme |
+| Stufe | Kriterium | Wertgrenze |
+|-------|-----------|-----------|
+| **Stufe 1: Bagatelle** | Pro Vorgang | bis **25 EUR** |
+| | Pro Jahr / Person/Stelle | bis **75 EUR** |
+| | Folge | Annahme zulässig, keine Anzeige |
+| **Stufe 2: Anzeigepflicht** | Pro Vorgang | **25–50 EUR** |
+| | Pro Jahr / Person/Stelle | **75–150 EUR** |
+| | Folge | Annahme nur mit Genehmigung |
+| **Stufe 3: Verbot** | Pro Vorgang | über **50 EUR** |
+| | Pro Jahr / Person/Stelle | über **150 EUR** |
+| | Folge | Keine Annahme |
 
-> **Begründung der Staffelung:** Kleinere Gemeinden haben häufig engere persönliche Verflechtungen zwischen Verwaltung und Bürgerschaft. Niedrigere Bagatellgrenzen schaffen dort eine klarere Trennlinie. Größere Städte mit höherem Verwaltungsvolumen können etwas höhere Grenzen rechtfertigen, da dort Anonymität und Kontrollmechanismen stärker ausgeprägt sind.
-
-> **Wichtige Klarstellung:** Die Bagatellgrenzen in dieser Anlage sind **verwaltungsinterne Wertgrenzen**. Sie begründen **keine strafrechtliche Freigrenze**. Auch Vorteile unterhalb dieser Grenzen können nach §§ 331 ff. StGB strafbar sein, wenn die übrigen Tatbestandsmerkmale (insbesondere die Unrechtsvereinbarung) erfüllt sind. Bei Zweifeln über die strafrechtliche Bewertung eines Vorgangs ist die Antikorruptionsbeauftragte/der Antikorruptionsbeauftragte oder die Rechtsabteilung zu konsultieren.
 
 ### Sonderregeln
 
 - **Bargeld, Geldgutscheine, Wertmarken:** unabhängig vom Betrag **immer Stufe 3 (Verbot)**
 - **Mehrere Zuwendungen derselben Person/Stelle** innerhalb eines Kalenderjahres: **zusammenrechnen** — maßgeblich ist der Gesamtwert
-- **Sponsoring:** ab **[250 EUR]** (S) / **[500 EUR]** (M) / **[1.000 EUR]** (L) pro Vorgang: Veröffentlichungspflicht nach § 8.1
-- **Bewirtung pro Person:** bis **[25 EUR]** (S) / **[35 EUR]** (M) / **[50 EUR]** (L) zulässig; darüber anzeigepflichtig
+- **Sponsoring:** ab **500 EUR** pro Vorgang: Veröffentlichungspflicht nach § 8.1
+- **Bewirtung pro Person:** bis **35 EUR** zulässig (deckungsgleich mit § 8.2); darüber anzeigepflichtig
 
 ### Anpassung der Schwellenwerte
 
@@ -591,32 +509,6 @@ Diese Checkliste dient Führungskräften zur Identifikation korruptionsgefährde
 | Kommunale Wirtschaftstätigkeit | Mittel | Transparenz, Beteiligung Rechnungsprüfung |
 | Rechnungsprüfung selbst | Niedrig | Bei Prüfungshandlungen: keine eigenen Entscheidungen |
 
-> **Mindestturnus für die Überprüfung:** alle **[2 Jahre]** (S/M) / **[1 Jahr]** (L)
+> **Mindestturnus für die Überprüfung:** alle **[2 Jahre]**
 
 ---
-
-## Zusammenfassung der größenabhängigen Parameter
-
-| Parameter | **S (klein)** | **M (mittel)** | **L (groß)** |
-|-----------|---------------|----------------|---------------|
-| Antikorruptionsbeauftragte/r | Nebenamt, ggf. interkommunal | Nebenamt mit 0,2–0,5 Stellenanteil | Eigene Stabsstelle |
-| Bagatellgrenze (pro Vorgang) | bis 10 EUR | bis 25 EUR | bis 25 EUR |
-| Anzeigepflicht (pro Vorgang) | 10–25 EUR | 25–50 EUR | 25–75 EUR |
-| Verbotsgrenze (pro Vorgang) | über 25 EUR | über 50 EUR | über 75 EUR |
-| Sponsoring-Veröffentlichung | ab 250 EUR | ab 500 EUR | ab 1.000 EUR |
-| Bewirtung (pro Person) | bis 25 EUR | bis 35 EUR | bis 50 EUR |
-| Schulungsturnus | alle 3 Jahre | alle 2 Jahre | alle 2 Jahre |
-| Schulungsform | Dienstbesprechung/E-Learning | E-Learning + Präsenz | Gestaffelt nach Risiko |
-| HinSchG-Schulung | jährlich | jährlich | jährlich |
-| Registerführung | Tabellenblatt | Elektronisch | Datenbankgestützt |
-| Aufbewahrung Register | 5 Jahre | 5 Jahre | 10 Jahre |
-| Überprüfung der DA | alle 2 Jahre | alle 2 Jahre | alle 3 Jahre |
-| Hinweisgebermeldestelle | Ko.Beauftr. + Vertretung (extern) | Innenrevision/Rechtsamt + externe Vertretung | Eigene Stabsstelle (getrennt) |
-| Nachwirkungsfrist | 12 Monate | 12 Monate | 24 Monate |
-| DSFA | Zu prüfen | Empfohlen | Verpflichtend |
-| Funktionstrennung§ 5a | Optional | Optional (empfohlen) | Optional (empfohlen) |
-| Rotation § 5b | Optional | Optional (empfohlen) | Optional (empfohlen) |
-
----
-
-> **Hinweis:** Diese Muster-Dienstanweisung wurde mit Unterstützung durch KI erstellt und ersetzt keine anwaltliche oder fachjuristische Prüfung. Vor Erlass ist sie durch die Rechtsabteilung und die Personalvertretung prüfen zu lassen.
