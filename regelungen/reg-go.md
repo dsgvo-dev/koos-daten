@@ -2,18 +2,17 @@
 id: reg-go
 name: Geschäftsordnung
 typ: Geschäftsordnung
-status: entwurf
-datum: 2022-01-01
+status: aktiv
+datum: 2026-09-15
 entscheidendes-gremium: Rat
-ersetzt: null
 zustaendigeEinheit: oe-hvb
 ---
 
  Geschäftsordnung des Rates, des Verwaltungsausschusses und der Fachausschüsse
-**der Gemeinde [Name der Gemeinde]**
+**der [Musterkommune]**
 
 **Stand:** [Datum]
-**Rechtsgrundlage:** Niedersächsisches Kommunalverfassungsgesetz (NKomVG) [1]
+**Rechtsgrundlage:** Niedersächsisches Kommunalverfassungsgesetz (NKomVG)
 
 ---
 
@@ -35,7 +34,6 @@ Die Geschäftsordnung beruht auf:
    - ein überwiegendes öffentliches Interesse an Geheimhaltung besteht.
 3. Über den Ausschluss der Öffentlichkeit entscheidet der Rat oder der Ausschuss mit **Zweidrittelmehrheit** der anwesenden Mitglieder.
 
----
 
 ## **II. Der Rat der Gemeinde**
 ### **§ 4 Aufgaben des Rates**
@@ -90,8 +88,6 @@ Die Geschäftsordnung beruht auf:
    - Minderheitsvoten (auf Verlangen).
 3. Das Protokoll ist den Ratsmitgliedern innerhalb von **14 Tagen** zuzuleiten.
 
----
-
 ## **III. Der Verwaltungsausschuss**
 ### **§ 11 Aufgaben**
 1. Der Verwaltungsausschuss bereitet die Beschlüsse des Rates vor und entscheidet in Angelegenheiten, die ihm durch Gesetz oder Ratsbeschluss übertragen wurden (§ 74 NKomVG [1]).
@@ -117,8 +113,6 @@ Die Geschäftsordnung beruht auf:
 2. Beschlüsse werden mit einfacher Mehrheit gefasst.
 3. Bei Stimmengleichheit entscheidet die Stimme des Vorsitzenden.
 
----
-
 ## **IV. Die Fachausschüsse**
 ### **§ 15 Bildung und Aufgaben**
 1. Der Rat kann zur Vorbereitung seiner Beschlüsse Fachausschüsse bilden (§ 71 NKomVG [1]).
@@ -142,15 +136,11 @@ Die Geschäftsordnung beruht auf:
 2. Beschlüsse werden mit einfacher Mehrheit gefasst.
 3. Minderheitsvoten können auf Verlangen im Protokoll vermerkt werden.
 
----
-
 ## **V. Anregungen und Beschwerden**
 ### **§ 19 Behandlung von Anregungen und Beschwerden**
 1. Anregungen und Beschwerden von Einwohnern sind an den Verwaltungsausschuss zu richten (§ 2 NKomVG [1]).
 2. Der Verwaltungsausschuss entscheidet über die Erledigung, sofern nicht der Rat ausschließlich zuständig ist.
 3. Die Bearbeitung erfolgt innerhalb von **4 Wochen**; in dringenden Fällen unverzüglich.
-
----
 
 ## **VI. Schlussbestimmungen**
 ### **§ 20 Inkrafttreten**
@@ -162,7 +152,6 @@ Diese Geschäftsordnung tritt mit Beschluss des Rates in Kraft und bedarf **kein
 ### **§ 22 Sprachliche Gleichstellung**
 Personen- und Funktionsbezeichnungen in dieser Geschäftsordnung gelten für alle Geschlechter.
 
----
 
 **Gemeinde [Name der Gemeinde]**
 [Ort, Datum]

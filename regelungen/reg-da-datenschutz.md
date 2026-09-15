@@ -3,8 +3,9 @@ id: reg-da-datenschutz
 name: Dienstanweisung Datenschutz (DA Datenschutz)
 typ: Dienstanweisung
 status: aktiv
-zustaendigeEinheit: oe-amt-1-4
 datum: "2026-09-14"
+zustaendigeEinheit: oe-amt-1-4
+entscheidendes-gremium: Hauptverwaltungsbeamter
 ---
 
 # **Dienstanweisung Datenschutz**

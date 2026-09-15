@@ -3,53 +3,36 @@ titel: "Dienstanweisung IT-Einführung"
 id: reg-da-it-einfuehrung
 name: Dienstanweisung Einführung neuer IT-Verfahren (DA IT-Einführung)
 typ: Dienstanweisung
-zustaendigeEinheit: oe-amt-15
 datum: '2026-06-23'
 status: entwurf
-reviewed_by: null
+zustaendigeEinheit: oe-amt-15
+entscheidendes-gremium: Hauptverwaltungsbeamter
 ---
 
-# Muster-Dienstanweisung — Einführung neuer IT-Verfahren (DA IT-Einführung)
-
-> **Zweck:** Diese Dienstanweisung regelt das Verfahren zur Einführung neuer
-> IT-Verfahren, Software und digitaler Arbeitsmittel in der Verwaltung.
-> Sie stellt sicher, dass Datenschutz-, Informationssicherheits- und
-> organisatorische Anforderungen von der Planung bis zum Produktivbetrieb
-> eingehalten werden.
->
-> **Geltungsbereich:** Alle Organisationseinheiten der [Stadt/Gemeinde/Landkreis]
-> [Name], die neue IT-Verfahren einführen, bestehende wesentlich ändern oder
-> neue Software beschaffen.
->
-> **Basierend auf:** Muster-Dienstvereinbarung Software-Einsatz (§§ 1–13),
-> ergänzt um datenschutzrechtliche und sicherheitstechnische Anforderungen.
->
-> **Status:** Agent-Entwurf — noch nicht geprüft.
-> **Stand:** Juni 2026
+# Dienstanweisung zur Einführung neuer IT-Verfahren (DA IT-Einführung)
+**Gültig ab:** [Datum]
+**Verantwortlich:** IT-Abteilung / Hauptamt
+**Ersetzt:** [ggf. vorherige Version]
 
 ---
 
-## § 1 Geltungsbereich
+
+## § 1 Geltungsbereich und Ausnahmen
 
 **(1) Sachlicher Geltungsbereich**
 
-Diese Dienstanweisung gilt für die Einführung neuer sowie die wesentliche
-Änderung bestehender IT-Verfahren, Softwareanwendungen und digitaler
-Arbeitsmittel in der [Stadt/Gemeinde/Landkreis] [Name]. Eine wesentliche
-Änderung liegt insbesondere vor bei:
+Diese Dienstanweisung gilt für die Einführung neuer sowie die wesentliche Änderung bestehender IT-Verfahren, Softwareanwendungen und digitaler Arbeitsmittel in der [Musterkommune]. Eine wesentliche Änderung liegt insbesondere vor bei:
 
 - Einführung neuer Fachverfahren
 - Wechsel des Software-Anbieters oder der Software-Plattform
-- Erweiterung des Funktionsumfangs mit Auswirkung auf die
-  Datenverarbeitung
+- Erweiterung des Funktionsumfangs mit Auswirkung auf die Datenverarbeitung
 - Änderung der Verarbeitungszwecke
 - Einführung neuer Schnittstellen zu anderen Systemen
 - Umstellung von On-Premises auf Cloud-Betrieb
 
 **(2) Persönlicher Geltungsbereich**
 
-Diese Dienstanweisung gilt für alle Beschäftigten, die IT-Verfahren
-beschaffen, einführen, betreiben oder nutzen, insbesondere:
+Diese Dienstanweisung gilt für alle Beschäftigten, die IT-Verfahren beschaffen, einführen, betreiben oder nutzen, insbesondere:
 
 - Fachverantwortliche der Organisationseinheiten
 - IT-Abteilung
@@ -61,33 +44,18 @@ beschaffen, einführen, betreiben oder nutzen, insbesondere:
 
 **(3) Ausnahmen**
 
-Reine Softwareupdates und Patches ohne Funktionserweiterung sowie
-Betriebssystem-Updates fallen nicht unter diese Dienstanweisung,
-sofern sie keine Auswirkungen auf die Verarbeitung personenbezogener
-Daten haben.
-
----
+Reine Softwareupdates und Patches ohne Funktionserweiterung sowie Betriebssystem-Updates fallen nicht unter diese Dienstanweisung, sofern sie keine Auswirkungen auf die Verarbeitung personenbezogener Daten haben.
 
 ## § 2 Rechtsgrundlagen
 
 (1) Diese Dienstanweisung stützt sich auf folgende Rechtsgrundlagen:
 
-- DSGVO – insb. Art. 5 (Grundsätze), Art. 25 (Privacy by Design/Default),
-  Art. 28 (Auftragsverarbeitung), Art. 32 (Sicherheit der Verarbeitung),
-  Art. 35 (DSFA)
-- BDSG – insb. §§ 62–68 (Datenschutz im Beschäftigungsverhältnis)
-- [Landesdatenschutzgesetz, z. B. NDSG, BayDSG, DSG NRW]
-- [Landespersonalvertretungsgesetz, z. B. NPersVG, BayPVG, LPVG NRW]
+- DSGVO – insb. Art. 5 (Grundsätze), Art. 25 (Privacy by Design/Default), Art. 28 (Auftragsverarbeitung), Art. 32 (Sicherheit der Verarbeitung), Art. 35 (DSFA)
+- Nds. Datenschutzgesetz (NDSG)
+- Nds. Personalvertretungsgesetz (NPersVG)
 - BSI-Standards 200-1 (ISMS), 200-2 (IT-Grundschutz-Methodik)
-- EU AI Act (KI-VO, VO 2024/1689) – bei KI-Komponenten
-- [Gemeindeordnung / Landkreisordnung]
-- Tarifrecht / Beamtenrecht der Beschäftigten
 
-(2) Die jeweils geltende Fassung ist maßgeblich. Die IT-Abteilung prüft
-jährlich, ob Änderungen der Rechtslage eine Aktualisierung dieser
-Dienstanweisung erfordern.
-
----
+(2) Die jeweils geltende Fassung ist maßgeblich. Die IT-Abteilung prüft jährlich, ob Änderungen der Rechtslage eine Aktualisierung dieser Dienstanweisung erfordern.
 
 ## § 3 Begriffsbestimmungen
 
@@ -100,25 +68,19 @@ Dienstanweisung erfordern.
 | **Produktivbetrieb** | Einsatz des Verfahrens unter Echtbedingungen mit personenbezogenen Daten |
 | **Auftragsverarbeitung** | Verarbeitung personenbezogener Daten durch einen externen Dienstleister nach Art. 28 DSGVO |
 
----
-
 ## § 4 Rollen und Verantwortlichkeiten
 
 **(1) Gesamtverantwortung**
 
-Die [Bürgermeisterin/der Bürgermeister bzw. Landrätin/Landrat] trägt die
-Gesamtverantwortung für die Einhaltung dieser Dienstanweisung.
+Die [Bürgermeisterin/der Bürgermeister bzw. Landrätin/Landrat] trägt die Gesamtverantwortung für die Einhaltung dieser Dienstanweisung.
 
 **(2) Fachverantwortliche/r**
 
-Die Leiterin/der Leiter der einführenden Organisationseinheit ist
-verantwortlich für:
+Die Leiterin/der Leiter der einführenden Organisationseinheit ist verantwortlich für:
 
 - Bedarfsmeldung und Antragstellung
-- Bereitstellung der erforderlichen Informationen (Verarbeitungszweck,
-  Datenkategorien, Betroffene)
-- Durchführung der Datenschutz-Folgenabschätzung (DSFA) in Abstimmung
-  mit dem/der DSB
+- Bereitstellung der erforderlichen Informationen (Verarbeitungszweck, Datenkategorien, Betroffene)
+- Durchführung der Datenschutz-Folgenabschätzung (DSFA) in Abstimmung mit dem/der DSB
 - Sicherstellung der erforderlichen TOM
 - Schulung der Nutzerinnen und Nutzer
 
@@ -158,8 +120,6 @@ landesrechtliche Regelung] zu beteiligen, wenn das IT-Verfahren
 geeignet ist, das Verhalten oder die Leistung der Beschäftigten zu
 überwachen.
 
----
-
 ## § 5 Verfahren — Phasenmodell der IT-Einführung
 
 Die Einführung eines neuen IT-Verfahrens durchläuft sechs Phasen:
@@ -180,9 +140,7 @@ Phase 6: Produktivsetzung und Dokumentation
 
 ### Phase 1 — Bedarfsmeldung und Antrag
 
-(1) Die Fachverantwortliche / Der Fachverantwortliche meldet den
-Bedarf für ein neues IT-Verfahren schriftlich bei der IT-Abteilung.
-Der Antrag enthält mindestens:
+(1) Die Fachverantwortliche / Der Fachverantwortliche meldet den Bedarf für ein neues IT-Verfahren schriftlich bei der IT-Abteilung. Der Antrag enthält mindestens:
 
 - Bezeichnung und Zweck des Verfahrens
 - Beschreibung der geplanten Verarbeitung personenbezogener Daten
@@ -224,66 +182,49 @@ den/die ISB. Die Freigabe wird dokumentiert.
 
 (2) Voraussetzungen für die Freigabe:
 
-- Datenschutzrechtliche Unbedenklichkeit (DSFA geprüft oder nicht
-  erforderlich)
+- Datenschutzrechtliche Unbedenklichkeit (DSFA geprüft oder nicht erforderlich)
 - Sicherheitstechnische Bewertung liegt vor
 - AVV ist geschlossen (bei externem Dienstleister)
 - VVT-Eintrag ist vorbereitet
 - Berechtigungskonzept liegt im Entwurf vor
 
-(3) Die Beschaffung erfolgt nach den Regelungen der Vergabeordnung
-der [Stadt/Gemeinde/Landkreis] [Name].
+(3) Die Beschaffung erfolgt nach den Regelungen der Vergabeordnung der [Musterkommune].
 
 ### Phase 4 — Implementierung und Berechtigungskonzept
 
 (1) Die IT-Abteilung implementiert das Verfahren in der IT-Infrastruktur.
 
-(2) Das Rechte- und Rollenkonzept mit den Details zu den Berechtigungen
-der verschiedenen Nutzergruppen ist vor dem Produktivbetrieb zu
-erstellen und in der Anlage zu dieser Dienstanweisung zu dokumentieren.
-Mindestens zu definieren sind:
+(2) Das Rechte- und Rollenkonzept mit den Details zu den Berechtigungen der verschiedenen Nutzergruppen ist vor dem Produktivbetrieb zu erstellen und in der Anlage zu dieser Dienstanweisung zu dokumentieren. Mindestens zu definieren sind:
 
 - Administratorinnen und Administratoren
 - Fachanwenderinnen und Fachanwender (mit/ohne Schreibrechte)
 - Auskunftsberechtigte (z. B. nur lesend)
 - Einschränkungen und Verbote
 
-(3) Die Schnittstellen zu anderen Systemen sind zu dokumentieren
-(System, Datenart, Übertragungsweg, Sicherheitsmaßnahmen).
+(3) Die Schnittstellen zu anderen Systemen sind zu dokumentieren (System, Datenart, Übertragungsweg, Sicherheitsmaßnahmen).
 
 (4) Bei Einsatz eines Auftragsverarbeiters:
 
-- Es wird ein Vertrag zur Auftragsverarbeitung gem. Art. 28 DSGVO
-  geschlossen. Dieser kann von der Abteilung [XX] eingesehen werden
-  oder ist dieser Dienstanweisung als Anlage beigefügt.
-- Alternativ (bei gemeinsamer Verantwortlichkeit): Es wird eine
-  Vereinbarung nach Art. 26 DSGVO geschlossen.
+- Es wird ein Vertrag zur Auftragsverarbeitung gem. Art. 28 DSGVO geschlossen. Dieser kann von der IT-Abteilung eingesehen werden oder ist dieser Dienstanweisung als Anlage beigefügt.
+- Alternativ (bei gemeinsamer Verantwortlichkeit): Es wird eine Vereinbarung nach Art. 26 DSGVO geschlossen.
 
 ### Phase 5 — Test und Schulung
 
-(1) Vor dem Produktivbetrieb ist ein Test unter Bedingungen
-durchzuführen, die dem späteren Einsatz möglichst nahekommen.
-Der Test umfasst:
+(1) Vor dem Produktivbetrieb ist ein Test unter Bedingungen durchzuführen, die dem späteren Einsatz möglichst nahekommen. Der Test umfasst:
 
 - Funktionale Prüfung
 - Berechtigungsprüfung (Rollen funktionieren wie vorgesehen)
 - Datenschutz-Prüfung (keine ungewollten Datenflüsse)
 
-(2) Die Nutzerinnen und Nutzer sind vor Aufnahme des Produktivbetriebs
-über die Bedienung und die datenschutz- und sicherheitsrelevanten
-Aspekte des Verfahrens zu schulen.
+(2) Die Nutzerinnen und Nutzer sind vor Aufnahme des Produktivbetriebs über die Bedienung und die datenschutz- und sicherheitsrelevanten Aspekte des Verfahrens zu schulen.
 
-(3) Die Informationspflichten gem. Art. 13/14 DSGVO gegenüber den
-betroffenen Personen sind vor dem Produktivbetrieb zu erfüllen.
-Dies kann durch eine Veröffentlichung im Intranet erfolgen.
+(3) Die Informationspflichten gem. Art. 13/14 DSGVO gegenüber den betroffenen Personen sind vor dem Produktivbetrieb zu erfüllen. Dies kann durch eine Veröffentlichung im Intranet erfolgen.
 
 ### Phase 6 — Produktivsetzung und Dokumentation
 
-(1) Die Produktivsetzung erfolgt durch die IT-Abteilung nach
-erfolgreichem Test und Freigabe.
+(1) Die Produktivsetzung erfolgt durch die IT-Abteilung nach erfolgreichem Test und Freigabe.
 
-(2) Nach der Produktivsetzung sind folgende Dokumentationen
-abzuschließen und in der Abteilung [XX] zur Einsichtnahme zu hinterlegen:
+(2) Nach der Produktivsetzung sind folgende Dokumentationen abzuschließen und in der Abteilung [XX] zur Einsichtnahme zu hinterlegen:
 
 - Eintrag im Verzeichnis der Verarbeitungstätigkeiten gem. Art. 30 DSGVO
 - Risikoanalyse gem. Art. 32 DSGVO
@@ -293,12 +234,9 @@ abzuschließen und in der Abteilung [XX] zur Einsichtnahme zu hinterlegen:
 - DSFA (falls erforderlich)
 - Schulungsnachweise
 
----
-
 ## § 6 Verarbeitung personenbezogener Daten
 
-(1) Durch das IT-Verfahren werden folgende personenbezogene Daten
-erfasst:
+(1) Durch das IT-Verfahren werden folgende personenbezogene Daten erfasst:
 
 **a) Systembedingte Aufzeichnungen (Protokolldaten):**
 
@@ -316,37 +254,22 @@ erfasst:
 
 a) für anonymisierte statistische Auswertungen,
 b) zur Vermeidung von technischen Störungen und Sicherheitsbedrohungen,
-c) zur Analyse und Beseitigung von technischen Störungen und
-   Sicherheitsbedrohungen,
-d) zur Aufklärung und Unterbindung einer missbräuchlichen Verwendung
-   des Systems, sofern dafür Anhaltspunkte vorliegen,
-e) zur Unterstützung der Strafverfolgungsbehörden bei Anhaltspunkten
-   für Straftaten und Ordnungswidrigkeiten,
-f) zur Aufklärung und Unterbindung von Verstößen gegen arbeits- bzw.
-   dienstrechtliche Bestimmungen.
+c) zur Analyse und Beseitigung von technischen Störungen und Sicherheitsbedrohungen,
+d) zur Aufklärung und Unterbindung einer missbräuchlichen Verwendung des Systems, sofern dafür Anhaltspunkte vorliegen,
+e) zur Unterstützung der Strafverfolgungsbehörden bei Anhaltspunkten für Straftaten und Ordnungswidrigkeiten,
+f) zur Aufklärung und Unterbindung von Verstößen gegen arbeits- bzw. dienstrechtliche Bestimmungen.
 
-Weitergehende Nutzungen sind unzulässig. Insbesondere dürfen diese
-Daten weder technisch noch manuell zur Leistungs- und Verhaltenskontrolle
-genutzt werden.
+Weitergehende Nutzungen sind unzulässig. Insbesondere dürfen diese Daten weder technisch noch manuell zur Leistungs- und Verhaltenskontrolle genutzt werden.
 
-(3) Vor Auswertungen zu den Fallgruppen in Abs. 2 Buchst. d) bis f)
-informiert die Dienststelle den/die DSB und den Personalrat.
+(3) Vor Auswertungen zu den Fallgruppen in Abs. 2 Buchst. d) bis f) informiert die Dienststelle den/die DSB und den Personalrat.
 
-(4) Die Protokolldaten sind zum frühestmöglichen Zeitpunkt zu löschen,
-spätestens nach [XX Tagen/Monaten].
-
----
+(4) Die Protokolldaten sind zum frühestmöglichen Zeitpunkt zu löschen, spätestens nach [XX Tagen/Monaten].
 
 ## § 7 Auftragsverarbeitung und externe Dienstleister
 
-(1) Wird das IT-Verfahren ganz oder teilweise durch einen externen
-Dienstleister betrieben oder betreut, ist vor der Einführung zu klären,
-ob eine Auftragsverarbeitung nach Art. 28 DSGVO vorliegt oder der
-Dienstleister eigene Verantwortung trägt.
+(1) Wird das IT-Verfahren ganz oder teilweise durch einen externen Dienstleister betrieben oder betreut, ist vor der Einführung zu klären, ob eine Auftragsverarbeitung nach Art. 28 DSGVO vorliegt oder der Dienstleister eigene Verantwortung trägt.
 
-(2) **Bei Auftragsverarbeitung:** Es wird ein Vertrag zur
-Auftragsverarbeitung nach Art. 28 DSGVO geschlossen. Der Vertrag
-regelt mindestens:
+(2) **Bei Auftragsverarbeitung:** Es wird ein Vertrag zur Auftragsverarbeitung nach Art. 28 DSGVO geschlossen. Der Vertrag regelt mindestens:
 
 - Gegenstand und Dauer der Verarbeitung
 - Art und Zweck der Verarbeitung
@@ -358,95 +281,48 @@ regelt mindestens:
 - Unterauftragsverhältnisse
 - Datenlöschung nach Vertragsende
 
-Der AVV kann bei der Abteilung [XX] eingesehen werden oder ist dieser
-Dienstanweisung als Anlage beigefügt.
+Der AVV kann bei der Abteilung [XX] eingesehen werden oder ist dieser Dienstanweisung als Anlage beigefügt.
 
-(3) **Bei gemeinsamer Verantwortlichkeit:** Es wird eine Vereinbarung
-nach Art. 26 DSGVO geschlossen, die die jeweiligen Verantwortlichkeiten
-festlegt.
+(3) **Bei gemeinsamer Verantwortlichkeit:** Es wird eine Vereinbarung nach Art. 26 DSGVO geschlossen, die die jeweiligen Verantwortlichkeiten festlegt.
 
-(4) **Bei eigenständiger Verantwortung des Dritten:** Die Dienststelle
-hat das Vertragsverhältnis so auszugestalten, dass die Einhaltung der
-datenschutzrechtlichen Vorschriften gesichert ist. Entsprechende
-Verträge werden dem/der DSB zur Einsichtnahme überlassen.
+(4) **Bei eigenständiger Verantwortung des Dritten:** Die Dienststelle hat das Vertragsverhältnis so auszugestalten, dass die Einhaltung der datenschutzrechtlichen Vorschriften gesichert ist. Entsprechende Verträge werden dem/der DSB zur Einsichtnahme überlassen.
 
-(5) Die IT-Abteilung führt eine Liste aller aktiven Auftragsverarbeiter
-und aktualisiert sie mindestens jährlich.
-
----
+(5) Die IT-Abteilung führt eine Liste aller aktiven Auftragsverarbeiter und aktualisiert sie mindestens jährlich.
 
 ## § 8 Berechtigungskonzept
 
-(1) Für jedes IT-Verfahren ist vor dem Produktivbetrieb ein Rechte-
-und Rollenkonzept zu erstellen. Es definiert:
+(1) Für jedes IT-Verfahren ist vor dem Produktivbetrieb ein Rechte- und Rollenkonzept zu erstellen. Es definiert:
 
 - Die verschiedenen Nutzergruppen (Rollen)
 - Die Berechtigungen jeder Rolle (lesen, schreiben, löschen, verwalten)
 - Die Administration (getrennt von der Fach-Anwendung)
 - Regelungen für Vertretungen und Notfälle
 
-(2) Das Berechtigungskonzept ist mindestens jährlich auf Aktualität zu
-prüfen. Änderungen sind zu dokumentieren.
+(2) Das Berechtigungskonzept ist mindestens jährlich auf Aktualität zu prüfen. Änderungen sind zu dokumentieren.
 
-(3) Grundsatz der minimalen Rechtevergabe (Need-to-know-Prinzip):
-Jede Nutzerin und jeder Nutzer erhält nur die Rechte, die für die
-Erfüllung der dienstlichen Aufgaben zwingend erforderlich sind.
-
----
+(3) Grundsatz der minimalen Rechtevergabe (Need-to-know-Prinzip): Jede Nutzerin und jeder Nutzer erhält nur die Rechte, die für die Erfüllung der dienstlichen Aufgaben zwingend erforderlich sind.
 
 ## § 9 Datenschutz und Löschfristen
 
-(1) Die Informationspflichten gem. Art. 13/14 DSGVO sind vor dem
-Produktivbetrieb zu erfüllen. Die betroffenen Personen sind insbesondere
-zu informieren über:
+(1) Die Informationspflichten gem. Art. 13/14 DSGVO sind vor dem Produktivbetrieb zu erfüllen. Die betroffenen Personen sind insbesondere zu informieren über:
 
 - Zweck der Datenverarbeitung
 - Kategorien der verarbeiteten Daten
 - Speicherdauer oder Kriterien für deren Festlegung
-- Ihre Rechte (Auskunft, Berichtigung, Löschung, Einschränkung,
-  Datenübertragbarkeit, Widerspruch)
+- Ihre Rechte (Auskunft, Berichtigung, Löschung, Einschränkung, Datenübertragbarkeit, Widerspruch)
 - Kontaktdaten des/der DSB
 
-(2) Die personenbezogenen Daten im Sinne von § 6 werden nach einer
-Dauer von [XX Tagen/Monaten/Jahren] gelöscht, soweit keine gesetzlichen
-Aufbewahrungspflichten entgegenstehen.
+(2) Die personenbezogenen Daten im Sinne von § 6 werden nach einer Dauer von [XX Tagen/Monaten/Jahren] gelöscht, soweit keine gesetzlichen Aufbewahrungspflichten entgegenstehen.
 
-(3) Löschfristen richten sich nach den einschlägigen
-Aufbewahrungs- und Löschfristen der [Stadt/Gemeinde/Landkreis] [Name]
-sowie den Vorgaben der DSGVO (Art. 5 Abs. 1 lit. e).
-
----
+(3) Löschfristen richten sich nach den einschlägigen Aufbewahrungs- und Löschfristen der [Musterkommune] sowie den Vorgaben der DSGVO (Art. 5 Abs. 1 lit. e).
 
 ## § 10 Datenschutz-Folgenabschätzung (DSFA)
 
-(1) Vor Einführung eines IT-Verfahrens, das voraussichtlich ein hohes
-Risiko für die Rechte und Freiheiten natürlicher Personen zur Folge hat,
-ist eine DSFA nach Art. 35 DSGVO durchzuführen.
-
-(2) Eine DSFA ist insbesondere erforderlich bei:
-
-- Umfangreicher Verarbeitung besonderer Kategorien von Daten (Art. 9 DSGVO)
-- Systematischer und umfangreicher Überwachung von Personen
-- Umfangreicher automatisierter Entscheidungsfindung mit Rechtswirkung
-- Videoüberwachung
-- KI-Systemen mit Personenbezug
-- Verfahren mit biometrischer Datenverarbeitung
-- Verfahren mit standortbezogenen Daten
-
-(3) Die DSFA wird von der/dem Fachverantwortlichen in Abstimmung mit
-dem/der DSB durchgeführt. Der/Die ISB wird bei sicherheitsrelevanten
-Fragen beteiligt.
-
-(4) Die DSFA ist vor der Freigabe des Verfahrens abzuschließen. Bei
-Änderungen des Verfahrens ist die DSFA zu überprüfen und ggf.
-anzupassen.
-
----
+Vor Einführung eines IT-Verfahrens, das voraussichtlich ein hohes Risiko für die Rechte und Freiheiten natürlicher Personen zur Folge hat, ist eine DSFA nach Art. 35 DSGVO durchzuführen. Die weiteren Regelungen sind der DA Datenschutz zu entnahmen.
 
 ## § 11 Schnittstellen
 
-(1) Die Schnittstellen des IT-Verfahrens zu anderen Systemen sind zu
-dokumentieren:
+(1) Die Schnittstellen des IT-Verfahrens zu anderen Systemen sind zu dokumentieren:
 
 - Bezeichnung des angeschlossenen Systems
 - Art der übermittelten Daten
@@ -470,29 +346,22 @@ IT-Verfahren geeignet ist, das Verhalten oder die Leistung der
 Beschäftigten zu überwachen (§ 65 Abs. 1 Nr. 6 NPersVG /
 entsprechende landesrechtliche Regelung).
 
-(2) Der Personalrat ist rechtzeitig, mindestens jedoch vier Wochen vor
-der geplanten Einführung, zu informieren. Die Information umfasst:
+(2) Der Personalrat ist rechtzeitig, mindestens jedoch vier Wochen vor der geplanten Einführung, zu informieren. Die Information umfasst:
 
 - Beschreibung des Verfahrens und seiner Zweckbestimmung
 - Art der verarbeiteten personenbezogenen Daten
 - Berechtigungskonzept
 - Auswirkungen auf die Beschäftigten
 
-(3) Eine wesentliche Änderung eines bestehenden Verfahrens bedarf
-der erneuten Beteiligung des Personalrats. Als wesentliche Änderung
-gilt nicht:
+(3) Eine wesentliche Änderung eines bestehenden Verfahrens bedarf der erneuten Beteiligung des Personalrats. Als wesentliche Änderung gilt nicht:
 
 - Reine Softwareupdates ohne Funktionserweiterung
 - Betriebssystem-Updates
-- Sonstige Systemveränderungen ohne zusätzliche Funktion oder
-  Erweiterung des Systems
-
----
+- Sonstige Systemveränderungen ohne zusätzliche Funktion oder Erweiterung des Systems
 
 ## § 13 Schulungen
 
-(1) Alle Nutzerinnen und Nutzer sind vor Aufnahme des Produktivbetriebs
-zu schulen. Die Schulung umfasst:
+(1) Alle Nutzerinnen und Nutzer sind vor Aufnahme des Produktivbetriebs zu schulen. Die Schulung umfasst:
 
 - Bedienung des IT-Verfahrens
 - Datenschutz- und sicherheitsrelevante Aspekte
@@ -503,30 +372,17 @@ zu schulen. Die Schulung umfasst:
 
 (3) Bei wesentlichen Änderungen sind Nachschulungen durchzuführen.
 
----
-
 ## § 14 Datenpannen und Störungen
 
-(1) Festgestellte oder vermutete Datenschutzverletzungen im
-Zusammenhang mit dem IT-Verfahren sind unverzüglich dem/der DSB zu
-melden (Art. 33 DSGVO).
+(1) Festgestellte oder vermutete Datenschutzverletzungen im Zusammenhang mit dem IT-Verfahren sind unverzüglich dem/der DSB zu melden (Art. 33 DSGVO). Die weiteren Regelungen über die Behandlung der Datenschutzverletzung richtet sich nach der DA Datenschutz.
 
 (2) Technische Störungen sind der IT-Abteilung zu melden.
 
-(3) Der/Die DSB entscheidet über die Meldepflicht gegenüber der
-Aufsichtsbehörde (Art. 33 Abs. 1 DSGVO: binnen 72 Stunden) und die
-Benachrichtigung der betroffenen Personen (Art. 34 DSGVO).
-
----
-
 ## § 15 Dokumentation und Nachweispflicht
 
-(1) Sämtliche Prüfungen, Freigaben und Entscheidungen im Rahmen der
-IT-Einführung sind zu dokumentieren. Die Dokumentation ist
-mindestens [XX Jahre] aufzubewahren.
+(1) Sämtliche Prüfungen, Freigaben und Entscheidungen im Rahmen der IT-Einführung sind zu dokumentieren. Die Dokumentation ist mindestens [XX Jahre] aufzubewahren.
 
-(2) Folgende Unterlagen sind für jedes eingeführte IT-Verfahren zu
-führen und in der Abteilung [XX] zur Einsichtnahme zu hinterlegen:
+(2) Folgende Unterlagen sind für jedes eingeführte IT-Verfahren zu führen und in der Abteilung [XX] zur Einsichtnahme zu hinterlegen:
 
 - Verzeichnis der Verarbeitungstätigkeiten (Art. 30 DSGVO)
 - DSFA (falls erforderlich)
@@ -535,8 +391,6 @@ führen und in der Abteilung [XX] zur Einsichtnahme zu hinterlegen:
 - Schnittstellen-Dokumentation
 - TOM-Dokumentation (Art. 32 DSGVO)
 - Schulungsnachweise
-
----
 
 ## § 16 Verstöße und Sanktionen
 
@@ -548,41 +402,23 @@ führen und in der Abteilung [XX] zur Einsichtnahme zu hinterlegen:
 
 haben.
 
-(2) Vorsätzliche oder grob fahrlässige Verstöße sind zu dokumentieren
-und der zuständigen Stelle zu melden.
+(2) Vorsätzliche oder grob fahrlässige Verstöße sind zu dokumentieren und der zuständigen Stelle zu melden.
 
-(3) Die Einführung eines IT-Verfahrens ohne die erforderlichen
-Prüfungen und Freigaben gemäß dieser Dienstanweisung ist unzulässig.
-Bereits eingeführte Verfahren, die ohne Beachtung dieser
-Dienstanweisung eingeführt wurden, sind unverzüglich nachzumelden
-und zu prüfen.
-
----
+(3) Die Einführung eines IT-Verfahrens ohne die erforderlichen Prüfungen und Freigaben gemäß dieser Dienstanweisung ist unzulässig. Bereits eingeführte Verfahren, die ohne Beachtung dieser Dienstanweisung eingeführt wurden, sind unverzüglich nachzumelden und zu prüfen.
 
 ## § 17 Inkrafttreten und Übergangsregelungen
 
 (1) Diese Dienstanweisung tritt am [Datum] in Kraft.
 
-(2) Gleichzeitig tritt die bisherige Dienstanweisung [Alte DA] vom
-[Datum] außer Kraft.
+(2) Gleichzeitig tritt die bisherige Dienstanweisung [Alte DA] vom [Datum] außer Kraft.
 
-(3) Für bereits laufende IT-Einführungsverfahren gilt eine
-Übergangsfrist von [X Wochen/Monaten]. Nach Ablauf der Frist sind
-auch diese Verfahren nach den Regelungen dieser Dienstanweisung
-abzuschließen.
+(3) Für bereits laufende IT-Einführungsverfahren gilt eine Übergangsfrist von [X Wochen/Monaten]. Nach Ablauf der Frist sind auch diese Verfahren nach den Regelungen dieser Dienstanweisung abzuschließen.
 
-(4) Die Dienstanweisung wird spätestens nach zwei Jahren auf
-Aktualität geprüft und gegebenenfalls fortgeschrieben.
-
----
+(4) Die Dienstanweisung wird spätestens nach zwei Jahren auf Aktualität geprüft und gegebenenfalls fortgeschrieben.
 
 ## § 18 Salvatorische Klausel
 
-Soweit einzelne Regelungen dieser Dienstanweisung unwirksam sein oder
-werden sollten, wird die Wirksamkeit der Dienstanweisung im Übrigen
-hierdurch nicht berührt. Anstelle der unwirksamen Regelung tritt eine
-wirksame Regelung, die dem wirtschaftlichen und rechtlichen Zweck der
-unwirksamen Regelung am nächsten kommt.
+Soweit einzelne Regelungen dieser Dienstanweisung unwirksam sein oder werden sollten, wird die Wirksamkeit der Dienstanweisung im Übrigen hierdurch nicht berührt. Anstelle der unwirksamen Regelung tritt eine wirksame Regelung, die dem wirtschaftlichen und rechtlichen Zweck der unwirksamen Regelung am nächsten kommt.
 
 ---
 
@@ -592,8 +428,6 @@ ____________________                      ____________________
 [Name]                                     [Name]
 [Funktion]                                 [Funktion]
 (Dienststelle)                             (Personalrat – in Beteiligungsfällen)
-
----
 
 ## Anlagen (vorzubereiten je IT-Verfahren)
 
@@ -606,8 +440,3 @@ ____________________                      ____________________
 | E | DSFA (falls erforderlich) | Fachverantwortliche/r + DSB |
 | F | TOM-Dokumentation | IT-Abteilung + ISB |
 | G | Schulungsnachweis | Fachverantwortliche/r |
-
----
-
-*Dieser Entwurf wurde mit KI-Unterstützung erstellt. Inhaltliche Prüfung
-durch den Menschen erforderlich.*

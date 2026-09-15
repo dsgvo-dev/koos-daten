@@ -90,8 +90,6 @@ Für diese Dienstanweisung gelten die folgenden Begriffe. Sofern gesetzliche Def
 | **IT-Abteilung** | Technische Umsetzung und Betrieb der KI-Systeme; Sicherstellung der IT-Sicherheitsanforderungen; Logging und Monitoring; Verwaltung der Zugriffsrechte. |
 | **Personalrat** | Mitbestimmung bei der Einführung von KI-Systemen (§ 67 Abs. 1 Nr. 2 NPersVG — EDV-Verfahren; ggf. § 65 ff. NPersVG); Beteiligung am Freigabeprozess. |
 
----
-
 ## TEIL B — BEREICHSSPEZIFISCHE REGELUNGEN
 
 ### § 6 Zulässigkeit von KI-Einsatz
