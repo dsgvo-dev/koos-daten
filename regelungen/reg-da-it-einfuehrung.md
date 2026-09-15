@@ -1,6 +1,6 @@
 ---
-titel: "Dienstanweisung IT-Einführung"
 id: reg-da-it-einfuehrung
+titel: "Dienstanweisung IT-Einführung"
 name: Dienstanweisung Einführung neuer IT-Verfahren (DA IT-Einführung)
 typ: Dienstanweisung
 datum: '2026-06-23'
