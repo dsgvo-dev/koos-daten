@@ -24,6 +24,10 @@ regelungen:
   - "§§ 27, 29, 30, 31 SGB VIII (Erziehungsberatung, soziale Gruppenarbeit, SPFH)"
   - "Art. 9 Abs. 2 lit. g) DSGVO (Kindeswohl)"
   - "§ 65 SGB VIII (anvertraute Daten)"
+  - "§ 35 SGB I (Sozialgeheimnis)"
+  - "§§ 67-85a SGB X (allgemeiner Sozialdatenschutz)"
+  - "§ 84 Abs. 4 SGB X (Löschfrist ambulante Hilfen: 5 Jahre)"
+  - "Art. 6 Abs. 3 DSGVO i.V.m. § 3 NDSG (nationale Rechtsgrundlage)"
 leika_id: ""
 ozg_id: ""
 letzte-aktualisierung: 2026-08-04

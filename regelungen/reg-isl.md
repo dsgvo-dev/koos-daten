@@ -6,12 +6,6 @@ zustaendigeEinheit: oe-amt-1-5
 datum: "2026-06-07"
 status: entwurf
 version: 1.0
-basierend_auf:
-  - BSI-Standard 200-1 (ISMS)
-  - BSI-Standard 200-2 (IT-Grundschutz-Methodik)
-  - BSI-Standard 200-3 (Risikomanagement)
-  - ISB-Rolle (dsms:dsms/Organisation/Rolle-ISB.md, O.1.R.4)
-  - Rolle-Hauptverantwortliche (dsms:dsms/Organisation/Rolle-Hauptverantwortliche.md, O.1.R.1)
 rechtsgrundlagen:
   - BSI IT-Grundschutz (Standards 200-1 bis 200-4)
   - [Landesrechtliche IT-Sicherheitsregelungen]
@@ -19,9 +13,7 @@ rechtsgrundlagen:
   - [Landesdatenschutzgesetz]
 ---
 
-# Informationssicherheitsleitlinie (ISL)
-
-## für die [Stadt/Gemeinde/Landkreis] [NAME]
+# Informationssicherheitsleitlinie (ISL) für die [Musterkommune]
 
 **Erlassen von der Behördenleitung am:** [DATUM]
 **Inkrafttreten:** [DATUM]
@@ -40,8 +32,6 @@ rechtsgrundlagen:
 
 (4) Die Behördenleitung bekennt sich zu dieser Leitlinie und stellt die erforderlichen Ressourcen bereit (personell, technisch, finanziell).
 
----
-
 ## 2. Geltungsbereich
 
 (1) **Sachlich:** Diese Leitlinie gilt für alle Informationen, Informationssysteme, IT-Verfahren und Datenverarbeitungen der Verwaltung — unabhängig davon, ob sie digital, analog oder in hybriden Prozessen verarbeitet werden.
@@ -52,7 +42,6 @@ rechtsgrundlagen:
 
 (4) **Ausgenommen:** Vom Geltungsbereich ausgenommen sind Informationen, die gesonderten Geheimschutzregelungen unterliegen (soweit nicht durch spezifische Sicherheitsvereinbarungen abgedeckt).
 
----
 
 ## 3. Ziele der Informationssicherheit
 
@@ -82,8 +71,6 @@ Ergänzend gelten für bestimmte Verfahren:
 - Schutz der **Bürgerdaten** vor Verlust, Missbrauch und unbefugtem Zugriff.
 - Sicherung der **Handlungsfähigkeit** der Verwaltung auch bei IT-Störungen oder -Ausfällen.
 - **Risikogerechte** Absicherung — der Aufwand der Schutzmaßnahmen steht im Verhältnis zum Schutzbedarf.
-
----
 
 ## 4. Organisation der Informationssicherheit
 
@@ -157,8 +144,6 @@ Ergänzend gelten für bestimmte Verfahren:
 
 (2) Die Dokumente sind revisionssicher zu führen und für die Prüfung durch interne Revision und Aufsichtsbehörden bereitzuhalten.
 
----
-
 ## 5. Grundsätze der Informationssicherheit
 
 ### 5.1 Risikoorientierung
@@ -207,8 +192,6 @@ Act:    Korrektur- und Verbesserungsmaßnahmen
 (2) Die Kosten-Nutzen-Abwägung wird vom ISB im Rahmen der Risikoanalyse dokumentiert und im Sicherheitsforum entschieden.
 
 (3) Standardlösungen sind vor Individualentwicklungen zu bevorzugen (Wirtschaftlichkeit, Supportfähigkeit, Prüfbarkeit).
-
----
 
 ## 6. Sicherheitsprozesse
 
@@ -263,7 +246,6 @@ Act:    Korrektur- und Verbesserungsmaßnahmen
 
 (3) Kritische Verfahren werden regelmäßig auf ihre Wiederherstellbarkeit getestet (mindestens **jährlich**).
 
----
 
 ## 7. Umgang mit externen Dienstleistern
 
@@ -275,7 +257,6 @@ Act:    Korrektur- und Verbesserungsmaßnahmen
 
 (4) Cloud-Dienste unterliegen einer gesonderten Prüfung (Drittlandsbezug, Datenschutz, Verfügbarkeit, Lock-in-Effekt).
 
----
 
 ## 8. Datenschutz und Informationssicherheit
 
@@ -287,7 +268,6 @@ Act:    Korrektur- und Verbesserungsmaßnahmen
 
 (4) Die Datenschutz-Folgenabschätzung (DSFA) nach Art. 35 DSGVO wird vom ISB bei sicherheitsrelevanten Aspekten unterstützt.
 
----
 
 ## 9. Sanktionen und Konsequenzen
 
@@ -297,7 +277,6 @@ Act:    Korrektur- und Verbesserungsmaßnahmen
 
 (3) Strafrechtlich relevante Sicherheitsverstöße (z. B. Computerbetrug, Datenhehlerei, Ausspähen von Daten) sind der Strafverfolgung zu melden.
 
----
 
 ## 10. Schlussvorschriften
 
@@ -313,7 +292,6 @@ Act:    Korrektur- und Verbesserungsmaßnahmen
 
 (6) **Inkrafttreten.** Diese Leitlinie tritt am [INKRAFTTRETENSDATUM] in Kraft.
 
----
 
 [ORT], den [DATUM]
 
