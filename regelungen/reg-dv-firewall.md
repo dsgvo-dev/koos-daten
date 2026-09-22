@@ -2,8 +2,8 @@
 id: reg-dv-firewall
 name: Dienstvereinbarung zum Betrieb einer Firewall (DV Firewall)
 typ: Dienstvereinbarung
-status: entwurf
 datum: '2026-09-16'
+status: entwurf
 zustaendigeEinheit: oe-amt-1-5
 entscheidendes-gremium: Personalrat und Dienststelle
 ---

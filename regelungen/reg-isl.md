@@ -3,9 +3,8 @@ id: reg-isl
 name: Informationssicherheitsleitlinie (ISL)
 typ: Leitlinie
 zustaendigeEinheit: oe-amt-1-5
-datum: "2026-06-07"
-status: entwurf
-version: 1.0
+datum: "2026-09-17"
+status: aktiv
 rechtsgrundlagen:
   - BSI IT-Grundschutz (Standards 200-1 bis 200-4)
   - [Landesrechtliche IT-Sicherheitsregelungen]

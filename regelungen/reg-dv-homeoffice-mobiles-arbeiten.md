@@ -1,11 +1,11 @@
 ---
 id: reg-dv-homeoffice-mobiles-arbeiten
 name: Dienstvereinbarung Mobiles Arbeiten und Homeoffice (DV Homeoffice)
-zustaendigeEinheit: oe-amt-11
 typ: Dienstvereinbarung
-titel: Dienstvereinbarung Homeoffice / Mobiles Arbeiten
-datum: '2026-08-23'
-status: entwurf
+datum: '2026-09-17'
+status: aktiv
+zustaendigeEinheit: oe-amt-11
+entscheidendes-gremium: Personalrat und Dienststelle
 ---
 # Dienstvereinbarung der Musterkommune über Mobiles Arbeiten und Homeoffice (DV Homeoffice)
 
@@ -23,7 +23,7 @@ Bei der Verarbeitung der Beschäftigtendaten sind Art. 88 Abs. 2 DSGVO als auch 
 
 ## § 1 Geltungsbereich
 
-**Personenbezogen:** Diese Vereinbarung gilt für alle Beschäftigten im Sinne von § 4 Niedersächsisches Personalvertretungsgesetz (NPersVG) bei der Stadt X, deren Tätigkeit für mobiles Arbeiten oder Homeoffice geeignet ist.
+**Personenbezogen:** Diese Vereinbarung gilt für alle Beschäftigten im Sinne von § 4 Niedersächsisches Personalvertretungsgesetz (NPersVG) bei der Musterkommune, deren Tätigkeit für mobiles Arbeiten oder Homeoffice geeignet ist.
 
 Die Feststellung der Eignung der Tätigkeit erfolgt durch den Fachvorgesetzten im Benehmen mit der oder dem Beschäftigten. Bei Uneinigkeit entscheidet die Dienststellenleitung nach Anhörung des Personalrats. Die Dienststelle erstellt auf der Grundlage dieser Vereinbarung einen Positivkatalog der für mobiles Arbeiten/Homeoffice geeigneten Tätigkeitsbereiche, der mit dem Personalrat abgestimmt wird.
 
@@ -42,7 +42,7 @@ Die Feststellung der Eignung der Tätigkeit erfolgt durch den Fachvorgesetzten i
 3. bei Homeoffice: die Adresse des häuslichen Arbeitsplatzes,
 4. die gewünschte IT-Ausstattung.
 
-(2) Die oder der Fachvorgesetzte prüft die Eignung der Tätigkeit nach § 1 und leitet den Antrag an die Personalabteilung (oe-amt-11) weiter. Die Prüfung und Entscheidung über den Antrag erfolgt innerhalb von vier Wochen nach Antragseingang. Bei Ablehnung ist der oder dem Beschäftigten ein schriftlicher, mit Gründen versehener Ablehnungsbescheid auszuhändigen. Der Personalrat erhält eine Kopie der Ablehnung.
+(2) Die oder der Fachvorgesetzte prüft die Eignung der Tätigkeit nach § 1 und leitet den Antrag an die Personalabteilung weiter. Die Prüfung und Entscheidung über den Antrag erfolgt innerhalb von vier Wochen nach Antragseingang. Bei Ablehnung ist der oder dem Beschäftigten ein schriftlicher, mit Gründen versehener Ablehnungsbescheid auszuhändigen. Der Personalrat erhält eine Kopie der Ablehnung.
 
 (3) Die Genehmigung erfolgt schriftlich und enthält:
 
@@ -52,7 +52,7 @@ Die Feststellung der Eignung der Tätigkeit erfolgt durch den Fachvorgesetzten i
 4. einen Widerrufsvorbehalt unter Verweis auf die Widerrufsgründe des § 9,
 5. einen Hinweis auf die Informationspflichten nach Art. 13 DSGVO (insb. Zweck der Datenverarbeitung, Speicherdauer, Betroffenenrechte), der gesondert oder in der Anlage zur Genehmigung dokumentiert wird.
 
-(4) Die IT-Abteilung (oe-amt-15) richtet den VPN-Zugang und die erforderlichen Berechtigungen ein. Die Einweisung in die sichere Nutzung wird dokumentiert und umfasst mindestens:
+(4) Die IT-Abteilung richtet den VPN-Zugang und die erforderlichen Berechtigungen ein. Die Einweisung in die sichere Nutzung wird dokumentiert und umfasst mindestens:
 
 a) sichere Nutzung des VPN,
 b) Umgang mit personenbezogenen Daten außerhalb des Dienstgebäudes,
@@ -102,9 +102,7 @@ Weitergehende Nutzungen sind unzulässig.
 
 (4) **Antrags- und Genehmigungsdaten** (Abs. 1 lit. a) werden zwei Jahre nach Beendigung der Homeoffice-Regelung bzw. nach Ausscheiden des Beschäftigten gelöscht, soweit keine gesetzlichen Aufbewahrungspflichten bestehen.
 
-## § 4a Rechte der Beschäftigten (Art. 15–22 DSGVO)
-
-Die Rechte der Beschäftigten nach Art. 15–22 DSGVO (Auskunft, Berichtigung, Löschung, Einschränkung der Verarbeitung, Datenübertragbarkeit, Widerspruch) bleiben von dieser Dienstvereinbarung unberührt. Für die Geltendmachung steht der Datenschutzbeauftragte als Ansprechpartner zur Verfügung.
+(5) Die Rechte der Beschäftigten nach Art. 15–22 DSGVO (Auskunft, Berichtigung, Löschung, Einschränkung der Verarbeitung, Datenübertragbarkeit, Widerspruch) bleiben von dieser Dienstvereinbarung unberührt. Für die Geltendmachung steht der Datenschutzbeauftragte als Ansprechpartner zur Verfügung.
 
 
 ## § 5 Auftragsverarbeiter und Dienstleister

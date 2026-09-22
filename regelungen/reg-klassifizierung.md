@@ -1,58 +1,11 @@
 ---
 id: reg-klassifizierung
 name: Richtlinie zur Datenklassifizierung
-zustaendigeEinheit: oe-amt-1-5
-datum: "2026-06-08"
+datum: "2026-09-17"
 typ: Richtlinie
-status: entwurf
-freigegeben: 2026-07-10
-version: 0.3
-freigegeben_v03: 2026-08-12
-aenderungen_seit_v02:
-  - "Anlage C berichtigt: Schutzstufe C entspricht der BSI-Kategorie *normal*, nicht *hoch*. Grundlage BSI-Standard 200-2 Kap. 8.2.1, Schadensszenario 2 — 'beeinträchtigt' = normal, 'erheblich beeinträchtigt' = hoch, 'Gefahr für Leib und Leben' = sehr hoch"
-  - "Anlage C um die Herleitung aus dem BSI-Wortlaut und um die Ausfallzeit-Schwellen der Verfügbarkeit ergänzt"
-  - "VIER-ACHSEN-MODELL eingeführt (Kapitel 0, 2.7a, 2.7b, 3, Anlage C): Der BSI-Schutzbedarf ist eine EIGENE Achse, kein Mapping der Achsen 1 und 2 — er misst den Schaden für die verantwortliche Organisation. Fünf der sechs BSI-Schadensszenarien betreffen die Organisation, nur Szenario 2 die betroffene Person"
-  - "Vierte Achse aufgenommen: VS-Einstufung nach § 7 VSA Niedersachsen — Schaden für die Interessen des Bundes oder eines Landes, mit der GEGENLÄUFIGEN Zweifelsregel des § 1 Abs. 1 VSA"
-  - "Grundsatz ergänzt: Keine Achse wird aus einer anderen abgeleitet"
-  - "Ziffer 3.3: Schutzbedarf ist das Maximum ALLER VIER Achsen, nicht zweier"
-  - "Klarstellung der Maßstäbe: Datenschutz-Schutzbedarf = Schaden für die betroffene Person; BSI-Schutzbedarf = Schaden für die verantwortliche Organisation"
-aenderungen_seit_v01:
-  - "LfD-Nds-Schutzstufen korrekt zugeordnet: Art-9-DSGVO-Daten gehören zu D, Stufe E nur Gesundheit/Leben/Freiheit"
-  - "Neue Anlage B: Umgangsmatrix (Ablage, Cloud, Mobil, Ausdruck, Übermittlung, Löschung)"
-  - "Anlage A (dstore-Tabelle) entsprechend nachgezogen"
-  - "Abschnitt 3.4 (Mapping zur DA E-Mail) korrigiert"
-  - "Neuer Abschnitt 3.5: Aggregations-/Mischbestandsregel"
-  - "Neuer Abschnitt 4.6: Need-to-Know und Data Minimization"
-  - "Neuer Abschnitt 6.6: Berufs- und Amtsgeheimnisse (§ 203 StGB, § 30 AO, § 35 SGB I)"
-  - "Anlage C (BSI-Mapping) um Erläuterung der bewussten 2-Klassen-Wahl ergänzt"
-  - "Anlage E: DIN-66399-Mapping detailliert"
-basierend_auf:
-  - "Vorgehensweise (dsms:vorgehensweise/Datenschutz-Vorgehensweise.md) — Schutzbedarf normal/hoch"
-  - "LfD Niedersachsen — Schutzstufenkonzept A–E (Stand Oktober 2018)"
-  - "BSI-Standard 200-2 — IT-Grundschutz-Methodik (Schutzbedarfsfeststellung)"
-  - "ISO/IEC 27002:2022, Kapitel 5.12 (Klassifizierung von Informationen)"
-  - "DSK-Kurzpapier Nr. 18 — Risiko für die Rechte und Freiheiten"
-  - "ISMS-Ratgeber Wiki — Klassifizierung (CC0)"
-  - "Konzept VVT/Risiko/DSFA/TOMs (dsms:_archive/bericht-planung-2026-08-15/)"
-rechtsgrundlagen:
-  - "DSGVO Art. 5 Abs. 1 lit. f (Integrität, Vertraulichkeit)"
-  - "DSGVO Art. 9 (besondere Kategorien)"
-  - "DSGVO Art. 10 (Strafrechtliche Daten)"
-  - "DSGVO Art. 24, 32 (TOMs)"
-  - "NDSG (Niedersächsisches Datenschutzgesetz)"
-  - "SGB X § 67 (Sozialdaten)"
-  - "StGB § 203 (Verletzung von Privatgeheimnissen)"
-  - "AO § 30 (Steuergeheimnis)"
-  - "SGB I § 35 (Sozialgeheimnis)"
-verzahnt_mit:
-  - "reg-da-e-mail (DA E-Mail)"
-  - "reg-da-cloud (DA Cloud)"
-  - "reg-adga (ADGA — Datenschutz/Geheimhaltung)"
-  - "reg-isl (Informationssicherheitsleitlinie)"
-  - "_daten/daten/dstore-*.md (Datenkategorien)"
-  - "dsms:facts/verwaltungsvorschriften/niedersachsen/vsa-verschlusssachenanweisung.md (VSA, dritte Achse)"
-  - "dsms:facts/BSI/BSI-Standard-200-2-IT-Grundschutz-Methodik.pdf (Kap. 8.2.1)"
-  - "dsms:toms/ (TOM-Bestand)"
+status: aktiv
+zustaendigeEinheit: oe-amt-1-5
+entscheidendes-gremium: Hauptverwaltungsbeamter
 ---
 
 # Richtlinie zur Datenklassifizierung
@@ -66,9 +19,9 @@ verzahnt_mit:
 
 ---
 
-## 0. Zweck dieser Richtlinie und Verhältnis zum DSMS
+## 1. Zweck dieser Richtlinie und Verhältnis zum DSMS
 
-Diese Richtlinie schließt eine Lücke zwischen der **Vorgehensweise** des DSMS (binärer Schutzbedarf „normal" / „hoch") und den **Dienstanweisungen** der Verwaltung (insbesondere DA E-Mail und DA Cloud), die feinere Stufen benötigen, um zwischen „darf per unverschlüsselter Mail raus" und „darf nur über EGVP" zu unterscheiden. Für die Cloud-Nutzung ist die Datenkategorisierung entscheidend, da bestimmte Datenarten nicht oder nur gesichert in Cloud-Umgebungen übertragen werden dürfen.
+Diese Richtlinie schließt eine Lücke zwischen dem Datenschutz-Managementsystem (binärer Schutzbedarf „normal" / „hoch") und den **Dienstanweisungen** der Verwaltung (insbesondere DA E-Mail und DA Cloud), die feinere Stufen benötigen, um zwischen „darf per unverschlüsselter Mail raus" und „darf nur über EGVP" zu unterscheiden. Für die Cloud-Nutzung ist die Datenkategorisierung entscheidend, da bestimmte Datenarten nicht oder nur gesichert in Cloud-Umgebungen übertragen werden dürfen.
 
 **Die Dienstanweisung E-Mail-Nutzung** verweist auf diese Richtlinie und die hier definierten Schutzstufen und schreibt für jede Stufe eine zulässige Übertragungsart vor. Analog dockt die DA Cloud, die zukünftige Mobile-Working-Regelung und das Aktenführungs-Regime an die hier definierten Stufen an.
 
@@ -87,58 +40,52 @@ Der **Schutzbedarf nach Vorgehensweise** (normal/hoch) ist keine Achse, sondern 
 
 Kapitel 3 setzt die Achsen zueinander in Bezug; **Anlage C** führt Achse 3 und Achse 4 im Einzelnen aus.
 
----
+## 2. Geltungsbereich
 
-## 1. Geltungsbereich
+2.1 **Persönlicher Geltungsbereich.** Diese Richtlinie gilt für alle Beschäftigten der Verwaltung im Sinne von Abschnitt 2 der ADGA, einschließlich externer Dienstleister mit Zugriff auf Informationen der Verwaltung.
 
-1.1 **Persönlicher Geltungsbereich.** Diese Richtlinie gilt für alle Beschäftigten der Verwaltung im Sinne von Abschnitt 2 der ADGA (`reg-adga.md`), einschließlich externer Dienstleister mit Zugriff auf Informationen der Verwaltung.
+2.2 **Sachlicher Geltungsbereich.** Sie gilt für alle **Informationen**, die im Rahmen dienstlicher Tätigkeit verarbeitet werden — unabhängig vom Träger (Papier, elektronische Datei, E-Mail, Fachverfahren, Cloud-Dienst, mündliche Mitteilung).
 
-1.2 **Sachlicher Geltungsbereich.** Sie gilt für alle **Informationen**, die im Rahmen dienstlicher Tätigkeit verarbeitet werden — unabhängig vom Träger (Papier, elektronische Datei, E-Mail, Fachverfahren, Cloud-Dienst, mündliche Mitteilung).
-
-1.3 **Verhältnis zu anderen Regelungen.**
+2.3 **Verhältnis zu anderen Regelungen.**
 - Vorgehensweise des DSMS — methodische Grundlage (Schutzbedarf).
-- Dienstanweisung E-Mail (`reg-da-e-mail.md`) — Anwendung der Schutzstufen auf die Übertragung per E-Mail.
-- Dienstanweisung Cloud (`reg-da-cloud.md`) — Anwendung der Schutzstufen auf Cloud-Speicherung und -Verarbeitung.
+- Dienstanweisung E-Mail — Anwendung der Schutzstufen auf die Übertragung per E-Mail.
+- Dienstanweisung Cloud — Anwendung der Schutzstufen auf Cloud-Speicherung und -Verarbeitung.
 - ADGA, Abschnitt 9 — allgemeine Grundsätze zu Datenschutz und Informationssicherheit.
 - Informationssicherheits-Leitlinie — sicherheitspolitischer Rahmen.
 
----
+## 3. Begriffe
 
-## 2. Begriffe
+3.1 **Information** — jeder dienstliche Inhalt, unabhängig von Form und Träger.
 
-2.1 **Information** — jeder dienstliche Inhalt, unabhängig von Form und Träger.
+3.2 **Personenbezogene Daten** — alle Informationen, die sich auf eine identifizierte oder identifizierbare natürliche Person beziehen (Art. 4 Nr. 1 DSGVO).
 
-2.2 **Personenbezogene Daten** — alle Informationen, die sich auf eine identifizierte oder identifizierbare natürliche Person beziehen (Art. 4 Nr. 1 DSGVO).
+3.3 **Besondere Kategorien personenbezogener Daten** — Art. 9 Abs. 1 DSGVO (Gesundheit, Sexualleben, ethnische Herkunft, politische Meinungen, religiöse/weltanschauliche Überzeugungen, biometrische Daten zur Identifizierung, genetische Daten, Gewerkschaftszugehörigkeit) sowie Daten zu Straftaten und Verurteilungen (Art. 10 DSGVO).
 
-2.3 **Besondere Kategorien personenbezogener Daten** — Art. 9 Abs. 1 DSGVO (Gesundheit, Sexualleben, ethnische Herkunft, politische Meinungen, religiöse/weltanschauliche Überzeugungen, biometrische Daten zur Identifizierung, genetische Daten, Gewerkschaftszugehörigkeit) sowie Daten zu Straftaten und Verurteilungen (Art. 10 DSGVO).
+3.4 **Sozialdaten** — § 67 SGB X.
 
-2.4 **Sozialdaten** — § 67 SGB X.
+3.5 **Schutzbedarf** — Maß der Schutzwürdigkeit der Information im Sinne der DSMS-Vorgehensweise. Zwei Klassen: **„normal"** und **„hoch"** (vgl. Anlage C zur Begründung der Zwei-Klassen-Wahl).
 
-2.5 **Schutzbedarf** — Maß der Schutzwürdigkeit der Information im Sinne der DSMS-Vorgehensweise. Zwei Klassen: **„normal"** und **„hoch"** (vgl. Anlage C zur Begründung der Zwei-Klassen-Wahl).
+3.6 **Schutzstufe** — fünfstufige Klassifizierung personenbezogener Daten nach LfD Niedersachsen (A–E).
 
-2.6 **Schutzstufe** — fünfstufige Klassifizierung personenbezogener Daten nach LfD Niedersachsen (A–E).
+3.7 **Vertraulichkeitsstufe** — vierstufige Klassifizierung für Verwaltungsinformationen aus Sicht der Vertraulichkeit (öffentlich, intern, vertraulich, streng vertraulich) nach ISO/IEC 27002:2022.
 
-2.7 **Vertraulichkeitsstufe** — vierstufige Klassifizierung für Verwaltungsinformationen aus Sicht der Vertraulichkeit (öffentlich, intern, vertraulich, streng vertraulich) nach ISO/IEC 27002:2022.
+3.7a **BSI-Schutzbedarf** — dreistufige Klassifizierung (normal, hoch, sehr hoch) **je Schutzziel** — Vertraulichkeit, Integrität, Verfügbarkeit — nach BSI-Standard 200-2, Kapitel 8.2.1. Maßstab ist der Schaden für die **verantwortliche Organisation**, nicht für die betroffene Person. Nicht zu verwechseln mit dem Schutzbedarf nach Ziffer 2.5.
 
-2.7a **BSI-Schutzbedarf** — dreistufige Klassifizierung (normal, hoch, sehr hoch) **je Schutzziel** — Vertraulichkeit, Integrität, Verfügbarkeit — nach BSI-Standard 200-2, Kapitel 8.2.1. Maßstab ist der Schaden für die **verantwortliche Organisation**, nicht für die betroffene Person. Nicht zu verwechseln mit dem Schutzbedarf nach Ziffer 2.5.
+3.7b **VS-Einstufung** — vierstufige Klassifizierung (VS-NUR FÜR DEN DIENSTGEBRAUCH, VS-VERTRAULICH, GEHEIM, STRENG GEHEIM) nach § 7 der Verschlusssachenanweisung für das Land Niedersachsen. Maßstab ist der Schaden für die **Interessen des Bundes oder eines Landes**. Der Regelfall ist keine Einstufung (§ 1 Abs. 1 VSA).
 
-2.7b **VS-Einstufung** — vierstufige Klassifizierung (VS-NUR FÜR DEN DIENSTGEBRAUCH, VS-VERTRAULICH, GEHEIM, STRENG GEHEIM) nach § 7 der Verschlusssachenanweisung für das Land Niedersachsen. Maßstab ist der Schaden für die **Interessen des Bundes oder eines Landes**. Der Regelfall ist keine Einstufung (§ 1 Abs. 1 VSA).
+3.8 **Klassifizierende Stelle** — die fachlich verantwortliche Organisationseinheit für die jeweilige Information.
 
-2.8 **Klassifizierende Stelle** — die fachlich verantwortliche Organisationseinheit für die jeweilige Information (KOOS-`oe-*`).
+3.9 **Need-to-Know** — Grundsatz, dass eine Information nur Personen zugänglich gemacht wird, die sie für die Erfüllung ihrer dienstlichen Aufgaben kennen müssen.
 
-2.9 **Need-to-Know** — Grundsatz, dass eine Information nur Personen zugänglich gemacht wird, die sie für die Erfüllung ihrer dienstlichen Aufgaben kennen müssen.
+3.10 **Aggregation** — Zusammenführung von Einzelinformationen zu einem Gesamtbestand, der einen höheren Schutzbedarf erfordern kann als die Einzelteile.
 
-2.10 **Aggregation** — Zusammenführung von Einzelinformationen zu einem Gesamtbestand, der einen höheren Schutzbedarf erfordern kann als die Einzelteile.
+## 4. Klassifizierungs-Schema
 
----
-
-## 3. Klassifizierungs-Schema
-
-Die Richtlinie verwendet **vier parallel laufende Achsen** (Übersicht in Kapitel 0). Dieses Kapitel führt Achse 1 und Achse 2 aus; **Achse 3 (BSI-Schutzbedarf) und Achse 4 (VS-Einstufung) stehen in Anlage C.**
+Die Richtlinie verwendet **vier parallel laufende Achsen** (Übersicht in Kapitel 1). Dieses Kapitel führt Achse 1 und Achse 2 aus; **Achse 3 (BSI-Schutzbedarf) und Achse 4 (VS-Einstufung) stehen in Anlage C.**
 
 Alle Achsen laufen im binären Schutzbedarf der Vorgehensweise zusammen — aber **keine wird aus einer anderen abgeleitet**.
 
-### 3.1 Achse 1 — Schutzstufen nach LfD Niedersachsen (für personenbezogene Daten)
+### 4.1 Achse 1 — Schutzstufen nach LfD Niedersachsen (für personenbezogene Daten)
 
 Wortlaut und Beispiele übernehmen die Definitionen des Schutzstufenkonzepts des LfD Niedersachsen (Stand Oktober 2018):
 
@@ -156,7 +103,7 @@ Wortlaut und Beispiele übernehmen die Definitionen des Schutzstufenkonzepts des
 
 **Sondergruppen:** Daten von Kindern und besonders schutzbedürftigen Personen werden im Zweifel eine Stufe höher eingestuft als sie sich abstrakt ergeben würden.
 
-### 3.2 Achse 2 — Vertraulichkeitsstufen (für alle Informationen)
+### 4.2 Achse 2 — Vertraulichkeitsstufen (für alle Informationen)
 
 | Stufe | Bezeichnung | Beispiele | Bezug Schutzbedarf |
 |---|---|---|---|
@@ -165,7 +112,7 @@ Wortlaut und Beispiele übernehmen die Definitionen des Schutzstufenkonzepts des
 | **V3** | Vertraulich | Vergabeunterlagen vor Zuschlag, IT-Sicherheitskonzepte, interne Stellungnahmen mit potenziell rufschädigendem Inhalt, Verhandlungsstrategien | normal bis hoch (Einzelfallprüfung) |
 | **V4** | Streng vertraulich | Sicherheitsrelevante Pläne (z. B. KRITIS-Notfallpläne), Polizeiliche/Ordnungsbehördliche Lagen, Verschlusssachen nach VSA-Niedersachsen | hoch |
 
-### 3.3 Zusammenführung — Schutzbedarf nach Vorgehensweise
+### 4.3 Zusammenführung — Schutzbedarf nach Vorgehensweise
 
 Der **Schutzbedarf einer Information** ergibt sich aus dem **Maximum aller vier Achsen**:
 
@@ -174,15 +121,11 @@ Der **Schutzbedarf einer Information** ergibt sich aus dem **Maximum aller vier 
 
 Damit bleibt die Vorgehensweise (Baseline bei „normal", ergänzende Risikoanalyse + ggf. DSFA bei „hoch") in der gewohnten Logik. Die Klassifizierung liefert nur das **Eingangssignal** dazu.
 
-### 3.4 Verhältnis zur DA E-Mail (`reg-da-e-mail.md`)
+### 4.4 Verhältnis zur DA E-Mail
 
-Die DA E-Mail führt seit dem 24.08.2026 in § 3 unmittelbar das gemeinsame Schema
-**V1 / A** bis **V4 / E**; die Umstellung ist vollzogen. § 3 der DA E-Mail füllt die
-Zeile „Übermittlung E-Mail" der Umgangsmatrix in **Anlage B** dieser Richtlinie aus.
+Die DA E-Mail führt unmittelbar das gemeinsame Schema **V1 / A** bis **V4 / E**; die Umstellung ist vollzogen. § 3 der DA E-Mail füllt die Zeile „Übermittlung E-Mail" der Umgangsmatrix in **Anlage B** dieser Richtlinie aus.
 
-Die folgende Tabelle dokumentiert die frühere Zuordnung der abgelösten Bezeichnungen
-(Niedrig / Normal / Hoch / Sehr hoch). Sie dient dem Verständnis älterer Fassungen und
-ist für die Anwendung nicht mehr maßgeblich.
+Die folgende Tabelle dokumentiert die frühere Zuordnung der abgelösten Bezeichnungen (Niedrig / Normal / Hoch / Sehr hoch). Sie dient dem Verständnis älterer Fassungen und ist für die Anwendung nicht mehr maßgeblich.
 
 | Abgelöste DA-E-Mail-Bezeichnung | Schutzstufe (Achse 1) | Vertraulichkeitsstufe (Achse 2) | Zulässige Übertragungsart |
 |---|---|---|---|
@@ -191,7 +134,7 @@ ist für die Anwendung nicht mehr maßgeblich.
 | Hoch | **D** (einschließlich Art-9-Daten, Sozialdaten, Gesundheitsdaten, Steuerdaten) | V3 | Ende-zu-Ende-Verschlüsselung (S/MIME, PGP) oder De-Mail mit QES; gesetzliche Sondervorgaben (§ 30 AO, § 35 SGB I) bleiben unberührt |
 | Sehr hoch | **E** (Leben/Freiheit) | V4 | nur über sichere Behördenpostfächer (EGVP, OSCI); keine offene E-Mail, auch nicht verschlüsselt |
 
-### 3.5 Aggregation und Mischbestände
+### 4.5 Aggregation und Mischbestände
 
 3.5.1 **Mischbestand.** Enthält ein Dokument oder Datenbestand Informationen mehrerer Stufen, gilt grundsätzlich die **höchste enthaltene Stufe** für das gesamte Objekt. Eine getrennte Behandlung (z. B. separate Anlage statt Einbettung) ist zu prüfen, wenn sie die Klassifizierung niedrig halten würde.
 
@@ -205,19 +148,19 @@ ist für die Anwendung nicht mehr maßgeblich.
 
 ---
 
-## 4. Pflicht zur Klassifizierung
+## 5. Pflicht zur Klassifizierung
 
-4.1 **Grundsatz.** Jede Information ist von der klassifizierenden Stelle bei Erstellung oder Eingang zu klassifizieren. Die Klassifizierung ist Bestandteil der ordnungsgemäßen Aktenführung (vgl. ADGA, Abschnitt 5.9).
+5.1 **Grundsatz.** Jede Information ist von der klassifizierenden Stelle bei Erstellung oder Eingang zu klassifizieren. Die Klassifizierung ist Bestandteil der ordnungsgemäßen Aktenführung (vgl. ADGA, Abschnitt 5.9).
 
-4.2 **Anknüpfung an Datenkategorien.** Für strukturierte Verarbeitungen ist die Schutzstufe bereits am **Datenspeicher** (`koos-daten/daten/dstore-*.md`) zu hinterlegen. Damit erbt jeder VVT-Eintrag, der diesen Datenspeicher verwendet, automatisch die Schutzstufe.
+5.2 **Anknüpfung an Datenkategorien.** Für strukturierte Verarbeitungen ist die Schutzstufe bereits am **Datenspeicher** zu hinterlegen. Damit erbt jeder VVT-Eintrag, der diesen Datenspeicher verwendet, automatisch die Schutzstufe.
 
-4.3 **Defaults bei Unsicherheit.** Im Zweifel ist die **höhere Stufe** zu wählen. Eine Herabstufung bedarf der Begründung und der Bestätigung durch die zuständige Fachbereichsleitung.
+5.3 **Defaults bei Unsicherheit.** Im Zweifel ist die **höhere Stufe** zu wählen. Eine Herabstufung bedarf der Begründung und der Bestätigung durch die zuständige Fachbereichsleitung.
 
-4.4 **Mehrkategorien-Dokumente.** Es gilt die Regel aus 3.5.1.
+5.4 **Mehrkategorien-Dokumente.** Es gilt die Regel aus 3.5.1.
 
-4.5 **Pseudonymisierung / Anonymisierung.** Es gilt die Regel aus 3.5.4.
+5.5 **Pseudonymisierung / Anonymisierung.** Es gilt die Regel aus 3.5.4.
 
-4.6 **Need-to-Know und Data Minimization als Querschnittsprinzipien.**
+5.6 **Need-to-Know und Data Minimization als Querschnittsprinzipien.**
 - **Need-to-Know:** Zugriff auf Informationen ab Stufe C / V3 wird ausschließlich nach dienstlicher Notwendigkeit gewährt. Eine Hierarchie- oder Anwesenheits-basierte Zugriffsvergabe ist unzulässig.
 - **Data Minimization:** Vor jeder Erhebung und vor jeder internen Weitergabe ist zu prüfen, ob für den Zweck weniger oder weniger sensible Daten ausreichen. Auswertungen und Berichte sollen so wenige personenbezogene Daten wie möglich enthalten.
 
@@ -225,38 +168,38 @@ Beide Prinzipien sind in den TOMs des Verfahrens zu verankern (Rolle-Recht-Konze
 
 ---
 
-## 5. Kennzeichnung
+## 6. Kennzeichnung
 
-5.1 **Schriftverkehr.** In Vorlagen und Schriftverkehr ist die Stufe in Kopf- oder Fußzeile zu vermerken, sofern die Stufe **C, D, E oder V3, V4** vorliegt. Beispiele:
+6.1 **Schriftverkehr.** In Vorlagen und Schriftverkehr ist die Stufe in Kopf- oder Fußzeile zu vermerken, sofern die Stufe **C, D, E oder V3, V4** vorliegt. Beispiele:
 
 - `Schutzstufe C — vertrauliche Behandlung`
 - `Schutzstufe D — erhebliche Beeinträchtigung möglich`
 - `Schutzstufe E — besonderer Schutz (Leben/Freiheit)`
 - `V4 — streng vertraulich`
 
-5.2 **E-Mails.** In der **Betreffzeile** ist bei Stufen ab C / V3 ein Marker zu setzen: `[C]`, `[D]`, `[E]`, `[V3]`, `[V4]`. Damit erkennt das Mail-Gateway die Stufe und kann eine Verschlüsselungspflicht erzwingen (Regelwerk siehe DA E-Mail Abschnitt 3).
+6.2 **E-Mails.** In der **Betreffzeile** ist bei Stufen ab C / V3 ein Marker zu setzen: `[C]`, `[D]`, `[E]`, `[V3]`, `[V4]`. Damit erkennt das Mail-Gateway die Stufe und kann eine Verschlüsselungspflicht erzwingen (Regelwerk siehe DA E-Mail Abschnitt 3).
 
-5.3 **Aktenführung.** In Aktenplänen und im DMS ist die Stufe als Metadatum pro Vorgang und pro Dokument zu hinterlegen.
+6.3 **Aktenführung.** In Aktenplänen und im DMS ist die Stufe als Metadatum pro Vorgang und pro Dokument zu hinterlegen.
 
-5.4 **Fachverfahren.** Soweit das Fachverfahren keine eigene Klassifizierung kennt, ist die maximale Stufe der dort verarbeiteten Daten in der Verfahrensbeschreibung zu dokumentieren.
+6.4 **Fachverfahren.** Soweit das Fachverfahren keine eigene Klassifizierung kennt, ist die maximale Stufe der dort verarbeiteten Daten in der Verfahrensbeschreibung zu dokumentieren.
 
-5.5 **Stufe A / V1.** Eine Kennzeichnung ist nicht erforderlich; das Fehlen einer Kennzeichnung gilt nicht als A/V1, sondern fordert eine Plausibilitätsprüfung.
+6.5 **Stufe A / V1.** Eine Kennzeichnung ist nicht erforderlich; das Fehlen einer Kennzeichnung gilt nicht als A/V1, sondern fordert eine Plausibilitätsprüfung.
 
 ---
 
-## 6. Folgen der Klassifizierung
+## 7. Folgen der Klassifizierung
 
-6.1 **Speicherung.** Stufen D, E, V3, V4 sind außerhalb des kommunalen Netzes nur in vom ISB freigegebenen, ggf. verschlüsselten Speicherorten zulässig. Cloud-Nutzung richtet sich nach der DA Cloud. Details siehe **Anlage B (Umgangsmatrix)**.
+7.1 **Speicherung.** Stufen D, E, V3, V4 sind außerhalb des kommunalen Netzes nur in vom ISB freigegebenen, ggf. verschlüsselten Speicherorten zulässig. Cloud-Nutzung richtet sich nach der DA Cloud. Details siehe **Anlage B (Umgangsmatrix)**.
 
-6.2 **Übermittlung.** E-Mail, Fax, Post, Schnittstellen — Übertragungsweg ist nach Stufe zu wählen. Die DA E-Mail enthält die Detailregelung; **Anlage B** fasst die Anforderungen zusammen.
+7.2 **Übermittlung.** E-Mail, Fax, Post, Schnittstellen — Übertragungsweg ist nach Stufe zu wählen. Die DA E-Mail enthält die Detailregelung; **Anlage B** fasst die Anforderungen zusammen.
 
-6.3 **Zugriff.** Stufen D, E, V3, V4 dürfen nur Personen mit dienstlichem Bedarf einsehen (Need-to-Know, vgl. 4.6). Rollen-Rechte-Konzept gemäß TOMs.
+7.3 **Zugriff.** Stufen D, E, V3, V4 dürfen nur Personen mit dienstlichem Bedarf einsehen (Need-to-Know, vgl. 4.6). Rollen-Rechte-Konzept gemäß TOMs.
 
-6.4 **Aufbewahrung und Löschung.** Die Aufbewahrungsfristen ergeben sich aus dem jeweiligen Fachrecht (vgl. Frontmatter-Feld `loeschfrist` im VVT-Eintrag). Die Klassifizierung bestimmt **nicht** die Frist, wohl aber die Anforderungen an die Vernichtung (vgl. **Anlage E — DIN-66399-Mapping**).
+7.4 **Aufbewahrung und Löschung.** Die Aufbewahrungsfristen ergeben sich aus dem jeweiligen Fachrecht (vgl. Frontmatter-Feld `loeschfrist` im VVT-Eintrag). Die Klassifizierung bestimmt **nicht** die Frist, wohl aber die Anforderungen an die Vernichtung (vgl. **Anlage E — DIN-66399-Mapping**).
 
-6.5 **Vorfallsmeldung.** Verlust oder Offenlegung von Informationen ab Stufe C / V3 ist als möglicher Datenschutz- bzw. Sicherheitsvorfall der DSB / dem ISB zu melden (ADGA 9.4).
+7.5 **Vorfallsmeldung.** Verlust oder Offenlegung von Informationen ab Stufe C / V3 ist als möglicher Datenschutz- bzw. Sicherheitsvorfall der DSB / dem ISB zu melden (ADGA 9.4).
 
-6.6 **Berufs- und Amtsgeheimnisse.** Unabhängig von der Schutzstufe gelten gesetzliche Schweige- und Geheimhaltungspflichten fort, insbesondere:
+7.6 **Berufs- und Amtsgeheimnisse.** Unabhängig von der Schutzstufe gelten gesetzliche Schweige- und Geheimhaltungspflichten fort, insbesondere:
 - **§ 203 StGB** (Verletzung von Privatgeheimnissen) für Beschäftigte in Sozialleistungsbereichen, Jugendamt, Gesundheitsamt, Schwangerenberatung, Schuldnerberatung, Drogenberatung.
 - **§ 30 AO** (Steuergeheimnis) im Bereich der kommunalen Steuerverwaltung.
 - **§ 35 SGB I** (Sozialgeheimnis) für alle Sozialleistungsträger.
@@ -266,7 +209,7 @@ Die Schutzstufe ersetzt diese Geheimhaltungspflichten nicht; sie verlangen häuf
 
 ---
 
-## 7. Verantwortlichkeiten
+## 8. Verantwortlichkeiten
 
 | Rolle | Aufgabe |
 |---|---|
@@ -279,25 +222,25 @@ Die Schutzstufe ersetzt diese Geheimhaltungspflichten nicht; sie verlangen häuf
 
 ---
 
-## 8. Schulung
+## 9. Schulung
 
-8.1 **Erstunterweisung** für alle neu Eintretenden vor Tätigkeitsaufnahme.
+9.1 **Erstunterweisung** für alle neu Eintretenden vor Tätigkeitsaufnahme.
 
-8.2 **Jährliche Auffrischung** für alle Beschäftigten; Themenwechsel jährlich (Schutzstufen, E-Mail-Verschlüsselung, Cloud, Mobile Working).
+9.2 **Jährliche Auffrischung** für alle Beschäftigten; Themenwechsel jährlich (Schutzstufen, E-Mail-Verschlüsselung, Cloud, Mobile Working).
 
-8.3 **Schulungsnachweise** sind in der Personalakte zu führen.
+9.3 **Schulungsnachweise** sind in der Personalakte zu führen.
 
-8.4 **Sensibilisierung anhand von Fallbeispielen.** Schulungen enthalten konkrete Fallbeispiele aus der Verwaltungspraxis (Wohnungsgeber, Jugendamt, Steueramt, Bauamt), die die Stufen-Zuordnung üben.
+9.4 **Sensibilisierung anhand von Fallbeispielen.** Schulungen enthalten konkrete Fallbeispiele aus der Verwaltungspraxis (Wohnungsgeber, Jugendamt, Steueramt, Bauamt), die die Stufen-Zuordnung üben.
 
 ---
 
-## 9. Inkrafttreten und Überprüfung
+## 10. Inkrafttreten und Überprüfung
 
-9.1 **Inkrafttreten.** Diese Richtlinie tritt am [DATUM] in Kraft.
+10.1 **Inkrafttreten.** Diese Richtlinie tritt am [DATUM] in Kraft.
 
-9.2 **Überprüfung.** Sie wird **jährlich** durch DSB und ISB gemeinsam überprüft. Anlassbezogene Anpassung erfolgt insbesondere bei Änderungen der DSGVO, des NDSG, des LfD-Schutzstufenkonzepts oder bei wesentlicher Änderung der Verwaltungs-Infrastruktur.
+10.2 **Überprüfung.** Sie wird **jährlich** durch DSB und ISB gemeinsam überprüft. Anlassbezogene Anpassung erfolgt insbesondere bei Änderungen der DSGVO, des NDSG, des LfD-Schutzstufenkonzepts oder bei wesentlicher Änderung der Verwaltungs-Infrastruktur.
 
-9.3 **Versionierung.** Diese Richtlinie wird im DSMS (`dsms-knowledge/Muster-Dienstanweisungen/`) versioniert geführt. Versionsstände werden über Git-Tags festgehalten (vgl. KONZEPT VVT/Risiko/DSFA/TOMs, Kapitel 10).
+10.3 **Versionierung.** Diese Richtlinie wird im DSMS (`dsms-knowledge/Muster-Dienstanweisungen/`) versioniert geführt. Versionsstände werden über Git-Tags festgehalten (vgl. KONZEPT VVT/Risiko/DSFA/TOMs, Kapitel 10).
 
 ---
 
@@ -367,12 +310,6 @@ Für die **TOMs aus dem KOOS-TOM-Bestand** bleibt der dreiwertige BSI-Schutzbeda
 
 ### Der BSI-Schutzbedarf ist eine eigene Achse
 
-> **Korrektur v0.3 (2026-08-12) — zwei Punkte.**
->
-> **Erstens:** Die vorige Fassung ordnete die Schutzstufe **C** der BSI-Kategorie *hoch* zu. Das widerspricht dem BSI-Original — siehe unten. Der Bestand in `koos-daten/daten/dstore-*.md` war insoweit richtig eingestuft und die Anlage falsch.
->
-> **Zweitens, und wichtiger:** Die vorige Fassung behandelte den BSI-Schutzbedarf als **Mapping** zu den Achsen 1 und 2. Das ist falsch. Er misst ein **eigenes Schutzgut** und ist damit eine **eigene Achse**.
-
 Die Klassifizierung kennt **vier Achsen**. Sie unterscheiden sich nicht in der Skala, sondern darin, **wem der Schaden droht**:
 
 | | Instrument | Skala | Geschütztes Gut | Quelle |
@@ -422,8 +359,6 @@ Die **VS-Einstufung** nach § 7 VSA Niedersachsen bemisst den Schaden für die I
 Anlage 1 Nr. 1 VSA grenzt selbst ab: Für personenbezogene Daten sind *„die hierfür bestehenden Regelungen … anzuwenden"*, nicht die VSA. **Eine hohe Schutzstufe begründet keine VS-Einstufung.**
 
 Ab **VS-VERTRAULICH** werden Sicherheitsüberprüfung aller befassten Personen, materielle Schutzmaßnahmen und eigene IT-Anforderungen ausgelöst; ab dieser Stufe ist eine oder ein Geheimschutzbeauftragte/r zu bestellen (§ 3 VSA).
-
-Erfasst in `dsms-knowledge/facts/verwaltungsvorschriften/niedersachsen/vsa-verschlusssachenanweisung.md`.
 
 ### Der Schutzbedarf der Vorgehensweise bleibt binär
 
@@ -487,19 +422,4 @@ Bei elektronischen Trägern gelten die korrespondierenden Stufen der DIN 66399-2
 | **Aggregation** | Zusammenführung von Einzelinformationen; kann den Schutzbedarf erhöhen |
 | **Crypto-Shredding** | Vernichtung verschlüsselter Daten durch sicheres Löschen des Schlüssels |
 
----
 
-## Quellen
-
-- DSGVO Artt. 4, 5, 9, 10, 24, 32
-- NDSG (Niedersächsisches Datenschutzgesetz)
-- StGB § 203, AO § 30, SGB I § 35, SGB X § 67
-- LfD Niedersachsen — Schutzstufenkonzept (Stand Oktober 2018) — `lfd.niedersachsen.de/download/137188/Schutzstufenkonzept_LfD_Niedersachsen_.pdf`
-- DSK-Kurzpapier Nr. 18 — Risiko für die Rechte und Freiheiten natürlicher Personen
-- BSI IT-Grundschutz-Kompendium und BSI-Standard 200-2 (Schutzbedarfsfeststellung)
-- ISO/IEC 27002:2022, Kapitel 5.12 (Klassifizierung von Informationen)
-- ISMS-Ratgeber Wiki — Klassifizierung (CC0), `wiki.isms-ratgeber.info/wiki/Klassifizierung`
-- DIN 66399 — Büro- und Datentechnik, Vernichtung von Datenträgern
-- Vorgehensweise — `dsms-knowledge/vorgehensweise/Datenschutz-Vorgehensweise.md`
-- Konzept VVT/Risiko/DSFA/TOMs — `dsms-knowledge/Bericht Planung/`
-- Dienstanweisung E-Mail, Cloud, ADGA — `dsms-knowledge/Muster-Dienstanweisungen/`
