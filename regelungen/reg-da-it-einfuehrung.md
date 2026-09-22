@@ -4,14 +4,14 @@ titel: "Dienstanweisung IT-Einführung"
 name: Dienstanweisung Einführung neuer IT-Verfahren (DA IT-Einführung)
 typ: Dienstanweisung
 datum: '2026-06-23'
-status: entwurf
+status: aktiv
 zustaendigeEinheit: oe-amt-15
 entscheidendes-gremium: Hauptverwaltungsbeamter
 ---
 
 # Dienstanweisung zur Einführung neuer IT-Verfahren (DA IT-Einführung)
 **Gültig ab:** [Datum]
-**Verantwortlich:** IT-Abteilung / Hauptamt
+**Verantwortlich:** IT-Abteilung (Federführung)
 **Ersetzt:** [ggf. vorherige Version]
 
 ---
@@ -70,55 +70,85 @@ Reine Softwareupdates und Patches ohne Funktionserweiterung sowie Betriebssystem
 
 ## § 4 Rollen und Verantwortlichkeiten
 
-**(1) Gesamtverantwortung**
+Die Rollen und ihre Einordnung folgen dem RASCI-Modell des Datenschutz-Managementsystems (A = Gesamtverantwortung, R = Durchführungsverantwortung, S = Unterstützung, C = Beratung/Konsultation, I = Information).
 
-Die [Bürgermeisterin/der Bürgermeister bzw. Landrätin/Landrat] trägt die Gesamtverantwortung für die Einhaltung dieser Dienstanweisung.
+**(1) Hauptverantwortliche (A)**
 
-**(2) Fachverantwortliche/r**
+Die [Bürgermeisterin/der Bürgermeister bzw. Landrätin/Landrat] trägt als Hauptverantwortliche/r die Gesamtverantwortung für die Einhaltung dieser Dienstanweisung. Diese Hauptverantwortung ist nicht delegierbar. Die Freigabe zur Einführung eines IT-Verfahrens erfolgt durch die Hauptverantwortliche/den Hauptverantwortlichen (siehe § 5 Phase 3).
 
-Die Leiterin/der Leiter der einführenden Organisationseinheit ist verantwortlich für:
+**(2) IT-Abteilung (R)**
 
-- Bedarfsmeldung und Antragstellung
-- Bereitstellung der erforderlichen Informationen (Verarbeitungszweck, Datenkategorien, Betroffene)
-- Durchführung der Datenschutz-Folgenabschätzung (DSFA) in Abstimmung mit dem/der DSB
-- Sicherstellung der erforderlichen TOM
-- Schulung der Nutzerinnen und Nutzer
-
-**(3) IT-Abteilung**
-
-Die IT-Abteilung ist verantwortlich für:
+Die IT-Abteilung trägt die Durchführungsverantwortung für den Einführungsprozess. Sie ist verantwortlich für:
 
 - Technische Prüfung des Verfahrens
 - Integration in die bestehende IT-Infrastruktur
 - Berechtigungskonzept
 - Schnittstellen zu anderen Systemen
 - Technische Sicherheitsmaßnahmen
+- Produktivsetzung nach erfolgreichem Test und Freigabe
 
-**(4) Datenschutzbeauftragte/r**
+**(3) Fachverantwortliche/r (S, in Teilprozessen R)**
 
-Der/Die DSB ist verantwortlich für:
+Die Leiterin/der Leiter der einführenden Organisationseinheit unterstützt den Einführungsprozess fachlich und trägt in den fachlichen Teilprozessen (DSFA, TOM, VVT) die Durchführungsverantwortung. Sie/er ist verantwortlich für:
 
-- Datenschutzrechtliche Prüfung
-- Bewertung der DSFA (Art. 35 DSGVO)
-- Prüfung des AVV (Art. 28 DSGVO)
+- Bedarfsmeldung und Antragstellung
 - Eintragung/Nachtrag im Verzeichnis der Verarbeitungstätigkeiten (Art. 30 DSGVO)
-- Beratung der Fachverantwortlichen
+- Bereitstellung der erforderlichen Informationen (Verarbeitungszweck, Datenkategorien, Betroffene)
+- Durchführung der Datenschutz-Folgenabschätzung (DSFA)
+- Sicherstellung der erforderlichen TOM
+- Schulung der Nutzerinnen und Nutzer
 
-**(5) Informationssicherheitsbeauftragte/r**
+**(4) Datenschutzbeauftragte/r (C – berät und kontrolliert)**
 
-Der/Die ISB ist verantwortlich für:
+Der/Die DSB berät und kontrolliert. Er/Sie ist zu beteiligen bei:
 
-- Sicherheitstechnische Bewertung
-- Prüfung der TOM nach Art. 32 DSGVO
+- Datenschutzrechtlicher Prüfung (Beratung)
+- Beratung bei der Durchführung der DSFA (Art. 35 DSGVO)
+- Beratung zum Auftragsverarbeitungsvertrag (Art. 28 DSGVO)
+- Prüfung des Eintrags im Verzeichnis der Verarbeitungstätigkeiten (Art. 30 DSGVO)
+
+**(5) Informationssicherheitsbeauftragte/r (C – berät, in Teilprozessen R)**
+
+Der/Die ISB berät zu Sicherheitsfragen und wirkt bei den TOM nach Art. 32 DSGVO mit. Er/Sie ist zu beteiligen bei:
+
+- Sicherheitstechnischer Bewertung
+- Mitwirkung an der Prüfung der TOM nach Art. 32 DSGVO
 - Risikoanalyse
 
-**(6) Personalrat**
+**(6) Organisationsabteilung (I – Koordination)**
 
-Der Personalrat ist im Rahmen seiner Mitbestimmungsrechte nach
-[§ 65 Abs. 1 Nr. 6 NPersVG / § 75 Abs. 3 Nr. 17 BPersVG / entsprechende
-landesrechtliche Regelung] zu beteiligen, wenn das IT-Verfahren
-geeignet ist, das Verhalten oder die Leistung der Beschäftigten zu
-überwachen.
+Die Organisationsabteilung koordiniert die Einführung neuer IT-Verfahren zwischen Fachbereich, IT-Abteilung, Datenschutz, Informationssicherheit und Personalrat und ist über laufende Einführungsvorhaben zu informieren.
+
+**(7) Datenschutzkoordinator/in (S)**
+
+Die Datenschutzkoordinatorinnen und -koordinatoren unterstützen die Fachverantwortlichen operativ, insbesondere bei der Pflege des Verzeichnisses der Verarbeitungstätigkeiten, bei Risikoanalysen und der Festlegung technischer und organisatorischer Maßnahmen.
+
+**(8) Personalabteilung (C)**
+
+Die Personalabteilung ist zu beteiligen, wenn das IT-Verfahren Auswirkungen auf die Beschäftigten hat, insbesondere bei Auswertungen mit arbeits- oder dienstrechtlichen Konsequenzen (§ 6 Abs. 3).
+
+**(9) Auftragsverarbeiter (S)**
+
+Externe Dienstleister, die als Auftragsverarbeiter nach Art. 28 DSGVO tätig werden, unterstützen den Einführungsprozess im Rahmen des geschlossenen Auftragsverarbeitungsvertrags (§ 7).
+
+**(10) Personalrat (C – Beteiligung)**
+
+Der Personalrat ist im Rahmen seiner Mitbestimmungsrechte nach § 67 Abs. 1 Nr. 2 NPersVG zu beteiligen, wenn das IT-Verfahren geeignet ist, das Verhalten oder die Leistung der Beschäftigten zu überwachen.
+
+### RASCI-Übersicht IT-Einführung
+
+| RASCI | Rolle |
+| :---: | :--- |
+| A | Hauptverantwortliche (Behördenleitung) |
+| R | IT-Abteilung |
+| S | Fachverantwortliche |
+| S | Datenschutzkoordinator/in |
+| S | Auftragsverarbeiter |
+| C | Datenschutzbeauftragte/r |
+| C | Informationssicherheitsbeauftragte/r |
+| C | Personalabteilung |
+| C | Personalrat |
+| I | Organisationsabteilung |
 
 ## § 5 Verfahren — Phasenmodell der IT-Einführung
 
@@ -177,8 +207,7 @@ Phase 6: Produktivsetzung und Dokumentation
 
 ### Phase 3 — Freigabe und Beschaffung
 
-(1) Die Freigabe erfolgt durch die IT-Abteilung, den/die DSB und ggf.
-den/die ISB. Die Freigabe wird dokumentiert.
+(1) Die Freigabe erfolgt durch die Hauptverantwortliche/den Hauptverantwortlichen (A) auf der Grundlage der datenschutz- und sicherheitstechnischen Bewertungen. Die IT-Abteilung, der/die DSB und ggf. der/die ISB beraten im Vorfeld der Freigabe; sie erteilen keine eigene Freigabe. Die Freigabe wird dokumentiert.
 
 (2) Voraussetzungen für die Freigabe:
 
@@ -281,7 +310,7 @@ Weitergehende Nutzungen sind unzulässig. Insbesondere dürfen diese Daten weder
 - Unterauftragsverhältnisse
 - Datenlöschung nach Vertragsende
 
-Der AVV kann bei der Abteilung [XX] eingesehen werden oder ist dieser Dienstanweisung als Anlage beigefügt.
+Der AVV kann bei der Abteilung [XX] eingesehen werden.
 
 (3) **Bei gemeinsamer Verantwortlichkeit:** Es wird eine Vereinbarung nach Art. 26 DSGVO geschlossen, die die jeweiligen Verantwortlichkeiten festlegt.
 
@@ -330,21 +359,13 @@ Vor Einführung eines IT-Verfahrens, das voraussichtlich ein hohes Risiko für d
 - Sicherheitsmaßnahmen (Verschlüsselung, Authentifizierung)
 - Regelmäßigkeit der Datenübertragung
 
-(2) Neue Schnittstellen bedürfen der Freigabe durch die IT-Abteilung
-und des/der DSB.
+(2) Neue Schnittstellen bedürfen der Freigabe durch die IT-Abteilung und des/der DSB.
 
-(3) Die Dokumentation der Schnittstellen ist in Anlage [X] zu dieser
-Dienstanweisung hinterlegt.
-
----
+(3) Die Dokumentation der Schnittstellen ist in Anlage [X] zu dieser Dienstanweisung hinterlegt.
 
 ## § 12 Beteiligung des Personalrats
 
-(1) Der Personalrat ist nach den Vorschriften des
-[Landespersonalvertretungsgesetzes] zu beteiligen, wenn das
-IT-Verfahren geeignet ist, das Verhalten oder die Leistung der
-Beschäftigten zu überwachen (§ 65 Abs. 1 Nr. 6 NPersVG /
-entsprechende landesrechtliche Regelung).
+(1) Der Personalrat ist nach den Vorschriften des NPersVG zu beteiligen, wenn das IT-Verfahren geeignet ist, das Verhalten oder die Leistung der Beschäftigten zu überwachen (§ 67 Abs. 1 Nr. 2 NPersVG.
 
 (2) Der Personalrat ist rechtzeitig, mindestens jedoch vier Wochen vor der geplanten Einführung, zu informieren. Die Information umfasst:
 
@@ -415,10 +436,6 @@ haben.
 (3) Für bereits laufende IT-Einführungsverfahren gilt eine Übergangsfrist von [X Wochen/Monaten]. Nach Ablauf der Frist sind auch diese Verfahren nach den Regelungen dieser Dienstanweisung abzuschließen.
 
 (4) Die Dienstanweisung wird spätestens nach zwei Jahren auf Aktualität geprüft und gegebenenfalls fortgeschrieben.
-
-## § 18 Salvatorische Klausel
-
-Soweit einzelne Regelungen dieser Dienstanweisung unwirksam sein oder werden sollten, wird die Wirksamkeit der Dienstanweisung im Übrigen hierdurch nicht berührt. Anstelle der unwirksamen Regelung tritt eine wirksame Regelung, die dem wirtschaftlichen und rechtlichen Zweck der unwirksamen Regelung am nächsten kommt.
 
 ---
 
