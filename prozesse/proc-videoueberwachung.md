@@ -19,7 +19,6 @@ daten:
   datenspeicher:
   - id: dstore-videoueberwachungsaufzeichnung
 regelungen:
-- reg-da-videoueberwachung - Dienstanweisung Videoüberwachung
 - reg-dv-videoueberwachung - Dienstvereinbarung Videoüberwachung nach § 78 NPersVG
 - § 14 NDSG - Videoüberwachung öffentlich zugänglicher Räume
 - § 3 NDSG - Verarbeitung bei öffentlichen Stellen
@@ -42,7 +41,7 @@ Koordinierter Lebenszyklus einer Videoüberwachungsanlage in der Musterkommune:
 von der Bedarfsmeldung über Gefährdungsanalyse, DSFA, Mitbestimmung, Beschaffung,
 Installation und Betrieb bis zur jährlichen Evaluation. Der Prozess stellt sicher,
 dass jede Anlage die Anforderungen des § 14 NDSG, der DSGVO und der
-Dienstanweisung Videoüberwachung erfüllt.
+Dienstvereinbarung Videoüberwachung erfüllt.
 
 ## An wen wende ich mich?
 
@@ -67,8 +66,7 @@ Sicherheitsgefühl oder allgemeine Besorgnis genügen nicht. Bagatellschäden
 (urt-0144).*
 
 **02 Gefährdungsanalyse und Verhältnismäßigkeit prüfen**
-*Das Fachamt erstellt die Gefährdungsanalyse nach Anlage 1 der DA
-Videoüberwachung. Die Prüfung erfolgt dreistufig: (a) Geeignetheit — kann
+*Das Fachamt erstellt ein Gefährdungsanalyse. Die Prüfung erfolgt dreistufig: (a) Geeignetheit — kann
 die Kamera den Zweck erreichen? (b) Erforderlichkeit — gibt es ein milderes,
 gleich geeignetes Mittel (Beleuchtung, Personal, Schließsysteme, Alarmanlage)?
 (c) Angemessenheit — überwiegen die schutzwürdigen Interessen der Betroffenen
@@ -113,7 +111,7 @@ zu informieren.*
 
 **07 Installation und technische Abnahme**
 *Die IT-Abteilung installiert die Anlage nach Maßgabe des Betriebskonzepts
-(Anlage 2 der DA). Vor Inbetriebnahme prüft der ISB: (a) Netzsegmentierung
+(Anlage 2 der DV). Vor Inbetriebnahme prüft der ISB: (a) Netzsegmentierung
 — kein Zugriff aus dem Verwaltungsnetz, (b) Bereichsausblendung —
 Nachbargrundstücke und Verkehrsflächen nicht erfasst, (c) Audio deaktiviert,
 (d) Verschlüsselung aktiv (TLS 1.3 / AES-256), (e) Schwenk/Zoom deaktiviert
