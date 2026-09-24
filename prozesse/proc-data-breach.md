@@ -60,7 +60,11 @@ IT-Abteilung leitet sofort technische Sofortmaßnahmen ein (betroffene
 Systeme vom Netz trennen, Zugriffe sperren, Logs sichern). Die
 Fachverantwortlichen stellen sicher, dass keine Meldung verloren geht.
 Der DSB dokumentiert den Eingang mit Datum und Uhrzeit — dieser
-Zeitpunkt bestimmt den Fristbeginn (72h).*
+Zeitpunkt bestimmt den Fristbeginn (72h).
+**Vorbereitung (BayLfD OH):** Meldevorlagen und Formulare für
+Art. 33/34-Meldungen vorab bereithalten und mit LfD-Kontaktdaten
+hinterlegen. Mechanismen zur Früherkennung von Datenschutzverletzungen
+implementieren (Logging, Monitoring, Alarmierung).*
 
 **02 Erstbewertung: Liegt eine Datenschutzverletzung vor?**
 *DSB prüft anhand der Zwei-Elemente-Prüfung (EDPB 9/2022):
@@ -92,7 +96,10 @@ oder vorgeschlagene Maßnahmen, DSB-Kontaktdaten. **Achtung:** 72h ist
 „möglichst", nicht absolut — jede Überschreitung ist gegenüber der
 Aufsichtsbehörde zu begründen. Falls noch nicht alle Informationen
 vorliegen: schrittweise Meldung — Erstmeldung jetzt, Folgemeldungen
-sobald verfügbar.*
+sobald verfügbar. **Zwischenberichte (BayLfD OH):** Bei komplexen
+Vorfällen mit besonderen Datenkategorien (Art. 9 DSGVO) alle zwei
+Wochen unaufgefordert Zwischenbericht an die Aufsichtsbehörde
+erstatten.*
 
 **05 Betroffene benachrichtigen (bei hohem Risiko)**
 *DSB benachrichtigt die betroffenen Personen unverzüglich in klarer,
@@ -110,9 +117,12 @@ Keine Benachrichtigung erforderlich (Art. 34 Abs. 3 DSGVO), wenn:
 Folgen, ergriffene Maßnahmen, Kommunikation mit Aufsichtsbehörde und
 Betroffenen. **Achtung:** Dokumentation ist auch bei Nichtmeldung
 zwingend — Art. 33 Abs. 5 DSGVO verlangt eine lückenlose Nachweiskette
-über alle Vorfälle, auch solche ohne Risiko. IT-Abteilung analysiert
-Ursachen und passt TOM an. Fachverantwortliche setzen
-Prozessverbesserungen um. Ggf. Schulungen der Beschäftigten.
+über alle Vorfälle, auch solche ohne Risiko. **Melden befreit nicht
+(BayLfD OH):** Die Meldung an die Aufsichtsbehörde entbindet nicht von
+der Pflicht, geeignete technische und organisatorische Maßnahmen zur
+Schadensbegrenzung und künftigen Verhinderung zu ergreifen.
+IT-Abteilung analysiert Ursachen und passt TOM an. Fachverantwortliche
+setzen Prozessverbesserungen um. Ggf. Schulungen der Beschäftigten.
 Abschlussbericht an LfD nach Aufklärung.*
 
 ---
