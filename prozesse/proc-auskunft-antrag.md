@@ -146,8 +146,20 @@ entgegenstehen:
 - § 9 NDSG: Beschränkung möglich bei Gefährdung der öffentlichen
   Sicherheit, nachteiligen Auswirkungen auf die Aufgabenerfüllung,
   Datensicherheit, besonders geschützte Daten.
+- § 10 NDSG: Auskunftseinschränkung bei zu Archivzwecken
+  verarbeiteten Daten.
 - § 83 SGB X i. V. m. § 65 SGB VIII: Auskunftsausschluss bei
   Sozialdaten/Jugendhilfe (urt-0267).
+- § 91 NBG: Beamtenrechtliches Auskunfts- und Akteneinsichtsrecht
+  geht Art. 15 DSGVO als bereichsspezifische Regelung vor (ID2 A.9.1).
+- § 36 NPsychKG: Auskunftserteilung nur durch Ärztin/Arzt mit
+  Schutz von Drittbetroffenen (ID2 A.9.1).
+- § 21c NVollzG: Strafvollzugspezifische Auskunftseinschränkung
+  (ID2 A.9.1).
+- § 10 BMG: Melderegisterauskunft als eigenständiger Anspruch
+  neben Art. 15 DSGVO (ID2 A.9.2).
+- § 51 NDSG (Teil 2): Auskunft im Bußgeldverfahren nach JI-RL
+  (ID2 A.9.2).
 
 **c) Offensichtlich unbegründete oder exzessive Anträge**
    (Art. 12 Abs. 5 Satz 2 DSGVO):
