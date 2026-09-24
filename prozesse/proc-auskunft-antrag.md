@@ -49,6 +49,11 @@ Einschränkungsgründen.
 
 **Verwandte Wissensseite:** `wiki/O/Auskunftsanspruch.md`
 
+**Muster:** Für die Beantwortung von Auskunftsanträgen stehen drei
+Mustervorlagen zur Verfügung (Positivauskunft, Negativauskunft,
+Teilauskunft mit Einschränkungen) — siehe
+`facts/muster/auskunft/antwort-muster-art15.md`.
+
 **Vorgelagerte Pflichten:** Die Behörde muss organisatorische Vorkehrungen
 für zügige und korrekte Auskunftserteilungen treffen (Art. 12 Abs. 1, 3 DSGVO;
 DSK Kurzpapier Nr. 6). Zentrale Erfassungsstelle beim DSB einrichten,
