@@ -11,7 +11,7 @@ entscheidendes-gremium: Personalrat und Dienststelle
 
 ## Präambel
 
-Durch das Angebot von mobilem Arbeiten und Homeoffice wird Beschäftigten der Musterkommune ermöglicht, ihre dienstlichen Aufgaben zeitweise außerhalb des Dienstgebäudes zu erledigen. Die Nutzung von IT-Infrastruktur (VPN, Remote-Zugriff, Dienstgeräte) außerhalb des Dienstgebäudes stellt ein IT-Betriebsmittel im Sinne des § 67 Abs. 1 Nr. 2 NPersVG dar. Die Regelung der Ordnung der Dienststelle und des Verhaltens der Beschäftigten im Homeoffice und bei mobiler Arbeit unterliegt zugleich der Mitbestimmung nach § 66 Abs. 1 Nr. 6 NPersVG. Soweit diese Vereinbarung die Lage und Verteilung der Arbeitszeit betrifft, ist auch § 66 Abs. 1 Nr. 5 NPersVG einschlägig.
+Durch das Angebot von mobilem Arbeiten und Homeoffice wird Beschäftigten der Musterkommune ermöglicht, ihre dienstlichen Aufgaben zeitweise außerhalb des Dienstgebäudes zu erledigen. Die Nutzung von IT-Infrastruktur (VPN, Remote-Zugriff, Dienstgeräte) außerhalb des Dienstgebäudes stellt ein IT-Betriebsmittel im Sinne des § 67 Abs. 1 Nr. 2 NPersVG dar.
 
 Der Personalrat der Stadt X und die Dienststelle regeln die Antragstellung, Genehmigung, Durchführung und den Widerruf von mobilem Arbeiten und Homeoffice in der folgenden Dienstvereinbarung. Andere als die beschriebenen Nutzungszwecke sind nicht gestattet.
 
