@@ -163,21 +163,105 @@ Soweit nachstehend Begriffe verwendet werden, gelten die Definitionen des Art. 4
 
 ## § 8 Rechte der betroffenen Personen
 
-(1) Betroffene Personen haben gegenüber der Verwaltung folgende Rechte:
+(1) **Organisatorische Vorkehrungen.** Die Verwaltung trifft geeignete
+organisatorische Maßnahmen für zügige und korrekte Auskunftserteilungen
+(Art. 12 Abs. 1, 3 DSGVO; DSK Kurzpapier Nr. 6):
+- Zentrale Erfassungsstelle bei der/dem DSB
+- Festgelegter Workflow zwischen federführender Stelle (DSB) und
+  datenführenden Fachstellen
+- Bereitstellung von Musterantworten (Positivauskunft, Negativauskunft,
+  Teilauskunft mit Schwärzungen)
+- Interner Eskalationsmechanismus bei Fristgefährdung
 
-- Auskunft (Art. 15 DSGVO)
+(2) **Rechte der betroffenen Personen.** Betroffene Personen haben
+gegenüber der Verwaltung folgende Rechte:
+- Auskunft (Art. 15 DSGVO) — einschließlich Kopieanspruch
+  (Art. 15 Abs. 3 DSGVO)
 - Berichtigung (Art. 16 DSGVO)
 - Löschung (Art. 17 DSGVO)
 - Einschränkung der Verarbeitung (Art. 18 DSGVO)
 - Datenübertragbarkeit (Art. 20 DSGVO), soweit anwendbar
 - Widerspruch (Art. 21 DSGVO)
-- Widerruf einer Einwilligung (Art. 7 Abs. 3 DSGVO), wo eingewilligt wurde
+- Widerruf einer Einwilligung (Art. 7 Abs. 3 DSGVO)
 - Beschwerde bei der Aufsichtsbehörde (Art. 77 DSGVO)
 - Schadensersatz (Art. 82 DSGVO)
 
-(2) Auskunftsersuchen und sonstige Geltendmachungen sind unverzüglich an die zuständige Organisationseinheit weiterzuleiten und innerhalb der Frist des Art. 12 Abs. 3 DSGVO (einen Monat, in komplexen Fällen verlängerbar) zu beantworten. Die oder der DSB ist über alle eingehenden Anträge zu informieren.
+(3) **Auskunftsantrag — Form und Fristen:**
+- Der Antrag kann **formlos, ohne Begründung** gestellt werden —
+  mündlich, schriftlich oder elektronisch (DSK Kurzpapier Nr. 6;
+  BayLfD OH Nr. 5).
+- Die/der DSB ist über alle eingehenden Anträge unverzüglich zu
+  informieren (§ 6.4 Abs. 4).
+- **Bearbeitungsfrist: 1 Monat** ab Antragseingang (Art. 12 Abs. 3
+  DSGVO). Verlängerung um max. 2 Monate bei komplexen Anträgen —
+  Mitteilung der Verlängerung mit Begründung innerhalb der ersten
+  Monatsfrist.
+- Bei Fristversäumnis kann die Aufsichtsbehörde einen Hinweis nach
+  Art. 58 Abs. 1 lit. d DSGVO erteilen (urt-0390, VG Berlin 42 K 24/25).
 
-(3) Die Verwaltung stellt Informationen für betroffene Personen nach Art. 13 und 14 DSGVO in verständlicher Form bereit, insbesondere auf ihrer Internetseite und an den jeweiligen Erhebungspunkten.
+(4) **Identitätsprüfung (Art. 12 Abs. 6 DSGVO):**
+- Die Identität der antragstellenden Person ist nur bei begründeten
+  Zweifeln zu prüfen. Bei innerhalb der Behörde bekannten Personen
+  bestehen regelmäßig keine Zweifel.
+- Zusätzliche Identitätsnachweise (z. B. Ausweiskopie) sind
+  datensparsam anzufordern und nach Prüfung unverzüglich zu löschen.
+
+(5) **Umfang der Auskunft (Art. 15 Abs. 1 DSGVO):**
+- **Bestätigung**, ob personenbezogene Daten verarbeitet werden —
+  auch eine **Negativauskunft** („keine Daten") ist geschuldet
+  (DSK Kurzpapier Nr. 6).
+- **Auskunft** über die personenbezogenen Daten und die
+  Pflichtangaben nach Art. 15 Abs. 1 lit. a–h: Verarbeitungszwecke,
+  Kategorien, **konkrete Empfänger** (nicht nur Kategorien,
+  EuGH C-154/21, urt-0177), Speicherdauer, Betroffenenrechte,
+  Herkunft der Daten, automatisierte Entscheidungsfindung.
+- **Anspruchsberechtigt** sind nur natürliche Personen (Art. 4 Nr. 1
+  DSGVO). Juristische Personen (GmbH, Verein) haben kein Auskunftsrecht
+  aus Art. 15 DSGVO (EuGH C-620/19, urt-0269). Ausnahme:
+  Personenhandelsgesellschaften im Besteuerungsverfahren (§ 2a Abs. 5 AO,
+  urt-0261).
+- Das Recht ist **höchstpersönlich**, nicht übertragbar (BayLfD OH
+  Nr. 4). Bei gemeinsam sorgeberechtigten, getrenntlebenden Eltern:
+  Einvernehmen erforderlich (§ 1687 Abs. 1 BGB, urt-0388).
+
+(6) **Kopieanspruch und Kosten (Art. 15 Abs. 3 DSGVO):**
+- Der Kopieanspruch ist **eigenständig** — er kann auch unabhängig
+  von der Auskunft geltend gemacht werden (urt-0086, urt-0178).
+- Die Kopie muss **originalgetreu und verständlich** sein (EuGH
+  C-487/21). Eine bloße Stammdatenübersicht reicht nicht
+  (urt-0268).
+- **Erste Kopie: unentgeltlich** (Art. 12 Abs. 5 DSGVO).
+- Weitere Kopien: angemessenes Entgelt (max. Verwaltungskosten).
+- Bei elektronischem Antrag: Auskunft in gängigem elektronischen
+  Format (Art. 15 Abs. 3 Satz 2).
+
+(7) **Einschränkungen des Auskunftsrechts:**
+- **Rechte Dritter (Art. 15 Abs. 4 DSGVO):** Bei Daten mit Bezug
+  auf andere Personen ist eine Abwägung erforderlich. Die Auskunft
+  darf nicht allein deshalb verweigert werden — ggf. Schwärzung
+  von Drittdaten, Teilauskunft. **Hinweisgeber-Identität** überwiegt
+  regelmäßig das Auskunftsinteresse (urt-0112; HinSchG § 8).
+- **Art. 23 DSGVO i. V. m. § 9 NDSG:** Beschränkung möglich bei
+  Gefährdung der öffentlichen Sicherheit, nachteiligen Auswirkungen
+  auf die Aufgabenerfüllung, Datensicherheit.
+- **Offensichtlich unbegründete/exzessive Anträge (Art. 12 Abs. 5
+  Satz 2 DSGVO):** Die Hürden sind hoch. Der Verantwortliche trägt
+  die Beweislast. Bloßer Aufwand reicht nicht. Bei großer Datenmenge:
+  Präzisierung verlangen (ErwG 63 Satz 7). Bei begründeter
+  Exzessivität: Entgelt oder Ablehnung mit substantiierter Begründung,
+  DSGVO-Bezug und Rechtsbehelfsbelehrung (urt-0390).
+
+(8) **Dokumentation (Art. 5 Abs. 2 DSGVO):**
+- Jede Auskunftserteilung und -verweigerung ist zu dokumentieren:
+  Eingangsdatum, Antragsgegenstand, Prüfungsergebnis,
+  erteilte/verweigerte Inhalte mit Rechtsgrundlage, Antwortdatum,
+  Rechtsbehelfsbelehrung.
+- Die **Empfängermitteilung** ist zu speichern, um künftige
+  Auskünfte nach Art. 15 Abs. 1 lit. c DSGVO erteilen zu können
+  (VG Berlin 42 K 31/25, urt-0389).
+
+(9) **Die detaillierte Bearbeitung** von Auskunftsanträgen regelt
+der Prozess `proc-auskunft-antrag`.
 
 ## § 9 Pflichten der Beschäftigten
 
