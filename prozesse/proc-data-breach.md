@@ -2,7 +2,7 @@
 id: proc-data-breach
 titel: Datenschutzverletzung melden und bearbeiten (Data Breach)
 status: aktiv
-zustaendigeEinheit: oe-amt-10
+zustaendigeEinheit: oe-amt-1-4
 zustaendigeRolle: datenschutzbeauftragte
 beteiligte:
 - rolle: datenschutzbeauftragte
@@ -38,6 +38,8 @@ regelungen:
 - Art. 32 DSGVO – Sicherheit der Verarbeitung (TOM)
 - Art. 4 Nr. 12 DSGVO – Definition „Datenschutzverletzung"
 - EDPB-Leitlinien 9/2022 (v2.0, März 2023) – Auslegungshilfe zu Art. 33/34 DSGVO
+- reg-da-datenschutz – DA Datenschutz § 15 + Anlage 2 (interner Meldebogen)
+- reg-it-sicherheitsrichtlinie – IT-Sicherheitsrichtlinie
 leika_id: ''
 ozg_id: ''
 letzte-aktualisierung: '2026-09-23'
@@ -47,7 +49,7 @@ letzte-aktualisierung: '2026-09-23'
 
 **An wen wende ich mich?** Jeder Beschäftigte, der Kenntnis von einer
 möglichen Datenschutzverletzung erlangt, meldet diese unverzüglich dem
-Datenschutzbeauftragten (Amt 10). Der DSB übernimmt die weitere
+Datenschutzbeauftragten (1.4 – Datenschutz). Der DSB übernimmt die weitere
 Bearbeitung, Bewertung und ggf. die Meldung an die LfD Niedersachsen.
 
 **Verwandte Wissensseite:** `wiki/O/Prozess-Data-Breach.md`
@@ -61,6 +63,10 @@ Systeme vom Netz trennen, Zugriffe sperren, Logs sichern). Die
 Fachverantwortlichen stellen sicher, dass keine Meldung verloren geht.
 Der DSB dokumentiert den Eingang mit Datum und Uhrzeit — dieser
 Zeitpunkt bestimmt den Fristbeginn (72h).
+**Interner Meldebogen (DA Datenschutz § 15 Abs. 4):** Die Meldung
+erfolgt mit dem Meldebogen nach Anlage 2 der DA Datenschutz. Der
+Meldebogen ist innerhalb von 24 Stunden nach Entdeckung an den DSB zu
+übergeben. Muster unter `facts/muster/data-breach/meldebogen.md`.
 **Vorbereitung (BayLfD OH):** Meldevorlagen und Formulare für
 Art. 33/34-Meldungen vorab bereithalten und mit LfD-Kontaktdaten
 hinterlegen. Mechanismen zur Früherkennung von Datenschutzverletzungen

@@ -2,7 +2,7 @@
 id: proc-berichtigung-antrag
 titel: Antrag auf Berichtigung bearbeiten (Art. 16 DSGVO)
 status: aktiv
-zustaendigeEinheit: oe-amt-10
+zustaendigeEinheit: oe-amt-1-4
 zustaendigeRolle: datenschutzbeauftragte
 beteiligte:
 - rolle: datenschutzbeauftragte
@@ -34,7 +34,7 @@ letzte-aktualisierung: '2026-09-23'
 # Antrag auf Berichtigung bearbeiten (Art. 16 DSGVO)
 
 **An wen wende ich mich?** Berichtigungsanträge von betroffenen
-Personen sind an den Datenschutzbeauftragten (Amt 10) zu richten. Der
+Personen sind an den Datenschutzbeauftragten (1.4 – Datenschutz) zu richten. Der
 DSB koordiniert die sachliche Prüfung mit den zuständigen
 Fachverantwortlichen und stellt die fristgerechte Beantwortung sicher.
 

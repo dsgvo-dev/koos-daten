@@ -2,7 +2,7 @@
 id: proc-loeschung-antrag
 titel: Antrag auf Löschung bearbeiten (Art. 17 DSGVO)
 status: aktiv
-zustaendigeEinheit: oe-amt-10
+zustaendigeEinheit: oe-amt-1-4
 zustaendigeRolle: datenschutzbeauftragte
 beteiligte:
 - rolle: datenschutzbeauftragte
