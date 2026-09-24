@@ -202,8 +202,3 @@ Die Beteiligung des Personalrats erfolgt nach § 67 Abs. 1 Nr. 2 NPersVG (techni
 | | | | | | | |
 
 ---
-
-*Rechtsgrundlage: § 14 NDSG i.V.m. Art. 6 Abs. 1 lit. e DSGVO; Art. 88 DSGVO i.V.m. § 12 NDSG*
-*Mitbestimmung: § 67 Abs. 1 Nr. 2 NPersVG, § 78 NPersVG*
-*Rechtsprechung: urt-0144 (VGH München), urt-0169 (BVerwG), urt-0020 (OVG Nds.), urt-0015 (VG Hannover)*
-*Stand: 2026-09-24*
