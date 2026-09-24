@@ -66,8 +66,7 @@ Zeitpunkt bestimmt den Fristbeginn (72h).
 **Interner Meldebogen (DA Datenschutz § 15 Abs. 4):** Die Meldung
 erfolgt mit dem Meldebogen nach Anlage 2 der DA Datenschutz. Der
 Meldebogen ist innerhalb von 24 Stunden nach Entdeckung an den DSB zu
-übergeben. Muster unter `facts/muster/data-breach/meldebogen.md`.
-**Vorbereitung (BayLfD OH):** Meldevorlagen und Formulare für
+übergeben. Muster unter `facts/muster/data-breach/meldebogen.md`. Meldevorlagen und Formulare für
 Art. 33/34-Meldungen vorab bereithalten und mit LfD-Kontaktdaten
 hinterlegen. Mechanismen zur Früherkennung von Datenschutzverletzungen
 implementieren (Logging, Monitoring, Alarmierung).*
@@ -96,16 +95,16 @@ Drei Stufen:
 
 **04 Meldung an die Aufsichtsbehörde (möglichst binnen 72h)**
 *DSB meldet möglichst binnen 72 Stunden nach Bekanntwerden an die LfD
-Niedersachsen. Inhalt: Art der Verletzung, Datenkategorien, ungefähre
+Niedersachsen. **Ausschließlich die/der DSB ist zur Abgabe der
+Meldung nach Art. 33 DSGVO an die Aufsichtsbehörde befugt.** Kein
+anderer Beschäftigter darf die Meldung absetzen — auch nicht im
+Auftrag. Inhalt: Art der Verletzung, Datenkategorien, ungefähre
 Zahl der Betroffenen/Datensätze, wahrscheinliche Folgen, ergriffene
 oder vorgeschlagene Maßnahmen, DSB-Kontaktdaten. **Achtung:** 72h ist
 „möglichst", nicht absolut — jede Überschreitung ist gegenüber der
 Aufsichtsbehörde zu begründen. Falls noch nicht alle Informationen
 vorliegen: schrittweise Meldung — Erstmeldung jetzt, Folgemeldungen
-sobald verfügbar. **Zwischenberichte (BayLfD OH):** Bei komplexen
-Vorfällen mit besonderen Datenkategorien (Art. 9 DSGVO) alle zwei
-Wochen unaufgefordert Zwischenbericht an die Aufsichtsbehörde
-erstatten.*
+sobald verfügbar.
 
 **05 Betroffene benachrichtigen (bei hohem Risiko)**
 *DSB benachrichtigt die betroffenen Personen unverzüglich in klarer,
@@ -132,5 +131,3 @@ setzen Prozessverbesserungen um. Ggf. Schulungen der Beschäftigten.
 Abschlussbericht an LfD nach Aufklärung.*
 
 ---
-
-*Dieser Entwurf wurde mit KI-Unterstützung erstellt. Inhaltliche Prüfung durch den Menschen erforderlich.*
