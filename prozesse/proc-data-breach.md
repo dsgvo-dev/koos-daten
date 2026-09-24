@@ -68,6 +68,10 @@ Zeitpunkt bestimmt den Fristbeginn (72h).*
    Überwindung technischer Vorkehrungen, organisatorisches Fehlverhalten)
 2. Verletzungserfolg (Vertraulichkeit, Integrität oder Verfügbarkeit
    beeinträchtigt?). Bei unklarer Lage: vom Schlimmsten ausgehen.
+   **Achtung — Personenneutralität:** Es ist unerheblich, wessen Daten
+   betroffen sind; eine Datenpanne kann auch vorliegen, wenn der Täter
+   zugleich Betroffener ist. **Achtung — Interne Vorfälle:** Auch rein
+   interne Vorfälle ohne externen Datenabfluss können meldepflichtig sein.
    Rechtsabteilung prüft, ob Strafanzeige sinnvoll ist (BayLfD AKI 57).*
 
 **03 Risikobewertung und Meldepflicht prüfen**
@@ -76,17 +80,19 @@ Identifizierbarkeit der Betroffenen, Schwere möglicher Folgen
 (Identitätsdiebstahl, Diskriminierung, finanzielle Verluste), Anzahl
 der Betroffenen, besondere Kategorien nach Art. 9 DSGVO.
 Drei Stufen:
-- Kein Risiko → dokumentieren, keine Meldung
+- Kein Risiko → dokumentieren, keine Meldung (**enger Ausnahmetatbestand**)
 - Risiko → Meldung an LfD nach Art. 33 DSGVO
 - Hohes Risiko → Meldung + Betroffenenbenachrichtigung nach Art. 34*
 
-**04 Meldung an die Aufsichtsbehörde (innerhalb 72h)**
-*DSB meldet binnen 72 Stunden nach Bekanntwerden an die LfD
+**04 Meldung an die Aufsichtsbehörde (möglichst binnen 72h)**
+*DSB meldet möglichst binnen 72 Stunden nach Bekanntwerden an die LfD
 Niedersachsen. Inhalt: Art der Verletzung, Datenkategorien, ungefähre
 Zahl der Betroffenen/Datensätze, wahrscheinliche Folgen, ergriffene
-oder vorgeschlagene Maßnahmen, DSB-Kontaktdaten. Falls noch nicht alle
-Informationen vorliegen: schrittweise Meldung — Erstmeldung jetzt,
-Folgemeldungen sobald verfügbar.*
+oder vorgeschlagene Maßnahmen, DSB-Kontaktdaten. **Achtung:** 72h ist
+„möglichst", nicht absolut — jede Überschreitung ist gegenüber der
+Aufsichtsbehörde zu begründen. Falls noch nicht alle Informationen
+vorliegen: schrittweise Meldung — Erstmeldung jetzt, Folgemeldungen
+sobald verfügbar.*
 
 **05 Betroffene benachrichtigen (bei hohem Risiko)**
 *DSB benachrichtigt die betroffenen Personen unverzüglich in klarer,
@@ -94,15 +100,20 @@ einfacher Sprache: Art der Verletzung, wahrscheinliche Folgen,
 ergriffene und empfohlene Maßnahmen zur Schadensminderung,
 DSB-Kontaktdaten. Öffentlichkeitsarbeit unterstützt bei
 Pressemitteilungen, falls die Verletzung öffentlich bekannt wird.
-Keine Benachrichtigung bei wirksamer Verschlüsselung oder wenn
-nachfolgende Maßnahmen das hohe Risiko beseitigen.*
+Keine Benachrichtigung erforderlich (Art. 34 Abs. 3 DSGVO), wenn:
+- wirksame technische Maßnahmen das hohe Risiko bereits beseitigt haben,
+- nachfolgende Maßnahmen das hohe Risiko unwahrscheinlich gemacht haben,
+- der Aufwand unverhältnismäßig wäre → dann öffentliche Bekanntmachung.*
 
 **06 Nachbearbeitung und Abschluss**
 *DSB dokumentiert den gesamten Vorfall (Art. 33 Abs. 5 DSGVO): Fakten,
 Folgen, ergriffene Maßnahmen, Kommunikation mit Aufsichtsbehörde und
-Betroffenen. IT-Abteilung analysiert Ursachen und passt TOM an.
-Fachverantwortliche setzen Prozessverbesserungen um. Ggf. Schulungen
-der Beschäftigten. Abschlussbericht an LfD nach Aufklärung.*
+Betroffenen. **Achtung:** Dokumentation ist auch bei Nichtmeldung
+zwingend — Art. 33 Abs. 5 DSGVO verlangt eine lückenlose Nachweiskette
+über alle Vorfälle, auch solche ohne Risiko. IT-Abteilung analysiert
+Ursachen und passt TOM an. Fachverantwortliche setzen
+Prozessverbesserungen um. Ggf. Schulungen der Beschäftigten.
+Abschlussbericht an LfD nach Aufklärung.*
 
 ---
 
