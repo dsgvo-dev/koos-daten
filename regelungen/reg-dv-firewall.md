@@ -3,7 +3,7 @@ id: reg-dv-firewall
 name: Dienstvereinbarung zum Betrieb einer Firewall (DV Firewall)
 typ: Dienstvereinbarung
 datum: '2026-09-16'
-status: entwurf
+status: aktiv
 zustaendigeEinheit: oe-amt-1-5
 entscheidendes-gremium: Personalrat und Dienststelle
 ---
@@ -53,6 +53,8 @@ Die Einsichtnahme in Protokollierungsdaten unterliegt folgenden Regelungen:
 - Jede Einsichtnahme wird protokolliert (Datum, Uhrzeit, einsichtnehmende Personen, Anlass und Umfang).
 - Der Personalrat und der Datenschutzbeauftragte haben ein jederzeitiges Einsichtsrecht in das Protokollierungsverzeichnis.
 
+Die Regelungen des NDiG bleibt unbetrachtet.
+
 ## § 5 Mitbestimmung und Kontrollrechte des Personalrats
 
 Der Personalrat hat folgende Rechte:
@@ -83,5 +85,3 @@ Die Dienststelle informiert den Personalrat und die Beschäftigten über:
 - Betriebserklärung der Firewall
 
 ---
-
-*Dieser Entwurf basiert auf der Vorlage aus `_input/Dienstvereinbarungen entwürfe/DV-Firewall.md` und wurde an das KOOS-Format angepasst.*

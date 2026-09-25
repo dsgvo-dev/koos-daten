@@ -2,7 +2,7 @@
 id: reg-dv-cloud
 name: Dienstvereinbarung zur Nutzung von Cloud-Diensten (DV Cloud)
 typ: Dienstvereinbarung
-status: entwurf
+status: aktiv
 datum: '2026-09-16'
 zustaendigeEinheit: oe-amt-1-5
 entscheidendes-gremium: Personalrat und Dienststelle
@@ -23,10 +23,7 @@ Bei der Verarbeitung der Beschäftigtendaten sind sowohl Art. 88 Abs. 2 DSGVO al
 
 ## § 1 Geltungsbereich
 
-Diese Vereinbarung gilt für alle Beschäftigten der Stadt, die Cloud-Dienste
-für dienstliche Zwecke nutzen. Sie umfasst die Nutzung von Software-as-a-
-Service (SaaS), Platform-as-a-Service (PaaS) und Infrastructure-as-a-Service
-(IaaS).
+Diese Vereinbarung gilt für alle Beschäftigten der Stadt, die Cloud-Dienste für dienstliche Zwecke nutzen. Sie umfasst die Nutzung von Software-as-a-Service (SaaS), Platform-as-a-Service (PaaS) und Infrastructure-as-a-Service (IaaS).
 
 ## § 2 Anwendungsbereiche der Cloud-Nutzung
 
@@ -37,8 +34,7 @@ Die Beschäftigten dürfen Cloud-Dienste nur zu den folgenden Zwecken nutzen:
 - Kommunikation mit internen und externen Stellen
 - Speicherung und Austausch dienstlicher Dokumente
 
-Eine private Nutzung von dienstlich bereitgestellten Cloud-Diensten ist
-nicht gestattet.
+Eine private Nutzung von dienstlich bereitgestellten Cloud-Diensten ist nicht gestattet.
 
 ## § 3 Verantwortlichkeiten
 
@@ -70,17 +66,11 @@ nicht gestattet.
 
 ## § 4 Datensicherheit und Datenschutz
 
-(1) Die Dienststelle gewährleistet durch Auswahl geeigneter Cloud-Anbieter
-und Abschluss entsprechender Verträge einen angemessenen Schutz
-personenbezogener Daten der Beschäftigten. Die Datenverarbeitung erfolgt
-unter Einhaltung der geltenden datenschutzrechtlichen Bestimmungen,
-insbesondere der DSGVO und des NDSG.
+(1) Die Dienststelle gewährleistet durch Auswahl geeigneter Cloud-Anbieter und Abschluss entsprechender Verträge einen angemessenen Schutz personenbezogener Daten der Beschäftigten. Die Datenverarbeitung erfolgt unter Einhaltung der geltenden datenschutzrechtlichen Bestimmungen, insbesondere der DSGVO und des NDSG.
 
-(2) Es gelten die Regelungen der Dienststelle zur Datensicherheit,
-insbesondere zur Passwortsicherheit und Multi-Faktor-Authentifizierung.
+(2) Es gelten die Regelungen der Dienststelle zur Datensicherheit, insbesondere zur Passwortsicherheit und Multi-Faktor-Authentifizierung.
 
-(3) Typischerweise werden durch den Cloud-Anbieter folgende Daten der
-Beschäftigten verarbeitet:
+(3) Typischerweise werden durch den Cloud-Anbieter folgende Daten der Beschäftigten verarbeitet:
 
 - Name, Vorname
 - E-Mail-Adresse
@@ -88,14 +78,11 @@ Beschäftigten verarbeitet:
 - Zugriffsdaten zu Dienststellenressourcen
 - Nutzungsdaten und Aktivitätsprofile (soweit technisch bedingt)
 
-(4) Die Dienststelle gewährleistet die Rechte der Beschäftigten gegenüber
-dem Cloud-Anbieter, insbesondere das Recht auf Auskunft, Berichtigung,
-Löschung, Einschränkung der Verarbeitung und Widerspruch.
+(4) Die Dienststelle gewährleistet die Rechte der Beschäftigten gegenüber dem Cloud-Anbieter, insbesondere das Recht auf Auskunft, Berichtigung, Löschung, Einschränkung der Verarbeitung und Widerspruch.
 
 ## § 5 Transparenz und Information
 
-(1) Die Dienststelle stellt den Beschäftigten Informationen über die
-eingesetzten Cloud-Dienste zur Verfügung, einschließlich:
+(1) Die Dienststelle stellt den Beschäftigten Informationen über die eingesetzten Cloud-Dienste zur Verfügung, einschließlich:
 
 - Name des Cloud-Anbieters
 - Art der verarbeiteten Daten
@@ -103,22 +90,11 @@ eingesetzten Cloud-Dienste zur Verfügung, einschließlich:
 - Dauer der Datenspeicherung
 - Rechte der Beschäftigten gegenüber dem Cloud-Anbieter
 
-(2) Die Dienststelle bietet den Beschäftigten einen jährlichen Überblick
-über die eingesetzten Cloud-Dienste und die damit verbundenen
-Datenverarbeitungsaktivitäten.
+(2) Die Dienststelle bietet den Beschäftigten einen jährlichen Überblick über die eingesetzten Cloud-Dienste und die damit verbundenen Datenverarbeitungsaktivitäten.
 
 ## § 6 Schlussbestimmungen
 
-- Diese Dienstvereinbarung tritt mit Zustimmung beider Vertragsparteien
-  in Kraft.
+- Diese Dienstvereinbarung tritt mit Zustimmung beider Vertragsparteien in Kraft.
 - Sie kann mit einer Frist von drei Monaten zum Jahresende gekündigt werden.
 - Änderungen bedürfen der Schriftform und der Zustimmung beider Parteien.
-- Im Falle der Kündigung wirkt die Vereinbarung nach, bis eine neue
-  Vereinbarung geschlossen ist.
-
----
-
-*Dieser Entwurf basiert auf der Vorlage aus
-`_input/Dienstvereinbarungen entwürfe/DV Cloud.docx` und wurde an das
-KOOS-Format und die Anforderungen einer niedersächsischen Kommune
-(NPersVG, NDSG) angepasst.*
+- Im Falle der Kündigung wirkt die Vereinbarung nach, bis eine neue Vereinbarung geschlossen ist.
