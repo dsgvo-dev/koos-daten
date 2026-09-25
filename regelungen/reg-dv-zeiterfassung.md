@@ -49,7 +49,7 @@ d) der Einhaltung der gesetzlichen Höchstarbeitszeiten und Mindestruhezeiten
 
 Keine anderen Zwecke sind zulässig.
 
-(3) Die Dienstvereinbarung gilt für alle Beschäftigten der Dienststelle im Sinne des §4 NPersVG (Beamtinnen und Beamte, Tarifbeschäftigte, Auszubildende und dual Studierende), soweit sie der Arbeitszeiterfassung unterliegen. Teilzeitbeschäftigte und geringfügig Beschäftigte sind gleichermaßen einbezogen.
+(3) Die Dienstvereinbarung gilt für alle Beschäftigten der Dienststelle im Sinne des § 4 NPersVG (Beamtinnen und Beamte, Tarifbeschäftigte, Auszubildende und dual Studierende), soweit sie der Arbeitszeiterfassung unterliegen. Teilzeitbeschäftigte und geringfügig Beschäftigte sind gleichermaßen einbezogen.
 
 ## § 2 Technische Rahmenbedingungen
 
@@ -100,7 +100,7 @@ c) **IT-Administration** (Systemrecht): technische Systempflege ohne
 d) **Personalrat** (Leserecht): Kontrollrecht zur Einhaltung dieser
    Dienstvereinbarung auf Anforderung,
 e) **Datenschutzbeauftragte oder Datenschutzbeauftragter** (Leserecht):
-   Prüfrecht nach Art.39 Abs.1 lit.b DSGVO.
+   Prüfrecht nach Art. 39 Abs.1 lit.b DSGVO.
 
 (2) Die namentlich zugriffsberechtigten Personen werden in Anlage 2 geführt und dem Personalrat sowie der oder dem Datenschutzbeauftragten bekannt gegeben. Die Liste ist bei personellen Veränderungen unverzüglich fortzuschreiben.
 
@@ -112,33 +112,33 @@ e) **Datenschutzbeauftragte oder Datenschutzbeauftragter** (Leserecht):
 
 (1) Die Personalstelle trägt Krankheits- und Urlaubszeiten sowie Sonderurlaub und Dienstbefreiungen zentral in das Abwesenheitssystem ein. Diese Daten werden automatisiert an die Zeiterfassungsdatenbank übertragen.
 
-(2) Bei krankheitsbedingter Abwesenheit wird ausschließlich die Abwesenheitsart „arbeitsunfähig" und deren Dauer verarbeitet. Keine Diagnose, keine ärztliche Bescheinigung und keine Angaben zur Art der Erkrankung werden im Zeiterfassungssystem gespeichert. Die Rechtsgrundlage hierfür ist Art.9 Abs.2 lit.b DSGVO i.V.m. §12 NDSG und §88 NBG (arbeitsrechtliche Verpflichtung zur Entgeltfortzahlung).
+(2) Bei krankheitsbedingter Abwesenheit wird ausschließlich die Abwesenheitsart „arbeitsunfähig" und deren Dauer verarbeitet. Keine Diagnose, keine ärztliche Bescheinigung und keine Angaben zur Art der Erkrankung werden im Zeiterfassungssystem gespeichert. Die Rechtsgrundlage hierfür ist Art. 9 Abs. 2 lit. b DSGVO i.V.m. § 12 NDSG und § 88 NBG (arbeitsrechtliche Verpflichtung zur Entgeltfortzahlung).
 
 (3) Im Zeiterfassungssystem ist der Abwesenheitsgrund für Vorgesetzte und andere Beschäftigte nicht sichtbar. Angezeigt wird ausschließlich „abwesend".
 
 ## § 6 Speicherung und Löschung
 
-(1) Die einzelnen Buchungsdaten (Kommen/Gehen/Dienstgang) werden nach 24 Monaten automatisch gelöscht (§16 Abs.2 ArbZG, §17 Abs.2 MiLoG).
+(1) Die einzelnen Buchungsdaten (Kommen/Gehen/Dienstgang) werden nach 24 Monaten automatisch gelöscht (§ 16 Abs. 2 ArbZG, § 17 Abs. 2 MiLoG).
 
-(2) Zeitdaten, die in die Lohn- und Gehaltsabrechnung eingegangen sind, werden für die Dauer der gesetzlichen Aufbewahrungspflicht gespeichert (8 Jahre gemäß §147 AO und NKomHKVO). Nach Ablauf der Frist werden sie unverzüglich gelöscht.
+(2) Zeitdaten, die in die Lohn- und Gehaltsabrechnung eingegangen sind, werden für die Dauer der gesetzlichen Aufbewahrungspflicht gespeichert (8 Jahre gemäß § 147 AO und NKomHKVO). Nach Ablauf der Frist werden sie unverzüglich gelöscht.
 
-(3) Angaben zu krankheitsbedingter Abwesenheit werden nach 5 Jahren gelöscht (§94 Abs.2 Satz1 NBG). Unterlagen, aus denen die Art einer Erkrankung ersichtlich ist, werden unverzüglich zurückgegeben oder vernichtet, sobald sie für ihren Zweck nicht mehr benötigt werden (§94 Abs.2 Satz2 NBG).
+(3) Angaben zu krankheitsbedingter Abwesenheit werden nach 5 Jahren gelöscht (§ 94 Abs. 2 Satz 1 NBG). Unterlagen, aus denen die Art einer Erkrankung ersichtlich ist, werden unverzüglich zurückgegeben oder vernichtet, sobald sie für ihren Zweck nicht mehr benötigt werden (§ 94 Abs.2 Satz 2 NBG).
 
 (4) Die Löschung erfolgt automatisiert und revisionssicher. Manuelle Eingriffe in die Löschroutine sind nicht zulässig.
 
-(5) Arbeitszeitaufzeichnungen sind nicht archivwürdig; eine Anbietung an das Archiv (§3 NArchG) findet nicht statt.
+(5) Arbeitszeitaufzeichnungen sind nicht archivwürdig; eine Anbietung an das Archiv (§ 3  NArchG) findet nicht statt.
 
 ## § 7 Betroffenenrechte
 
 (1) Jede beschäftigte Person kann ihre eigenen Zeitdaten jederzeit über den Webzugang einsehen und ausdrucken.
 
-(2) Darüber hinausgehende Auskunftsersuchen nach Art.15 DSGVO sind an die oder den Datenschutzbeauftragten zu richten.
+(2) Darüber hinausgehende Auskunftsersuchen nach Art. 15 DSGVO sind an die oder den Datenschutzbeauftragten zu richten.
 
-(3) Berichtigungsverlangen nach Art.16 DSGVO richten Beschäftigte über die Personalstelle.
+(3) Berichtigungsverlangen nach Art. 16 DSGVO richten Beschäftigte über die Personalstelle.
 
 ## § 8 Verbot der Leistungs- und Verhaltenskontrolle
 
-(1) Die im Zeiterfassungssystem erhobenen Daten dürfen ausschließlich für die in §1 Abs.2 genannten Zwecke verarbeitet werden. Eine Auswertung der Zeitdaten zum Zweck der Leistungs- oder Verhaltenskontrolle ist unzulässig.
+(1) Die im Zeiterfassungssystem erhobenen Daten dürfen ausschließlich für die in § 1 Abs. 2 genannten Zwecke verarbeitet werden. Eine Auswertung der Zeitdaten zum Zweck der Leistungs- oder Verhaltenskontrolle ist unzulässig.
 
 (2) Insbesondere ist es nicht zulässig:
 a) An- und Abwesenheitszeiten mit der Arbeitsleistung zu korrelieren,
@@ -148,7 +148,7 @@ c) Zeitdaten für Personalbeurteilungen oder Disziplinarmaßnahmen
    heranzuziehen,
 d) Pausenzeiten systematisch auszuwerten.
 
-(3) Verstöße gegen §7 dieser Dienstvereinbarung (Missbrauch des Zeiterfassungssystems, z.B. Falscheintragungen, Zeiterfassen durch Dritte) können als Dienstpflichtverletzung oder Vertragsverstoß geahndet werden. Die disziplinar- und arbeitsrechtlichen Vorschriften (§§17ff. NDiszG, TVöD) bleiben unberührt.
+(3) Verstöße gegen § 7 dieser Dienstvereinbarung (Missbrauch des Zeiterfassungssystems, z.B. Falscheintragungen, Zeiterfassen durch Dritte) können als Dienstpflichtverletzung oder Vertragsverstoß geahndet werden. Die disziplinar- und arbeitsrechtlichen Vorschriften (§§ 17 ff. NDiszG, TVöD) bleiben unberührt.
 
 ## § 9 Ampelkonto und Zeitkontennachweis
 
@@ -170,27 +170,27 @@ c) Die beschäftigte Person prüft die Monatsübersicht, bestätigt die Richtigk
 
 ## § 10 Kontrollrechte des Personalrats
 
-(1) Dem Personalrat wird jederzeit die Möglichkeit eingeräumt, sich an der Datenstation des Zeiterfassungssystems davon zu überzeugen, dass die Regelungen dieser Dienstvereinbarung eingehalten werden (§34 NPersVG).
+(1) Dem Personalrat wird jederzeit die Möglichkeit eingeräumt, sich an der Datenstation des Zeiterfassungssystems davon zu überzeugen, dass die Regelungen dieser Dienstvereinbarung eingehalten werden.
 
 (2) Vor beabsichtigten Änderungen oder Erweiterungen des Zeiterfassungssystems ist der Personalrat rechtzeitig und umfassend zu unterrichten.
 
 ## § 11 Datenschutz und Datensicherheit
 
-(1) Die Dienststelle gewährleistet die datenschutzkonforme Verarbeitung nach der DSGVO und dem NDSG. Technische und organisatorische Maßnahmen (TOM) nach Art.32 DSGVO werden dem Stand der Technik entsprechend umgesetzt und regelmäßig überprüft.
+(1) Die Dienststelle gewährleistet die datenschutzkonforme Verarbeitung nach der DSGVO und dem NDSG. Technische und organisatorische Maßnahmen (TOM) nach Art. 32 DSGVO werden dem Stand der Technik entsprechend umgesetzt und regelmäßig überprüft.
 
 (2) Folgende TOM werden verbindlich festgelegt:
 a) Verschlüsselte Übertragung zwischen Terminal und Server (TLS 1.3),
 b) Zugriffsschutz durch persönliches Passwort,
-c) Protokollierung aller Zugriffe (vgl. §4 Abs.4),
+c) Protokollierung aller Zugriffe (vgl. § 4 Abs. 4),
 d) Tägliche automatische Datensicherung,
 e) Getrennte Speicherung der Zeitdaten vom Verwaltungsnetz,
-f) Beschränkung der gespeicherten Daten auf die in §2 Abs.3 genannten
+f) Beschränkung der gespeicherten Daten auf die in § 2 Abs. 3 genannten
    Felder (Datenminimierung),
 g) Keine Verbindung zu biometrischen Systemen.
 
 (3) Eine Datenübermittlung an Dritte oder in Drittstaaten findet nicht statt. Die gesamten Daten verbleiben im Hoheitsbereich der Dienststelle.
 
-## §12 Inkrafttreten, Laufzeit, Kündigung
+## § 12 Inkrafttreten, Laufzeit, Kündigung
 
 (1) Diese Dienstvereinbarung tritt am [DATUM] in Kraft.
 
@@ -198,7 +198,7 @@ g) Keine Verbindung zu biometrischen Systemen.
 
 (3) Im Fall der Kündigung gilt die Dienstvereinbarung bis zum Abschluss einer neuen Vereinbarung nach (§78 Abs.3 NPersVG).
 
-## §13 Jährliche Überprüfung
+## § 13 Jährliche Überprüfung
 
 (1) Dienststelle und Personalrat überprüfen jährlich, ob die Regelungen dieser Dienstvereinbarung im Hinblick auf Änderungen der Rechtslage, der Rechtsprechung und der technischen Entwicklung anzupassen sind.
 
@@ -206,7 +206,7 @@ g) Keine Verbindung zu biometrischen Systemen.
 
 (3) Die oder der Datenschutzbeauftragte ist hinzuzuziehen; soweit die Informationssicherheit betroffen ist, auch die oder der Informationssicherheitsbeauftragte.
 
-## §14 Salvatorische Klausel
+## § 14 Salvatorische Klausel
 
 (1) Sollten einzelne Bestimmungen dieser Dienstvereinbarung unwirksam sein oder werden, bleibt die Wirksamkeit der übrigen Bestimmungen unberührt.
 
@@ -267,5 +267,3 @@ Die folgende Liste enthält die im Zeiterfassungssystem hinterlegten Abwesenheit
 Vertragsumfänge mit Zwischenwerten werden der nächstliegenden Staffelung zugeordnet.
 
 ---
-
-*Dieser Entwurf wurde mit KI-Unterstützung erstellt. Inhaltliche Prüfung durch den Menschen erforderlich.*
