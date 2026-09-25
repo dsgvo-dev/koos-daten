@@ -27,29 +27,11 @@ vertreten durch [Titel Vorname Name] (Personalratsvorsitz)
 
 ## Präambel
 
-Der Europäische Gerichtshof hat mit Urteil vom 14. Mai 2019 (C-55/18, CCOO)
-entschieden, dass die Mitgliedstaaten Arbeitgeber verpflichten müssen, ein
-objektives, verlässliches und zugängliches System einzurichten, mit dem die
-tägliche Arbeitszeit gemessen werden kann. Das Bundesarbeitsgericht hat diese
-Pflicht mit Beschluss vom 13. September 2022 (1 ABR 22/21) als unionsrechtlich
-gebotene Pflicht aus § 3 Abs.2 Nr.1 ArbSchG bestätigt. Die Dienststelle
-kommt dieser Verpflichtung mit einem automatisierten Zeiterfassungssystem nach.
+Der Europäische Gerichtshof hat mit Urteil vom 14. Mai 2019 (C-55/18, CCOO) entschieden, dass die Mitgliedstaaten Arbeitgeber verpflichten müssen, ein objektives, verlässliches und zugängliches System einzurichten, mit dem die tägliche Arbeitszeit gemessen werden kann. Das Bundesarbeitsgericht hat diese Pflicht mit Beschluss vom 13. September 2022 (1 ABR 22/21) als unionsrechtlich gebotene Pflicht aus § 3 Abs.2 Nr.1 ArbSchG bestätigt. Die Dienststelle kommt dieser Verpflichtung mit einem automatisierten Zeiterfassungssystem nach.
 
-Das automatisierte Zeiterfassungssystem stellt eine technische Einrichtung im
-Sinne des §67 Abs.1 Nr.2 NPersVG dar und unterliegt damit der Mitbestimmung
-des Personalrats. Diese Dienstvereinbarung als kollektivrechtliche Regelung
-im Sinne von Art.88 Abs.1 und 2 DSGVO konkretisiert die Anforderungen des
-Beschäftigtendatenschutzes nach Art.88 DSGVO i.V.m. §12 NDSG. Sie tritt
-neben die gesetzlichen Rechtsgrundlagen der Arbeitszeiterfassung —
-§3 Abs.2 Nr.1 ArbSchG, §16 Abs.2 ArbZG, §17 Abs.2 MiLoG, §88 NBG —,
-ersetzt diese jedoch nicht.
+Das automatisierte Zeiterfassungssystem stellt eine technische Einrichtung im Sinne des § 67 Abs.1 Nr.2 NPersVG dar und unterliegt damit der Mitbestimmung des Personalrats. Die Parteien sind sich darüber einig, dass diese Dienstvereinbarung als kollektivrechtliche Regelung im Sinne von Art. 88 Abs.1 und 2 DSGVO geeignete und angemessene Maßnahmen zum Schutz der Beschäftigtendaten bei der automatisierten Zeiterfassung vorgibt. Sie konkretisiert die Rechtsgrundlagen — § 3 Abs.2 Nr.1 ArbSchG, § 16 Abs.2 ArbZG, § 17 Abs.2 MiLoG, § 88 NBG —, ersetzt diese jedoch nicht. Eine darüber hinausgehende Einwilligung der Beschäftigten bleibt unberührt.
 
-Durch diese Dienstvereinbarung sollen die Rechte der Beschäftigten auf
-informationelle Selbstbestimmung gewahrt, ein transparenter Umgang mit
-Zeitdaten sichergestellt und eine Leistungs- oder Verhaltenkontrolle
-ausgeschlossen werden. Bei der Verarbeitung der Beschäftigtendaten sind
-sowohl die spezifischen Vorgaben des Art.88 Abs.2 DSGVO als auch die
-Grundsätze der Datenverareitung nach Art.5 DSGVO zu wahren.
+Durch diese Dienstvereinbarung sollen die Rechte der Beschäftigten auf informationelle Selbstbestimmung gewahrt, ein transparenter Umgang mit Zeitdaten sichergestellt und eine Leistungs- oder Verhaltenskontrolle ausgeschlossen werden. Bei der Verarbeitung der Beschäftigtendaten sind sowohl die spezifischen Vorgaben des Art. 88 Abs.2 DSGVO als auch die Grundsätze der Datenverarbeitung nach Art. 5 DSGVO zu wahren.
 
 ## § 1 Zweck und Anwendungsbereich
 
