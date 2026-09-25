@@ -15,7 +15,7 @@ Durch das Angebot von mobilem Arbeiten und Homeoffice wird Beschäftigten der Mu
 
 Der Personalrat der Stadt X und die Dienststelle regeln die Antragstellung, Genehmigung, Durchführung und den Widerruf von mobilem Arbeiten und Homeoffice in der folgenden Dienstvereinbarung. Andere als die beschriebenen Nutzungszwecke sind nicht gestattet.
 
-Die Parteien sind sich darüber einig, dass diese Dienstvereinbarung als kollektivrechtliche Regelung im Sinne von Art. 88 Abs. 1 und 2 DSGVO geeignete und angemessene Maßnahmen zum Schutz der Beschäftigtendaten beim Homeoffice und mobilen Arbeiten vorgibt. Sie konkretisiert die Rechtsgrundlagen, ersetzt diese jedoch nicht. Eine darüber hinausgehende Einwilligung der Beschäftigten bleibt unberührt.
+Die Parteien sind sich darüber einig, dass diese Dienstvereinbarung als datenschutzrechtliche Erlaubnis zur Verarbeitung personenbezogener Daten im Beschäftigungsverhältnis wirkt. Soweit diese Dienstvereinbarung die Verarbeitung personenbezogener Daten normiert, gilt sie als Erlaubnistatbestand iSv Art. 88 Abs. 1 und Abs. 2 DSGVO.
 
 Durch diese Dienstvereinbarung soll eine angemessene und sinnvolle Nutzung der IT-Infrastruktur für mobiles Arbeiten sowie der Schutz der personenbezogenen Daten vor unzulässigem Gebrauch und unberechtigtem Zugriff gewährleistet werden.
 

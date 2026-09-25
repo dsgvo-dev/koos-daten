@@ -13,7 +13,17 @@ entscheidendes-gremium: Personalrat und Dienststelle
 
 Die Dienststelle und der Personalrat vereinbaren mit dieser Dienstvereinbarung die Rahmenbedingungen für den Einsatz von Microsoft 365. Der Einsatz eines cloudbasierten Softwarepakets mit integrierten Kollaborations-, Kommunikations- und Speicherdiensten stellt ein IT-Betriebsmittel im Sinne des § 67 Abs. 1 Nr. 2 NPersVG dar und unterliegt damit der Mitbestimmung des Personalrats.
 
-Die Parteien sind sich darüber einig, dass diese Dienstvereinbarung als kollektivrechtliche Regelung im Sinne von Art. 88 Abs. 1 und 2 DSGVO geeignete und angemessene Maßnahmen zum Schutz der Beschäftigtendaten beim Einsatz von Microsoft 365 vorgibt.
+### Glossar
+
+## Präambel
+
+Die Dienststelle setzt Microsoft 365 als integrierte Cloud-Plattform für Büroarbeit, Kommunikation und Zusammenarbeit ein. Microsoft 365 stellt ein IT-Betriebsmittel im Sinne des § 67 Abs. 1 Nr. 2 NPersVG dar und unterliegt damit der Mitbestimmung des Personalrats. Der Personalrat und die Dienststelle regeln die Einführung, den Betrieb, die Nutzung und die Änderung bzw. Erweiterung von Microsoft 365 in der folgenden Dienstvereinbarung. Andere als die beschriebenen Nutzungszwecke sind nicht gestattet.
+
+Die Parteien sind sich darüber einig, dass diese Dienstvereinbarung als datenschutzrechtliche Erlaubnis zur Verarbeitung personenbezogener Daten im Beschäftigungsverhältnis wirkt. Soweit diese Dienstvereinbarung die Verarbeitung personenbezogener Daten normiert, gilt sie als Erlaubnistatbestand iSv Art. 88 Abs. 1 und Abs. 2 DSGVO.
+
+Durch diese Dienstvereinbarung soll eine angemessene und sinnvolle Nutzung von Microsoft 365 sowie der Schutz der personenbezogenen Daten vor unzulässigem Gebrauch und unberechtigtem Zugriff gewährleistet werden.
+
+Bei der Verarbeitung der Beschäftigtendaten sind sowohl Art. 88 Abs. 2 DSGVO als auch die Grundsätze der Datenverarbeitung nach Art. 5 DSGVO zu wahren.
 
 ## § 1 Gegenstand der Dienstvereinbarung
 

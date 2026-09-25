@@ -11,21 +11,15 @@ entscheidendes-gremium: Personalrat und Dienststelle
 
 ## Präambel
 
-Mit zunehmender Digitalisierung und Verbreitung von Cloud-Lösungen
-gewinnt die Verwendung cloudbasierter Dienste auch in der Stadtverwaltung
-zunehmend an Bedeutung. Um den reibungslosen Betrieb dieser Dienstleistungen
-zu gewährleisten und gleichzeitig die Rechte der Beschäftigten zu schützen,
-ist es notwendig, klare Regelungen für die Nutzung von Cloud-Diensten
-festzulegen. Diese Dienstvereinbarung regelt die Rahmenbedingungen für
-die Nutzung von Cloud-Diensten und gewährleistet den Schutz personenbezogener
-Daten sowie die Transparenz im Umgang mit diesen.
+Die Nutzung von Cloud-Diensten gewinnt in der Stadtverwaltung zunehmend an Bedeutung. Diese Dienstvereinbarung regelt die Rahmenbedingungen für die Nutzung von Cloud-Diensten und gewährleistet den Schutz personenbezogener Daten sowie die Transparenz im Umgang mit diesen.
 
-Die Nutzung von Cloud-Diensten stellt ein IT-Betriebsmittel im Sinne des
-§ 67 Abs. 1 Nr. 2 NPersVG dar und unterliegt damit der Mitbestimmung des
-Personalrats. Die Parteien sind sich darüber einig, dass diese
-Dienstvereinbarung als kollektivrechtliche Regelung im Sinne von
-Art. 88 Abs. 1 und 2 DSGVO geeignete und angemessene Maßnahmen zum
-Schutz der Beschäftigtendaten bei der Cloud-Nutzung vorgibt.
+Die Nutzung von Cloud-Diensten stellt ein IT-Betriebsmittel im Sinne des § 67 Abs. 1 Nr. 2 NPersVG dar und unterliegt damit der Mitbestimmung des Personalrats. Der Personalrat und die Dienststelle regeln die Einführung, den Betrieb, die Nutzung und die Änderung bzw. Erweiterung von Cloud-Diensten in der folgenden Dienstvereinbarung. Andere als die beschriebenen Nutzungszwecke sind nicht gestattet.
+
+Die Parteien sind sich darüber einig, dass diese Dienstvereinbarung als datenschutzrechtliche Erlaubnis zur Verarbeitung personenbezogener Daten im Beschäftigungsverhältnis wirkt. Soweit diese Dienstvereinbarung die Verarbeitung personenbezogener Daten normiert, gilt sie als Erlaubnistatbestand iSv Art. 88 Abs. 1 und Abs. 2 DSGVO.
+
+Durch diese Dienstvereinbarung soll eine angemessene und sinnvolle Nutzung von Cloud-Diensten sowie der Schutz der personenbezogenen Daten vor unzulässigem Gebrauch und unberechtigtem Zugriff gewährleistet werden.
+
+Bei der Verarbeitung der Beschäftigtendaten sind sowohl Art. 88 Abs. 2 DSGVO als auch die Grundsätze der Datenverarbeitung nach Art. 5 DSGVO zu wahren.
 
 ## § 1 Geltungsbereich
 

@@ -29,11 +29,13 @@ vertreten durch [Titel Vorname Name] (Personalratsvorsitz)
 
 Die Dienststelle beabsichtigt, in ihren Liegenschaften optisch-elektronische Einrichtungen (Videoüberwachung) zu betreiben. Die Videoüberwachung dient dem Schutz von Personen und Sachen sowie der Wahrnehmung des Hausrechts nach § 14 Abs. 1 Satz 2 Nr. 1–3 NDSG i.V.m. Art. 6 Abs. 1 lit. e DSGVO.
 
-Die Parteien sind sich darüber einig, dass diese Dienstvereinbarung als kollektivrechtliche Regelung im Sinne von Art. 88 Abs. 1 und 2 DSGVO geeignete und angemessene Maßnahmen zum Schutz der Beschäftigtendaten beim Einsatz von Videoüberwachung vorgibt. Sie konkretisiert die Rechtsgrundlagen, ersetzt diese jedoch nicht. Eine darüber hinausgehende Einwilligung der Beschäftigten bleibt unberührt.
+Der Personalrat und die Dienststelle regeln die Einführung, den Betrieb, die Nutzung und die Änderung bzw. Erweiterung der Videoüberwachung in der folgenden Dienstvereinbarung. Andere als die beschriebenen Nutzungszwecke sind nicht gestattet.
+
+Die Parteien sind sich darüber einig, dass diese Dienstvereinbarung als datenschutzrechtliche Erlaubnis zur Verarbeitung personenbezogener Daten im Beschäftigungsverhältnis wirkt. Soweit diese Dienstvereinbarung die Verarbeitung personenbezogener Daten normiert, gilt sie als Erlaubnistatbestand iSv Art. 88 Abs. 1 und Abs. 2 DSGVO.
 
 Durch diese Dienstvereinbarung soll der Schutz der personenbezogenen Daten vor unzulässigem Gebrauch und unberechtigtem Zugriff gewährleistet und zugleich eine rechtskonforme Ausgestaltung der Videoüberwachung sichergestellt werden.
 
-Bei der Verarbeitung der Beschäftigtendaten sind Art. 88 Abs. 2 DSGVO und die Grundsätze der Datenverarbeitung nach Art. 5 DSGVO zu wahren.
+Bei der Verarbeitung der Beschäftigtendaten sind sowohl Art. 88 Abs. 2 DSGVO als auch die Grundsätze der Datenverarbeitung nach Art. 5 DSGVO zu wahren.
 
 Die Beteiligung des Personalrats erfolgt nach § 67 Abs. 1 Nr. 2 NPersVG (technische Einrichtungen, die geeignet sind, das Verhalten oder die Leistung der Beschäftigten zu überwachen). Diese Dienstvereinbarung wird nach § 78 NPersVG geschlossen und entfaltet unmittelbare und zwingende Wirkung für alle Beschäftigten der Dienststelle.
 
