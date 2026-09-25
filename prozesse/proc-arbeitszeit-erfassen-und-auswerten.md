@@ -15,22 +15,22 @@ daten:
   - id: dstore-urlaubs-und-abwesenheitsdaten
   - id: dstore-arbeitsverhaeltnis-beschaeftigung
 regelungen:
+- reg-dv-zeiterfassung - Dienstvereinbarung Zeiterfassung nach § 78 NPersVG
 - § 3 Abs. 2 Nr. 1 ArbSchG - Aufzeichnungspflicht, EuGH C-518/15 und BAG 1 ABR 22/21
-- § 16 Abs. 2 ArbZG - Aufzeichnung der über die werktägliche Arbeitszeit hinausgehenden Arbeitszeit, Aufbewahrung zwei Jahre
+- § 16 Abs. 2 ArbZG - Aufzeichnung über werktägliche Arbeitszeit hinaus, Aufbewahrung zwei Jahre
 - § 17 Abs. 2 MiLoG - Aufzeichnung und Aufbewahrung zwei Jahre
 - Art. 6 Abs. 1 lit. b) DSGVO - Arbeitsverhältnisse
 - Art. 6 Abs. 1 lit. c) DSGVO - Beamtenverhältnisse
-- Art. 88 DSGVO und § 12 NDSG - Verarbeitung bei Dienst- und Arbeitsverhältnissen
+- Art. 88 DSGVO, § 12 NDSG - Beschäftigtendatenschutz
 - § 88 NBG - Personaldatenverarbeitung
-- § 94 Abs. 2 Satz 1 NBG - Unterlagen über Erkrankungen fünf Jahre
-- § 94 Abs. 2 Satz 2 NBG - Unterlagen, aus denen die Art einer Erkrankung ersichtlich ist, sind unverzüglich zurückzugeben oder zu vernichten
-- § 6 Abs. 1 Nr. 1 NDSG - Zweckänderung für Aufsichts- und Kontrollbefugnisse, Rechnungsprüfung und Organisationsuntersuchungen
-- § 67 Abs. 1 Nr. 1 und 2 NPersVG - Mitbestimmung bei automatisierter Verarbeitung von Beschäftigtendaten und bei technischen Einrichtungen zur Verhaltens- oder Leistungsüberwachung
-- § 78 NPersVG - Dienstvereinbarung als Kollektivvereinbarung im Sinne des Art. 88 DSGVO
-- § 147 AO und NKomHKVO - Aufbewahrung lohnabrechnungsrelevanter Zeitdaten
+- § 94 NBG - Aufbewahrung und Vernichtung von Krankheitsunterlagen
+- § 6 Abs. 1 Nr. 1 NDSG - Zweckänderung für Aufsichts- und Kontrollbefugnisse
+- § 67 Abs. 1 Nr. 1, 2 NPersVG - Mitbestimmung
+- § 78 NPersVG - Dienstvereinbarung
+- § 147 AO, NKomHKVO - Aufbewahrung lohnabrechnungsrelevanter Zeitdaten
 leika_id: '99143051000000'
 ozg_id: null
-letzte-aktualisierung: '2026-07-30'
+letzte-aktualisierung: '2026-09-25'
 ---
 
 # Arbeitszeit erfassen und auswerten
@@ -42,7 +42,7 @@ Erfassung, Korrektur, Auswertung und Löschung der Arbeitszeitdaten der Beschäf
 ## Prozessschritte
 
 **01 Grundlage in der Dienstvereinbarung schaffen**
-*Einführung und Anwendung des Zeiterfassungssystems sind nach § 67 Abs. 1 Nr. 1 und 2 NPersVG mitbestimmungspflichtig — es ist eine technische Einrichtung, die geeignet ist, Verhalten und Leistung zu überwachen. Die Dienstvereinbarung nach § 78 NPersVG regelt Zweck, Umfang, Auswertungsarten und Zugriffsberechtigungen und ist zugleich Kollektivvereinbarung im Sinne des Art. 88 DSGVO.*
+*Die Dienstvereinbarung Zeiterfassung (`reg-dv-zeiterfassung`) nach § 78 NPersVG regelt Zweck, Umfang, Auswertungsarten, Zugriffsberechtigungen und Löschfristen des Zeiterfassungssystems. Sie ist zugleich Kollektivvereinbarung im Sinne des Art. 88 DSGVO. Das System ist nach § 67 Abs. 1 Nr. 1 und 2 NPersVG mitbestimmungspflichtig.*
 
 **02 Zeiten erfassen**
 *Erfasst werden Beginn, Ende und Dauer der Arbeitszeit sowie die Pausen. Bereitschaftsdienst und Rufbereitschaft werden gesondert gekennzeichnet.*
