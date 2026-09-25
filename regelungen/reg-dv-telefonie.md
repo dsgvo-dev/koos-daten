@@ -2,7 +2,7 @@
 id: reg-dv-telefonie
 name: Dienstvereinbarung Telekommunikationsanlagen (DV Telefonie)
 typ: Dienstvereinbarung
-status: entwurf
+status: aktiv
 datum: 2026-09-25
 zustaendigeEinheit: oe-amt-1-5
 entscheidendesGremium: Personalrat und Dienststelle
@@ -69,17 +69,17 @@ Bei der Verarbeitung der Beschäftigtendaten sind sowohl Art.88 Abs.2 DSGVO als 
 
 (6) Es ist nicht zulässig, Telefongespräche zum Zwecke der Anwesenheits-, Verhaltens- oder Leistungskontrolle zu nutzen. Ein unberechtigtes bzw. unzulässiges Aktivieren von derartigen Leistungsmerkmalen kann zu arbeitsrechtlichen bzw. disziplinarischen Konsequenzen führen.
 
-## §4 Leistungsmerkmale
+## § 4 Leistungsmerkmale
 
-(1) Die zentral bereitgestellten Leistungsmerkmale der Telekommunikationsanlage sind in Anlage1 dokumentiert. Die Anlage ist Bestandteil dieser Dienstvereinbarung.
+(1) Die zentral bereitgestellten Leistungsmerkmale der Telekommunikationsanlage sind in Anlage 1 dokumentiert. Die Anlage ist Bestandteil dieser Dienstvereinbarung.
 
 (2) Die Schaltung von gruppenspezifischen Leistungsmerkmalen ist unter den Betroffenen abzustimmen. In Konfliktfällen ist der zuständige Personalrat hinzuzuziehen.
 
-(3) Änderungen, Ergänzungen und Erweiterungen von Leistungsmerkmalen sind zwischen den unterzeichnenden Parteien im Rahmen der Mitbestimmung gemäß §67 Abs.1 Nr.2 NPersVG zu vereinbaren.
+(3) Änderungen, Ergänzungen und Erweiterungen von Leistungsmerkmalen sind zwischen den unterzeichnenden Parteien im Rahmen der Mitbestimmung gemäß § 67 Abs. 1 Nr. 2 NPersVG zu vereinbaren.
 
 (4) Die rufende Nummer wird nur mit der ausdrücklichen Zustimmung des Anrufenden übermittelt.
 
-## §5 Art und Zweck der erfassten Gesprächsdaten
+## § 5 Art und Zweck der erfassten Gesprächsdaten
 
 (1) Zweck der Datenerfassung ist, den technischen Betrieb zu gewährleisten und die Gebührendaten den Kostenträgern zuordnen zu können.
 
@@ -97,68 +97,48 @@ g) Art der Verbindung (direkt, umgeleitet, Konferenz).
 
 (4) Gesprächsinhalte und gesprächsbegleitende Daten dürfen außer zu den in dieser Vereinbarung genannten Zwecken nur im Ausnahmefall aufgrund einer gesetzlichen Ermächtigungsgrundlage erhoben werden.
 
-## §6 Dienstliche und private Nutzung
+## § 6 Dienstliche und private Nutzung
 
-(1) Die Beschäftigten sind berechtigt, die in ihrem Arbeitsbereich installierten Telefon- und Telefaxgeräte für dienstliche Zwecke zu nutzen. Dienstlich geführte externe Telefongespräche werden mit Vorwahl der Ziffer 0 eingeleitet.
+(1) Die Beschäftigten sind berechtigt, die in ihrem Arbeitsbereich installierten Telefon- und Telefaxgeräte für dienstliche Zwecke zu nutzen. 
 
-(2) Vom Dienstapparat privat geführte Telefongespräche sind in begrenztem Umfang zulässig, soweit sie den Dienstablauf nicht beeinträchtigen. Sie sind nur möglich, wenn der Beschäftigte eine persönliche PIN-Kennziffer für die Teilnahme an der Privattelefonie erhalten hat. Private Telefonverbindungen werden eingeleitet mit der Vorwahl *24 und der persönlichen PIN-Kennziffer.
+(2) Eine privte nutzung der Telefon- oder Telefaxanschlüsse ist nicht gestattet.
 
-(3) Sämtliche Sonderrufnummern (Auskunfts- und Mehrwertdienste, 018xx-, 0190x-Rufnummern) sind in der Telekommunikationsanlage für dienstliche und private Zwecke gesperrt. Eine Freischaltung kann durch die Telefonzentrale realisiert werden, wenn eine dienstliche Notwendigkeit hinreichend begründet wird.
+(3) Sämtliche Sonderrufnummern (Auskunfts- und Mehrwertdienste, 018xx-, 0190x-Rufnummern) sind in der Telekommunikationsanlage gesperrt. Eine Freischaltung kann durch die Telefonzentrale realisiert werden, wenn eine dienstliche Notwendigkeit hinreichend begründet wird.
 
-(4) Bei der Benutzung der Telekommunikationsanlage ist in besonderem Maße der Grundsatz von Wirtschaftlichkeit und Sparsamkeit zu beachten. Alle Telefongespräche sind so vorzubereiten, dass sie möglichst schnell abgewickelt werden können.
+(4) Für Sonderanschlüsse, deren Telekommunikationsverkehr nicht der Aufsicht unterliegt (Personalrat, Schwerbehindertenvertretung, Datenschutzbeauftragter), werden keine Verbindungsdaten der dienstlichen Gespräche gespeichert.
 
-(5) Für Sonderanschlüsse, deren Telekommunikationsverkehr nicht der Aufsicht unterliegt (Personalrat, Schwerbehindertenvertretung, Datenschutzbeauftragter), werden keine Verbindungsdaten der dienstlichen Gespräche gespeichert. Es darf für diese Anschlüsse nur ein Sammelausdruck über die Tarifeinheiten erstellt werden.
+## § 7 Auswertung und Kontrolle
 
-## §7 Auswertung und Kontrolle
+(1) Eine Verknüpfung der erfassten oder ausgedruckten Daten mit anderen Daten zum Zwecke individueller Verhaltens- oder Leistungsüberwachung darf nicht erfolgen. Satz 1 gilt nicht, wenn Tatsachen bekannt werden, die den Verdacht von Taten strafrechtlicher Relevanz begründen und eine Aufklärung sonst nicht erreicht werden kann. Der zuständige Personalrat wird informiert.
 
-(1) Die Erfassung nicht anonymisierter Verbindungs- und Gebührendaten dienstlicher Gespräche dient ausschließlich der Kostenzuordnung.
+(2) Stichproben zur Überprüfung von Dienstgesprächen im Hinblick auf missbräuchliche Nutzung sind nur bei vorheriger Information des Personalrats durch die Dienststellenleitung zulässig. Bei den Stichproben werden die Gesprächs- und Gebührendaten nach dem Zufallsprinzip ausgewählter Nebenstellen ausgedruckt. Nach der Auswertung werden diese Daten gelöscht.
 
-(2) Eine Verknüpfung der erfassten oder ausgedruckten Daten mit anderen Daten zum Zwecke individueller Verhaltens- oder Leistungsüberwachung darf nicht erfolgen. Satz 1 gilt nicht, wenn Tatsachen bekannt werden, die den Verdacht von Taten strafrechtlicher Relevanz begründen und eine Aufklärung sonst nicht erreicht werden kann. Der zuständige Personalrat wird informiert.
+(3) Daten von dienstlichen Telefongesprächen der Personalvertretung dürfen ohne Zustimmung der Betroffenen nur ohne Angabe der Zielnummer ausgedruckt werden.
 
-(3) Stichproben zur Überprüfung von Dienstgesprächen im Hinblick auf missbräuchliche Nutzung sind nur bei vorheriger Information des Personalrats durch die Dienststellenleitung zulässig. Bei den Stichproben werden die Gesprächs- und Gebührendaten nach dem Zufallsprinzip ausgewählter Nebenstellen ausgedruckt. Nach der Auswertung werden diese Daten gelöscht.
-
-(4) Daten von dienstlichen Telefongesprächen der Personalvertretung dürfen ohne Zustimmung der Betroffenen nur ohne Angabe der Zielnummer ausgedruckt werden.
-
-## §8 Abrechnung privater Gespräche
-
-(1) Die Abrechnung privater Telefongespräche erfolgt im Prepaid-Verfahren mittels einer mitarbeiterbezogenen Chipkarte unabhängig vom benutzten Telefonanschluss. Die Aufwertung des persönlichen Gebührenkontos erfolgt an den bereitgestellten Kassenautomaten.
-
-(2) Alternativ kann eine monatliche Einzelrechnung mit Rechnungslegung direkt an den Beschäftigten erfolgen. Der Abrechnungszeitraum beträgt einen Monat. Bei Unterschreitung eines Grenzbetrages von 7,50€ bleiben diese Gebühren als Soll-Betrag bis zur nächsten Abrechnungsperiode in der Telekommunikationsanlage gespeichert.
-
-(3) Die routinemäßige monatliche Löschung der Gesprächsdaten ist durch den zuständigen Mitarbeiter der Telefonzentrale zu protokollieren.
-
-## §9 Speicherung und Löschung
+## § 9 Speicherung und Löschung
 
 (1) Die erfassten nicht anonymisierten Daten werden gelöscht, sobald ihre Speicherung nicht mehr erforderlich ist und Rechtsvorschriften nicht entgegenstehen.
 
-(2) Für die Gebührendatenverarbeitung gelten folgende Löschungsfristen:
+(2) Die Löschung der Daten ist auf allen Datenträgern vorzunehmen und zu protokollieren.
 
-a) Verbindungsdaten dienstlicher Gespräche: 3 Monate nach Ablauf des Abrechnungszeitraums,
-b) Verbindungsdaten privater Gespräche: 3 Monate nach Begleichung der Rechnung, frühestens jedoch 6 Monate nach Versand der Rechnung,
-c) Einspruchsverfahren: Bei Einspruch gegen eine Rechnung werden die betreffenden Daten bis zur endgültigen Klärung aufbewahrt,
-d) Einzelverbindungsnachweise: Aufbewahrungsfrist von 3 Jahren.
+(3) Erfolglose Verbindungsversuche werden nicht aufgezeichnet.
 
-(3) Die Löschung der Daten ist auf allen Datenträgern vorzunehmen und zu protokollieren.
+## § 10 Datensicherheit und Zugriff
 
-(4) Erfolglose Verbindungsversuche werden nicht aufgezeichnet.
-
-## §10 Datensicherheit und Zugriff
-
-(1) Die gespeicherten Telefon-Verbindungsdaten, Voice-Mail-Daten und Teilnehmerverzeichnisse sind personenbezogene Daten im Sinne des Datenschutzrechts und werden durch entsprechende Maßnahmen zur Gewährleistung des Datenschutzes gemäß §9 NDSG i.V.m. Art.32 DSGVO geschützt.
+(1) Die gespeicherten Telefon-Verbindungsdaten, Voice-Mail-Daten und Teilnehmerverzeichnisse sind personenbezogene Daten im Sinne des Datenschutzrechts und werden durch entsprechende Maßnahmen zur Gewährleistung des Datenschutzes gem. Art. 32 DSGVO geschützt.
 
 (2) Der Zugriff auf die gespeicherten Daten ist auf folgende Personengruppen beschränkt:
 
 a) Beschäftigte: ausschließlich eigene private Verbindungsdaten,
 b) Telefonzentrale/IT-Administration: für Betrieb, Wartung und Störungsbeseitigung,
-c) Abrechnungsstelle: für die Gebührenabrechnung,
-d) Dienststellenleitung: im Rahmen zulässiger Kontrollen nach §7 Abs.3,
-e) Datenschutzbeauftragter und Personalrat: als Kontrollinstanzen.
+c) Dienststellenleitung: im Rahmen zulässiger Kontrollen nach § 7 Abs. 3,
+d) Datenschutzbeauftragter und Personalrat: als Kontrollinstanzen.
 
-(3) Die Mitarbeiter der Telefonzentrale und des IT-Bereichs werden vor Beginn ihrer Tätigkeit auf das Datengeheimnis gemäß §6 NDSG und auf das Fernmeldegeheimnis gemäß §88 TKG verpflichtet. Sie erhalten personenbezogene Zugangsberechtigungen zu den Rechnern der Telekommunikationsanlagen entsprechend ihrer Arbeitsaufgabe.
+(3) Die Mitarbeiter der Telefonzentrale und des IT-Bereichs werden vor Beginn ihrer Tätigkeit auf das Datengeheimnis und auf das Fernmeldegeheimnis gemäß § 88 TKG verpflichtet. Sie erhalten personenbezogene Zugangsberechtigungen zu den Rechnern der Telekommunikationsanlagen entsprechend ihrer Arbeitsaufgabe.
 
 (4) Jeder Zugriff auf Verbindungsdaten wird protokolliert (Datum, Uhrzeit, zugreifende Person, Anlass und Umfang). Das Protokoll wird 12 Monate gespeichert.
 
-## §11 Administration und Wartung
+## § 11 Administration und Wartung
 
 (1) Der Standort der Telekommunikationsanlage, die verwendeten Hard- und Softwarekomponenten sowie deren Zweckbestimmung und die aktivierten Leistungsmerkmale werden in einer Verfahrensbeschreibung dokumentiert. Die Dokumentation ist vom IT-Bereich zu pflegen und unter Verschluss zu halten. Die Dienststellenleitung, der Personalrat und der Datenschutzbeauftragte können die Dokumentation jederzeit einsehen.
 
@@ -166,23 +146,23 @@ e) Datenschutzbeauftragter und Personalrat: als Kontrollinstanzen.
 
 (3) Die Telekommunikationsanlage wird regelmäßig einem Backup unterzogen. Das Backup ist sicher zu verwahren.
 
-## §12 Betroffenenrechte und Information
+## § 12 Betroffenenrechte und Information
 
-(1) Die Beschäftigten haben das Recht auf Auskunft über die zu ihrer Person gespeicherten Daten nach Art.15 DSGVO. Auskunftsersuchen sind an den Datenschutzbeauftragten zu richten.
+(1) Die Beschäftigten haben das Recht auf Auskunft über die zu ihrer Person gespeicherten Daten nach Art.1 5 DSGVO. Auskunftsersuchen sind an den Datenschutzbeauftragten zu richten.
 
 (2) Bei Inkrafttreten dieser Vereinbarung sind die Beschäftigten über ihre Rechte und Pflichten zu informieren. Die Kenntnisname der Vereinbarung durch die Beschäftigten ist aktenkundig festzuhalten. Die Dienstvereinbarung wird darüber hinaus im Intranet veröffentlicht.
 
-## §13 Rechte des Personalrats
+## § 13 Rechte des Personalrats
 
-(1) Der Personalrat hat das Recht, die Einhaltung dieser Dienstvereinbarung jederzeit in der ihm geeignet erscheinenden Weise zu prüfen.
+(1) Der Personalrat hat das Recht, die Einhaltung dieser Dienstvereinbarung zu prüfen.
 
 (2) Er erhält auf Antrag und mit Zustimmung der Betroffenen Einsicht in alle datenführenden Unterlagen.
 
-(3) Die Hinzuziehung eines Sachverständigen gemäß §35 NPersVG ist bei Bedarf möglich.
+(3) Die Hinzuziehung eines Sachverständigen ist bei Bedarf möglich.
 
 (4) Jede technische Änderung, die den Datenschutz berührt, ist dem zuständigen Personalrat rechtzeitig mitzuteilen und bedarf dessen Zustimmung.
 
-## §14 Laufzeit und Kündigung
+## § 14 Laufzeit und Kündigung
 
 (1) Die Dienstvereinbarung tritt mit Unterzeichnung in Kraft.
 
@@ -190,7 +170,7 @@ e) Datenschutzbeauftragter und Personalrat: als Kontrollinstanzen.
 
 (3) Einvernehmliche Änderungen sind jederzeit unter Wahrung der Schriftform möglich.
 
-## §15 Salvatorische Klausel
+## § 15 Salvatorische Klausel
 
 Sollten Teile der Dienstvereinbarung für unwirksam erklärt werden, wird die Wirksamkeit der übrigen Teile nicht berührt. Die Dienststelle und der Personalrat verpflichten sich, anstelle der unwirksamen Regelung in vertrauensvoller Zusammenarbeit eine dem gewollten Ziel möglichst nahe kommende Regelung zu treffen.
 
@@ -217,8 +197,5 @@ Die zentral bereitgestellten Leistungsmerkmale der Telekommunikationsanlage umfa
 | Voice-Mail | Sprachnachrichten hinterlassen | Ja |
 | Rufnummernanzeige | Übermittlung der eigenen Nummer | Ja, abschaltbar |
 | Chef-Sekretärfunktion | Vertretungsregelungen | Auf Antrag |
-| PIN für Privatgespräche | Persönliche Identifikationsnummer | Ja |
 
----
 
-*Dieser Entwurf basiert auf folgenden Quellen: LU Hannover DV 2008 (NPersVG), Bremen DV 2007, UKD Dresden 2006, Humboldt Berlin 2008, Landtag M-V 2018, Bayern UCtiz 2022. Er wurde mit KI-Unterstützung erstellt und ist inhaltlich zu prüfen.*
