@@ -29,7 +29,7 @@ Die Dienststelle betreibt Telekommunikationsanlagen zur Unterstützung der diens
 
 Der Personalrat und die Dienststelle regeln die Einführung, den Betrieb, die Nutzung und die Änderung bzw. Erweiterung der Telekommunikationsanlagen in der folgenden Dienstvereinbarung. Andere als die beschriebenen Nutzungszwecke sind nicht gestattet.
 
-Die Parteien sind sich darüber einig, dass diese Dienstvereinbarung als datenschutzrechtliche Erlaubnis zur Verarbeitung personenbezogenen Daten im Beschäftigungsverhältnis wirkt. Soweit diese Dienstvereinbarung die Verarbeitung personenbezogenen Daten normiert, gilt sie als Erlaubnistatbestand iSv Art.88 Abs.1 und Abs.2 DSGVO.
+Die Parteien sind sich darüber einig, dass diese Dienstvereinbarung als datenschutzrechtliche Erlaubnis zur Verarbeitung personenbezogener Daten im Beschäftigungsverhältnis wirkt. Soweit diese Dienstvereinbarung die Verarbeitung personenbezogener Daten normiert, gilt sie als Erlaubnistatbestand iSv Art.88 Abs.1 und Abs.2 DSGVO.
 
 Durch diese Dienstvereinbarung soll eine angemessene und sinnvolle Nutzung der Telekommunikationsanlagen sowie der Schutz der personenbezogenen Daten und des gesprochenen Wortes vor unzulässigem Gebrauch und unberechtigtem Zugriff gewährleistet werden.
 
