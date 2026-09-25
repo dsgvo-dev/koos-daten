@@ -226,19 +226,48 @@ Dritte) können als Dienstpflichtverletzung oder Vertragsverstoß geahndet
 werden. Die disziplinar- und arbeitsrechtlichen Vorschriften (§§17ff.
 NDiszG, TVöD) bleiben unberührt.
 
-## § 9 Zeitkontennachweis
+## § 9 Ampelkonto und Zeitkontennachweis
 
-(1) Jede beschäftigte Person erhält monatlich einen Zeitkontennachweis
-(Monatsübersicht).
+(1) Zur Dokumentation der geleisteten Arbeitszeit wird ein Ampelkonto geführt.
+Es unterscheidet zwischen drei Phasen, bezogen auf Vollzeitbeschäftigte mit
+einer wöchentlichen Arbeitszeit von 39 bzw. 40 Stunden. Für
+Teilzeitbeschäftigte gelten anteilige Werte (Anlage 4).
 
-(2) Die Monatsübersicht enthält die täglichen Arbeitszeiten, Dienstgänge,
-Urlaub und krankheitsbedingte Abwesenheit sowie das Zeitguthaben oder
-die Zeitschuld.
+(2) **Grüne Phase:** Das Zeitguthaben beträgt maximal 40 Stunden, die
+Zeitschuld maximal 10 Stunden. Beschäftigte in dieser Phase bewegen sich
+im Arbeitszeitsoll und disponieren ihre Arbeitszeit eigenverantwortlich.
 
-(3) Die beschäftigte Person prüft die Monatsübersicht, bestätigt die
-Richtigkeit durch Unterschrift und leitet sie innerhalb von 14 Tagen
-an die zuständige Personalstelle weiter. Einwendungen sind innerhalb der
-Frist gegenüber der Personalstelle zu erklären.
+(3) **Gelbe Phase:** Das Zeitguthaben liegt zwischen 40 und 60 Stunden,
+die Zeitschuld zwischen 10 und 20 Stunden. Die beschäftigte Person erhält
+eine optische Anzeige im System. Sie ist verpflichtet, das Zeitkonto in
+die grüne Phase zurückzuführen. Ist dies aus dienstlichen Gründen nicht
+möglich, hat sie sich an die vorgesetzte Person zu wenden, damit gemeinsam
+geeignete Maßnahmen vereinbart werden.
+
+(4) **Rote Phase:** Das Zeitguthaben überschreitet 60 Stunden, die
+Zeitschuld unterschreitet −20 Stunden. Diese Phase darf nur ausnahmsweise
+und vorübergehend eintreten. Die vorgesetzte Person erhält quartalsweise
+eine Meldung, welche Beschäftigten sich in der roten Phase befinden, und
+ist verpflichtet, zusammen mit der beschäftigten Person Maßnahmen zum
+Verlassen der roten Phase zu ergreifen. Die Personalstelle und der
+Personalrat (in anonymisierter Form nach Organisationseinheiten) werden
+informiert.
+
+(5) Geraten Beschäftigte innerhalb eines Jahres mehrfach in die rote Phase,
+kann die Personalstelle zu einer Beratung mit Personalrat und vorgesetzter
+Person einladen.
+
+(6) **Monatlicher Zeitkontennachweis:**
+
+a) Jede beschäftigte Person erhält monatlich einen Zeitkontennachweis
+   (Monatsübersicht).
+b) Die Monatsübersicht enthält die täglichen Arbeitszeiten, Dienstgänge,
+   Urlaub und krankheitsbedingte Abwesenheit sowie das Zeitguthaben oder
+   die Zeitschuld und die aktuelle Ampelphase.
+c) Die beschäftigte Person prüft die Monatsübersicht, bestätigt die
+   Richtigkeit durch Unterschrift und leitet sie innerhalb von 14 Tagen
+   an die zuständige Personalstelle weiter. Einwendungen sind innerhalb der
+   Frist gegenüber der Personalstelle zu erklären.
 
 ## § 10 Kontrollrechte des Personalrats
 
@@ -344,6 +373,17 @@ Abwesenheitsgründe. Die Auswahl ist abschließend.
 | 11 | Unentschuldigtes Fehlen | negativ | Vorgesetzte |
 | 12 | Abordnung | neutral | Vorgesetzte |
 | 13 | Kind krank | neutral | Vorgesetzte |
+
+## Anlage 4: Ampelkonto-Staffelung nach Beschäftigungsumfang
+
+| Arbeitszeit | Grüne Phase | Gelbe Phase | Rote Phase |
+|-------------|------------|-------------|-----------|
+| 100% (39/40 Std.) | bis +40 / bis -10 | >+40 bis +60 / <-10 bis -20 | >+60 / <-20 |
+| 75% | bis +30 / bis -7,5 | >+30 bis +45 / <-7,5 bis -15 | >+45 / <-15 |
+| 50% | bis +20 / bis -5 | >+20 bis +30 / <-5 bis -10 | >+30 / <-10 |
+| 25% | bis +10 / bis -2,5 | >+10 bis +15 / <-2,5 bis -5 | >+15 / <-5 |
+
+Vertragsumfänge mit Zwischenwerten werden der nächstliegenden Staffelung zugeordnet.
 
 ---
 
