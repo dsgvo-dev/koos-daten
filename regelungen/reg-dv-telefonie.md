@@ -25,25 +25,25 @@ dem **Personalrat** der [Dienststelle / Gemeinde / Stadt], vertreten durch [Tite
 
 ## Präambel
 
-Die Dienststelle betreibt Telekommunikationsanlagen zur Unterstützung der dienstlichen Kommunikation. Telekommunikationsanlagen im Sinne dieser Dienstvereinbarung sind Systeme, die der sprachlichen Dialog-Kommunikation über räumliche Distanzen dienen — dazu gehören Telefonanlagen herkömmlicher Art, moderne VoIP-Systeme (Sprachübertragung über das Internetprotokoll) sowie Mobilfunkgeräte, die für dienstliche Zwecke bereitgestellt werden. Die Nutzung von Telekommunikationsanlagen stellt eine technische Einrichtung im Sinne des §67 Abs.1 Nr.2 NPersVG dar und unterliegt damit der Mitbestimmung des Personalrats.
+Die Dienststelle betreibt Telekommunikationsanlagen zur Unterstützung der dienstlichen Kommunikation. Telekommunikationsanlagen im Sinne dieser Dienstvereinbarung sind Systeme, die der sprachlichen Dialog-Kommunikation über räumliche Distanzen dienen — dazu gehören Telefonanlagen herkömmlicher Art, moderne VoIP-Systeme (Sprachübertragung über das Internetprotokoll) sowie Mobilfunkgeräte, die für dienstliche Zwecke bereitgestellt werden. Die Nutzung von Telekommunikationsanlagen stellt eine technische Einrichtung im Sinne des § 67 Abs. 1 Nr. 2 NPersVG dar und unterliegt damit der Mitbestimmung des Personalrats.
 
 Der Personalrat und die Dienststelle regeln die Einführung, den Betrieb, die Nutzung und die Änderung bzw. Erweiterung der Telekommunikationsanlagen in der folgenden Dienstvereinbarung. Andere als die beschriebenen Nutzungszwecke sind nicht gestattet.
 
-Die Parteien sind sich darüber einig, dass diese Dienstvereinbarung als datenschutzrechtliche Erlaubnis zur Verarbeitung personenbezogener Daten im Beschäftigungsverhältnis wirkt. Soweit diese Dienstvereinbarung die Verarbeitung personenbezogener Daten normiert, gilt sie als Erlaubnistatbestand i.S.v. Art.88 Abs.1 und Abs.2 DSGVO.
+Die Parteien sind sich darüber einig, dass diese Dienstvereinbarung als datenschutzrechtliche Erlaubnis zur Verarbeitung personenbezogener Daten im Beschäftigungsverhältnis wirkt. Soweit diese Dienstvereinbarung die Verarbeitung personenbezogener Daten normiert, gilt sie als Erlaubnistatbestand i.S.v. Art. 88 Abs. 1 und Abs. 2 DSGVO.
 
 Durch diese Dienstvereinbarung soll eine angemessene und sinnvolle Nutzung der Telekommunikationsanlagen sowie der Schutz der personenbezogenen Daten und des gesprochenen Wortes vor unzulässigem Gebrauch und unberechtigtem Zugriff gewährleistet werden.
 
-Bei der Verarbeitung der Beschäftigtendaten sind sowohl Art.88 Abs.2 DSGVO als auch die Grundsätze der Datenverarbeitung nach Art.5 DSGVO zu wahren.
+Bei der Verarbeitung der Beschäftigtendaten sind sowohl Art. 88 Abs. 2 DSGVO als auch die Grundsätze der Datenverarbeitung nach Art. 5 DSGVO zu wahren.
 
-## §1 Gegenstand und Geltungsbereich
+## § 1 Gegenstand und Geltungsbereich
 
 (1) Gegenstand dieser Dienstvereinbarung ist die Nutzung von Telekommunikationsanlagen der Dienststelle. Sie regelt insbesondere, wie die Erfassung, Speicherung und Verarbeitung von Anschluss- und Verbindungsdaten im Zusammenhang mit der Nutzung der Telekommunikationsanlagen zu handhaben ist.
 
-(2) Die Dienstvereinbarung gilt für alle Beschäftigten im Sinne des §4 NPersVG, die Telekommunikationsanlagen der Dienststelle nutzen. Für Mobilfunkgeräte sind die Regelungen dieser Dienstvereinbarung sinngemäß anzuwenden.
+(2) Die Dienstvereinbarung gilt für alle Beschäftigten im Sinne des § 4 NPersVG, die Telekommunikationsanlagen der Dienststelle nutzen. Für Mobilfunkgeräte sind die Regelungen dieser Dienstvereinbarung sinngemäß anzuwenden.
 
 (3) Die Vorschriften über die Einrichtung und Benutzung dienstrechtlicher Fernmeldeanlagen (Dienstanschlussvorschriften des Landes Niedersachsen) bleiben von dieser Vereinbarung unberührt.
 
-## §2 Begriffsbestimmungen
+## § 2 Begriffsbestimmungen
 
 (1) **Verbindungsdaten** sind personenbezogene Daten, die der Bereitstellung der Verbindung dienen: Rufnummern der anrufenden und angerufenen Teilnehmer, Beginn und Ende der jeweiligen Verbindung, in Anspruch genommene Telekommunikationsdienste (Leistungsmerkmale).
 
@@ -55,13 +55,13 @@ Bei der Verarbeitung der Beschäftigtendaten sind sowohl Art.88 Abs.2 DSGVO als 
 
 (5) **Revisionsdaten** sind personenbezogene Daten, die bei der Protokollierung von Aktivitäten zum Betrieb der Telekommunikationsanlage anfallen.
 
-## §3 Grundsätze und Nutzungsbedingungen
+## § 3 Grundsätze und Nutzungsbedingungen
 
 (1) Die Telekommunikationsanlage und die darüber angebotenen Leistungsmerkmale dienen der Unterstützung bei der Aufgabenerledigung. Die Nutzung erfolgt im Rahmen dienstlicher Erfordernisse nach persönlichem Ermessen.
 
 (2) Die Kommunikation über die Anlage zwischen den Gesprächsteilnehmern erfolgt nach dem Prinzip der Transparenz und des Einverständnisses aller Beteiligten. Die Anrufenden sind um ihre Zustimmung zu bitten, bevor die Freisprech- oder Lauthör-Vorrichtung angeschaltet wird. Eine Anrufumleitung wird nur nach Rücksprache mit dem Inhaber des Anschlusses, auf den umgeleitet werden soll, eingerichtet.
 
-(3) Der Mitschnitt und das unbefugte Mithören von Telefongesprächen sowie die unbefugte Einsichtnahme in die Verbindungsdaten anderer Teilnehmer sind nicht zulässig (Fernmeldegeheimnis nach §88 TKG). Eine Aufzeichnung des gesprochenen Wortes ist ebenso wie das Abhören von Telefongesprächen grundsätzlich untersagt.
+(3) Der Mitschnitt und das unbefugte Mithören von Telefongesprächen sowie die unbefugte Einsichtnahme in die Verbindungsdaten anderer Teilnehmer sind nicht zulässig (Fernmeldegeheimnis nach § 3 TDDDG). Eine Aufzeichnung des gesprochenen Wortes ist ebenso wie das Abhören von Telefongesprächen grundsätzlich untersagt.
 
 (4) Im Sprachspeicher hinterlassene Nachrichten (Voice-Mail) dürfen nur durch berechtigte Nutzer abgehört werden. Die Speicherung erfolgt bis zur Löschung durch den Benutzer.
 
@@ -83,11 +83,11 @@ Bei der Verarbeitung der Beschäftigtendaten sind sowohl Art.88 Abs.2 DSGVO als 
 
 (1) Zweck der Datenerfassung ist, den technischen Betrieb zu gewährleisten und die Gebührendaten den Kostenträgern zuordnen zu können.
 
-(2) Die Telekommunikationsanlagen bieten die Möglichkeit, folgende verbindungs- und gebürenrelevante Daten für dienstliche Gespräche zu erfassen und zentral zu speichern:
+(2) Die Telekommunikationsanlagen bieten die Möglichkeit, folgende verbindungs- und gebührenrelevante Daten für dienstliche Gespräche zu erfassen und zentral zu speichern:
 
 a) Kostenstelle,
 b) Rufnummer des rufenden Nebenanschlusses,
-c) angewählte Rufnummer (bei privat geführten Gesprächen verkürzt um die letzten vier Ziffern),
+c) angewählte Rufnummer,
 d) Datum und Uhrzeit (Gesprächsbeginn),
 e) Gesprächsdauer,
 f) Gebühreneinheiten und Gebührenbetrag,
@@ -97,11 +97,11 @@ g) Art der Verbindung (direkt, umgeleitet, Konferenz).
 
 (4) Gesprächsinhalte und gesprächsbegleitende Daten dürfen außer zu den in dieser Vereinbarung genannten Zwecken nur im Ausnahmefall aufgrund einer gesetzlichen Ermächtigungsgrundlage erhoben werden.
 
-## § 6 Dienstliche und private Nutzung
+## § 6 Dienstliche Nutzung
 
 (1) Die Beschäftigten sind berechtigt, die in ihrem Arbeitsbereich installierten Telefon- und Telefaxgeräte für dienstliche Zwecke zu nutzen. 
 
-(2) Eine privte nutzung der Telefon- oder Telefaxanschlüsse ist nicht gestattet.
+(2) Eine private Nutzung der Telefon- oder Telefaxanschlüsse ist nicht gestattet.
 
 (3) Sämtliche Sonderrufnummern (Auskunfts- und Mehrwertdienste, 018xx-, 0190x-Rufnummern) sind in der Telekommunikationsanlage gesperrt. Eine Freischaltung kann durch die Telefonzentrale realisiert werden, wenn eine dienstliche Notwendigkeit hinreichend begründet wird.
 
@@ -115,7 +115,7 @@ g) Art der Verbindung (direkt, umgeleitet, Konferenz).
 
 (3) Daten von dienstlichen Telefongesprächen der Personalvertretung dürfen ohne Zustimmung der Betroffenen nur ohne Angabe der Zielnummer ausgedruckt werden.
 
-## § 9 Speicherung und Löschung
+## § 8 Speicherung und Löschung
 
 (1) Die erfassten nicht anonymisierten Daten werden gelöscht, sobald ihre Speicherung nicht mehr erforderlich ist und Rechtsvorschriften nicht entgegenstehen.
 
@@ -123,22 +123,22 @@ g) Art der Verbindung (direkt, umgeleitet, Konferenz).
 
 (3) Erfolglose Verbindungsversuche werden nicht aufgezeichnet.
 
-## § 10 Datensicherheit und Zugriff
+## § 9 Datensicherheit und Zugriff
 
 (1) Die gespeicherten Telefon-Verbindungsdaten, Voice-Mail-Daten und Teilnehmerverzeichnisse sind personenbezogene Daten im Sinne des Datenschutzrechts und werden durch entsprechende Maßnahmen zur Gewährleistung des Datenschutzes gem. Art. 32 DSGVO geschützt.
 
 (2) Der Zugriff auf die gespeicherten Daten ist auf folgende Personengruppen beschränkt:
 
-a) Beschäftigte: ausschließlich eigene private Verbindungsdaten,
+a) Beschäftigte: ausschließlich eigene Verbindungsdaten,
 b) Telefonzentrale/IT-Administration: für Betrieb, Wartung und Störungsbeseitigung,
 c) Dienststellenleitung: im Rahmen zulässiger Kontrollen nach § 7 Abs. 3,
 d) Datenschutzbeauftragter und Personalrat: als Kontrollinstanzen.
 
-(3) Die Mitarbeiter der Telefonzentrale und des IT-Bereichs werden vor Beginn ihrer Tätigkeit auf das Datengeheimnis und auf das Fernmeldegeheimnis gemäß § 88 TKG verpflichtet. Sie erhalten personenbezogene Zugangsberechtigungen zu den Rechnern der Telekommunikationsanlagen entsprechend ihrer Arbeitsaufgabe.
+(3) Die Mitarbeiter der Telefonzentrale und des IT-Bereichs werden vor Beginn ihrer Tätigkeit auf das Datengeheimnis und auf das Fernmeldegeheimnis gemäß § 3 TDDDG verpflichtet. Sie erhalten personenbezogene Zugangsberechtigungen zu den Rechnern der Telekommunikationsanlagen entsprechend ihrer Arbeitsaufgabe.
 
 (4) Jeder Zugriff auf Verbindungsdaten wird protokolliert (Datum, Uhrzeit, zugreifende Person, Anlass und Umfang). Das Protokoll wird 12 Monate gespeichert.
 
-## § 11 Administration und Wartung
+## § 10 Administration und Wartung
 
 (1) Der Standort der Telekommunikationsanlage, die verwendeten Hard- und Softwarekomponenten sowie deren Zweckbestimmung und die aktivierten Leistungsmerkmale werden in einer Verfahrensbeschreibung dokumentiert. Die Dokumentation ist vom IT-Bereich zu pflegen und unter Verschluss zu halten. Die Dienststellenleitung, der Personalrat und der Datenschutzbeauftragte können die Dokumentation jederzeit einsehen.
 
@@ -146,13 +146,15 @@ d) Datenschutzbeauftragter und Personalrat: als Kontrollinstanzen.
 
 (3) Die Telekommunikationsanlage wird regelmäßig einem Backup unterzogen. Das Backup ist sicher zu verwahren.
 
-## § 12 Betroffenenrechte und Information
+(4) Der IT-Bereich führt die Gebührenabrechnung nach Kostenstellen (§ 5 Abs. 1), die Löschung nach § 8, die Protokollierung nach § 9 Abs. 4 und das Backup nach Abs. 3 durch.
 
-(1) Die Beschäftigten haben das Recht auf Auskunft über die zu ihrer Person gespeicherten Daten nach Art.1 5 DSGVO. Auskunftsersuchen sind an den Datenschutzbeauftragten zu richten.
+## § 11 Betroffenenrechte und Information
 
-(2) Bei Inkrafttreten dieser Vereinbarung sind die Beschäftigten über ihre Rechte und Pflichten zu informieren. Die Kenntnisname der Vereinbarung durch die Beschäftigten ist aktenkundig festzuhalten. Die Dienstvereinbarung wird darüber hinaus im Intranet veröffentlicht.
+(1) Die Beschäftigten haben das Recht auf Auskunft über die zu ihrer Person gespeicherten Daten nach Art. 15 DSGVO. Auskunftsersuchen sind an den Datenschutzbeauftragten zu richten.
 
-## § 13 Rechte des Personalrats
+(2) Bei Inkrafttreten dieser Vereinbarung sind die Beschäftigten über ihre Rechte und Pflichten zu informieren. Die Kenntnisnahme der Vereinbarung durch die Beschäftigten ist aktenkundig festzuhalten. Die Dienstvereinbarung wird darüber hinaus im Intranet veröffentlicht.
+
+## § 12 Rechte des Personalrats
 
 (1) Der Personalrat hat das Recht, die Einhaltung dieser Dienstvereinbarung zu prüfen.
 
@@ -162,7 +164,7 @@ d) Datenschutzbeauftragter und Personalrat: als Kontrollinstanzen.
 
 (4) Jede technische Änderung, die den Datenschutz berührt, ist dem zuständigen Personalrat rechtzeitig mitzuteilen und bedarf dessen Zustimmung.
 
-## § 14 Laufzeit und Kündigung
+## § 13 Laufzeit und Kündigung
 
 (1) Die Dienstvereinbarung tritt mit Unterzeichnung in Kraft.
 
@@ -170,7 +172,7 @@ d) Datenschutzbeauftragter und Personalrat: als Kontrollinstanzen.
 
 (3) Einvernehmliche Änderungen sind jederzeit unter Wahrung der Schriftform möglich.
 
-## § 15 Salvatorische Klausel
+## § 14 Salvatorische Klausel
 
 Sollten Teile der Dienstvereinbarung für unwirksam erklärt werden, wird die Wirksamkeit der übrigen Teile nicht berührt. Die Dienststelle und der Personalrat verpflichten sich, anstelle der unwirksamen Regelung in vertrauensvoller Zusammenarbeit eine dem gewollten Ziel möglichst nahe kommende Regelung zu treffen.
 
@@ -182,7 +184,7 @@ __________________________________          __________________________________ [
 
 ---
 
-## Anlage1: Leistungsmerkmale
+## Anlage 1: Leistungsmerkmale
 
 Die zentral bereitgestellten Leistungsmerkmale der Telekommunikationsanlage umfassen:
 
