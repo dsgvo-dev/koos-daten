@@ -17,9 +17,9 @@
 # ---------------------------------------------------------------------------
 
 organisation:
-  id: <gemeinde-kurzname>              # Beispiel: gemeinde-musterstadt
-  name: <Vollständiger Name>           # Beispiel: Gemeindeverwaltung Musterstadt
-  kurzname: <Kurzname>                 # Beispiel: Musterstadt
+  id: <gemeinde-kurzname>              # Beispiel: musterkommune
+  name: <Vollständiger Name>           # Beispiel: Musterkommune
+  kurzname: <Kurzname>                 # Beispiel: Musterkommune
   rechtsform: <Rechtsform>             # Gemeinde | Stadt | Samtgemeinde | Verbandsgemeinde | Landkreis | ...
   rechtsgrundlage: ~                   # Beispiel: NKomVG §10
   gemeindeschluessel: "<8-stellig>"   # Amtlicher Gemeindeschlüssel, in Anführungszeichen

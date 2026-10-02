@@ -20,11 +20,11 @@
 # ---------------------------------------------------------------------------
 
 organisation:
-  id: gemeinde-musterstadt
-  name: Gemeindeverwaltung Musterstadt
-  kurzname: Musterstadt
+  id: musterkommune
+  name: Musterkommune
+  kurzname: Musterkommune
   rechtsform: Gemeinde
-  rechtsgrundlage: NKomVG §10
+  rechtsgrundlage: NKomVG § 10
   gemeindeschluessel: "03000000"       # Amtlicher Gemeindeschlüssel (8-stellig)
   bundesland: Niedersachsen
   kreis: Musterkreis
@@ -33,7 +33,7 @@ organisation:
   ansprechpartner:
     name: Stabsstelle Organisation und Digitalisierung
     oe-id: oe-stabsstelle              # → orga.yaml
-    email: organisation@musterstadt.de
+    email: organisation@musterkommune.example
 
 # ---------------------------------------------------------------------------
 # 2. MODULE
@@ -475,51 +475,15 @@ vokabular:
 #    erscheinen. Felder hier hinzufügen oder entfernen → preview.html
 #    übernimmt die Änderungen automatisch beim nächsten Laden.
 #
-#    Superadmin-Aufgaben:
-#      - Passwort-Hash ändern (SHA-256 des gewünschten Passworts)
+#    Pflege:
 #      - Felder ergänzen oder entfernen
 #      - Neue Feldtypen: text | textarea | select | oe-select | list-text |
 #                        list-oe-aufgabe | multi-daten
 # ---------------------------------------------------------------------------
 
 bearbeitung:
-  # SHA-256-Hash erzeugen (Browser-Konsole):
-  #   crypto.subtle.digest('SHA-256', new TextEncoder().encode('PASSWORT'))
-  #     .then(b => console.log(Array.from(new Uint8Array(b))
-  #       .map(x=>x.toString(16).padStart(2,'0')).join('')))
-
-  # ── Superadmin ─────────────────────────────────────────────────────────────
-  # Vollzugriff: alle OE, Schemapflege, Subadmin-Verwaltung
-  superadmin:
-    passwort-hash: 5ad7c2af9ba7115b557f91e29e98af07c0e73751930b510d5bac0c26f224decc
-    # Passwort am 2026-08-26 zurückgesetzt — vor Produktiveinsatz ändern!
-
-  # ── Subadmins ──────────────────────────────────────────────────────────────
-  # Dezentrale Bearbeiter: dürfen Prozesse und Datenarten anlegen/bearbeiten,
-  # aber nur in den OE, die unter zustaendig-fuer aufgeführt sind.
-  # OE-Struktur (orga.yaml) und Schema können nur Superadmins ändern.
-  #
-  # Nach Änderungen hier: den Block "subadmins" in preview.html › CONFIG
-  # entsprechend aktualisieren (gleiche Struktur, Hash bleibt identisch).
-  subadmins:
-    - id: sub-fb1
-      name: Fachbereich 1 – Personal & IT
-      passwort-hash: 2e09c6dc151c08685424617d46848a44a6ee5f053a0d18f8defd0616501151e5
-      # Passwort: fb1-2026 — vor Produktiveinsatz ändern!
-      zustaendig-fuer:
-        - oe-fb1-personal
-        - oe-fb1-it
-        - oe-fb1-buerger
-        - oe-fb1               # Fachbereichsebene einschließen
-
-    - id: sub-hvb
-      name: Hauptverwaltungsbereich
-      passwort-hash: a1d25b71e601b052c656eb488ec650d5b78723e0bbf1515771bf2e1b8baf7a1c
-      # Passwort: hvb-2026 — vor Produktiveinsatz ändern!
-      zustaendig-fuer:
-        - oe-hvb
-        - oe-stabsstelle
-        - oe-personalrat
+  # Anmeldung und Berechtigung: über nginx (auth_basic) und den Schreibschutz
+  # des Servers — ADR-017. Hier stehen keine Kennungen und Passwörter mehr.
 
   formular-schema:
 

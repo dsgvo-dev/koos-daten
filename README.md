@@ -250,7 +250,7 @@ Die Pfeile zeigen immer in dieselbe Richtung: **Prozess → alles andere.** Die 
 Die Datei `orga.yaml` enthält die gesamte Organisationshierarchie als **flache Liste** von Einheiten mit `parent`-Verweisen. Reorganisation = `parent:`-Wert ändern, fertig.
 
 ```yaml
-name: Gemeindeverwaltung Musterstadt
+name: Musterkommune
 
 einheiten:
   - id: oe-hvb
