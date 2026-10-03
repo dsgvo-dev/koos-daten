@@ -8,7 +8,8 @@
 # Änderungen hier wirken sich auf die gesamte Instanz aus.
 #
 # Felder:
-#   organisation.*   → Identität der Verwaltung (unveränderlich nach Inbetriebnahme)
+#   organisation.*   → Identität der Verwaltung (Admin pflegt sie unter ⚙ Admin → Organisation;
+#                      nur organisation.id bleibt nach Inbetriebnahme unverändert)
 #   module.*         → Pfade zu den vier Informationsdimensionen
 #   id-praefixe.*    → Konvention für stabile IDs (NIEMALS nachträglich ändern)
 #   vorschau.*       → Konfiguration der eingebetteten Vorschau
