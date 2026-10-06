@@ -2,6 +2,7 @@
 id: proc-auszugsmanagement-asylblg-durchfuehren
 titel: Auszugsmanagement nach AsylbLG (Übergang in privaten Wohnraum)
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-47
 zustaendigeRolle: sachbearbeiter
 beteiligte:

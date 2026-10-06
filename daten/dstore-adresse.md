@@ -1,5 +1,6 @@
 ---
 id: dstore-adresse
+bereich: extern
 typ: datenspeicher
 system: null
 name: Adresse

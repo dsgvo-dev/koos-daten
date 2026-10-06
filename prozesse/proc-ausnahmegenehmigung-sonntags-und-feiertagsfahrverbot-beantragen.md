@@ -2,6 +2,7 @@
 id: proc-ausnahmegenehmigung-sonntags-und-feiertagsfahrverbot-beantragen
 titel: Ausnahmegenehmigung Sonntags- und Feiertagsfahrverbot beantragen
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-34
 zustaendigeRolle: ''
 beteiligte:

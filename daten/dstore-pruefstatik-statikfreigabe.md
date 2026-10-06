@@ -1,5 +1,6 @@
 ---
 id: dstore-pruefstatik-statikfreigabe
+bereich: extern
 typ: datenspeicher
 system: null
 name: Prüfstatik und Statikfreigabe

@@ -2,6 +2,7 @@
 id: proc-liegenschaftskataster-auskunft-flurkarte-beantragen
 titel: 'Liegenschaftskataster: Auskunft/Flurkarte beantragen'
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-62
 zustaendigeRolle: ''
 beteiligte:

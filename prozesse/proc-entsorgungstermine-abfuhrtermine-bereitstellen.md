@@ -2,6 +2,7 @@
 id: proc-entsorgungstermine-abfuhrtermine-bereitstellen
 titel: Entsorgungstermine (Abfuhrtermine) bereitstellen
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-60
 zustaendigeRolle: ''
 beteiligte:

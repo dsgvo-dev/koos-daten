@@ -1,5 +1,6 @@
 ---
 id: dstore-gewerbeabmeldung-betriebsaufgabe
+bereich: extern
 typ: datenspeicher
 system: null
 name: Gewerbeabmeldung und Betriebsaufgabe

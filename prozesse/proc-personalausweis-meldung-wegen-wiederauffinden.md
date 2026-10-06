@@ -2,6 +2,7 @@
 id: proc-personalausweis-meldung-wegen-wiederauffinden
 titel: Personalausweis Meldung wegen Wiederauffinden
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-33
 zustaendigeRolle: ''
 beteiligte: []

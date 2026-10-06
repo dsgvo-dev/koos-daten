@@ -1,5 +1,6 @@
 ---
 id: dstore-bussgeldakte
+bereich: extern
 typ: datenspeicher
 system: null
 name: Bußgeldakte

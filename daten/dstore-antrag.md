@@ -1,5 +1,6 @@
 ---
 id: dstore-antrag
+bereich: extern
 typ: datenspeicher
 system: null
 name: Antrag

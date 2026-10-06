@@ -2,6 +2,7 @@
 id: proc-engagement-foerdern
 titel: Engagement fördern
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-10
 zustaendigeRolle: ''
 beteiligte: []

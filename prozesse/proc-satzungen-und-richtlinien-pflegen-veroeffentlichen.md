@@ -2,6 +2,7 @@
 id: proc-satzungen-und-richtlinien-pflegen-veroeffentlichen
 titel: Satzungen und Richtlinien pflegen/veröffentlichen
 status: inaktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-30
 zustaendigeRolle: ''
 beteiligte:

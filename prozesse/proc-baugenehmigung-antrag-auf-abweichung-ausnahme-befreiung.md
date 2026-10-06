@@ -2,6 +2,7 @@
 id: proc-baugenehmigung-antrag-auf-abweichung-ausnahme-befreiung
 titel: 'Baugenehmigung: Antrag auf Abweichung/Ausnahme/Befreiung'
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-63
 zustaendigeRolle: ''
 beteiligte:

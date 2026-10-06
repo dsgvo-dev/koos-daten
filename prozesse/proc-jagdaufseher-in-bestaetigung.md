@@ -2,6 +2,7 @@
 id: proc-jagdaufseher-in-bestaetigung
 titel: 'Jagdaufseher/in: Bestätigung'
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-82
 zustaendigeRolle: ''
 beteiligte:

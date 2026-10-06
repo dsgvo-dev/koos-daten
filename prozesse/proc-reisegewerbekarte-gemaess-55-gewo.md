@@ -2,6 +2,7 @@
 id: proc-reisegewerbekarte-gemaess-55-gewo
 titel: Reisegewerbekarte gemäß § 55 GewO
 status: ersetzt
+bereich: extern
 ersetzt-durch: proc-reisegewerbekarte-beantragen
 zustaendigeEinheit: oe-amt-32
 zustaendigeRolle: ''

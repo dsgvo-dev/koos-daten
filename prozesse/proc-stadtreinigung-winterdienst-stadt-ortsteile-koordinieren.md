@@ -2,6 +2,7 @@
 id: proc-stadtreinigung-winterdienst-stadt-ortsteile-koordinieren
 titel: 'Stadtreinigung: Winterdienst (Stadt & Ortsteile) koordinieren'
 status: aktiv
+bereich: extern
 
 
 zustaendigeEinheit: oe-amt-66

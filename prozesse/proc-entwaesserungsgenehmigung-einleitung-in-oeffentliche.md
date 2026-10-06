@@ -2,6 +2,7 @@
 id: proc-entwaesserungsgenehmigung-einleitung-in-oeffentliche
 titel: Entwässerungsgenehmigung (Einleitung in öffentliche Abwasseranlage)
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-67
 zustaendigeRolle: ''
 beteiligte:

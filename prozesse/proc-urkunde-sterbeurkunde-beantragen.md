@@ -2,6 +2,7 @@
 id: proc-urkunde-sterbeurkunde-beantragen
 titel: 'Urkunde: Sterbeurkunde beantragen'
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-31
 zustaendigeRolle: ''
 beteiligte: []

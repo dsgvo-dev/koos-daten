@@ -2,6 +2,7 @@
 id: proc-verfahrensverzeichnis-fuehren
 titel: Verfahrensverzeichnis führen
 status: aktiv
+bereich: intern
 zustaendigeEinheit: oe-amt-1-4
 zustaendigeRolle: ''
 beteiligte: []
@@ -10,12 +11,11 @@ daten:
   output: []
   datenspeicher:
   - id: dstore-datenschutzeinweisung
-  - id: dstore-verwaltungsakte
 regelungen:
 - 'Art. 30 DSGVO (Verzeichnis der Verarbeitungstätigkeiten)'
 - 'Art. 35 DSGVO (Datenschutz-Folgenabschätzung)'
 - '§§ 1 ff. Nds. Datenschutzgesetz (NDSG)'
-letzte-aktualisierung: 2026-04-29
+letzte-aktualisierung: '2026-10-05'
 ---
 # Verfahrensverzeichnis führen
 

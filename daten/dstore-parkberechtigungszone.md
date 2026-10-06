@@ -1,5 +1,6 @@
 ---
 id: dstore-parkberechtigungszone
+bereich: extern
 typ: datenspeicher
 system: null
 name: Parkberechtigungszone

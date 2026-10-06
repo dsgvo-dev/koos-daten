@@ -1,5 +1,6 @@
 ---
 id: dstore-betriebsdaten
+bereich: extern
 typ: datenspeicher
 system: null
 name: Betriebsdaten

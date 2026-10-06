@@ -2,6 +2,7 @@
 id: proc-versetzung-anordnen
 titel: Versetzung anordnen
 status: aktiv
+bereich: intern
 zustaendigeEinheit: oe-amt-11
 zustaendigeRolle: ''
 beteiligte: []
@@ -11,12 +12,10 @@ daten:
   datenspeicher:
   - id: dstore-personalakte
   - id: dstore-arbeitsverhaeltnis-beschaeftigung
-  - id: dstore-verwaltungsakte
-  - id: dstore-bescheid
 regelungen:
 - '§§ 27-29 Nds. Beamtengesetz (NBG) (Versetzung/Umsetzung)'
 - '§ 26 BeamtStG (Versetzung)'
-letzte-aktualisierung: 2026-04-29
+letzte-aktualisierung: '2026-10-05'
 ---
 # Versetzung anordnen
 

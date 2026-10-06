@@ -2,6 +2,7 @@
 id: proc-schulwegsicherheit-koordinieren
 titel: Schulwegsicherheit koordinieren
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-40
 zustaendigeRolle: ''
 beteiligte:

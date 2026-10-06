@@ -1,5 +1,6 @@
 ---
 id: dstore-sondernutzung-oeffentlicher-raum
+bereich: extern
 typ: datenspeicher
 system: null
 name: Sondernutzung öffentlicher Raum

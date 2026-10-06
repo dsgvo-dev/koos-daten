@@ -2,6 +2,7 @@
 id: proc-hausgeburt-anzeigen
 titel: Hausgeburt anzeigen
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-31
 zustaendigeRolle: ''
 beteiligte: []

@@ -2,6 +2,7 @@
 id: proc-genehmigung-im-vereinfachten-verfahren-nach-bimschg
 titel: Genehmigung im vereinfachten Verfahren nach BImSchG
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-60
 zustaendigeRolle: ''
 beteiligte: []

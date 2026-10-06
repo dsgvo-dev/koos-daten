@@ -2,6 +2,7 @@
 id: proc-andere-spiele-mit-gewinnmoeglichkeit-erlaubnis-im-reisegewerbe
 titel: 'Andere Spiele mit Gewinnmöglichkeit: Erlaubnis im Reisegewerbe'
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-32
 zustaendigeRolle: ''
 beteiligte: []

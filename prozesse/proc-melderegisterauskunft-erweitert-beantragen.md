@@ -2,6 +2,7 @@
 id: proc-melderegisterauskunft-erweitert-beantragen
 titel: 'Melderegisterauskunft: erweitert beantragen'
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-33
 zustaendigeRolle: ''
 beteiligte: []

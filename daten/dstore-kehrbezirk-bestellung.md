@@ -1,5 +1,6 @@
 ---
 id: dstore-kehrbezirk-bestellung
+bereich: extern
 typ: datenspeicher
 system: null
 name: Kehrbezirk und Bestellung Bezirksschornsteinfeger

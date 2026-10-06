@@ -2,6 +2,7 @@
 id: proc-gewaesser-grundwasser-waermepumpen-100m-erlaubnis
 titel: 'Gewässer (öffentlich): gewerbliche Nutzung (Grundwasser-Wärmepumpen > 100m) – Erlaubnis'
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-60
 zustaendigeRolle: ''
 beteiligte:

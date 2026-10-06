@@ -2,6 +2,7 @@
 id: proc-fuehrungszeugnis-beantragen-entgegennahme-weiterleitung
 titel: Führungszeugnis beantragen (Entgegennahme/Weiterleitung)
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-32
 zustaendigeRolle: ''
 beteiligte:

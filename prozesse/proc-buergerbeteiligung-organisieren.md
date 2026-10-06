@@ -2,6 +2,7 @@
 id: proc-buergerbeteiligung-organisieren
 titel: Bürgerbeteiligung organisieren
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-1-1
 zustaendigeRolle: ''
 beteiligte: []

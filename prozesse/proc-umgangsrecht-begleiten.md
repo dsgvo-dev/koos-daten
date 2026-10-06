@@ -2,6 +2,7 @@
 id: proc-umgangsrecht-begleiten
 titel: Umgangsrecht begleiten
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-51
 zustaendigeRolle: ''
 beteiligte: []

@@ -2,6 +2,7 @@
 id: proc-umschreibung-einer-auslaendischen-fahrerlaubnis
 titel: Umschreibung einer ausländischen Fahrerlaubnis
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-34
 zustaendigeRolle: ''
 beteiligte:

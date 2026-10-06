@@ -2,6 +2,7 @@
 id: proc-windenergienutzung-planung-koordination
 titel: 'Windenergienutzung: Planung/Koordination'
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-61
 zustaendigeRolle: ''
 beteiligte:

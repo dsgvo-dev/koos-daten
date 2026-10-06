@@ -2,6 +2,7 @@
 id: proc-gleichstellung-mit-schwerbehinderten-menschen
 titel: Gleichstellung mit schwerbehinderten Menschen
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-50
 zustaendigeRolle: ''
 beteiligte: []

@@ -2,6 +2,7 @@
 id: proc-grundsteuerreform-in-niedersachsen
 titel: Grundsteuerreform in Niedersachsen
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-22
 zustaendigeRolle: ''
 beteiligte:

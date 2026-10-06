@@ -1,5 +1,6 @@
 ---
 id: dstore-lernfoerderbedarf
+bereich: extern
 typ: datenspeicher
 system: null
 name: Lernförderbedarf

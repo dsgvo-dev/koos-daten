@@ -2,6 +2,7 @@
 id: proc-versteigerergewerbe-erlaubnis-im-reisegewerbe
 titel: 'Versteigerergewerbe: Erlaubnis im Reisegewerbe'
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-32
 zustaendigeRolle: ''
 beteiligte: []

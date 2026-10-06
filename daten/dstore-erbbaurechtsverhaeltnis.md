@@ -1,5 +1,6 @@
 ---
 id: dstore-erbbaurechtsverhaeltnis
+bereich: extern
 typ: datenspeicher
 system: null
 name: Erbbaurechtsverhältnis

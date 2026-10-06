@@ -2,18 +2,18 @@
 id: proc-change-management
 titel: Change Management
 status: aktiv
+bereich: intern
 zustaendigeEinheit: oe-amt-10
 zustaendigeRolle: ''
 beteiligte: []
 daten:
   input: []
   output: []
-  datenspeicher:
-  - id: dstore-verwaltungsakte
+  datenspeicher: []
 regelungen:
 - '§ 80 NKomVG (Verwaltungsorganisation)'
 - '§ 11 NKomVG (Kommunale Selbstverwaltung)'
-letzte-aktualisierung: 2026-04-29
+letzte-aktualisierung: '2026-10-05'
 ---
 # Change Management
 

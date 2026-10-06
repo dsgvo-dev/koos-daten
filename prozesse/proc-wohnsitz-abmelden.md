@@ -2,6 +2,7 @@
 id: proc-wohnsitz-abmelden
 titel: Wohnsitz abmelden
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-33
 zustaendigeRolle: ''
 beteiligte: []

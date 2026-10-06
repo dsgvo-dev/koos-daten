@@ -2,6 +2,7 @@
 id: proc-veterinaerangelegenheiten-allgemeine-beratung-verfahren
 titel: Veterinärangelegenheiten (allgemeine Beratung/Verfahren)
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-71
 zustaendigeRolle: ''
 beteiligte:

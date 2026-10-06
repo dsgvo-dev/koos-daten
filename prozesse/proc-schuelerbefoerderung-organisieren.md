@@ -2,6 +2,7 @@
 id: proc-schuelerbefoerderung-organisieren
 titel: Schülerbeförderung organisieren
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-40
 zustaendigeRolle: ''
 beteiligte:

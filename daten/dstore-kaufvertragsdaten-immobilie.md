@@ -1,5 +1,6 @@
 ---
 id: dstore-kaufvertragsdaten-immobilie
+bereich: extern
 typ: datenspeicher
 system: null
 name: Kaufvertragsdaten Immobilie

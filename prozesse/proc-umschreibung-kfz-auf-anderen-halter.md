@@ -2,6 +2,7 @@
 id: proc-umschreibung-kfz-auf-anderen-halter
 titel: Umschreibung Kfz auf anderen Halter
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-34
 zustaendigeRolle: ''
 beteiligte:

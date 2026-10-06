@@ -2,6 +2,7 @@
 id: proc-unbedenklichkeitsbescheinigung-ausstellen
 titel: Unbedenklichkeitsbescheinigung ausstellen
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-32
 zustaendigeRolle: sachbearbeiter
 daten:

@@ -2,6 +2,7 @@
 id: proc-kirchenein-und-austritt-bearbeiten
 titel: Kirchenein- und -austritt bearbeiten
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-33
 zustaendigeRolle: ''
 beteiligte:

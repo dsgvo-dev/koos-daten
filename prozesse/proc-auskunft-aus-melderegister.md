@@ -2,6 +2,7 @@
 id: proc-auskunft-aus-melderegister
 titel: Auskunft aus Melderegister
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-33
 zustaendigeRolle: ''
 beteiligte: []

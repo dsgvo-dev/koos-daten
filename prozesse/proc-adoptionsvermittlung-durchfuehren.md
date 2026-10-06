@@ -2,6 +2,7 @@
 id: proc-adoptionsvermittlung-durchfuehren
 titel: Adoption vermitteln
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-51
 zustaendigeRolle: fachkraft
 beteiligte:

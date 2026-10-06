@@ -2,6 +2,7 @@
 id: proc-geburtsurkunde-ausstellen
 titel: Geburtsurkunde ausstellen
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-31
 zustaendigeRolle: ''
 beteiligte: []

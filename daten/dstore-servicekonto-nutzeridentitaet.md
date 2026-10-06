@@ -1,5 +1,6 @@
 ---
 id: dstore-servicekonto-nutzeridentitaet
+bereich: extern
 typ: datenspeicher
 system: null
 name: Servicekonto und Nutzeridentität

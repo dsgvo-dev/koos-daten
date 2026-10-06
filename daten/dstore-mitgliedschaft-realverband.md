@@ -1,5 +1,6 @@
 ---
 id: dstore-mitgliedschaft-realverband
+bereich: extern
 typ: datenspeicher
 system: null
 name: Mitgliedschaft und Beiträge Realverband

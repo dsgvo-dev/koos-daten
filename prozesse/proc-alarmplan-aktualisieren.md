@@ -2,6 +2,7 @@
 id: proc-alarmplan-aktualisieren
 titel: Alarmplan aktualisieren
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-37
 zustaendigeRolle: ''
 beteiligte: []

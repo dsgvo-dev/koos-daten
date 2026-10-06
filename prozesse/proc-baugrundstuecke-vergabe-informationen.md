@@ -2,6 +2,7 @@
 id: proc-baugrundstuecke-vergabe-informationen
 titel: 'Baugrundstücke: Vergabe/Informationen'
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-61
 zustaendigeRolle: ''
 beteiligte:

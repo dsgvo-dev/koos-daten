@@ -2,6 +2,7 @@
 id: proc-dienstaufsichtsbeschwerde-bearbeiten
 titel: Dienstaufsichtsbeschwerde bearbeiten
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-11
 zustaendigeRolle: ''
 beteiligte:
@@ -12,7 +13,6 @@ daten:
   output: []
   datenspeicher:
   - id: dstore-beschwerde-anregungsdaten
-  - id: dstore-personalakte
   - id: dstore-verwaltungsakte
 regelungen:
 - Art. 17 GG - Recht, sich mit Beschwerden an die zuständigen Stellen zu wenden
@@ -29,7 +29,7 @@ regelungen:
 - §§ 4 und 5 VwVfG i. V. m. § 1 Abs. 1 NVwVfG - Amtshilfe bei Weiterleitung
 leika_id: '99146010029000'
 ozg_id: '10130'
-letzte-aktualisierung: '2026-07-30'
+letzte-aktualisierung: '2026-10-06'
 ---
 
 # Dienstaufsichtsbeschwerde bearbeiten

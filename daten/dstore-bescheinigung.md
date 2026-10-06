@@ -1,5 +1,6 @@
 ---
 id: dstore-bescheinigung
+bereich: extern
 typ: datenspeicher
 system: null
 name: Bescheinigung

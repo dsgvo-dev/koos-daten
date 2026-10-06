@@ -2,6 +2,7 @@
 id: proc-gewerbegrundstuecke-vermarktung-anfragen
 titel: 'Gewerbegrundstücke: Vermarktung/Anfragen'
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-80
 zustaendigeRolle: ''
 beteiligte:

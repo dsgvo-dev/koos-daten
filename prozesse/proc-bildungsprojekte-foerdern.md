@@ -2,6 +2,7 @@
 id: proc-bildungsprojekte-foerdern
 titel: Zuschüsse für Bildungsprojekte gewähren
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-40
 zustaendigeRolle: sachbearbeiter
 beteiligte:

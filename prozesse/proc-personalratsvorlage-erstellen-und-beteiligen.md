@@ -2,6 +2,7 @@
 id: proc-personalratsvorlage-erstellen-und-beteiligen
 titel: Personalratsvorlage erstellen und Personalrat beteiligen
 status: aktiv
+bereich: intern
 zustaendigeEinheit: oe-amt-11
 zustaendigeRolle: ''
 beteiligte:

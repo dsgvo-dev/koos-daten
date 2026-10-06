@@ -2,6 +2,7 @@
 id: proc-meldebescheinigung-erteilen
 titel: Meldebescheinigung erteilen
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-33
 zustaendigeRolle: ''
 beteiligte:

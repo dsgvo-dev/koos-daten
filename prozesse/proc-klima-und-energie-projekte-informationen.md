@@ -2,6 +2,7 @@
 id: proc-klima-und-energie-projekte-informationen
 titel: 'Klima und Energie: Projekte/Informationen'
 status: aktiv
+bereich: extern
 
 
 zustaendigeEinheit: oe-amt-60

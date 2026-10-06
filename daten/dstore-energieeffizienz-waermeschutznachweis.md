@@ -1,5 +1,6 @@
 ---
 id: dstore-energieeffizienz-waermeschutznachweis
+bereich: extern
 typ: datenspeicher
 system: null
 name: Energieeffizienz- und Wärmeschutznachweis

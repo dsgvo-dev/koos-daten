@@ -2,6 +2,7 @@
 id: proc-seniorenbeiratswahl-durchfuehren
 titel: Seniorenbeiratswahl durchführen
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-10
 zustaendigeRolle: ''
 beteiligte:

@@ -2,6 +2,7 @@
 id: proc-tierische-nebenprodukte-beseitigen-tierkoerperbeseitigung
 titel: Tierische Nebenprodukte beseitigen (Tierkörperbeseitigung)
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-71
 zustaendigeRolle: ''
 beteiligte:

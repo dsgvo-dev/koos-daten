@@ -1,5 +1,6 @@
 ---
 id: dstore-rechnungskorrektur-storno
+bereich: intern
 typ: datenspeicher
 system: null
 name: Rechnungskorrektur und Storno

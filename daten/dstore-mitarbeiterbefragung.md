@@ -1,5 +1,6 @@
 ---
 id: dstore-mitarbeiterbefragung
+bereich: intern
 typ: datenspeicher
 system: null
 name: Mitarbeiterbefragung

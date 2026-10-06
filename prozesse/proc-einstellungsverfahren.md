@@ -2,6 +2,7 @@
 id: proc-einstellungsverfahren
 titel: Einstellungsverfahren
 status: aktiv
+bereich: intern
 zustaendigeEinheit: oe-amt-11
 zustaendigeRolle: ''
 beteiligte: []
@@ -11,14 +12,12 @@ daten:
   datenspeicher:
   - id: dstore-personalakte
   - id: dstore-bewerbungsunterlagen
-  - id: dstore-lebenslauf-qualifikationsnachweis
   - id: dstore-arbeitsverhaeltnis-beschaeftigung
-  - id: dstore-verwaltungsakte
 regelungen:
 - '§§ 10-13 Nds. Beamtengesetz (NBG) (Begründung des Beamtenverhältnisses)'
 - '§§ 1 ff. TVöD (Geltungsbereich/Einstellung)'
 - '§ 85 NKomVG (Personalhoheit)'
-letzte-aktualisierung: 2026-04-29
+letzte-aktualisierung: '2026-10-06'
 ---
 # Einstellungsverfahren
 

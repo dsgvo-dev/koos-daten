@@ -1,5 +1,6 @@
 ---
 id: dstore-hinweismeldung
+bereich: extern
 typ: datenspeicher
 system: null
 name: Hinweismeldung der internen Meldestelle

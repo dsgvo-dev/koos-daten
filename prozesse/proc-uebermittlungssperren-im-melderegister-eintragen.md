@@ -2,6 +2,7 @@
 id: proc-uebermittlungssperren-im-melderegister-eintragen
 titel: Übermittlungssperren im Melderegister eintragen
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-33
 zustaendigeRolle: ''
 beteiligte: []

@@ -2,6 +2,7 @@
 id: proc-fahrverbot-fuehrerscheinabgabe-abwickeln
 titel: Fahrverbot / Führerscheinabgabe abwickeln
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-34
 zustaendigeRolle: ''
 beteiligte: []

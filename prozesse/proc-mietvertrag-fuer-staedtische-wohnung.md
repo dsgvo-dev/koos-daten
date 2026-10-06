@@ -2,6 +2,7 @@
 id: proc-mietvertrag-fuer-staedtische-wohnung
 titel: Mietvertrag für städtische Wohnung
 status: aktiv
+bereich: intern
 zustaendigeEinheit: oe-amt-65
 zustaendigeRolle: ''
 beteiligte: []
@@ -10,13 +11,10 @@ daten:
   output: []
   datenspeicher:
   - id: dstore-mietvertrag
-  - id: dstore-kommunaler-miet-nutzungsvertrag
-  - id: dstore-personenstammdaten
-  - id: dstore-wohnflaeche-nutzflaeche
 regelungen:
 - '§§ 535-580a BGB (Mietvertrag)'
 - '§§ 92-96 NKomVG (Kommunale Grundstücksverwaltung)'
-letzte-aktualisierung: 2026-04-29
+letzte-aktualisierung: '2026-10-05'
 ---
 # Mietvertrag für städtische Wohnung
 

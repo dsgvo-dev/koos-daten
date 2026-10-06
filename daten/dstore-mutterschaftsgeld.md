@@ -1,5 +1,6 @@
 ---
 id: dstore-mutterschaftsgeld
+bereich: extern
 typ: datenspeicher
 system: null
 name: Mutterschaftsgeld

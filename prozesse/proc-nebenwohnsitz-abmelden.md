@@ -2,6 +2,7 @@
 id: proc-nebenwohnsitz-abmelden
 titel: Nebenwohnsitz abmelden
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-33
 zustaendigeRolle: ''
 beteiligte: []

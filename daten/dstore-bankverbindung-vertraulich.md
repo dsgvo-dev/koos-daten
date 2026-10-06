@@ -1,5 +1,6 @@
 ---
 id: dstore-bankverbindung-vertraulich
+bereich: extern
 typ: datenspeicher
 system: null
 name: Kontoverbindung von Personen in Verfahren, deren Zugehörigkeit selbst schutzbedürftig ist

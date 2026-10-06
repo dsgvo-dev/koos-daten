@@ -2,6 +2,7 @@
 id: proc-verkehrssicherheit-beschwerde-bearbeiten
 titel: Verkehrssicherheitsbeschwerde bearbeiten
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-34
 zustaendigeRolle: sachbearbeiter
 daten:

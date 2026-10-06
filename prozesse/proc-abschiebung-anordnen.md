@@ -2,6 +2,7 @@
 id: proc-abschiebung-anordnen
 titel: Abschiebung anordnen
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-47
 zustaendigeRolle: ''
 beteiligte: []

@@ -2,6 +2,7 @@
 id: proc-heirat-anmelden
 titel: Heirat anmelden
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-31
 zustaendigeRolle: ''
 beteiligte: []

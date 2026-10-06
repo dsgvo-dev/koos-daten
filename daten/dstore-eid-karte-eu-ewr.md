@@ -1,5 +1,6 @@
 ---
 id: dstore-eid-karte-eu-ewr
+bereich: extern
 typ: datenspeicher
 system: null
 name: eID-Karte EU/EWR

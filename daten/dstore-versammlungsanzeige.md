@@ -1,5 +1,6 @@
 ---
 id: dstore-versammlungsanzeige
+bereich: extern
 typ: datenspeicher
 system: null
 name: Versammlungsanzeige und Auflagen

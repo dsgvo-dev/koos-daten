@@ -2,6 +2,7 @@
 id: proc-sonn-und-feiertagsausnahmen-im-reisegewerbe-beantragen
 titel: Sonn- und Feiertagsausnahmen im Reisegewerbe beantragen
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-32
 zustaendigeRolle: ''
 beteiligte:

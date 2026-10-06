@@ -2,6 +2,7 @@
 id: proc-abwasseranlagen-genehmigung
 titel: 'Abwasseranlagen: Genehmigung'
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-67
 zustaendigeRolle: ''
 beteiligte: []

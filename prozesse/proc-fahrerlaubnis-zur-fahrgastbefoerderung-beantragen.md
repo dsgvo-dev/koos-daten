@@ -2,6 +2,7 @@
 id: proc-fahrerlaubnis-zur-fahrgastbefoerderung-beantragen
 titel: Fahrerlaubnis zur Fahrgastbeförderung beantragen
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-34
 zustaendigeRolle: ''
 beteiligte:

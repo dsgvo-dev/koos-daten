@@ -2,6 +2,7 @@
 id: proc-ausnahmen-mindestbesichtigungsdauer-versteigerungsgut-zulassen
 titel: Ausnahmen Mindestbesichtigungsdauer Versteigerungsgut zulassen
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-32
 zustaendigeRolle: ''
 beteiligte: []

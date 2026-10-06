@@ -2,6 +2,7 @@
 id: proc-grundsicherung-im-alter-und-bei-erwerbsminderung-beantragen
 titel: Grundsicherung im Alter und bei Erwerbsminderung beantragen
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-50
 zustaendigeRolle: ''
 beteiligte:

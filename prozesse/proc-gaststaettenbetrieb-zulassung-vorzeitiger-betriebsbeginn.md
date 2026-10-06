@@ -2,6 +2,7 @@
 id: proc-gaststaettenbetrieb-zulassung-vorzeitiger-betriebsbeginn
 titel: Gaststättenbetrieb Zulassung vorzeitiger Betriebsbeginn
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-32
 zustaendigeRolle: ''
 beteiligte:

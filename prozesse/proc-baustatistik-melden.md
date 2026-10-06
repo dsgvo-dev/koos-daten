@@ -2,6 +2,7 @@
 id: proc-baustatistik-melden
 titel: Baufertigstellungsstatistik melden
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-63
 zustaendigeRolle: sachbearbeiter
 daten:

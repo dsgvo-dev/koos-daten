@@ -2,6 +2,7 @@
 id: proc-gewerbeimmobilien-vermitteln
 titel: Gewerbeimmobilien vermitteln
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-80
 zustaendigeRolle: ''
 beteiligte: []

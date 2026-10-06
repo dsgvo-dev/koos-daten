@@ -2,6 +2,7 @@
 id: proc-sitzung-der-vertretung-live-uebertragen
 titel: Sitzung der Vertretung live übertragen
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-10
 zustaendigeRolle: ''
 beteiligte:

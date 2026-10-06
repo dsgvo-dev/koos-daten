@@ -2,6 +2,7 @@
 id: proc-37-003-feuerwehr-expo
 titel: Feuerwehr-Expositionsdatenbank (Einsatzkräfte)
 status: aktiv
+bereich: intern
 zustaendigeEinheit: oe-amt-37
 zustaendigeRolle: ''
 beteiligte: []

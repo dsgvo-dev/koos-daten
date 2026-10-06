@@ -2,6 +2,7 @@
 id: proc-digitalisierung-projekte-koordination
 titel: Digitalisierung — Projekte und Koordination
 status: aktiv
+bereich: intern
 zustaendigeEinheit: oe-amt-1-6
 zustaendigeRolle: Digitalisierungsbeauftragte/r
 
@@ -14,8 +15,7 @@ daten:
     - Digitalisierungskonzepte und Roadmaps
     - Eingeführte Online-Dienste (OZG)
     - Schulungsunterlagen für digitale Verfahren
-  datenspeicher:
-    - id: dstore-servicekonto-nutzeridentitaet
+  datenspeicher: []
 
 regelungen:
   - OZG (Onlinezugangsgesetz)
@@ -23,7 +23,7 @@ regelungen:
   - NdEGovG (Niedersächsisches E-Government-Gesetz)
   - DSGVO (Datenschutz-Grundverordnung)
 
-letzte-aktualisierung: 2026-04-23
+letzte-aktualisierung: '2026-10-06'
 ---
 # Digitalisierung — Projekte und Koordination
 

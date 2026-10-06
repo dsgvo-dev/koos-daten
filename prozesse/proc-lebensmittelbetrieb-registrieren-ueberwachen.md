@@ -2,6 +2,7 @@
 id: proc-lebensmittelbetrieb-registrieren-ueberwachen
 titel: Lebensmittelbetrieb registrieren/überwachen
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-71
 zustaendigeRolle: ''
 beteiligte:

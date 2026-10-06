@@ -1,5 +1,6 @@
 ---
 id: dstore-hundesteuermarke
+bereich: extern
 typ: datenspeicher
 system: null
 name: Hundesteuermarke

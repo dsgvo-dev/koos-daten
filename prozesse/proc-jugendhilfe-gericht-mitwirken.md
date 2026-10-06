@@ -2,6 +2,7 @@
 id: proc-jugendhilfe-gericht-mitwirken
 titel: In gerichtlichen Verfahren der Jugendhilfe mitwirken
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-51
 zustaendigeRolle: fachkraft
 beteiligte:

@@ -1,5 +1,6 @@
 ---
 id: dstore-tierschlachtungsmeldung
+bereich: extern
 typ: datenspeicher
 system: null
 name: Tierschlachtungsmeldung

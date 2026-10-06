@@ -2,6 +2,7 @@
 id: proc-gesetzlicher-biotopschutz
 titel: Gesetzlicher Biotopschutz
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-60
 zustaendigeRolle: ''
 beteiligte: []

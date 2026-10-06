@@ -2,6 +2,7 @@
 id: proc-kfz-zulassung-neufahrzeuge
 titel: 'Kfz-Zulassung: Neufahrzeuge'
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-34
 zustaendigeRolle: ''
 beteiligte:

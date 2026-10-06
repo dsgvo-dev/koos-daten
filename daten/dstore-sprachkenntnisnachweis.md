@@ -1,5 +1,6 @@
 ---
 id: dstore-sprachkenntnisnachweis
+bereich: extern
 typ: datenspeicher
 system: null
 name: Sprachkenntnisnachweis

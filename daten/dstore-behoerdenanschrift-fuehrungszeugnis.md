@@ -1,5 +1,6 @@
 ---
 id: dstore-behoerdenanschrift-fuehrungszeugnis
+bereich: extern
 typ: datenspeicher
 system: null
 name: Behördenanschrift für Führungszeugnisse

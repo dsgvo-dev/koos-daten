@@ -2,6 +2,7 @@
 id: proc-altenhilfe-beratung-antraege
 titel: Altenhilfe (Beratung/Anträge)
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-50
 zustaendigeRolle: ''
 beteiligte:

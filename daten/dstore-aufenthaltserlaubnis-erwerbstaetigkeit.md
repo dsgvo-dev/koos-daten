@@ -1,5 +1,6 @@
 ---
 id: dstore-aufenthaltserlaubnis-erwerbstaetigkeit
+bereich: extern
 typ: datenspeicher
 system: null
 name: Aufenthaltserlaubnis Erwerbstätigkeit

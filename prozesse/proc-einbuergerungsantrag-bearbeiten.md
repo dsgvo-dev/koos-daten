@@ -2,6 +2,7 @@
 id: proc-einbuergerungsantrag-bearbeiten
 titel: Einbürgerungsantrag bearbeiten
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-47
 zustaendigeRolle: ''
 beteiligte: []

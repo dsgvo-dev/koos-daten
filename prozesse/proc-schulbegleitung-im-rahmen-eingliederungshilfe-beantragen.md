@@ -2,6 +2,7 @@
 id: proc-schulbegleitung-im-rahmen-eingliederungshilfe-beantragen
 titel: Schulbegleitung im Rahmen Eingliederungshilfe beantragen
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-52
 zustaendigeRolle: ''
 beteiligte:

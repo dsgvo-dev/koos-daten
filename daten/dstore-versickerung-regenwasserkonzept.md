@@ -1,5 +1,6 @@
 ---
 id: dstore-versickerung-regenwasserkonzept
+bereich: extern
 typ: datenspeicher
 system: null
 name: Versickerungs- und Regenwasserkonzept

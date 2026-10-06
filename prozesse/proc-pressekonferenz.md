@@ -2,6 +2,7 @@
 id: proc-pressekonferenz
 titel: Pressekonferenz
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-13
 zustaendigeRolle: ''
 beteiligte: []

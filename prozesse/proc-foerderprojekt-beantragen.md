@@ -2,6 +2,7 @@
 id: proc-foerderprojekt-beantragen
 titel: Förderprojekt beantragen
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-1-1
 zustaendigeRolle: ''
 beteiligte: []
@@ -10,12 +11,11 @@ daten:
   output: []
   datenspeicher:
   - id: dstore-foerderantrag
-  - id: dstore-abrechnungsdaten
   - id: dstore-verwaltungsakte
 regelungen:
 - '§§ 23-44 LHO Nds. (Zuwendungen)'
 - 'EFRE/ESF EU-Verordnungen (Strukturfondsprogramm)'
-letzte-aktualisierung: 2026-04-29
+letzte-aktualisierung: '2026-10-06'
 ---
 # Förderprojekt beantragen
 

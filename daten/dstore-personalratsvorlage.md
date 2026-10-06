@@ -1,5 +1,6 @@
 ---
 id: dstore-personalratsvorlage
+bereich: intern
 typ: datenspeicher
 system: null
 name: Personalratsvorlage

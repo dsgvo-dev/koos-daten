@@ -2,6 +2,7 @@
 id: proc-grundsicherung-im-alter-und-bei-erwerbsminderung-sozialhilfe
 titel: Grundsicherung im Alter und bei Erwerbsminderung (Sozialhilfe)
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-50
 zustaendigeRolle: ''
 beteiligte: []

@@ -1,5 +1,6 @@
 ---
 id: dstore-genehmigung
+bereich: extern
 typ: datenspeicher
 system: null
 name: Genehmigung

@@ -2,6 +2,7 @@
 id: proc-kfz-ummeldung-ohne-halterwechsel
 titel: 'KFZ: Ummeldung (ohne Halterwechsel)'
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-34
 zustaendigeRolle: ''
 beteiligte:

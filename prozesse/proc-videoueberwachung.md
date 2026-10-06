@@ -2,6 +2,7 @@
 id: proc-videoueberwachung
 titel: Videoüberwachung — Lebenszyklus
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-1-4
 zustaendigeRolle: Datenschutzbeauftragte/r
 beteiligte:

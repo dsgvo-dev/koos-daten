@@ -1,5 +1,6 @@
 ---
 id: dstore-sterbeurkunde
+bereich: extern
 typ: datenspeicher
 system: null
 name: Sterbeurkunde

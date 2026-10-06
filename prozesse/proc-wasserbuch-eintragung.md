@@ -2,6 +2,7 @@
 id: proc-wasserbuch-eintragung
 titel: Wasserbuch-Eintragung (Digitales Wasserbuch WBE)
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-60
 zustaendigeRolle: sachbearbeitung
 beteiligte:

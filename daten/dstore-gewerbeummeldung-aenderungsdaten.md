@@ -1,5 +1,6 @@
 ---
 id: dstore-gewerbeummeldung-aenderungsdaten
+bereich: extern
 typ: datenspeicher
 system: null
 name: Gewerbeummeldung Änderungsdaten

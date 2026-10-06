@@ -1,5 +1,6 @@
 ---
 id: dstore-niederlassungserlaubnisvoraussetzungen
+bereich: extern
 typ: datenspeicher
 system: null
 name: Niederlassungserlaubnisvoraussetzungen

@@ -2,6 +2,7 @@
 id: proc-amtsaerztliche-untersuchung
 titel: Amtsärztliche Untersuchung
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-53
 zustaendigeRolle: ''
 beteiligte: []

@@ -1,5 +1,6 @@
 ---
 id: dstore-leitwegid-peppolid
+bereich: intern
 typ: datenspeicher
 system: null
 name: Leitweg-ID und Peppol-ID

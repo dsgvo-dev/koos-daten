@@ -1,5 +1,6 @@
 ---
 id: dstore-vergabeunterlagen
+bereich: extern
 typ: datenspeicher
 system: null
 name: Vergabeunterlagen

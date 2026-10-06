@@ -2,6 +2,7 @@
 id: proc-waffenbesitzkarte-beantragen
 titel: Waffenbesitzkarte beantragen
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-32
 zustaendigeRolle: ''
 beteiligte:

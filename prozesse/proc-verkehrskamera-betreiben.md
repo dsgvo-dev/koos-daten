@@ -2,6 +2,7 @@
 id: proc-verkehrskamera-betreiben
 titel: Kamera-System zur Verkehrsoptimierung betreiben
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-34
 zustaendigeRolle: sachbearbeiter
 daten:

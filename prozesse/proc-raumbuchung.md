@@ -2,6 +2,7 @@
 id: proc-raumbuchung
 titel: Raum buchen (Sitzungszimmer, Besprechungsräume)
 status: aktiv
+bereich: intern
 zustaendigeEinheit: oe-amt-10
 zustaendigeRolle: sachbearbeiter
 beteiligte:
@@ -16,15 +17,14 @@ beteiligte:
   aufgabe: Raumpflege, Bestuhlung, Sonderausstattung
 daten:
   datenspeicher:
-  - dstore-termin-und-vorsprachedaten
-  - dstore-kontaktdaten
+  - dstore-raumbuchung
 regelungen:
 - Dienstanweisung Raumnutzung
 - Hausordnung
 - Arbeitsstättenverordnung (ArbStättV)
 leika_id: ''
 ozg_id: ''
-letzte-aktualisierung: '2026-08-04'
+letzte-aktualisierung: '2026-10-05'
 ---
 
 # Raum buchen

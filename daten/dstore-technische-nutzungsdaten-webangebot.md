@@ -1,5 +1,6 @@
 ---
 id: dstore-technische-nutzungsdaten-webangebot
+bereich: extern
 typ: datenspeicher
 system: null
 name: Technische Nutzungsdaten eines Webangebots

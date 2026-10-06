@@ -1,5 +1,6 @@
 ---
 id: dstore-pflegegrad-pflegeleistungen
+bereich: extern
 typ: datenspeicher
 system: null
 name: Pflegegrad und Pflegeleistungen

@@ -2,6 +2,7 @@
 id: proc-grundstuecksangelegenheiten-staedtisch
 titel: Grundstücksangelegenheiten, städtisch
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-23
 zustaendigeRolle: ''
 beteiligte:

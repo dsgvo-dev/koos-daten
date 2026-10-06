@@ -2,6 +2,7 @@
 id: proc-grundstueckspachten
 titel: Grundstückspachten
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-23
 zustaendigeRolle: ''
 beteiligte:

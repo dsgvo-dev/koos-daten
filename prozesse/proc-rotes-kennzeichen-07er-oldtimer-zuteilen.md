@@ -2,6 +2,7 @@
 id: proc-rotes-kennzeichen-07er-oldtimer-zuteilen
 titel: Rotes Fahrzeugkennzeichen (07er) für Oldtimer zuteilen
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-34
 zustaendigeRolle: ''
 beteiligte:

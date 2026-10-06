@@ -2,6 +2,7 @@
 id: proc-waffeneintrag
 titel: Waffeneintrag
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-32
 zustaendigeRolle: ''
 beteiligte: []

@@ -1,5 +1,6 @@
 ---
 id: dstore-brandschutznachweis
+bereich: extern
 typ: datenspeicher
 system: null
 name: Brandschutznachweis

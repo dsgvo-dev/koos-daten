@@ -2,6 +2,7 @@
 id: proc-protokollfuehrung
 titel: Protokollführung
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-10
 zustaendigeRolle: ''
 beteiligte: []

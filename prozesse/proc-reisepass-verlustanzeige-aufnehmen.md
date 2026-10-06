@@ -2,6 +2,7 @@
 id: proc-reisepass-verlustanzeige-aufnehmen
 titel: 'Reisepass: Verlustanzeige aufnehmen'
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-33
 zustaendigeRolle: ''
 beteiligte:

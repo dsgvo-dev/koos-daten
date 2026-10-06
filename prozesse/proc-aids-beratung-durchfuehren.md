@@ -2,6 +2,7 @@
 id: proc-aids-beratung-durchfuehren
 titel: AIDS-Beratung und HIV-Testung durchführen
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-53
 zustaendigeRolle: fachkraft
 beteiligte:

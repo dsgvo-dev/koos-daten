@@ -1,5 +1,6 @@
 ---
 id: dstore-auskunftssperre-melderegister
+bereich: extern
 typ: datenspeicher
 system: null
 name: Auskunftssperre Melderegister

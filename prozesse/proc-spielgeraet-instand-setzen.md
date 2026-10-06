@@ -2,6 +2,7 @@
 id: proc-spielgeraet-instand-setzen
 titel: Spielgerät instand setzen
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-66
 zustaendigeRolle: ''
 beteiligte: []

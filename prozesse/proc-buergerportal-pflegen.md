@@ -2,6 +2,7 @@
 id: proc-buergerportal-pflegen
 titel: Bürgerportal pflegen
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-1-6
 zustaendigeRolle: ''
 beteiligte: []
@@ -9,7 +10,6 @@ daten:
   input: []
   output: []
   datenspeicher:
-  - id: dstore-it-berechtigungsantrag
   - id: dstore-verwaltungsakte
 regelungen: []
 letzte-aktualisierung: '2026-08-03'

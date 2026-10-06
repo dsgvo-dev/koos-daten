@@ -1,5 +1,6 @@
 ---
 id: dstore-tierkoerperbeseitigungsnachweis
+bereich: extern
 typ: datenspeicher
 system: null
 name: Tierkörperbeseitigungsnachweis

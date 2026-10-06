@@ -2,6 +2,7 @@
 id: proc-austritt-beendigung-beschaeftigungsverhaeltnis
 titel: Austritt / Beendigung des Beschäftigungsverhältnisses
 status: aktiv
+bereich: intern
 zustaendigeEinheit: oe-amt-11
 zustaendigeRolle: Sachbearbeitung
 beteiligte:
@@ -23,7 +24,6 @@ daten:
     - id: dstore-arbeitsverhaeltnis-beschaeftigung
     - id: dstore-it-berechtigungsantrag
     - id: dstore-abrechnungsdaten
-    - id: dstore-rentenversicherungsverlauf
 regelungen:
   - "Art. 88 DSGVO i.V.m. § 12 NDSG (Beschäftigtendatenschutz)"
   - "§§ 88, 94 NBG (Personalakte, Gesundheitsdaten)"
@@ -37,7 +37,7 @@ regelungen:
   - "§ 86 NKomVG (Personalhoheit)"
 leika_id: null
 ozg_id: null
-letzte-aktualisierung: '2026-08-21'
+letzte-aktualisierung: '2026-10-06'
 ---
 # Austritt / Beendigung des Beschäftigungsverhältnisses
 

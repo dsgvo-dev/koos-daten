@@ -2,6 +2,7 @@
 id: proc-50-010-jobcenter
 titel: Jobcenter / Grundsicherung für Arbeitsuchende (SGB II)
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-50
 zustaendigeRolle: ''
 beteiligte: []

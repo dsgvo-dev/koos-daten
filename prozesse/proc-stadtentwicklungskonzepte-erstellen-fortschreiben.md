@@ -2,6 +2,7 @@
 id: proc-stadtentwicklungskonzepte-erstellen-fortschreiben
 titel: Stadtentwicklungskonzepte erstellen/fortschreiben
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-61
 zustaendigeRolle: ''
 beteiligte:

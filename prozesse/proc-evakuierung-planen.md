@@ -2,6 +2,7 @@
 id: proc-evakuierung-planen
 titel: Evakuierung planen
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-37
 zustaendigeRolle: ''
 beteiligte: []

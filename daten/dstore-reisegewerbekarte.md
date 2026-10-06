@@ -1,5 +1,6 @@
 ---
 id: dstore-reisegewerbekarte
+bereich: extern
 typ: datenspeicher
 system: null
 name: Reisegewerbekarte

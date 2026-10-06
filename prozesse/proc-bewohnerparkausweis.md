@@ -2,6 +2,7 @@
 id: proc-bewohnerparkausweis
 titel: Bewohnerparkausweis
 status: ersetzt
+bereich: extern
 ersetzt-durch: proc-bewohnerparkausweis-beantragen
 zustaendigeEinheit: oe-amt-34
 zustaendigeRolle: ''

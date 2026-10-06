@@ -1,5 +1,6 @@
 ---
 id: dstore-staatsangehoerigkeit-aufenthaltsstatus
+bereich: extern
 typ: datenspeicher
 system: null
 name: Staatsangehörigkeit und Aufenthaltsstatus

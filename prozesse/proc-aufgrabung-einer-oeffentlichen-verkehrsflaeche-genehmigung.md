@@ -2,6 +2,7 @@
 id: proc-aufgrabung-einer-oeffentlichen-verkehrsflaeche-genehmigung
 titel: 'Aufgrabung einer öffentlichen Verkehrsfläche: Genehmigung'
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-66
 zustaendigeRolle: ''
 beteiligte:

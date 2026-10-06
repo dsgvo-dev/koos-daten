@@ -1,5 +1,6 @@
 ---
 id: dstore-gesundheitszeugnis
+bereich: extern
 typ: datenspeicher
 system: null
 name: Gesundheitszeugnis

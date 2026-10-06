@@ -2,6 +2,7 @@
 id: proc-referendarstation-durchfuehren
 titel: Referendarstation durchführen
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-30
 zustaendigeRolle: ''
 beteiligte:

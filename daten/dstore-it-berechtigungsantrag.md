@@ -1,5 +1,6 @@
 ---
 id: dstore-it-berechtigungsantrag
+bereich: intern
 name: IT-Berechtigungsantrag
 zuständige-einheit: oe-amt-15
 bpmn:

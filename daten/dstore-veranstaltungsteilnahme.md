@@ -1,5 +1,6 @@
 ---
 id: dstore-veranstaltungsteilnahme
+bereich: extern
 typ: datenspeicher
 system: null
 name: Teilnahme an Veranstaltungen

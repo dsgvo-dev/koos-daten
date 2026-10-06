@@ -2,6 +2,7 @@
 id: proc-kirchenaustritt-erklaeren
 titel: Kirchenaustritt erklären
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-31
 zustaendigeRolle: ''
 beteiligte:

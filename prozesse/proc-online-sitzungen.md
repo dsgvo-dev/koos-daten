@@ -2,6 +2,7 @@
 id: proc-online-sitzungen
 titel: Online-Sitzungen
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-1-1
 zustaendigeRolle: ''
 beteiligte:

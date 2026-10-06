@@ -2,6 +2,7 @@
 id: proc-vorlaeufiger-personalausweis-ausstellen
 titel: Vorläufiger Personalausweis ausstellen
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-33
 zustaendigeRolle: ''
 beteiligte:

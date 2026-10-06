@@ -2,6 +2,7 @@
 id: proc-verkehrszeichen-aufstellen
 titel: Verkehrszeichen aufstellen
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-86
 zustaendigeRolle: ''
 beteiligte: []

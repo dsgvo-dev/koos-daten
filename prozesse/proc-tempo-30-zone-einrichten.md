@@ -2,6 +2,7 @@
 id: proc-tempo-30-zone-einrichten
 titel: Tempo-30-Zone einrichten
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-86
 zustaendigeRolle: ''
 beteiligte: []

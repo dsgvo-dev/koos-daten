@@ -2,6 +2,7 @@
 id: proc-itsicherheitsvorfall-melden
 titel: IT-Sicherheitsvorfall melden und erstbehandeln (Schadsoftware)
 status: aktiv
+bereich: intern
 zustaendigeEinheit: oe-amt-15
 zustaendigeRolle: Sachbearbeitung
 beteiligte:
@@ -17,7 +18,7 @@ daten:
   output:
     - Ticket im Incident-Management-System, forensischer Bericht, ggf. Data-Breach-Meldung
   datenspeicher:
-    - id: dstore-sicherheitsmangelmeldung
+    - id: dstore-it-sicherheitsvorfall
     - id: dstore-it-berechtigungsantrag
 regelungen:
   - "BSI IT-Grundschutz (Incident Response)"
@@ -29,7 +30,7 @@ regelungen:
   - "DA IT-Nutzung, DA Informationssicherheit"
 leika_id: null
 ozg_id: null
-letzte-aktualisierung: '2026-08-23'
+letzte-aktualisierung: '2026-10-05'
 ---
 # IT-Sicherheitsvorfall melden und erstbehandeln (Schadsoftware)
 

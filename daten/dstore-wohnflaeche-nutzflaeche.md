@@ -1,5 +1,6 @@
 ---
 id: dstore-wohnflaeche-nutzflaeche
+bereich: extern
 typ: datenspeicher
 system: null
 name: Wohnfläche und Nutzfläche

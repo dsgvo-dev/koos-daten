@@ -2,6 +2,7 @@
 id: proc-natur-landschaft-pflege-projekte
 titel: 'Natur & Landschaft: Pflege/Projekte'
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-60
 zustaendigeRolle: ''
 beteiligte:

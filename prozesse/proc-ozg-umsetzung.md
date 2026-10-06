@@ -2,6 +2,7 @@
 id: proc-ozg-umsetzung
 titel: OZG-Umsetzung
 status: aktiv
+bereich: intern
 zustaendigeEinheit: oe-amt-1-6
 zustaendigeRolle: ''
 beteiligte: []
@@ -10,12 +11,11 @@ daten:
   output: []
   datenspeicher:
   - id: dstore-it-berechtigungsantrag
-  - id: dstore-verwaltungsakte
 regelungen:
 - '§§ 10-15 Personalausweisgesetz (PAuswG) (Online-Ausweisfunktion)'
 - '§§ 1 ff. Onlinezugangsgesetz (OZG)'
 - '§ 1 Nds. E-Government-Gesetz (NEGG)'
-letzte-aktualisierung: 2026-04-29
+letzte-aktualisierung: '2026-10-05'
 ---
 # OZG-Umsetzung
 

@@ -1,5 +1,6 @@
 ---
 id: dstore-arbeitsverhaeltnis-beschaeftigung
+bereich: intern
 typ: datenspeicher
 system: null
 name: Arbeitsverhältnis und Beschäftigung

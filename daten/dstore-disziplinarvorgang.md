@@ -1,5 +1,6 @@
 ---
 id: dstore-disziplinarvorgang
+bereich: intern
 typ: datenspeicher
 system: null
 name: Disziplinarvorgang

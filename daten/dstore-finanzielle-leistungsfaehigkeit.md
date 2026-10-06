@@ -1,5 +1,6 @@
 ---
 id: dstore-finanzielle-leistungsfaehigkeit
+bereich: extern
 typ: datenspeicher
 system: null
 name: Nachweis der finanziellen Leistungsfähigkeit

@@ -2,6 +2,7 @@
 id: proc-sozialhilfe-rueckfordern
 titel: Sozialhilfe zurückfordern und Ansprüche überleiten
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-50
 zustaendigeRolle: sachbearbeiter
 beteiligte:

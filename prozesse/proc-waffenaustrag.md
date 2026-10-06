@@ -2,6 +2,7 @@
 id: proc-waffenaustrag
 titel: Waffenaustrag
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-32
 zustaendigeRolle: ''
 beteiligte: []

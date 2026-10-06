@@ -2,6 +2,7 @@
 id: proc-ersterteilung-einer-fahrerlaubnis-motorrad
 titel: Ersterteilung einer Fahrerlaubnis (Motorrad)
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-34
 zustaendigeRolle: ''
 beteiligte:

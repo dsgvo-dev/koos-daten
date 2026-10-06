@@ -2,6 +2,7 @@
 id: proc-erlaubnis-zum-betrieb-einer-schiessstaette
 titel: Erlaubnis zum Betrieb einer Schießstätte
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-32
 zustaendigeRolle: ''
 beteiligte: []

@@ -2,6 +2,7 @@
 id: proc-brennholz-brennholzverkauf-organisieren
 titel: Brennholz/Brennholzverkauf organisieren
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-82
 zustaendigeRolle: ''
 beteiligte:

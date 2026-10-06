@@ -2,6 +2,7 @@
 id: proc-kita-anmeldung
 titel: Kita-Anmeldung
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-51
 zustaendigeRolle: ''
 beteiligte:

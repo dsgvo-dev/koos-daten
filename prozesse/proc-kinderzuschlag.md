@@ -2,6 +2,7 @@
 id: proc-kinderzuschlag
 titel: Kinderzuschlag
 status: inaktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-50
 zustaendigeRolle: ''
 beteiligte: []

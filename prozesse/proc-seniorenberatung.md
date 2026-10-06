@@ -2,6 +2,7 @@
 id: proc-seniorenberatung
 titel: Seniorenberatung
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-50
 zustaendigeRolle: ''
 beteiligte: []

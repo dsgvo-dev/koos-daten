@@ -2,6 +2,7 @@
 id: proc-wohngeld-beantragen
 titel: Wohngeld beantragen
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-64
 zustaendigeRolle: Sachbearbeitung Wohngeld
 beteiligte: []

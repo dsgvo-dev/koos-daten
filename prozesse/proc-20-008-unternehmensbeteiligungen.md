@@ -2,6 +2,7 @@
 id: proc-20-008-unternehmensbeteiligungen
 titel: Unternehmensbeteiligungen (Organe)
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-20
 zustaendigeRolle: ''
 beteiligte: []
@@ -13,7 +14,7 @@ regelungen:
 - Art. 6 Abs. 1 lit. e DSGVO; §§ 138 ff. NKomVG
 leika_id: null
 ozg_id: null
-letzte-aktualisierung: '2026-08-15'
+letzte-aktualisierung: '2026-10-06'
 ---
 
 # Unternehmensbeteiligungen (Organe)

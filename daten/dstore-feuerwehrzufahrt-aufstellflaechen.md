@@ -1,5 +1,6 @@
 ---
 id: dstore-feuerwehrzufahrt-aufstellflaechen
+bereich: extern
 typ: datenspeicher
 system: null
 name: Feuerwehrzufahrt und Aufstellflächen

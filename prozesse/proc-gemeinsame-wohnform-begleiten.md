@@ -2,6 +2,7 @@
 id: proc-gemeinsame-wohnform-begleiten
 titel: Gemeinsame Wohnform für Mütter/Väter begleiten
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-51
 zustaendigeRolle: fallfuehrung
 beteiligte:

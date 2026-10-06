@@ -2,6 +2,7 @@
 id: proc-kleinen-waffenschein-erteilen
 titel: Kleinen Waffenschein erteilen
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-32
 zustaendigeRolle: ''
 beteiligte: []

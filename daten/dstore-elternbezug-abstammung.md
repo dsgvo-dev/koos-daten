@@ -1,5 +1,6 @@
 ---
 id: dstore-elternbezug-abstammung
+bereich: extern
 typ: datenspeicher
 system: null
 name: Elternbezug und Abstammungsangaben

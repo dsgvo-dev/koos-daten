@@ -1,5 +1,6 @@
 ---
 id: dstore-sicherheitserkenntnisse
+bereich: intern
 typ: datenspeicher
 system: null
 name: Sicherheitserkenntnisse (Sicherheitsüberprüfung)

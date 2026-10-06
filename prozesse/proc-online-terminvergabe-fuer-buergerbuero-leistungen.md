@@ -2,6 +2,7 @@
 id: proc-online-terminvergabe-fuer-buergerbuero-leistungen
 titel: Online-Terminvergabe für Bürgerbüro-Leistungen
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-33
 zustaendigeRolle: ''
 beteiligte:

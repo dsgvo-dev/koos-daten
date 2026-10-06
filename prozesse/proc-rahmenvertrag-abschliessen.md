@@ -2,6 +2,7 @@
 id: proc-rahmenvertrag-abschliessen
 titel: Rahmenvertrag abschließen
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-10
 zustaendigeRolle: ''
 beteiligte: []

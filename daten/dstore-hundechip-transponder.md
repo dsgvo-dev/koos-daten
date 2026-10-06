@@ -1,5 +1,6 @@
 ---
 id: dstore-hundechip-transponder
+bereich: extern
 typ: datenspeicher
 system: null
 name: Hundechip und Transpondernummer

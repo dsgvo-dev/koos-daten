@@ -1,5 +1,6 @@
 ---
 id: dstore-ausbildungsnachweis-station
+bereich: extern
 typ: datenspeicher
 system: null
 name: Ausbildungsnachweis und Stationszeugnis

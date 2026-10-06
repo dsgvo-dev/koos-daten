@@ -2,6 +2,7 @@
 id: proc-altlastenverzeichnis-fuehren
 titel: Altlastenverzeichnis führen und fortschreiben
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-60
 zustaendigeRolle: ''
 beteiligte: []

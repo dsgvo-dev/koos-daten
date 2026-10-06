@@ -2,6 +2,7 @@
 id: proc-befahren-gesperrter-strassen-beantragen
 titel: Befahren gesperrter Straßen beantragen
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-66
 zustaendigeRolle: ''
 beteiligte:

@@ -2,6 +2,7 @@
 id: proc-tierschutzanzeige-bearbeiten
 titel: Tierschutzanzeige bearbeiten
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-71
 zustaendigeRolle: ''
 beteiligte:

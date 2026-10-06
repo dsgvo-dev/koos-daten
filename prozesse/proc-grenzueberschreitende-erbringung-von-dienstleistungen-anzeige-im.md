@@ -2,6 +2,7 @@
 id: proc-grenzueberschreitende-erbringung-von-dienstleistungen-anzeige-im
 titel: Grenzüberschreitende Erbringung von Dienstleistungen Anzeige im Bewachungsgewerbe
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-32
 zustaendigeRolle: ''
 beteiligte: []

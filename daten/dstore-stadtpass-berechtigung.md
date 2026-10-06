@@ -1,5 +1,6 @@
 ---
 id: dstore-stadtpass-berechtigung
+bereich: extern
 typ: datenspeicher
 system: null
 name: Stadtpass und Berechtigung

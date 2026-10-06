@@ -1,5 +1,6 @@
 ---
 id: dstore-einsatzdokumentation-notruf
+bereich: extern
 typ: datenspeicher
 system: null
 name: Notruf und Einsatzdokumentation

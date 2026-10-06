@@ -2,6 +2,7 @@
 id: proc-controlling-berichtswesen
 titel: Controlling und Berichtswesen
 status: aktiv
+bereich: intern
 zustaendigeEinheit: oe-amt-1-3
 zustaendigeRolle: Sachbearbeitung Controlling
 

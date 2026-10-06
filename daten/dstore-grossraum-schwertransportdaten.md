@@ -1,5 +1,6 @@
 ---
 id: dstore-grossraum-schwertransportdaten
+bereich: extern
 typ: datenspeicher
 system: null
 name: Großraum- und Schwertransportdaten

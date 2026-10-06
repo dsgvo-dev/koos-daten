@@ -2,6 +2,7 @@
 id: proc-grundsteuerbescheid-fuer-grundstuecke-erhalten-grundsteuer
 titel: Grundsteuerbescheid für Grundstücke erhalten (Grundsteuer)
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-22
 zustaendigeRolle: ''
 beteiligte:

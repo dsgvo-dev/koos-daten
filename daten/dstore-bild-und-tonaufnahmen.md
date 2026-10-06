@@ -1,5 +1,6 @@
 ---
 id: dstore-bild-und-tonaufnahmen
+bereich: extern
 typ: datenspeicher
 system: null
 name: Bild- und Tonaufnahmen

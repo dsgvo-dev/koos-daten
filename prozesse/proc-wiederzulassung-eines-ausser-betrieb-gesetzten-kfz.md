@@ -2,6 +2,7 @@
 id: proc-wiederzulassung-eines-ausser-betrieb-gesetzten-kfz
 titel: Wiederzulassung eines außer Betrieb gesetzten Kfz
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-34
 zustaendigeRolle: ''
 beteiligte:

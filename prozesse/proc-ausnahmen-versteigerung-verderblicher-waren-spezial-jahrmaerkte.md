@@ -2,6 +2,7 @@
 id: proc-ausnahmen-versteigerung-verderblicher-waren-spezial-jahrmaerkte
 titel: Ausnahmen Versteigerung leicht verderblicher Waren auf Spezial- und Jahrmärkten zulassen
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-32
 zustaendigeRolle: ''
 beteiligte: []

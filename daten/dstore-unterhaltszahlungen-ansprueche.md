@@ -1,5 +1,6 @@
 ---
 id: dstore-unterhaltszahlungen-ansprueche
+bereich: extern
 typ: datenspeicher
 system: null
 name: Unterhaltszahlungen und Unterhaltsansprüche

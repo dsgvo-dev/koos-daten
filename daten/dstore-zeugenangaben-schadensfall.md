@@ -1,5 +1,6 @@
 ---
 id: dstore-zeugenangaben-schadensfall
+bereich: extern
 typ: datenspeicher
 system: null
 name: Zeugenangaben im Schadensfall

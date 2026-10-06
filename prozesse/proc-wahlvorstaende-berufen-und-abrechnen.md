@@ -2,6 +2,7 @@
 id: proc-wahlvorstaende-berufen-und-abrechnen
 titel: Wahlvorstände berufen und abrechnen
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-10
 zustaendigeRolle: ''
 beteiligte:

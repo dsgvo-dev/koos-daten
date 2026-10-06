@@ -2,6 +2,7 @@
 id: proc-bestellanforderung
 titel: Bestellanforderung stellen (Büromaterial, Investitionen, Dienstleistungen)
 status: aktiv
+bereich: intern
 zustaendigeEinheit: oe-amt-10
 zustaendigeRolle: sachbearbeiter
 beteiligte:
@@ -19,8 +20,7 @@ beteiligte:
   aufgabe: Rechnungsprüfung, Freigabe zur Zahlung
 daten:
   datenspeicher:
-  - dstore-vergabe-auftragsbezug
-  - dstore-rechnungsdaten
+  - dstore-beschaffungsvorgang
   - dstore-debitoren-kreditorendaten
 regelungen:
 - Dienstanweisung Haushalt und Beschaffung
@@ -29,7 +29,7 @@ regelungen:
 - Rahmenverträge der Stadt
 leika_id: ''
 ozg_id: ''
-letzte-aktualisierung: '2026-08-04'
+letzte-aktualisierung: '2026-10-05'
 ---
 
 # Bestellanforderung stellen

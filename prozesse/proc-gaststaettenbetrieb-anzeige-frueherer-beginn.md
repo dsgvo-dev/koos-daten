@@ -2,6 +2,7 @@
 id: proc-gaststaettenbetrieb-anzeige-frueherer-beginn
 titel: 'Gaststättenbetrieb: Anzeige – früherer Beginn'
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-32
 zustaendigeRolle: ''
 beteiligte:

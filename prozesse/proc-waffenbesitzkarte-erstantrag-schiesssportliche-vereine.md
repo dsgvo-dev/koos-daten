@@ -2,6 +2,7 @@
 id: proc-waffenbesitzkarte-erstantrag-schiesssportliche-vereine
 titel: Waffenbesitzkarte Erstantrag (schießsportliche Vereine)
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-32
 zustaendigeRolle: ''
 beteiligte: []

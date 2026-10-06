@@ -2,6 +2,7 @@
 id: proc-verpflichtungserklaerung-pruefen
 titel: Verpflichtungserklärung nach § 68 AufenthG prüfen
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-47
 zustaendigeRolle: sachbearbeiter
 beteiligte:

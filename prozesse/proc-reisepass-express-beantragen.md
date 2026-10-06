@@ -2,6 +2,7 @@
 id: proc-reisepass-express-beantragen
 titel: Reisepass Express beantragen
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-33
 zustaendigeRolle: ''
 beteiligte:

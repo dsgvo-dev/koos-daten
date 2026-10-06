@@ -1,5 +1,6 @@
 ---
 id: dstore-spende-zuwendung
+bereich: extern
 typ: datenspeicher
 system: null
 name: Spende und Zuwendung

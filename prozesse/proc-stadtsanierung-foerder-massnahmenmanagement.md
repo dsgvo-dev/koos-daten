@@ -2,6 +2,7 @@
 id: proc-stadtsanierung-foerder-massnahmenmanagement
 titel: 'Stadtsanierung: Förder-/Maßnahmenmanagement'
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-61
 zustaendigeRolle: ''
 beteiligte:

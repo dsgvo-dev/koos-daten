@@ -2,6 +2,7 @@
 id: proc-stoerung-it
 titel: IT-Störung melden (Hardware, Software, Account, Netzwerk)
 status: aktiv
+bereich: intern
 zustaendigeEinheit: oe-amt-10
 zustaendigeRolle: sachbearbeiter
 beteiligte:
@@ -17,7 +18,7 @@ beteiligte:
 daten:
   datenspeicher:
   - dstore-it-berechtigungsantrag
-  - dstore-sicherheitsmangelmeldung
+  - dstore-stoerungsmeldung-intern
 regelungen:
 - Dienstanweisung IT-Nutzung
 - Dienstanweisung IT-Einführung
@@ -25,7 +26,7 @@ regelungen:
 - BSI-Standard 200-2 (IT-Grundschutz)
 leika_id: ''
 ozg_id: ''
-letzte-aktualisierung: '2026-08-04'
+letzte-aktualisierung: '2026-10-05'
 ---
 
 # IT-Störung melden

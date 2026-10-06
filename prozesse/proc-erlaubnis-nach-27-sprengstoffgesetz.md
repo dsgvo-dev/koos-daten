@@ -2,6 +2,7 @@
 id: proc-erlaubnis-nach-27-sprengstoffgesetz
 titel: Erlaubnis nach §27 Sprengstoffgesetz
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-32
 zustaendigeRolle: ''
 beteiligte:

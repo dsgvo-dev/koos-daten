@@ -1,5 +1,6 @@
 ---
 id: dstore-sitzungsprotokoll
+bereich: extern
 typ: datenspeicher
 system: null
 name: Sitzungsprotokoll

@@ -1,5 +1,6 @@
 ---
 id: dstore-todesbescheinigung
+bereich: extern
 typ: datenspeicher
 system: null
 name: Todesbescheinigung

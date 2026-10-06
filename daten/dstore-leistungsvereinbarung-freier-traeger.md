@@ -1,5 +1,6 @@
 ---
 id: dstore-leistungsvereinbarung-freier-traeger
+bereich: extern
 typ: datenspeicher
 system: null
 name: Leistungsvereinbarung mit freien Trägern

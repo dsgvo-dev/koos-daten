@@ -2,6 +2,7 @@
 id: proc-jugendschoeffen-vorschlagsliste-aufstellen
 titel: Vorschlagsliste für Jugendschöffen aufstellen
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-51
 zustaendigeRolle: ''
 beteiligte:

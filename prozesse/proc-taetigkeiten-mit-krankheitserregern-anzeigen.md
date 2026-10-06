@@ -2,6 +2,7 @@
 id: proc-taetigkeiten-mit-krankheitserregern-anzeigen
 titel: Tätigkeiten mit Krankheitserregern anzeigen
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-53
 zustaendigeRolle: ''
 beteiligte: []

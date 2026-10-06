@@ -1,5 +1,6 @@
 ---
 id: dstore-meldeadresse-wohnsitz
+bereich: extern
 typ: datenspeicher
 system: null
 name: Meldeadresse und Wohnsitzdaten

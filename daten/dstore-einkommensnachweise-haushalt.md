@@ -1,5 +1,6 @@
 ---
 id: dstore-einkommensnachweise-haushalt
+bereich: extern
 typ: datenspeicher
 system: null
 name: Einkommensnachweise Haushalt

@@ -2,6 +2,7 @@
 id: proc-zeugnis-ausstellen
 titel: Zeugnis ausstellen
 status: aktiv
+bereich: intern
 zustaendigeEinheit: oe-amt-11
 zustaendigeRolle: ''
 beteiligte: []
@@ -11,9 +12,8 @@ daten:
   datenspeicher:
   - id: dstore-personalakte
   - id: dstore-arbeitsverhaeltnis-beschaeftigung
-  - id: dstore-bescheinigung
 regelungen: []
-letzte-aktualisierung: '2026-08-03'
+letzte-aktualisierung: '2026-10-05'
 ---
 # Zeugnis ausstellen
 

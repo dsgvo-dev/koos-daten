@@ -2,6 +2,7 @@
 id: proc-verein-eintragen
 titel: Verein eintragen
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-1-1
 zustaendigeRolle: ''
 beteiligte: []

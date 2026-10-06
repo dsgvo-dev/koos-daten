@@ -2,6 +2,7 @@
 id: proc-praktikum-vergeben
 titel: Praktikum vergeben
 status: aktiv
+bereich: intern
 zustaendigeEinheit: oe-amt-1-1
 zustaendigeRolle: ''
 beteiligte: []
@@ -10,12 +11,11 @@ daten:
   output: []
   datenspeicher:
   - id: dstore-personalakte
-  - id: dstore-lebenslauf-qualifikationsnachweis
-  - id: dstore-verwaltungsakte
+  - id: dstore-bewerbungsunterlagen
 regelungen:
 - '§§ 26-27 BBiG (Praktika)'
 - '§§ 1 ff. MiLoG i.V.m. PraktikumsverhältnisG'
-letzte-aktualisierung: 2026-04-29
+letzte-aktualisierung: '2026-10-06'
 ---
 # Praktikum vergeben
 

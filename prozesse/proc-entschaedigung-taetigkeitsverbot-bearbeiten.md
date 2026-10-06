@@ -2,6 +2,7 @@
 id: proc-entschaedigung-taetigkeitsverbot-bearbeiten
 titel: Entschädigung nach Tätigkeitsverbot (§ 56 IfSG) bearbeiten
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-53
 zustaendigeRolle: sachbearbeiter
 beteiligte:

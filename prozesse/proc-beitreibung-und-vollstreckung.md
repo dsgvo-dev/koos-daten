@@ -2,6 +2,7 @@
 id: proc-beitreibung-und-vollstreckung
 titel: Beitreibung und Vollstreckung
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-21
 zustaendigeRolle: ''
 beteiligte:

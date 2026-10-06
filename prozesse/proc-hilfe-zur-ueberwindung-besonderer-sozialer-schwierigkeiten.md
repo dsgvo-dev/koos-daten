@@ -2,6 +2,7 @@
 id: proc-hilfe-zur-ueberwindung-besonderer-sozialer-schwierigkeiten
 titel: Hilfe zur Überwindung besonderer sozialer Schwierigkeiten beantragen
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-50
 zustaendigeRolle: ''
 beteiligte:

@@ -2,6 +2,7 @@
 id: proc-baugenehmigung-beantragen
 titel: Baugenehmigung beantragen
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-63
 zustaendigeRolle: ''
 beteiligte:

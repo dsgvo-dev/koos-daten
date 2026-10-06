@@ -2,6 +2,7 @@
 id: proc-tiervermittlung
 titel: Tiervermittlung
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-71
 zustaendigeRolle: ''
 beteiligte: []

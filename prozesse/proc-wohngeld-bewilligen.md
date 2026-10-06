@@ -2,6 +2,7 @@
 id: proc-wohngeld-bewilligen
 titel: Wohngeld bewilligen
 status: ersetzt
+bereich: extern
 ersetzt-durch: proc-wohngeld-beantragen
 zustaendigeEinheit: oe-amt-50
 zustaendigeRolle: ''

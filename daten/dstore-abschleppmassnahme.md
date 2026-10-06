@@ -1,5 +1,6 @@
 ---
 id: dstore-abschleppmassnahme
+bereich: extern
 typ: datenspeicher
 system: null
 name: Abschleppmaßnahme

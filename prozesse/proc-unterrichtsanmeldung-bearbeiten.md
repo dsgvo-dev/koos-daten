@@ -2,6 +2,7 @@
 id: proc-unterrichtsanmeldung-bearbeiten
 titel: Unterrichtsanmeldung bearbeiten
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-41
 zustaendigeRolle: ''
 beteiligte: []
@@ -11,9 +12,8 @@ daten:
   datenspeicher:
   - id: dstore-musikschul-kursanmeldung
   - id: dstore-personenstammdaten
-  - id: dstore-abrechnungsdaten
 regelungen: []
-letzte-aktualisierung: '2026-08-03'
+letzte-aktualisierung: '2026-10-06'
 ---
 # Unterrichtsanmeldung bearbeiten
 

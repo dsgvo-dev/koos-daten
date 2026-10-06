@@ -2,6 +2,7 @@
 id: proc-schaeden-im-strassenbereich-und-an-bruecken-meldung
 titel: 'Schäden im Straßenbereich und an Brücken: Meldung'
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-66
 zustaendigeRolle: ''
 beteiligte:

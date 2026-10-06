@@ -2,6 +2,7 @@
 id: proc-klimaschutzmassnahmen
 titel: Klimaschutzmaßnahmen
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-60
 zustaendigeRolle: ''
 beteiligte: []

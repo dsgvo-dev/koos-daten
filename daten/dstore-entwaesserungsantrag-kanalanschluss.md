@@ -1,5 +1,6 @@
 ---
 id: dstore-entwaesserungsantrag-kanalanschluss
+bereich: extern
 typ: datenspeicher
 system: null
 name: Entwässerungsantrag und Kanalanschluss

@@ -1,5 +1,6 @@
 ---
 id: dstore-erlaubnis-gefaehrlicher-hund
+bereich: extern
 typ: datenspeicher
 system: null
 name: Erlaubnis gefährlicher Hund

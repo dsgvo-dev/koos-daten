@@ -1,5 +1,6 @@
 ---
 id: dstore-hebammenanzeige
+bereich: extern
 typ: datenspeicher
 system: null
 name: Anzeige und Aufsicht Hebammen

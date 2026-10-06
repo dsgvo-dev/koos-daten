@@ -2,6 +2,7 @@
 id: proc-ausserbetriebsetzung-zulassungsfreie-fahrzeuge
 titel: Außerbetriebsetzung zulassungsfreier Fahrzeuge — Bewilligung
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-34
 zustaendigeRolle: ''
 beteiligte:

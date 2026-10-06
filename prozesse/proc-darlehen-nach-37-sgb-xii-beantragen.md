@@ -2,6 +2,7 @@
 id: proc-darlehen-nach-37-sgb-xii-beantragen
 titel: Darlehen nach § 37 SGB XII beantragen
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-50
 zustaendigeRolle: ''
 beteiligte: []

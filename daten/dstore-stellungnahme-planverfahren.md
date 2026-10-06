@@ -1,5 +1,6 @@
 ---
 id: dstore-stellungnahme-planverfahren
+bereich: extern
 typ: datenspeicher
 system: null
 name: Stellungnahme im Planverfahren

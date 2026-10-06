@@ -2,6 +2,7 @@
 id: proc-kfz-zulassung-bei-halterwechsel-umschreibung
 titel: 'KFZ: Zulassung bei Halterwechsel (Umschreibung)'
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-34
 zustaendigeRolle: ''
 beteiligte:

@@ -1,5 +1,6 @@
 ---
 id: dstore-baugenehmigung
+bereich: extern
 typ: datenspeicher
 system: null
 name: Baugenehmigung

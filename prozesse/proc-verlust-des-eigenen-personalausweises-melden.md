@@ -2,6 +2,7 @@
 id: proc-verlust-des-eigenen-personalausweises-melden
 titel: Verlust des eigenen Personalausweises melden
 status: ersetzt
+bereich: extern
 ersetzt-durch: proc-personalausweis-sperren
 zustaendigeEinheit: oe-amt-33
 zustaendigeRolle: ''

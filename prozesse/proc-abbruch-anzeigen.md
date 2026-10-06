@@ -2,6 +2,7 @@
 id: proc-abbruch-anzeigen
 titel: Abbruch anzeigen
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-63
 zustaendigeRolle: ''
 beteiligte: []

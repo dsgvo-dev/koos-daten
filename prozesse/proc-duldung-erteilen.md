@@ -2,6 +2,7 @@
 id: proc-duldung-erteilen
 titel: Duldung erteilen
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-47
 zustaendigeRolle: ''
 beteiligte: []

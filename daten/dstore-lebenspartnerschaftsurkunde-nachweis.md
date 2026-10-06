@@ -1,5 +1,6 @@
 ---
 id: dstore-lebenspartnerschaftsurkunde-nachweis
+bereich: extern
 typ: datenspeicher
 system: null
 name: Lebenspartnerschaftsurkunde als Nachweis

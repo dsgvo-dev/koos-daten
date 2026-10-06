@@ -2,6 +2,7 @@
 id: proc-anliegerbeitrag-erheben-und-stunden
 titel: Anliegerbeitrag erheben und stunden
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-22
 zustaendigeRolle: ''
 beteiligte:

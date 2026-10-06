@@ -1,5 +1,6 @@
 ---
 id: dstore-expositionsdaten
+bereich: intern
 typ: datenspeicher
 system: null
 name: Expositionsdaten Einsatzkräfte
@@ -25,7 +26,7 @@ klassifizierung:
     frist: 30 Jahre
     beginn: nach dem letzten Einsatz
     hinweis: arbeitsmedizinische Aufbewahrung, Festlegung des Trägers
-letzte-aktualisierung: '2026-08-15'
+letzte-aktualisierung: '2026-10-05'
 tags:
 - Feuerwehr
 - Exposition
@@ -48,6 +49,7 @@ insbesondere krebserregenden Stoffen während ihrer Einsatztätigkeit.
 - Expositionsdauer
 - Konzentration
 - Schutzmaßnahmen
+- Gesundheitsangaben im Zusammenhang mit der Exposition — ergänzt 2026-10-05 für vvt-37-003 (vorher `dstore-gesundheitsdaten`)
 
 ## Schutzstufe geprüft 2026-08-15
 

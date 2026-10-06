@@ -1,5 +1,6 @@
 ---
 id: dstore-meldedaten
+bereich: extern
 typ: datenspeicher
 system: null
 name: Meldedaten

@@ -1,5 +1,6 @@
 ---
 id: dstore-fischereischein-sachkunde
+bereich: extern
 typ: datenspeicher
 system: null
 name: Fischereischein und Sachkunde

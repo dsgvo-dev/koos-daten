@@ -2,19 +2,18 @@
 id: proc-frauenfoerderplan-umsetzen
 titel: Frauenförderplan umsetzen
 status: aktiv
+bereich: intern
 zustaendigeEinheit: oe-amt-1-2
 zustaendigeRolle: ''
 beteiligte: []
 daten:
   input: []
   output: []
-  datenspeicher:
-  - id: dstore-verwaltungsakte
-  - id: dstore-bescheid
+  datenspeicher: []
 regelungen:
 - '§§ 1-7 Nds. Gleichberechtigungsgesetz (NGG)'
 - '§ 5 NGG (Frauenförderplan)'
-letzte-aktualisierung: 2026-04-29
+letzte-aktualisierung: '2026-10-05'
 ---
 # Frauenförderplan umsetzen
 

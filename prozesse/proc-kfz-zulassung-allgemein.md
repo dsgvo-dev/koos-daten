@@ -2,6 +2,7 @@
 id: proc-kfz-zulassung-allgemein
 titel: 'KFZ: Zulassung (allgemein)'
 status: ersetzt
+bereich: extern
 ersetzt-durch:
 - proc-neuzulassung-eines-fahrzeugs-erstzulassung-beantragen
 - proc-wiederzulassung-eines-fahrzeugs-beantragen

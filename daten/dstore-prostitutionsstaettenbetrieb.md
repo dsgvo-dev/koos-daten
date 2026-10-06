@@ -1,5 +1,6 @@
 ---
 id: dstore-prostitutionsstaettenbetrieb
+bereich: extern
 typ: datenspeicher
 system: null
 name: Prostitutionsstättenbetrieb

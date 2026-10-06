@@ -2,6 +2,7 @@
 id: proc-sorgeerklaerung-sorgerechtsbescheinigung-beurkunden
 titel: Sorgeerklärung (Sorgerechtsbescheinigung) beurkunden
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-51
 zustaendigeRolle: ''
 beteiligte:

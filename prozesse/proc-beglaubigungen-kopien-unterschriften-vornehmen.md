@@ -2,6 +2,7 @@
 id: proc-beglaubigungen-kopien-unterschriften-vornehmen
 titel: Beglaubigungen (Kopien/Unterschriften) vornehmen
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-33
 zustaendigeRolle: ''
 beteiligte:

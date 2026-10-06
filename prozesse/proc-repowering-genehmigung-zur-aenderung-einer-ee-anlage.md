@@ -2,6 +2,7 @@
 id: proc-repowering-genehmigung-zur-aenderung-einer-ee-anlage
 titel: 'Repowering: Genehmigung zur Änderung einer EE-Anlage'
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-60
 zustaendigeRolle: ''
 beteiligte: []

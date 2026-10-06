@@ -2,6 +2,7 @@
 id: proc-jgs-anlage-errichtung-aenderung-stilllegung-anzeigen
 titel: 'JGS-Anlage: Errichtung/Änderung/Stilllegung anzeigen'
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-60
 zustaendigeRolle: ''
 beteiligte: []

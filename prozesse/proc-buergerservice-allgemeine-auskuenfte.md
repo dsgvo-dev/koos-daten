@@ -2,6 +2,7 @@
 id: proc-buergerservice-allgemeine-auskuenfte
 titel: 'Bürgerservice: allgemeine Auskünfte'
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-33
 zustaendigeRolle: ''
 beteiligte: []

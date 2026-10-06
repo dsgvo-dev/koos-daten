@@ -1,5 +1,6 @@
 ---
 id: dstore-fachstellungnahme
+bereich: extern
 typ: datenspeicher
 system: null
 name: Fachstellungnahme

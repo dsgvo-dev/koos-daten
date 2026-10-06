@@ -2,6 +2,7 @@
 id: proc-fuehrerschein-antrag-umtausch-verfahren
 titel: Führerschein (Antrag/Umtausch/Verfahren)
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-34
 zustaendigeRolle: ''
 beteiligte:

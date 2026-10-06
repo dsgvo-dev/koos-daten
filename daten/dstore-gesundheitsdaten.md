@@ -1,5 +1,6 @@
 ---
 id: dstore-gesundheitsdaten
+bereich: extern
 typ: datenspeicher
 system: null
 name: Gesundheitsdaten

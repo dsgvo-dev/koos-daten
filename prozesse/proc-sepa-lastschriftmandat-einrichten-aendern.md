@@ -2,6 +2,7 @@
 id: proc-sepa-lastschriftmandat-einrichten-aendern
 titel: SEPA-Lastschriftmandat einrichten/ändern
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-20
 zustaendigeRolle: ''
 beteiligte:

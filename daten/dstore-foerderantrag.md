@@ -1,5 +1,6 @@
 ---
 id: dstore-foerderantrag
+bereich: extern
 typ: datenspeicher
 system: null
 name: Förderantrag

@@ -1,5 +1,6 @@
 ---
 id: dstore-schulausflug-klassenfahrt
+bereich: extern
 typ: datenspeicher
 system: null
 name: Schulausflug und Klassenfahrt

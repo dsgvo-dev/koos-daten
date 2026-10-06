@@ -2,6 +2,7 @@
 id: proc-gewerbemuell-entsorgung
 titel: Gewerbemüll Entsorgung
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-32
 zustaendigeRolle: ''
 beteiligte: []

@@ -1,5 +1,6 @@
 ---
 id: dstore-kita-anmeldedaten
+bereich: extern
 typ: datenspeicher
 system: null
 name: Kita-Anmeldedaten

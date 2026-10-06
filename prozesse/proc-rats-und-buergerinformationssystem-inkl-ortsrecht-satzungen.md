@@ -2,6 +2,7 @@
 id: proc-rats-und-buergerinformationssystem-inkl-ortsrecht-satzungen
 titel: Rats- und Bürgerinformationssystem inkl. Ortsrecht/Satzungen
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-1-1
 zustaendigeRolle: ''
 beteiligte:

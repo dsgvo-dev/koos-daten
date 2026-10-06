@@ -2,6 +2,7 @@
 id: proc-personalakte-fuehren
 titel: Personalakte führen
 status: aktiv
+bereich: intern
 zustaendigeEinheit: oe-amt-11
 zustaendigeRolle: ''
 beteiligte: []
@@ -11,13 +12,11 @@ daten:
   datenspeicher:
   - id: dstore-personalakte
   - id: dstore-arbeitsverhaeltnis-beschaeftigung
-  - id: dstore-lebenslauf-qualifikationsnachweis
-  - id: dstore-verwaltungsakte
 regelungen:
 - '§§ 88-95 Nds. Beamtengesetz (NBG) (Personalakten)'
 - '§§ 4 ff. BeamtStG (Beamtenverhältnis)'
 - '§ 85 NKomVG (Personalhoheit)'
-letzte-aktualisierung: 2026-04-29
+letzte-aktualisierung: '2026-10-06'
 ---
 # Personalakte führen
 

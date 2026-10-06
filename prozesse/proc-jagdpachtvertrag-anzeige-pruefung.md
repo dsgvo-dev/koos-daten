@@ -2,6 +2,7 @@
 id: proc-jagdpachtvertrag-anzeige-pruefung
 titel: 'Jagdpachtvertrag: Anzeige/Prüfung'
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-82
 zustaendigeRolle: ''
 beteiligte:

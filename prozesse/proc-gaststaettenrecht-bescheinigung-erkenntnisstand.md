@@ -2,6 +2,7 @@
 id: proc-gaststaettenrecht-bescheinigung-erkenntnisstand
 titel: 'Gaststättenrecht: Bescheinigung – Erkenntnisstand'
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-32
 zustaendigeRolle: ''
 beteiligte:

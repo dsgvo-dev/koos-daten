@@ -1,5 +1,6 @@
 ---
 id: dstore-nachlass-erbendaten
+bereich: extern
 typ: datenspeicher
 system: null
 name: Nachlass- und Erbendaten

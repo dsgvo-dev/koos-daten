@@ -2,6 +2,7 @@
 id: proc-fahrerlaubnis-ersatzdokument-bei-verlust
 titel: 'Fahrerlaubnis: Ersatzdokument bei Verlust'
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-34
 zustaendigeRolle: ''
 beteiligte:

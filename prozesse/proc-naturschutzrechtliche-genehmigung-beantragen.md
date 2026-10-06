@@ -2,6 +2,7 @@
 id: proc-naturschutzrechtliche-genehmigung-beantragen
 titel: Naturschutzrechtliche Genehmigung beantragen
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-60
 zustaendigeRolle: ''
 beteiligte:

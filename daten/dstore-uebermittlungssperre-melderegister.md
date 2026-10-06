@@ -1,5 +1,6 @@
 ---
 id: dstore-uebermittlungssperre-melderegister
+bereich: extern
 typ: datenspeicher
 system: null
 name: Übermittlungssperre Melderegister

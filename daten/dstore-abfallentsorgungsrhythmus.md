@@ -1,5 +1,6 @@
 ---
 id: dstore-abfallentsorgungsrhythmus
+bereich: extern
 typ: datenspeicher
 system: null
 name: Abfallentsorgungsrhythmus

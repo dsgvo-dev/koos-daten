@@ -2,6 +2,7 @@
 id: proc-mietbewerbung-verwalten-und-wohnung-vergeben
 titel: Mietbewerbung verwalten und Wohnung vergeben
 status: aktiv
+bereich: intern
 zustaendigeEinheit: oe-amt-23
 zustaendigeRolle: ''
 beteiligte:
@@ -12,9 +13,7 @@ daten:
   output: []
   datenspeicher:
   - id: dstore-bewerbungsunterlagen
-  - id: dstore-wohnberechtigung
-  - id: dstore-einkommensnachweise-haushalt
-  - id: dstore-wohnungszuordnungsmerkmal
+  - id: dstore-mietbewerbung-beschaeftigte
 regelungen:
 - Art. 6 Abs. 1 lit. b) DSGVO - vorvertragliche Verarbeitung auf Anfrage der bewerbenden Person
 - Art. 6 Abs. 1 lit. e) DSGVO, § 3 NDSG - Vergabe kommunalen Wohnraums
@@ -27,7 +26,7 @@ regelungen:
 - §§ 535 ff. BGB - Mietvertrag im Anschluss
 leika_id: null
 ozg_id: null
-letzte-aktualisierung: '2026-07-30'
+letzte-aktualisierung: '2026-10-05'
 ---
 
 # Mietbewerbung verwalten und Wohnung vergeben

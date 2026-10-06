@@ -2,6 +2,7 @@
 id: proc-statusabfrage-pass-personalausweis
 titel: Statusabfrage Pass/Personalausweis
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-33
 zustaendigeRolle: ''
 beteiligte:

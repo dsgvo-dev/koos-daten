@@ -1,5 +1,6 @@
 ---
 id: dstore-flur-flurstueck-lagebezeichnung
+bereich: extern
 typ: datenspeicher
 system: null
 name: Flur, Flurstück und Lagebezeichnung

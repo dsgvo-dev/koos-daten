@@ -2,6 +2,7 @@
 id: proc-internationalen-fuehrerschein-beantragen
 titel: Internationalen Führerschein beantragen
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-34
 zustaendigeRolle: ''
 beteiligte:

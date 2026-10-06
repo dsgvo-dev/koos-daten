@@ -2,6 +2,7 @@
 id: proc-wasserrechtliche-erlaubnis-beantragen
 titel: Wasserrechtliche Erlaubnis beantragen
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-60
 zustaendigeRolle: ''
 beteiligte:

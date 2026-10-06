@@ -2,6 +2,7 @@
 id: proc-beschaeftigungsduldung-beantragen
 titel: Beschäftigungsduldung beantragen
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-47
 zustaendigeRolle: sachbearbeiter
 beteiligte:

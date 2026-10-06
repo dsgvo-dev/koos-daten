@@ -1,5 +1,6 @@
 ---
 id: dstore-verwendungszweck-fuehrungszeugnis
+bereich: extern
 typ: datenspeicher
 system: null
 name: Verwendungszweck Führungszeugnis

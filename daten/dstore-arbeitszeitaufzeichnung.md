@@ -1,5 +1,6 @@
 ---
 id: dstore-arbeitszeitaufzeichnung
+bereich: intern
 typ: datenspeicher
 system: null
 name: Arbeitszeitaufzeichnung

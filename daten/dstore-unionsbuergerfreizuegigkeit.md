@@ -1,5 +1,6 @@
 ---
 id: dstore-unionsbuergerfreizuegigkeit
+bereich: extern
 typ: datenspeicher
 system: null
 name: Unionsbürgerfreizügigkeit

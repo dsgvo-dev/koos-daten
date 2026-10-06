@@ -2,6 +2,7 @@
 id: proc-personalausweis-meldung-wegen-diebstahl
 titel: Personalausweis Meldung wegen Diebstahl
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-33
 zustaendigeRolle: ''
 beteiligte: []

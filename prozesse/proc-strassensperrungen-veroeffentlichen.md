@@ -2,6 +2,7 @@
 id: proc-strassensperrungen-veroeffentlichen
 titel: Straßensperrungen veröffentlichen
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-66
 zustaendigeRolle: ''
 beteiligte:

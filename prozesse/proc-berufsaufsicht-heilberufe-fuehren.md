@@ -2,6 +2,7 @@
 id: proc-berufsaufsicht-heilberufe-fuehren
 titel: Berufsaufsicht über Heilberufe führen
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-53
 zustaendigeRolle: sachbearbeiter
 beteiligte:

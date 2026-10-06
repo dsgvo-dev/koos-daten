@@ -2,6 +2,7 @@
 id: proc-bussgeldbescheid-bearbeiten
 titel: Bußgeldbescheid bearbeiten
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-32
 zustaendigeRolle: Sachbearbeitung Ordnungswidrigkeiten
 beteiligte:

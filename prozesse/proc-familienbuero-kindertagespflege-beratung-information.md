@@ -2,6 +2,7 @@
 id: proc-familienbuero-kindertagespflege-beratung-information
 titel: 'Familienbüro / Kindertagespflege: Beratung/Information'
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-51
 zustaendigeRolle: ''
 beteiligte:

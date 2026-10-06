@@ -2,6 +2,7 @@
 id: proc-tagesgruppe-begleiten
 titel: Erziehung in einer Tagesgruppe begleiten
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-51
 zustaendigeRolle: fallfuehrung
 beteiligte:

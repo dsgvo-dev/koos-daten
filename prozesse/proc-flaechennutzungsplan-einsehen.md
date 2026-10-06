@@ -2,6 +2,7 @@
 id: proc-flaechennutzungsplan-einsehen
 titel: Flächennutzungsplan einsehen
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-61
 zustaendigeRolle: ''
 beteiligte:

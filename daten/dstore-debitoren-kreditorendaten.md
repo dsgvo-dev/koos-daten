@@ -1,5 +1,6 @@
 ---
 id: dstore-debitoren-kreditorendaten
+bereich: intern
 typ: datenspeicher
 system: null
 name: Debitoren- und Kreditorendaten
@@ -23,7 +24,7 @@ klassifizierung:
     frist: prozessabhängig
     beginn: nach Verfahrensabschluss
     hinweis: Fach- und verfahrensabhängig; aus Serviceportal-Kontext abgeleitet
-letzte-aktualisierung: '2026-08-04'
+letzte-aktualisierung: '2026-10-05'
 tags:
 - Debitor
 - Kreditor
@@ -46,6 +47,7 @@ Stamm- und Buchungsdaten von Zahlungspflichtigen und Zahlungsempfängern.
 - Steuernummer
 - Zahlungsbedingung
 - Status
+- Bankverbindung (IBAN, BIC) — ergänzt 2026-10-05 für vvt-20-004
 
 ## Hinweise
 

@@ -2,6 +2,7 @@
 id: proc-stadtsanierung-foerderverfahren-bearbeiten
 titel: Förderverfahren der Stadtsanierung bearbeiten
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-66
 zustaendigeRolle: sachbearbeiter
 daten:

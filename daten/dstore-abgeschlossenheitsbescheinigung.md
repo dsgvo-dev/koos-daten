@@ -1,5 +1,6 @@
 ---
 id: dstore-abgeschlossenheitsbescheinigung
+bereich: extern
 typ: datenspeicher
 system: null
 name: Abgeschlossenheitsbescheinigung

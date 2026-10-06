@@ -2,6 +2,7 @@
 id: proc-haushaltsplan-aufstellen
 titel: Haushaltsplan aufstellen
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-20
 zustaendigeRolle: ''
 beteiligte: []
@@ -9,8 +10,6 @@ daten:
   input: []
   output: []
   datenspeicher:
-  - id: dstore-abrechnungsdaten
-  - id: dstore-debitoren-kreditorendaten
   - id: dstore-verwaltungsakte
 regelungen:
 - §§ 110-124 NKomVG (Haushaltswirtschaft)
@@ -18,7 +17,7 @@ regelungen:
 - §§ 1 ff. Gemeindehaushalts- und -kassenverordnung Nds. (GemHKVO)
 leika_id: '99142005042000'
 ozg_id: null
-letzte-aktualisierung: '2026-07-10'
+letzte-aktualisierung: '2026-10-06'
 ---
 
 # Haushaltsplan aufstellen

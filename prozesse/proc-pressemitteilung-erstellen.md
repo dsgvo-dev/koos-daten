@@ -2,6 +2,7 @@
 id: proc-pressemitteilung-erstellen
 titel: Pressemitteilung erstellen
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-13
 zustaendigeRolle: ''
 beteiligte: []
@@ -9,12 +10,11 @@ daten:
   input: []
   output: []
   datenspeicher:
-  - id: dstore-verwaltungsakte
   - id: dstore-kontaktdaten
 regelungen:
 - '§ 4 Nds. Pressegesetz (NPresseG) (Auskunftspflicht)'
 - '§ 11 NKomVG (Kommunale Selbstverwaltung)'
-letzte-aktualisierung: 2026-04-29
+letzte-aktualisierung: '2026-10-06'
 ---
 # Pressemitteilung erstellen
 

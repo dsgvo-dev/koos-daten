@@ -2,6 +2,7 @@
 id: proc-sterbefall-im-ausland-anzeigen
 titel: Sterbefall im Ausland anzeigen
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-31
 zustaendigeRolle: ''
 beteiligte: []

@@ -2,6 +2,7 @@
 id: proc-fachdienste-und-aufgaben-organisationsdarstellung
 titel: 'Fachdienste und Aufgaben: Organisationsdarstellung'
 status: aktiv
+bereich: intern
 
 
 zustaendigeEinheit: oe-amt-1-1

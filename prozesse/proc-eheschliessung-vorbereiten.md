@@ -2,6 +2,7 @@
 id: proc-eheschliessung-vorbereiten
 titel: Eheschließung vorbereiten
 status: ersetzt
+bereich: extern
 ersetzt-durch: proc-eheschliessung-anmelden
 zustaendigeEinheit: oe-amt-31
 zustaendigeRolle: ''

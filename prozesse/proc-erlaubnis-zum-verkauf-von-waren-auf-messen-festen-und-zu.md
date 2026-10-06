@@ -2,6 +2,7 @@
 id: proc-erlaubnis-zum-verkauf-von-waren-auf-messen-festen-und-zu
 titel: Erlaubnis zum Verkauf von Waren auf Messen, Festen und zu besonderen Anlässen
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-32
 zustaendigeRolle: ''
 beteiligte:

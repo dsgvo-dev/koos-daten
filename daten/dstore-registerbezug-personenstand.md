@@ -1,5 +1,6 @@
 ---
 id: dstore-registerbezug-personenstand
+bereich: extern
 typ: datenspeicher
 system: null
 name: Registerbezug Personenstand

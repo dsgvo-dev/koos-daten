@@ -2,6 +2,7 @@
 id: proc-hilfe-zur-erziehung-planen
 titel: Hilfe zur Erziehung planen und fortschreiben
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-51
 zustaendigeRolle: fallfuehrung
 beteiligte:

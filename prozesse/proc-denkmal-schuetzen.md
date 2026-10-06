@@ -2,6 +2,7 @@
 id: proc-denkmal-schuetzen
 titel: Denkmal schützen
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-61
 zustaendigeRolle: ''
 beteiligte: []

@@ -1,5 +1,6 @@
 ---
 id: dstore-haushaltsmitglieder
+bereich: extern
 typ: datenspeicher
 system: null
 name: Haushaltsmitglieder und Haushaltsgröße

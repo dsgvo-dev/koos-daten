@@ -2,6 +2,7 @@
 id: proc-data-breach
 titel: Datenschutzverletzung melden und bearbeiten (Data Breach)
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-1-4
 zustaendigeRolle: datenschutzbeauftragte
 beteiligte:

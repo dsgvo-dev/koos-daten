@@ -1,5 +1,6 @@
 ---
 id: dstore-geburtsurkunde-eltern
+bereich: extern
 typ: datenspeicher
 system: null
 name: Geburtsurkunden der Eltern

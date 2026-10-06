@@ -2,6 +2,7 @@
 id: proc-spielhallen-erlaubnis-beantragen
 titel: Spielhallen-Erlaubnis beantragen
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-32
 zustaendigeRolle: ''
 beteiligte:

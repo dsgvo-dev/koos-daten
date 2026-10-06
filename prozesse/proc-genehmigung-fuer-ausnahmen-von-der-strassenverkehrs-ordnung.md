@@ -2,6 +2,7 @@
 id: proc-genehmigung-fuer-ausnahmen-von-der-strassenverkehrs-ordnung
 titel: Genehmigung für Ausnahmen von der Straßenverkehrs-Ordnung beantragen
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-34
 zustaendigeRolle: ''
 beteiligte:

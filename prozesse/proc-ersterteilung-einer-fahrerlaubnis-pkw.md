@@ -2,6 +2,7 @@
 id: proc-ersterteilung-einer-fahrerlaubnis-pkw
 titel: Ersterteilung einer Fahrerlaubnis (PKW)
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-34
 zustaendigeRolle: ''
 beteiligte:

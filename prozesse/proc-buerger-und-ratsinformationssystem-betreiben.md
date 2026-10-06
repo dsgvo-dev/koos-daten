@@ -2,6 +2,7 @@
 id: proc-buerger-und-ratsinformationssystem-betreiben
 titel: Bürger- und Ratsinformationssystem betreiben
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-1-1
 zustaendigeRolle: ''
 beteiligte:

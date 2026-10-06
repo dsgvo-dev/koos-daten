@@ -2,6 +2,7 @@
 id: proc-asylbewerberleistungen
 titel: Asylbewerberleistungen
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-50
 zustaendigeRolle: ''
 beteiligte: []

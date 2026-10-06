@@ -2,6 +2,7 @@
 id: proc-laerm-informationen-verfahren
 titel: 'Lärm: Informationen/Verfahren'
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-60
 zustaendigeRolle: ''
 beteiligte:

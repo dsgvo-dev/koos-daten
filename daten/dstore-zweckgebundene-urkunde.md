@@ -1,5 +1,6 @@
 ---
 id: dstore-zweckgebundene-urkunde
+bereich: extern
 typ: datenspeicher
 system: null
 name: Zweckgebundene Urkunde

@@ -2,6 +2,7 @@
 id: proc-ausnahmen-versteigerung-verderblicher-waren-messen-ausstellungen
 titel: Ausnahmen Versteigerung leicht verderblicher Waren auf Messen/Ausstellungen/Großmärkten zulassen
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-32
 zustaendigeRolle: ''
 beteiligte: []

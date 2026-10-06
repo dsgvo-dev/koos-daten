@@ -2,6 +2,7 @@
 id: proc-tierseuchenerreger-laborerlaubnis
 titel: 'Tierseuchenerreger: Laborerlaubnis'
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-71
 zustaendigeRolle: ''
 beteiligte:

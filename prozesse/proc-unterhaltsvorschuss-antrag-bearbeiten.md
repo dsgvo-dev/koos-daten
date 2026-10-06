@@ -2,6 +2,7 @@
 id: proc-unterhaltsvorschuss-antrag-bearbeiten
 titel: Unterhaltsvorschuss (Antrag bearbeiten)
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-51
 zustaendigeRolle: ''
 beteiligte:

@@ -2,6 +2,7 @@
 id: proc-wirtschaftlichkeitspruefung
 titel: Wirtschaftlichkeitsprüfung
 status: aktiv
+bereich: intern
 zustaendigeEinheit: oe-amt-14
 zustaendigeRolle: ''
 beteiligte: []
@@ -10,12 +11,10 @@ daten:
   output: []
   datenspeicher:
   - id: dstore-abrechnungsdaten
-  - id: dstore-verwaltungsakte
-  - id: dstore-bescheid
 regelungen:
 - '§§ 110-114 NKomVG (Wirtschaftlichkeit der Verwaltung)'
 - '§ 12 GemHKVO Nds. (Wirtschaftlichkeit)'
-letzte-aktualisierung: 2026-04-29
+letzte-aktualisierung: '2026-10-05'
 ---
 # Wirtschaftlichkeitsprüfung
 

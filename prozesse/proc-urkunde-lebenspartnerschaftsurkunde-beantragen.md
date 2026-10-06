@@ -2,6 +2,7 @@
 id: proc-urkunde-lebenspartnerschaftsurkunde-beantragen
 titel: 'Urkunde: Lebenspartnerschaftsurkunde beantragen'
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-31
 zustaendigeRolle: ''
 beteiligte: []

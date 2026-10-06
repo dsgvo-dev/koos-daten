@@ -2,6 +2,7 @@
 id: proc-bescheinigung-ueber-anzeige-eines-todesfalles-ausstellen
 titel: Bescheinigung über Anzeige eines Todesfalles ausstellen
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-31
 zustaendigeRolle: ''
 beteiligte: []

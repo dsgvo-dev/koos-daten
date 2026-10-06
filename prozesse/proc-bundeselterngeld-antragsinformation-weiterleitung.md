@@ -2,6 +2,7 @@
 id: proc-bundeselterngeld-antragsinformation-weiterleitung
 titel: Bundeselterngeld (Antragsinformation/Weiterleitung)
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-51
 zustaendigeRolle: ''
 beteiligte:

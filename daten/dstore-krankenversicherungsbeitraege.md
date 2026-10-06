@@ -1,5 +1,6 @@
 ---
 id: dstore-krankenversicherungsbeitraege
+bereich: extern
 typ: datenspeicher
 system: null
 name: Krankenversicherungsbeiträge

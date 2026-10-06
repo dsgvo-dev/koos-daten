@@ -2,6 +2,7 @@
 id: proc-informationssicherheit-beratung-umsetzung
 titel: Informationssicherheit — Beratung und Umsetzung
 status: aktiv
+bereich: intern
 zustaendigeEinheit: oe-amt-1-5
 zustaendigeRolle: Informationssicherheitsbeauftragte/r (ISB)
 

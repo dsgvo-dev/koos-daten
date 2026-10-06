@@ -2,6 +2,7 @@
 id: proc-vergnuegungssteuer-erheben
 titel: Vergnügungssteuer erheben
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-22
 zustaendigeRolle: ''
 beteiligte: []

@@ -1,5 +1,6 @@
 ---
 id: dstore-strafverfahrensmitteilung-auslaenderrecht
+bereich: extern
 typ: datenspeicher
 system: null
 name: Strafverfahrensmitteilung an die Ausländerbehörde

@@ -1,5 +1,6 @@
 ---
 id: dstore-darlehensverpflichtung-eigenheim
+bereich: extern
 typ: datenspeicher
 system: null
 name: Darlehensverpflichtung Eigenheim

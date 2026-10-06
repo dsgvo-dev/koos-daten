@@ -2,6 +2,7 @@
 id: proc-objektuebernahme-dokumentieren
 titel: Objektübernahme dokumentieren
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-41
 zustaendigeRolle: ''
 beteiligte: []

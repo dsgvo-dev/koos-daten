@@ -2,6 +2,7 @@
 id: proc-zahlungsverkehr-kassengeschaeft
 titel: Zahlungsverkehr und Kassengeschäft
 status: aktiv
+bereich: intern
 zustaendigeEinheit: oe-amt-20
 zustaendigeRolle: Sachbearbeitung Kasse
 beteiligte:
@@ -15,20 +16,18 @@ daten:
     - Buchungsbestätigungen
     - Kassenanordnungen
   datenspeicher:
-    - id: dstore-rechnungsdaten
     - id: dstore-debitoren-kreditorendaten
     - id: dstore-elektronische-rechnungsstellung
     - id: dstore-leitwegid-peppolid
     - id: dstore-rechnungsadressierung-kommune
     - id: dstore-rechnungskorrektur-storno
     - id: dstore-zahlungsziel-faelligkeit
-    - id: dstore-steuerdaten
 regelungen:
   - KomHKVO
   - ERechV
   - §§ 238 HGB
   - §§ 286 BGB
-letzte-aktualisierung: 2026-04-23
+letzte-aktualisierung: '2026-10-05'
 ---
 # Zahlungsverkehr und Kassengeschäft
 

@@ -2,6 +2,7 @@
 id: proc-erschliessungsbeitraege-verfahren-bescheide
 titel: Erschließungsbeiträge (Verfahren/Bescheide)
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-66
 zustaendigeRolle: ''
 beteiligte:

@@ -2,6 +2,7 @@
 id: proc-oeffnungszeiten-verwalten
 titel: Öffnungszeiten verwalten
 status: aktiv
+bereich: extern
 
 
 zustaendigeEinheit: oe-amt-33

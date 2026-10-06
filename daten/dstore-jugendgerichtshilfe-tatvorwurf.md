@@ -1,5 +1,6 @@
 ---
 id: dstore-jugendgerichtshilfe-tatvorwurf
+bereich: extern
 typ: datenspeicher
 system: null
 name: Tatvorwurf in der Jugendgerichtshilfe

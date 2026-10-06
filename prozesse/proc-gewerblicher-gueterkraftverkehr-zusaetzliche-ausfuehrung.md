@@ -2,6 +2,7 @@
 id: proc-gewerblicher-gueterkraftverkehr-zusaetzliche-ausfuehrung
 titel: 'Gewerblicher Güterkraftverkehr: zusätzliche Ausführung'
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-32
 zustaendigeRolle: ''
 beteiligte: []

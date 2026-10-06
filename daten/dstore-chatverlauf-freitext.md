@@ -1,5 +1,6 @@
 ---
 id: dstore-chatverlauf-freitext
+bereich: extern
 typ: datenspeicher
 system: null
 name: Chatverlauf mit Freitexteingaben

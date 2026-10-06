@@ -2,6 +2,7 @@
 id: proc-strassenreinigung-organisieren
 titel: Straßenreinigung organisieren
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-66
 zustaendigeRolle: ''
 beteiligte:

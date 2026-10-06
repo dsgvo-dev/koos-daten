@@ -2,6 +2,7 @@
 id: proc-hinweis-auf-korruption-bearbeiten
 titel: Hinweis auf Korruption bearbeiten
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-30
 zustaendigeRolle: ''
 beteiligte: []

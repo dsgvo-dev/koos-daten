@@ -2,6 +2,7 @@
 id: proc-bewachungsgewerbe-erlaubnis-beantragen
 titel: Bewachungsgewerbe Erlaubnis beantragen
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-32
 zustaendigeRolle: ''
 beteiligte:

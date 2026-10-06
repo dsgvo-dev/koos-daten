@@ -1,5 +1,6 @@
 ---
 id: dstore-mietvertrag
+bereich: intern
 typ: datenspeicher
 system: null
 name: Mietvertrag

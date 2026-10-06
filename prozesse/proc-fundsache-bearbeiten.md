@@ -2,6 +2,7 @@
 id: proc-fundsache-bearbeiten
 titel: Fundsache bearbeiten
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-32
 zustaendigeRolle: ''
 beteiligte: []

@@ -2,6 +2,7 @@
 id: proc-implantieren-von-identifikationschips-bei-hunden-pflicht
 titel: Implantieren von Identifikationschips bei Hunden (Pflicht/Information)
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-71
 zustaendigeRolle: ''
 beteiligte:

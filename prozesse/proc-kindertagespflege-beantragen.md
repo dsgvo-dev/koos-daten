@@ -2,6 +2,7 @@
 id: proc-kindertagespflege-beantragen
 titel: Kindertagespflege beantragen
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-51
 zustaendigeRolle: ''
 beteiligte:

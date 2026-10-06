@@ -2,6 +2,7 @@
 id: proc-gefluechtete-unterbringen
 titel: Objekte zur Unterbringung Geflüchteter anmieten
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-50
 zustaendigeRolle: sachbearbeiter
 beteiligte:

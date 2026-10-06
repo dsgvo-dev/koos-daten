@@ -1,5 +1,6 @@
 ---
 id: dstore-bauzeiten-bauablaufplan
+bereich: extern
 typ: datenspeicher
 system: null
 name: Bauzeiten- und Bauablaufplan

@@ -2,6 +2,7 @@
 id: proc-glasfaser-gestattungsvereinbarung-schliessen
 titel: Gestattungsvereinbarung Glasfaserausbau schließen
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-80
 zustaendigeRolle: sachbearbeiter
 daten:

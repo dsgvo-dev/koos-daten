@@ -2,6 +2,7 @@
 id: proc-laermbeschwerde-bearbeiten
 titel: Lärmbeschwerde bearbeiten
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-32
 zustaendigeRolle: ''
 beteiligte: []

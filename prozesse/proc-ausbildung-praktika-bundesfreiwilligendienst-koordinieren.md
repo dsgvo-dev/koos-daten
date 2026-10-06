@@ -2,6 +2,7 @@
 id: proc-ausbildung-praktika-bundesfreiwilligendienst-koordinieren
 titel: Ausbildung/Praktika/Bundesfreiwilligendienst koordinieren
 status: aktiv
+bereich: intern
 zustaendigeEinheit: oe-amt-11
 zustaendigeRolle: ''
 beteiligte:
@@ -14,8 +15,7 @@ daten:
   output: []
   datenspeicher:
   - id: dstore-bewerbungsunterlagen
-  - id: dstore-personenstammdaten
-  - id: dstore-kontaktdaten
+  - id: dstore-personalstammdaten-beschaeftigte
   - id: dstore-abrechnungsdaten
 regelungen:
 - '§§ 4-16 BBiG (Berufsausbildungsverhältnis)'

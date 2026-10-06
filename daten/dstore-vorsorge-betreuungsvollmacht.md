@@ -1,5 +1,6 @@
 ---
 id: dstore-vorsorge-betreuungsvollmacht
+bereich: extern
 typ: datenspeicher
 system: null
 name: Vorsorge- und Betreuungsvollmacht

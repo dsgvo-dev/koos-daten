@@ -1,5 +1,6 @@
 ---
 id: dstore-bescheid
+bereich: extern
 typ: datenspeicher
 system: null
 name: Bescheid

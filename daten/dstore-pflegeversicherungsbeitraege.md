@@ -1,5 +1,6 @@
 ---
 id: dstore-pflegeversicherungsbeitraege
+bereich: extern
 typ: datenspeicher
 system: null
 name: Pflegeversicherungsbeiträge

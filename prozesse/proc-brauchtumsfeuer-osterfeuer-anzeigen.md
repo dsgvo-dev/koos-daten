@@ -2,6 +2,7 @@
 id: proc-brauchtumsfeuer-osterfeuer-anzeigen
 titel: Brauchtumsfeuer (Osterfeuer) anzeigen
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-32
 zustaendigeRolle: ''
 beteiligte: []

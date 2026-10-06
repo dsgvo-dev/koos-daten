@@ -2,6 +2,7 @@
 id: proc-hundesteuer-festsetzung-erhebung
 titel: Hundesteuer (Festsetzung/Erhebung)
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-22
 zustaendigeRolle: ''
 beteiligte:

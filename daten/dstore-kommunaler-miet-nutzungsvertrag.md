@@ -1,5 +1,6 @@
 ---
 id: dstore-kommunaler-miet-nutzungsvertrag
+bereich: extern
 typ: datenspeicher
 system: null
 name: Kommunaler Miet- und Nutzungsvertrag

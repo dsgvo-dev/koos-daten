@@ -2,6 +2,7 @@
 id: proc-baugenehmigung
 titel: Baugenehmigung
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-63
 zustaendigeRolle: ''
 beteiligte:

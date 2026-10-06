@@ -1,5 +1,6 @@
 ---
 id: dstore-kfz-daten
+bereich: extern
 typ: datenspeicher
 system: null
 name: KFZ-Daten

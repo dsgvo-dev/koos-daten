@@ -1,5 +1,6 @@
 ---
 id: dstore-kindergeldbezug
+bereich: extern
 typ: datenspeicher
 system: null
 name: Kindergeldbezug

@@ -2,6 +2,7 @@
 id: proc-trinkwassergebuehr-gebuehrenverfahren-informationen
 titel: Trinkwassergebühr (Gebührenverfahren/Informationen)
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-20
 zustaendigeRolle: ''
 beteiligte:

@@ -1,5 +1,6 @@
 ---
 id: dstore-rentenversicherungsverlauf
+bereich: extern
 typ: datenspeicher
 system: null
 name: Rentenversicherungsverlauf

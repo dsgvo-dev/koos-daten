@@ -2,6 +2,7 @@
 id: proc-sondernutzungserlaubnis-oeffentliche-flaechen-beantragen
 titel: Sondernutzungserlaubnis (öffentliche Flächen) beantragen
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-32
 zustaendigeRolle: ''
 beteiligte:

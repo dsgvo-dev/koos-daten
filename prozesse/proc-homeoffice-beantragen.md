@@ -2,6 +2,7 @@
 id: proc-homeoffice-beantragen
 titel: Homeoffice / Mobiles Arbeiten beantragen
 status: aktiv
+bereich: intern
 zustaendigeEinheit: oe-amt-11
 zustaendigeRolle: Sachbearbeitung
 beteiligte:

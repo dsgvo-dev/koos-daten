@@ -2,6 +2,7 @@
 id: proc-objektueberwachung
 titel: Objektüberwachung
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-37
 zustaendigeRolle: ''
 beteiligte: []

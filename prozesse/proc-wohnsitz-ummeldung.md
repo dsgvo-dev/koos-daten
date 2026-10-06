@@ -2,6 +2,7 @@
 id: proc-wohnsitz-ummeldung
 titel: Wohnsitz Ummeldung
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-33
 zustaendigeRolle: ''
 beteiligte:
@@ -21,7 +22,7 @@ regelungen:
 - Bundesmeldegesetz (BMG)
 leika_id: '99115005011000'
 ozg_id: '10124'
-letzte-aktualisierung: '2026-07-10'
+letzte-aktualisierung: '2026-10-04'
 ---
 
 # Wohnsitz Ummeldung
@@ -40,11 +41,11 @@ letzte-aktualisierung: '2026-07-10'
 **04 Melderegister aktualisieren**  
 *Neue Adresse eintragen*
 
-**05 Weitermeldungen**  
-*Finanzamt, Rentenversicherung*
+**05 Rückmeldung**  
+*An die bisherige Meldebehörde (§ 33 BMG)*
 
 **06 Meldebescheinigung ausstellen**  
 *Sofort oder per Post*
 
 **07 Datenübermittlung**  
-*An Bundesmeldedienst*
+*Regelmäßige Übermittlungen an Bundesstellen, u. a. Bundeszentralamt für Steuern, Datenstelle der Rentenversicherung (§ 36 BMG, 2. BMeldDÜV)*

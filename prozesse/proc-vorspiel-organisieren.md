@@ -2,6 +2,7 @@
 id: proc-vorspiel-organisieren
 titel: Vorspiel organisieren
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-41
 zustaendigeRolle: ''
 beteiligte: []

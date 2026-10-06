@@ -1,5 +1,6 @@
 ---
 id: dstore-register-und-zuverlaessigkeitsauskuenfte
+bereich: extern
 typ: datenspeicher
 system: null
 name: Register- und Zuverlässigkeitsauskünfte

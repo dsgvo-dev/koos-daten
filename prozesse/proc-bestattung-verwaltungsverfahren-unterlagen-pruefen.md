@@ -2,6 +2,7 @@
 id: proc-bestattung-verwaltungsverfahren-unterlagen-pruefen
 titel: Bestattung (Verwaltungsverfahren/Unterlagen prüfen)
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-31
 zustaendigeRolle: ''
 beteiligte:

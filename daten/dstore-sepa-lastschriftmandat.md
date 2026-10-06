@@ -1,5 +1,6 @@
 ---
 id: dstore-sepa-lastschriftmandat
+bereich: extern
 typ: datenspeicher
 system: null
 name: SEPA-Lastschriftmandat

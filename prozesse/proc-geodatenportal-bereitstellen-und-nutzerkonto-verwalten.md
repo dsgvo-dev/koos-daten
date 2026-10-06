@@ -2,6 +2,7 @@
 id: proc-geodatenportal-bereitstellen-und-nutzerkonto-verwalten
 titel: Geodatenportal bereitstellen und Nutzerkonto verwalten
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-15
 zustaendigeRolle: ''
 beteiligte:

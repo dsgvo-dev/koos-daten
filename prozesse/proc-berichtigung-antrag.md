@@ -2,6 +2,7 @@
 id: proc-berichtigung-antrag
 titel: Antrag auf Berichtigung bearbeiten (Art. 16 DSGVO)
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-1-4
 zustaendigeRolle: datenschutzbeauftragte
 beteiligte:

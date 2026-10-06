@@ -1,5 +1,6 @@
 ---
 id: dstore-verwaltungsakte
+bereich: extern
 typ: datenspeicher
 system: null
 name: Verwaltungsakte

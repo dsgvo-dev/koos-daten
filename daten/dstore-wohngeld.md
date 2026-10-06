@@ -1,5 +1,6 @@
 ---
 id: dstore-wohngeld
+bereich: extern
 typ: datenspeicher
 system: null
 name: Wohngeldantrag

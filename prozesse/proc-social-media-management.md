@@ -2,6 +2,7 @@
 id: proc-social-media-management
 titel: Social Media Management
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-13
 zustaendigeRolle: ''
 beteiligte: []

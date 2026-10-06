@@ -2,6 +2,7 @@
 id: proc-abfallberatung
 titel: Abfallberatung
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-60
 zustaendigeRolle: ''
 beteiligte:

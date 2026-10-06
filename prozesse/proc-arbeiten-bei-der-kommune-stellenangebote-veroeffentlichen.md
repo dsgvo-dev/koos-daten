@@ -2,6 +2,7 @@
 id: proc-arbeiten-bei-der-kommune-stellenangebote-veroeffentlichen
 titel: 'Arbeiten bei der Kommune: Stellenangebote veröffentlichen'
 status: aktiv
+bereich: intern
 zustaendigeEinheit: oe-amt-11
 zustaendigeRolle: ''
 beteiligte:
@@ -14,12 +15,11 @@ daten:
   output: []
   datenspeicher:
   - id: dstore-bewerbungsunterlagen
-  - id: dstore-lebenslauf-qualifikationsnachweis
 regelungen:
 - '§§ 10-13 Nds. Beamtengesetz (NBG) (Begründung des Beamtenverhältnisses)'
 - '§§ 1 ff. TVöD (Geltungsbereich/Einstellung)'
 - '§ 85 NKomVG (Personalhoheit)'
-letzte-aktualisierung: 2026-04-06
+letzte-aktualisierung: '2026-10-06'
 ---
 # Arbeiten bei der Kommune: Stellenangebote veröffentlichen
 

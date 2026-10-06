@@ -2,6 +2,7 @@
 id: proc-jugendtreff-leiten
 titel: Jugendtreff leiten
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-51
 zustaendigeRolle: ''
 beteiligte: []

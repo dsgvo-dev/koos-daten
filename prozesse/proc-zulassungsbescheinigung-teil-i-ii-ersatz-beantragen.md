@@ -2,6 +2,7 @@
 id: proc-zulassungsbescheinigung-teil-i-ii-ersatz-beantragen
 titel: Zulassungsbescheinigung Teil I/II Ersatz beantragen
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-34
 zustaendigeRolle: ''
 beteiligte:

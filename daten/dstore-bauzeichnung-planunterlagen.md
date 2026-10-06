@@ -1,5 +1,6 @@
 ---
 id: dstore-bauzeichnung-planunterlagen
+bereich: extern
 typ: datenspeicher
 system: null
 name: Bauzeichnungen und Planunterlagen

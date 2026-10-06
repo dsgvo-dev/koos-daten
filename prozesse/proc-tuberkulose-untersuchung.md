@@ -2,6 +2,7 @@
 id: proc-tuberkulose-untersuchung
 titel: Tuberkulose-Untersuchung
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-53
 zustaendigeRolle: ''
 beteiligte: []

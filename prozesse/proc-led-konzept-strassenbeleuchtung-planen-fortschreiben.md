@@ -2,6 +2,7 @@
 id: proc-led-konzept-strassenbeleuchtung-planen-fortschreiben
 titel: LED-Konzept Straßenbeleuchtung planen/fortschreiben
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-66
 zustaendigeRolle: ''
 beteiligte:

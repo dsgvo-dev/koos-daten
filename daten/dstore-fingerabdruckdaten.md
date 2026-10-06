@@ -1,5 +1,6 @@
 ---
 id: dstore-fingerabdruckdaten
+bereich: extern
 typ: datenspeicher
 system: null
 name: Fingerabdruckdaten

@@ -2,6 +2,7 @@
 id: proc-staedtepartnerschaft-pflegen
 titel: Städtepartnerschaft pflegen
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-1-1
 zustaendigeRolle: ''
 beteiligte: []

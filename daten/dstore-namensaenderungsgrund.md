@@ -1,5 +1,6 @@
 ---
 id: dstore-namensaenderungsgrund
+bereich: extern
 typ: datenspeicher
 system: null
 name: Begründung einer Namensänderung

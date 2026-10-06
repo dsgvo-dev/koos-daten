@@ -1,5 +1,6 @@
 ---
 id: dstore-scheidungsnachweis
+bereich: extern
 typ: datenspeicher
 system: null
 name: Scheidungsnachweis

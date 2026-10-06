@@ -1,5 +1,6 @@
 ---
 id: dstore-belegart-fuehrungszeugnis
+bereich: extern
 typ: datenspeicher
 system: null
 name: Belegart Führungszeugnis

@@ -2,6 +2,7 @@
 id: proc-wasserprobe-analysieren
 titel: Wasserprobe analysieren
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-60
 zustaendigeRolle: ''
 beteiligte: []

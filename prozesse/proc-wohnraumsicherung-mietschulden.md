@@ -2,6 +2,7 @@
 id: proc-wohnraumsicherung-mietschulden
 titel: Wohnraumsicherung und Mietschuldenberatung
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-64
 zustaendigeRolle: Sachbearbeitung Wohnungswesen
 

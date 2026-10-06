@@ -2,6 +2,7 @@
 id: proc-grossraum-und-schwerverkehr-ausnahmegenehmigung
 titel: 'Großraum- und Schwerverkehr: Ausnahmegenehmigung'
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-34
 zustaendigeRolle: ''
 beteiligte:

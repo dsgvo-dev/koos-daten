@@ -2,6 +2,7 @@
 id: proc-personalausweis-ausstellen
 titel: Personalausweis ausstellen
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-33
 zustaendigeRolle: ''
 beteiligte: []

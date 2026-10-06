@@ -2,6 +2,7 @@
 id: proc-online-ausweisfunktion-aktivieren
 titel: Online-Ausweisfunktion aktivieren
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-33
 zustaendigeRolle: ''
 beteiligte: []

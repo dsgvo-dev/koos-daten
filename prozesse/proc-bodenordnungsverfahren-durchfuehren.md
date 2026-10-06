@@ -2,6 +2,7 @@
 id: proc-bodenordnungsverfahren-durchfuehren
 titel: Bodenordnungsverfahren (Umlegung) durchführen
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-63
 zustaendigeRolle: sachbearbeiter
 daten:

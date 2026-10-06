@@ -2,6 +2,7 @@
 id: proc-fischereischein-ausstellen
 titel: Fischereischein ausstellen
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-33
 zustaendigeRolle: sachbearbeiter
 daten:

@@ -1,5 +1,6 @@
 ---
 id: dstore-einverstaendnis-sorgeberechtigte
+bereich: extern
 typ: datenspeicher
 system: null
 name: Einverständnis der Sorgeberechtigten

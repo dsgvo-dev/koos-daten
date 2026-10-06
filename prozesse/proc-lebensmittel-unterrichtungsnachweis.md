@@ -2,6 +2,7 @@
 id: proc-lebensmittel-unterrichtungsnachweis
 titel: Lebensmittel – Unterrichtungsnachweis
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-71
 zustaendigeRolle: ''
 beteiligte:

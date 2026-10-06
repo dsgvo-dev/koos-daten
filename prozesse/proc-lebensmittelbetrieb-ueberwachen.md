@@ -2,6 +2,7 @@
 id: proc-lebensmittelbetrieb-ueberwachen
 titel: Lebensmittelbetrieb überwachen
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-53
 zustaendigeRolle: ''
 beteiligte: []

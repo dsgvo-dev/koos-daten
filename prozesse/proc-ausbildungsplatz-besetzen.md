@@ -2,6 +2,7 @@
 id: proc-ausbildungsplatz-besetzen
 titel: Ausbildungsplatz besetzen
 status: aktiv
+bereich: intern
 zustaendigeEinheit: oe-amt-11
 zustaendigeRolle: ''
 beteiligte: []
@@ -11,14 +12,11 @@ daten:
   datenspeicher:
   - id: dstore-personalakte
   - id: dstore-bewerbungsunterlagen
-  - id: dstore-lebenslauf-qualifikationsnachweis
-  - id: dstore-schulbesuch-ausbildungsstatus
-  - id: dstore-verwaltungsakte
 regelungen:
 - '§§ 4-16 BBiG (Berufsausbildungsverhältnis)'
 - '§§ 1 ff. Bundesfreiwilligendienstgesetz (BFDG)'
 - '§ 1 ff. TVAöD (Tarifvertrag Auszubildende)'
-letzte-aktualisierung: 2026-04-29
+letzte-aktualisierung: '2026-10-06'
 ---
 # Ausbildungsplatz besetzen
 

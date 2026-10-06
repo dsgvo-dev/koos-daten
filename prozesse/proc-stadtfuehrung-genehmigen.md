@@ -2,6 +2,7 @@
 id: proc-stadtfuehrung-genehmigen
 titel: Stadtführung genehmigen
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-10
 zustaendigeRolle: ''
 beteiligte: []

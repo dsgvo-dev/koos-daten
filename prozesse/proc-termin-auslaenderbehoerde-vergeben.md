@@ -2,6 +2,7 @@
 id: proc-termin-auslaenderbehoerde-vergeben
 titel: Termine in Ausländerangelegenheiten vergeben
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-47
 zustaendigeRolle: sachbearbeiter
 beteiligte:

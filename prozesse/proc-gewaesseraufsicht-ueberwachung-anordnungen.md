@@ -2,6 +2,7 @@
 id: proc-gewaesseraufsicht-ueberwachung-anordnungen
 titel: Gewässeraufsicht (Überwachung/Anordnungen)
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-60
 zustaendigeRolle: ''
 beteiligte:

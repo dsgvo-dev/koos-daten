@@ -2,6 +2,7 @@
 id: proc-ausnahmegenehmigung-nachtruhe-fuer-veranstaltungen
 titel: Ausnahmegenehmigung Nachtruhe für Veranstaltungen
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-32
 zustaendigeRolle: ''
 beteiligte: []

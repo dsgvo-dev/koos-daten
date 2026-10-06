@@ -2,6 +2,7 @@
 id: proc-rechnungspruefung-jahresabschluss
 titel: Rechnungsprüfung und Jahresabschluss
 status: aktiv
+bereich: intern
 zustaendigeEinheit: oe-amt-14
 zustaendigeRolle: Rechnungsprüferin / Rechnungsprüfer
 

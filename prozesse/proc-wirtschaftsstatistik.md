@@ -2,6 +2,7 @@
 id: proc-wirtschaftsstatistik
 titel: Wirtschaftsstatistik
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-12
 zustaendigeRolle: ''
 beteiligte: []

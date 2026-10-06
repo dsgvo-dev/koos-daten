@@ -1,5 +1,6 @@
 ---
 id: dstore-elektronische-zustelladresse
+bereich: extern
 typ: datenspeicher
 system: null
 name: Elektronische Zustelladresse

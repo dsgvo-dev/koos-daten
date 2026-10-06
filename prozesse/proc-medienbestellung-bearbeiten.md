@@ -2,6 +2,7 @@
 id: proc-medienbestellung-bearbeiten
 titel: Medienbestellung bearbeiten
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-41
 zustaendigeRolle: ''
 beteiligte: []

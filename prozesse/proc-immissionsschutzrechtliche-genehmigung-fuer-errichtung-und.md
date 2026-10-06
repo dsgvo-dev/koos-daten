@@ -2,6 +2,7 @@
 id: proc-immissionsschutzrechtliche-genehmigung-fuer-errichtung-und
 titel: Immissionsschutzrechtliche Genehmigung für Errichtung und Betrieb von Anlagen
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-60
 zustaendigeRolle: ''
 beteiligte: []

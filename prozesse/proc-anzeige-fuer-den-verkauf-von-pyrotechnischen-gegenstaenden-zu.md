@@ -2,6 +2,7 @@
 id: proc-anzeige-fuer-den-verkauf-von-pyrotechnischen-gegenstaenden-zu
 titel: Anzeige für den Verkauf von pyrotechnischen Gegenständen zu Silvester
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-32
 zustaendigeRolle: ''
 beteiligte:

@@ -1,5 +1,6 @@
 ---
 id: dstore-wildursprungsschein
+bereich: extern
 typ: datenspeicher
 system: null
 name: Wildursprungsschein

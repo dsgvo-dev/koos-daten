@@ -1,5 +1,6 @@
 ---
 id: dstore-gemeinschaftliche-mittagsverpflegung
+bereich: extern
 typ: datenspeicher
 system: null
 name: Gemeinschaftliche Mittagsverpflegung

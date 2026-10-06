@@ -2,6 +2,7 @@
 id: proc-werbeanlage-genehmigen
 titel: Werbeanlage genehmigen
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-10
 zustaendigeRolle: ''
 beteiligte: []

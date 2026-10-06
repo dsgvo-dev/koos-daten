@@ -1,5 +1,6 @@
 ---
 id: dstore-integrationskursnachweis
+bereich: extern
 typ: datenspeicher
 system: null
 name: Integrationskursnachweis

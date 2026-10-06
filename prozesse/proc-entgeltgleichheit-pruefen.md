@@ -2,6 +2,7 @@
 id: proc-entgeltgleichheit-pruefen
 titel: Entgeltgleichheit prüfen
 status: aktiv
+bereich: intern
 zustaendigeEinheit: oe-amt-1-2
 zustaendigeRolle: ''
 beteiligte: []
@@ -10,11 +11,10 @@ daten:
   output: []
   datenspeicher:
   - id: dstore-arbeitsverhaeltnis-beschaeftigung
-  - id: dstore-verwaltungsakte
 regelungen:
 - '§ 1 Entgelttransparenzgesetz (EntgTranspG)'
 - '§ 1 AGG (Benachteiligungsverbot)'
-letzte-aktualisierung: 2026-04-29
+letzte-aktualisierung: '2026-10-05'
 ---
 # Entgeltgleichheit prüfen
 

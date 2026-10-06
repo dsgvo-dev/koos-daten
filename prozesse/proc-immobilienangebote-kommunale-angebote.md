@@ -2,6 +2,7 @@
 id: proc-immobilienangebote-kommunale-angebote
 titel: Immobilienangebote (kommunale Angebote)
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-80
 zustaendigeRolle: ''
 beteiligte:

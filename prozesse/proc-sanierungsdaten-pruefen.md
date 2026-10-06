@@ -2,6 +2,7 @@
 id: proc-sanierungsdaten-pruefen
 titel: Sanierungsrechtliche Daten prüfen
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-64
 zustaendigeRolle: sachbearbeiter
 daten:

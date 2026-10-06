@@ -2,6 +2,7 @@
 id: proc-auskunftssperre-im-melderegister-einrichten
 titel: Auskunftssperre im Melderegister einrichten
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-33
 zustaendigeRolle: ''
 beteiligte: []

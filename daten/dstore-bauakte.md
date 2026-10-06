@@ -1,5 +1,6 @@
 ---
 id: dstore-bauakte
+bereich: extern
 typ: datenspeicher
 system: null
 name: Bauakte

@@ -2,6 +2,7 @@
 id: proc-radverkehrskonzept-entwickeln-umsetzen
 titel: Radverkehrskonzept entwickeln/umsetzen
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-86
 zustaendigeRolle: ''
 beteiligte:

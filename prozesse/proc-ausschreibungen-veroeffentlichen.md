@@ -2,6 +2,7 @@
 id: proc-ausschreibungen-veroeffentlichen
 titel: Ausschreibungen veröffentlichen
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-10
 zustaendigeRolle: ''
 beteiligte:
@@ -19,7 +20,7 @@ regelungen:
 - '§§ 1 ff. Vergabeverordnung (VgV)'
 - '§§ 1 ff. Unterschwellenvergabeordnung (UVgO)'
 - '§§ 1 ff. Nds. Tariftreue- und Vergabegesetz (NTVergG)'
-letzte-aktualisierung: 2026-04-06
+letzte-aktualisierung: '2026-10-06'
 ---
 # Ausschreibungen veröffentlichen
 

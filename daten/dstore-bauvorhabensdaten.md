@@ -1,5 +1,6 @@
 ---
 id: dstore-bauvorhabensdaten
+bereich: extern
 typ: datenspeicher
 system: null
 name: Bauvorhabens- und Objektdaten

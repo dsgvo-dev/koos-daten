@@ -2,6 +2,7 @@
 id: proc-schuelerbefreiung-genehmigen
 titel: Schülerbefreiung genehmigen
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-40
 zustaendigeRolle: ''
 beteiligte: []

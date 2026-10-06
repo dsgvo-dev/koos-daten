@@ -2,6 +2,7 @@
 id: proc-fahrerlaubnis-karteikartenabschrift-anfordern
 titel: 'Fahrerlaubnis: Karteikartenabschrift anfordern'
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-34
 zustaendigeRolle: ''
 beteiligte: []

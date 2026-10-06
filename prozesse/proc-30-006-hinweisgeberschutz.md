@@ -2,6 +2,7 @@
 id: proc-30-006-hinweisgeberschutz
 titel: Interne Meldestelle nach HinSchG
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-30
 zustaendigeRolle: meldestellenbeauftragte
 beteiligte:

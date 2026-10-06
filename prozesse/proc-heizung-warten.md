@@ -2,6 +2,7 @@
 id: proc-heizung-warten
 titel: Heizung warten
 status: aktiv
+bereich: intern
 zustaendigeEinheit: oe-amt-65
 zustaendigeRolle: ''
 beteiligte: []
@@ -9,12 +10,11 @@ daten:
   input: []
   output: []
   datenspeicher:
-  - id: dstore-verwaltungsakte
   - id: dstore-abrechnungsdaten
 regelungen:
 - '§§ 60-71 GEG (Heizungssysteme)'
 - '§ 60 GEG (Inspektionspflicht Klimaanlagen)'
-letzte-aktualisierung: 2026-04-29
+letzte-aktualisierung: '2026-10-05'
 ---
 # Heizung warten
 

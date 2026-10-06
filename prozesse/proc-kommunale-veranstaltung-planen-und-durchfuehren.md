@@ -2,6 +2,7 @@
 id: proc-kommunale-veranstaltung-planen-und-durchfuehren
 titel: Kommunale Veranstaltung planen und durchführen
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-10
 zustaendigeRolle: ''
 beteiligte:

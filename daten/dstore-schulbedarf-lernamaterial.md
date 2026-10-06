@@ -1,5 +1,6 @@
 ---
 id: dstore-schulbedarf-lernamaterial
+bereich: extern
 typ: datenspeicher
 system: null
 name: Schulbedarf und Lernmaterial

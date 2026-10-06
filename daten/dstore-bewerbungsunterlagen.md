@@ -1,5 +1,6 @@
 ---
 id: dstore-bewerbungsunterlagen
+bereich: intern
 typ: datenspeicher
 system: null
 name: Bewerbungsunterlagen
@@ -22,7 +23,7 @@ klassifizierung:
   aufbewahrung:
     frist: 6 Monate nach Absage
     beginn: prozessabhängig
-letzte-aktualisierung: '2026-08-10'
+letzte-aktualisierung: '2026-10-05'
 tags:
 - Bewerbung
 - Stellenausschreibung
@@ -43,6 +44,9 @@ Unterlagen einer Stellenbewerbung: Lebenslauf, Zeugnisse, Anschreiben.
 - Zeugnisse
 - Anschreiben
 - Eingangsdatum
+- Name, Vorname, Geburtsdatum und -ort, Anschrift, Kontaktdaten (Stammdaten der Bewerbenden, D1)
+- Staatsangehörigkeit, soweit für das Beamtenverhältnis erheblich (§ 7 BeamtStG)
+- Schwerbehinderung oder Gleichstellung, soweit zur bevorzugten Berücksichtigung angegeben (§ 165 SGB IX)
 
 ## Rechtsgrundlage
 
@@ -77,3 +81,7 @@ Geprüft im Durchgang „Register und Nachweise" vom 2026-08-04, in dem 38 Speic
 **Hinzu kommt das Abhängigkeitsverhältnis:** Beschäftigte können der Verarbeitung nicht ausweichen, und eine Offenlegung innerhalb der Verwaltung wirkt im täglichen Zusammenarbeiten fort. Für die Personalakte gilt zudem § 88 NBG mit einem eigenen Zugriffsregime, das strenger ist als das allgemeine Datenschutzrecht.
 
 *Sammelvermerk der Durchsicht vom 2026-08-10. In demselben Durchgang wurden 17 Speicher herabgestuft, die die Stufe D nicht trugen; dieser gehört nicht dazu.*
+
+## Erweitert 2026-10-05 (D1, Bewerberspeicher)
+
+Nach Entscheidung D1 (Martin, 05.10.2026) ist dieser Speicher der Bewerberspeicher: Er nimmt die Stammdaten der Bewerbenden, die Staatsangehörigkeit und die Angabe zur Schwerbehinderung auf, die vorher in den externen Speichern `dstore-personenstammdaten-vertraulich`, `dstore-staatsangehoerigkeit` und `dstore-schwerbehindertennachweis` geführt wurden. Frist bleibt 6 Monate nach Absage. Bei Einstellung werden die übernommenen Daten in `dstore-personalstammdaten-beschaeftigte` und `dstore-schwerbehinderung-beschaeftigte` überführt. Das Führungszeugnis wird wegen Art. 10 DSGVO getrennt in `dstore-fuehrungszeugnis-bewerbende` vermerkt.

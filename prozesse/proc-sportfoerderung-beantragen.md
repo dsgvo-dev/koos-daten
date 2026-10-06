@@ -2,6 +2,7 @@
 id: proc-sportfoerderung-beantragen
 titel: Sportförderung beantragen
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-41
 zustaendigeRolle: ''
 beteiligte: []
@@ -11,14 +12,13 @@ daten:
   datenspeicher:
   - id: dstore-foerderantrag
   - id: dstore-betriebsdaten
-  - id: dstore-abrechnungsdaten
   - id: dstore-bescheid
 regelungen:
 - § 2 Nds. Sportförderungsgesetz (NSportFöG)
 - § 11 NKomVG (Kommunale Einrichtungen/Daseinsvorsorge)
 leika_id: null
 ozg_id: '10627'
-letzte-aktualisierung: '2026-07-10'
+letzte-aktualisierung: '2026-10-06'
 ---
 
 # Sportförderung beantragen

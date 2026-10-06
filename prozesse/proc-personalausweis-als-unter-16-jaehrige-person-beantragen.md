@@ -2,6 +2,7 @@
 id: proc-personalausweis-als-unter-16-jaehrige-person-beantragen
 titel: Personalausweis als unter 16-jährige Person beantragen
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-33
 zustaendigeRolle: ''
 beteiligte:

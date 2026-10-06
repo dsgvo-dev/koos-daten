@@ -2,6 +2,7 @@
 id: proc-lebensmittel-marktueberwachung
 titel: Lebensmittel (Marktüberwachung)
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-71
 zustaendigeRolle: ''
 beteiligte:

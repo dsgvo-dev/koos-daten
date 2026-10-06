@@ -2,6 +2,7 @@
 id: proc-reisepass-aenderung-wegen-aenderung-des-wohnortes
 titel: Reisepass Änderung wegen Änderung des Wohnortes
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-33
 zustaendigeRolle: ''
 beteiligte: []

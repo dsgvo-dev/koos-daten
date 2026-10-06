@@ -2,6 +2,7 @@
 id: proc-gebuehr-fuer-die-trinkwasserversorgung-erhebung
 titel: 'Gebühr für die Trinkwasserversorgung: Erhebung'
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-20
 zustaendigeRolle: ''
 beteiligte: []

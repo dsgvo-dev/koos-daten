@@ -2,6 +2,7 @@
 id: proc-baugenehmigung-sonderbauten-64-nbauo-erteilen
 titel: Baugenehmigung Sonderbauten (§ 64 NBauO) erteilen
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-63
 zustaendigeRolle: ''
 beteiligte: []

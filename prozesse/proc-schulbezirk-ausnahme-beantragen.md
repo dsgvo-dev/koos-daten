@@ -2,6 +2,7 @@
 id: proc-schulbezirk-ausnahme-beantragen
 titel: Ausnahme vom Schulbezirk beantragen und bescheiden
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-40
 zustaendigeRolle: sachbearbeiter
 beteiligte:

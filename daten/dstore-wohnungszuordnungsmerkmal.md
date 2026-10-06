@@ -1,5 +1,6 @@
 ---
 id: dstore-wohnungszuordnungsmerkmal
+bereich: extern
 typ: datenspeicher
 system: null
 name: Wohnungszuordnungsmerkmal

@@ -1,5 +1,6 @@
 ---
 id: dstore-zahlungsziel-faelligkeit
+bereich: intern
 typ: datenspeicher
 system: null
 name: Zahlungsziel und Fälligkeit

@@ -2,6 +2,7 @@
 id: proc-kindeswohlgefaehrdung-pruefen
 titel: Kindeswohlgefährdung prüfen
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-51
 zustaendigeRolle: ''
 beteiligte: []

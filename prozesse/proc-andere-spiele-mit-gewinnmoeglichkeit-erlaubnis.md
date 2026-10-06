@@ -2,6 +2,7 @@
 id: proc-andere-spiele-mit-gewinnmoeglichkeit-erlaubnis
 titel: 'Andere Spiele mit Gewinnmöglichkeit: Erlaubnis'
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-32
 zustaendigeRolle: ''
 beteiligte: []

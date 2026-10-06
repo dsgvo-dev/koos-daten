@@ -2,6 +2,7 @@
 id: proc-junge-volljaehrige-begleiten
 titel: Hilfe für junge Volljährige begleiten
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-51
 zustaendigeRolle: fallfuehrung
 beteiligte:

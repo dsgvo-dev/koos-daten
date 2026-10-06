@@ -2,6 +2,7 @@
 id: proc-veranstaltungsgenehmigung
 titel: Veranstaltungsgenehmigung
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-80
 zustaendigeRolle: ''
 beteiligte: []

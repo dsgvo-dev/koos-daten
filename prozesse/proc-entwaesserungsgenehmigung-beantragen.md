@@ -2,6 +2,7 @@
 id: proc-entwaesserungsgenehmigung-beantragen
 titel: Entwässerungsgenehmigung beantragen
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-63
 zustaendigeRolle: ''
 beteiligte:

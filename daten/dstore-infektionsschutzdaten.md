@@ -1,5 +1,6 @@
 ---
 id: dstore-infektionsschutzdaten
+bereich: extern
 typ: datenspeicher
 system: null
 name: Infektionsschutzdaten

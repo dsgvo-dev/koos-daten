@@ -1,5 +1,6 @@
 ---
 id: dstore-maulkorb-leinenanordnung
+bereich: extern
 typ: datenspeicher
 system: null
 name: Maulkorb- und Leinenanordnung

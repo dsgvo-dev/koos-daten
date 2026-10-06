@@ -2,6 +2,7 @@
 id: proc-baustellenanordnung-verkehrsrechtlich-beantragen
 titel: Baustellenanordnung (verkehrsrechtlich) beantragen
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-66
 zustaendigeRolle: ''
 beteiligte:

@@ -2,6 +2,7 @@
 id: proc-brandsicherheitswache-bei-veranstaltung
 titel: Brandsicherheitswache bei Veranstaltung
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-37
 zustaendigeRolle: ''
 beteiligte: []

@@ -2,6 +2,7 @@
 id: proc-behindertenparkplatz-einrichten
 titel: Behindertenparkplatz einrichten
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-86
 zustaendigeRolle: ''
 beteiligte: []

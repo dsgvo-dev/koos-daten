@@ -1,5 +1,6 @@
 ---
 id: dstore-teilhabe-kultur-sport-freizeit
+bereich: extern
 typ: datenspeicher
 system: null
 name: Teilhabe an Kultur, Sport und Freizeit

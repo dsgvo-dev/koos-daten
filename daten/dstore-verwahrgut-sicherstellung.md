@@ -1,5 +1,6 @@
 ---
 id: dstore-verwahrgut-sicherstellung
+bereich: extern
 typ: datenspeicher
 system: null
 name: Verwahrgut aus Sicherstellung

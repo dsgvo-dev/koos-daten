@@ -2,6 +2,7 @@
 id: proc-altlastenkataster-auskunft
 titel: 'Altlastenkataster: Auskunft'
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-60
 zustaendigeRolle: ''
 beteiligte: []

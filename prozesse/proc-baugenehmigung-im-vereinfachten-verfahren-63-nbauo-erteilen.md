@@ -2,6 +2,7 @@
 id: proc-baugenehmigung-im-vereinfachten-verfahren-63-nbauo-erteilen
 titel: Baugenehmigung im vereinfachten Verfahren (§ 63 NBauO) erteilen
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-63
 zustaendigeRolle: ''
 beteiligte: []

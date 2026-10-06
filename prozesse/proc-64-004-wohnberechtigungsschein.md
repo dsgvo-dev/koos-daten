@@ -2,6 +2,7 @@
 id: proc-64-004-wohnberechtigungsschein
 titel: Wohnberechtigungsschein (WBS)
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-64
 zustaendigeRolle: ''
 beteiligte: []

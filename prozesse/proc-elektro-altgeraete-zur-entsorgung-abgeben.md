@@ -2,6 +2,7 @@
 id: proc-elektro-altgeraete-zur-entsorgung-abgeben
 titel: Elektro-Altgeräte zur Entsorgung abgeben
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-60
 zustaendigeRolle: ''
 beteiligte: []

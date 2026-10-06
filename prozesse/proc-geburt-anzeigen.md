@@ -2,6 +2,7 @@
 id: proc-geburt-anzeigen
 titel: Geburt anzeigen
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-31
 zustaendigeRolle: ''
 beteiligte:

@@ -2,6 +2,7 @@
 id: proc-wegegenossenschaft-verwalten
 titel: Wegegenossenschaften und Realverbände verwalten
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-86
 zustaendigeRolle: sachbearbeiter
 daten:

@@ -2,6 +2,7 @@
 id: proc-jagdsteuer-sonstige-kommunale-abgaben-hinweis-weiterleitung
 titel: Jagdsteuer/sonstige kommunale Abgaben (Hinweis/Weiterleitung)
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-22
 zustaendigeRolle: ''
 beteiligte:

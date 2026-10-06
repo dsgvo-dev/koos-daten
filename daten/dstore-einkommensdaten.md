@@ -1,5 +1,6 @@
 ---
 id: dstore-einkommensdaten
+bereich: extern
 typ: datenspeicher
 system: null
 name: Einkommensdaten

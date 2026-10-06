@@ -1,5 +1,6 @@
 ---
 id: dstore-urlaubs-und-abwesenheitsdaten
+bereich: intern
 typ: datenspeicher
 system: null
 name: Urlaubs- und Abwesenheitsdaten

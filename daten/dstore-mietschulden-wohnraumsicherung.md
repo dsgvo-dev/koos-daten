@@ -1,5 +1,6 @@
 ---
 id: dstore-mietschulden-wohnraumsicherung
+bereich: extern
 typ: datenspeicher
 system: null
 name: Mietschulden und Wohnraumsicherung

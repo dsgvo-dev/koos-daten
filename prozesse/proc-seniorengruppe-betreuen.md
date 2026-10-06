@@ -2,6 +2,7 @@
 id: proc-seniorengruppe-betreuen
 titel: Seniorengruppe betreuen
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-50
 zustaendigeRolle: ''
 beteiligte: []

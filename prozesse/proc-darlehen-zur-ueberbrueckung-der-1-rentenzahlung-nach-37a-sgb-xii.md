@@ -2,6 +2,7 @@
 id: proc-darlehen-zur-ueberbrueckung-der-1-rentenzahlung-nach-37a-sgb-xii
 titel: Darlehen zur Überbrückung der 1. Rentenzahlung nach § 37a SGB XII beantragen
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-50
 zustaendigeRolle: ''
 beteiligte: []

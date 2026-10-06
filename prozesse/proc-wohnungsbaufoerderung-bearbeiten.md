@@ -2,6 +2,7 @@
 id: proc-wohnungsbaufoerderung-bearbeiten
 titel: Wohnungsbauförderung bearbeiten
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-64
 zustaendigeRolle: sachbearbeiter
 daten:

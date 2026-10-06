@@ -2,6 +2,7 @@
 id: proc-marktveranstaltung-genehmigung-durchfuehrung
 titel: Marktveranstaltung — Genehmigung und Durchführung
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-38
 zustaendigeRolle: Sachbearbeitung Marktwesen
 

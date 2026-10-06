@@ -2,6 +2,7 @@
 id: proc-lastgangmessung-einrichten
 titel: Lastgangmessung einrichten
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-60
 zustaendigeRolle: ''
 beteiligte: []

@@ -2,6 +2,7 @@
 id: proc-vermarktungsgenehmigungen-nach-artenschutzrecht-cites
 titel: Vermarktungsgenehmigungen nach Artenschutzrecht (CITES)
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-60
 zustaendigeRolle: ''
 beteiligte:

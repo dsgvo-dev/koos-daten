@@ -1,5 +1,6 @@
 ---
 id: dstore-rechnungsdaten
+bereich: extern
 typ: datenspeicher
 system: null
 name: Rechnungsdaten

@@ -2,6 +2,7 @@
 id: proc-dienstwagenbuchung
 titel: Dienstwagen buchen (Poolfahrzeuge, Sonderfahrzeuge)
 status: aktiv
+bereich: intern
 zustaendigeEinheit: oe-amt-10
 zustaendigeRolle: sachbearbeiter
 beteiligte:
@@ -16,8 +17,7 @@ beteiligte:
   aufgabe: Bereitstellung des Buchungssystems
 daten:
   datenspeicher:
-  - dstore-fahrzeugnutzungserklaerung
-  - dstore-termin-und-vorsprachedaten
+  - dstore-dienstwagennutzung
 regelungen:
 - Dienstanweisung Dienstfahrzeuge / Poolfahrzeuge
 - § 3 Abs. 1 Nr. 4a Einkommensteuergesetz (EStG) (Fahrtenbuch)
@@ -25,7 +25,7 @@ regelungen:
 - Unfallverhütungsvorschriften (DGUV)
 leika_id: ''
 ozg_id: ''
-letzte-aktualisierung: '2026-08-04'
+letzte-aktualisierung: '2026-10-05'
 ---
 
 # Dienstwagen buchen

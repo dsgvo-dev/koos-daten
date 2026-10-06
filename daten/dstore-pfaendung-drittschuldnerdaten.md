@@ -1,5 +1,6 @@
 ---
 id: dstore-pfaendung-drittschuldnerdaten
+bereich: extern
 typ: datenspeicher
 system: null
 name: Pfändungs- und Drittschuldnerdaten

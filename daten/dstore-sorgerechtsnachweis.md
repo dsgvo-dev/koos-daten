@@ -1,5 +1,6 @@
 ---
 id: dstore-sorgerechtsnachweis
+bereich: extern
 typ: datenspeicher
 system: null
 name: Sorgerechtsnachweis

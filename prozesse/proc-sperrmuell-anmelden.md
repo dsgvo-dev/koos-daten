@@ -2,6 +2,7 @@
 id: proc-sperrmuell-anmelden
 titel: Sperrmüll anmelden
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-60
 zustaendigeRolle: ''
 beteiligte: []

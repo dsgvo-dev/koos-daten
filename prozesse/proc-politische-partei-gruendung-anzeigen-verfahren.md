@@ -2,6 +2,7 @@
 id: proc-politische-partei-gruendung-anzeigen-verfahren
 titel: 'Politische Partei: Gründung anzeigen (Verfahren)'
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-1-1
 zustaendigeRolle: ''
 beteiligte:

@@ -1,5 +1,6 @@
 ---
 id: dstore-frueherer-name-personenstandsaenderung
+bereich: extern
 typ: datenspeicher
 system: null
 name: Früherer Name nach Personenstands- oder Geschlechtseintragsänderung

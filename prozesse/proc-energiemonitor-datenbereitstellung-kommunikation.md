@@ -2,6 +2,7 @@
 id: proc-energiemonitor-datenbereitstellung-kommunikation
 titel: 'Energiemonitor: Datenbereitstellung/Kommunikation'
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-60
 zustaendigeRolle: ''
 beteiligte:

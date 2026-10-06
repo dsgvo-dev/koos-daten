@@ -2,6 +2,7 @@
 id: proc-versammlungen-und-aufzuege-anzeigen-anmelden
 titel: Versammlungen und Aufzüge anzeigen/anmelden
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-32
 zustaendigeRolle: ''
 beteiligte: []

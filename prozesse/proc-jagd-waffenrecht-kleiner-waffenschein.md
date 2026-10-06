@@ -2,6 +2,7 @@
 id: proc-jagd-waffenrecht-kleiner-waffenschein
 titel: 'Jagd-/Waffenrecht: Kleiner Waffenschein'
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-32
 zustaendigeRolle: ''
 beteiligte:

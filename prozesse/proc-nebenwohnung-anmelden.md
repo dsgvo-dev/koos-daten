@@ -2,6 +2,7 @@
 id: proc-nebenwohnung-anmelden
 titel: Nebenwohnung anmelden
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-33
 zustaendigeRolle: ''
 beteiligte: []
@@ -17,7 +18,7 @@ daten:
 regelungen:
 - '§§ 21-22 Bundesmeldegesetz (BMG) (Haupt- und Nebenwohnung)'
 - '§ 17 BMG (Anmeldepflicht)'
-letzte-aktualisierung: 2026-04-06
+letzte-aktualisierung: '2026-10-04'
 ---
 # Nebenwohnung anmelden
 
@@ -35,13 +36,13 @@ letzte-aktualisierung: 2026-04-06
 **04 Melderegister aktualisieren**  
 *Neue Adresse eintragen*
 
-**05 Weitermeldungen**  
-*Finanzamt, Rentenversicherung*
+**05 Rückmeldung**  
+*An die bisherige Meldebehörde (§ 33 BMG)*
 
 **06 Meldebescheinigung ausstellen**  
 *Sofort oder per Post*
 
 **07 Datenübermittlung**  
-*An Bundesmeldedienst*
+*Regelmäßige Übermittlungen an Bundesstellen, u. a. Bundeszentralamt für Steuern, Datenstelle der Rentenversicherung (§ 36 BMG, 2. BMeldDÜV)*
 
 

@@ -2,6 +2,7 @@
 id: proc-webcam-bereitstellung-publikation
 titel: 'Webcam: Bereitstellung/Publikation'
 status: aktiv
+bereich: extern
 
 
 zustaendigeEinheit: oe-amt-15

@@ -1,5 +1,6 @@
 ---
 id: dstore-forderungstitel-vollstreckung
+bereich: extern
 typ: datenspeicher
 system: null
 name: Forderungstitel Vollstreckung

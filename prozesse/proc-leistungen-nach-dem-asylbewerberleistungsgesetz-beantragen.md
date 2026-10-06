@@ -2,6 +2,7 @@
 id: proc-leistungen-nach-dem-asylbewerberleistungsgesetz-beantragen
 titel: Leistungen nach dem Asylbewerberleistungsgesetz beantragen
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-50
 zustaendigeRolle: ''
 beteiligte:

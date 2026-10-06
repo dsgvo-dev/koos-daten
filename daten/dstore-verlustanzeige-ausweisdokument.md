@@ -1,5 +1,6 @@
 ---
 id: dstore-verlustanzeige-ausweisdokument
+bereich: extern
 typ: datenspeicher
 system: null
 name: Verlustanzeige Ausweisdokument

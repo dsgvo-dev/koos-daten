@@ -2,6 +2,7 @@
 id: proc-aenderungen-zum-unterhaltsvorschuss-entgegennehmen-bearbeiten
 titel: Änderungen zum Unterhaltsvorschuss entgegennehmen/bearbeiten
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-51
 zustaendigeRolle: ''
 beteiligte:

@@ -2,6 +2,7 @@
 id: proc-bebauungsplan-einsehen-beteiligung
 titel: Bebauungsplan einsehen / Beteiligung
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-61
 zustaendigeRolle: ''
 beteiligte:

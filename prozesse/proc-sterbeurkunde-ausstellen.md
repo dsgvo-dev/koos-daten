@@ -2,6 +2,7 @@
 id: proc-sterbeurkunde-ausstellen
 titel: Sterbeurkunde ausstellen
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-31
 zustaendigeRolle: ''
 beteiligte:

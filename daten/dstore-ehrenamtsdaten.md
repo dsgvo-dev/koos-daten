@@ -1,5 +1,6 @@
 ---
 id: dstore-ehrenamtsdaten
+bereich: extern
 typ: datenspeicher
 system: null
 name: Ehrenamtsdaten

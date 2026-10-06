@@ -2,6 +2,7 @@
 id: proc-infektionsschutzmassnahmen
 titel: Infektionsschutzmaßnahmen
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-53
 zustaendigeRolle: ''
 beteiligte: []

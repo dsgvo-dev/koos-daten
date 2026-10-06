@@ -2,6 +2,7 @@
 id: proc-todesbescheinigung-einsicht-gewaehren
 titel: Einsicht in Todesbescheinigungen gewähren
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-53
 zustaendigeRolle: sachbearbeiter
 beteiligte:

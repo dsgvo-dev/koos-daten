@@ -2,6 +2,7 @@
 id: proc-fortbildung-organisieren
 titel: Fortbildung organisieren
 status: aktiv
+bereich: intern
 zustaendigeEinheit: oe-amt-11
 zustaendigeRolle: ''
 beteiligte: []
@@ -10,12 +11,10 @@ daten:
   output: []
   datenspeicher:
   - id: dstore-personalakte
-  - id: dstore-lebenslauf-qualifikationsnachweis
-  - id: dstore-verwaltungsakte
 regelungen:
 - '§ 45 NBG (Fortbildung)'
 - '§§ 5-6 TVöD (Qualifizierung)'
-letzte-aktualisierung: 2026-04-29
+letzte-aktualisierung: '2026-10-06'
 ---
 # Fortbildung organisieren
 

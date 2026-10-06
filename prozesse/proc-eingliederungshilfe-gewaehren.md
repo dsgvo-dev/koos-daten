@@ -2,6 +2,7 @@
 id: proc-eingliederungshilfe-gewaehren
 titel: Eingliederungshilfe gewähren
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-50
 zustaendigeRolle: ''
 beteiligte: []

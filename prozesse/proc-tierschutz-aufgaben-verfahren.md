@@ -2,6 +2,7 @@
 id: proc-tierschutz-aufgaben-verfahren
 titel: Tierschutz (Aufgaben/Verfahren)
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-71
 zustaendigeRolle: ''
 beteiligte:

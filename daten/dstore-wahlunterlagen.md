@@ -1,5 +1,6 @@
 ---
 id: dstore-wahlunterlagen
+bereich: extern
 typ: datenspeicher
 system: null
 name: Wahlunterlagen

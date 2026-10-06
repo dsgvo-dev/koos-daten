@@ -2,6 +2,7 @@
 id: proc-kommunalarchiv-nutzung-und-recherche
 titel: 'Kommunalarchiv: Nutzung und Recherche'
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-41
 zustaendigeRolle: ''
 beteiligte:

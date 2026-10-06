@@ -2,6 +2,7 @@
 id: proc-bestattungskosten-uebernehmen
 titel: Bestattungskosten übernehmen
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-50
 zustaendigeRolle: ''
 beteiligte: []

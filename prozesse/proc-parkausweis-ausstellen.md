@@ -2,6 +2,7 @@
 id: proc-parkausweis-ausstellen
 titel: Parkausweis ausstellen
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-86
 zustaendigeRolle: ''
 beteiligte: []

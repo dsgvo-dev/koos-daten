@@ -2,6 +2,7 @@
 id: proc-abfall-sperrmuell-organisation-abholung
 titel: 'Abfall: Sperrmüll (Organisation/Abholung)'
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-60
 zustaendigeRolle: ''
 beteiligte:

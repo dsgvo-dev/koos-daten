@@ -2,6 +2,7 @@
 id: proc-sondermuell-annahme
 titel: Sondermüll annahme
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-67
 zustaendigeRolle: ''
 beteiligte: []

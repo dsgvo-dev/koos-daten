@@ -2,6 +2,7 @@
 id: proc-rotes-kennzeichen-06er-probe-und-ueberfuehrungsfahrten-zuteilen
 titel: Rotes Fahrzeugkennzeichen (06er) für Probe- und Überführungsfahrten zuteilen
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-34
 zustaendigeRolle: ''
 beteiligte:

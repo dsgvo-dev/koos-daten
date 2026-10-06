@@ -2,6 +2,7 @@
 id: proc-ausstellungslizenz-erteilen
 titel: Ausstellungslizenz erteilen
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-41
 zustaendigeRolle: ''
 beteiligte: []

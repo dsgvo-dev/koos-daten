@@ -2,6 +2,7 @@
 id: proc-fuehrungszeugnis-beantragen-online-analog
 titel: Führungszeugnis beantragen (online/analog)
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-33
 zustaendigeRolle: ''
 beteiligte:

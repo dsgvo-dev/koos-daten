@@ -2,6 +2,7 @@
 id: proc-sondernutzung-plakatierung
 titel: Sondernutzung Plakatierung
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-32
 zustaendigeRolle: ''
 beteiligte:

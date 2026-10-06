@@ -2,6 +2,7 @@
 id: proc-eingliederungshilfe-fuer-menschen-mit-behinderung
 titel: Eingliederungshilfe für Menschen mit Behinderung
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-52
 zustaendigeRolle: ''
 beteiligte:

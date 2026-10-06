@@ -1,5 +1,6 @@
 ---
 id: dstore-tk-teilnehmerdaten
+bereich: intern
 typ: datenspeicher
 system: null
 name: Teilnehmerdaten Telekommunikationsanlage

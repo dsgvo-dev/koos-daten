@@ -2,6 +2,7 @@
 id: proc-wahlen-wahlorganisation-inkl-briefwahl-wahlschein
 titel: Wahlen (Wahlorganisation inkl. Briefwahl/Wahlschein)
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-33
 zustaendigeRolle: ''
 beteiligte:

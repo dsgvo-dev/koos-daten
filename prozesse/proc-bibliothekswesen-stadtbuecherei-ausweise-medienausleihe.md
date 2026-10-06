@@ -2,6 +2,7 @@
 id: proc-bibliothekswesen-stadtbuecherei-ausweise-medienausleihe
 titel: 'Bibliothekswesen (Stadtbücherei: Ausweise/Medienausleihe)'
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-41
 zustaendigeRolle: ''
 beteiligte:

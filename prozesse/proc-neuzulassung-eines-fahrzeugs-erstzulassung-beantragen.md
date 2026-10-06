@@ -2,6 +2,7 @@
 id: proc-neuzulassung-eines-fahrzeugs-erstzulassung-beantragen
 titel: Neuzulassung eines Fahrzeugs (Erstzulassung) beantragen
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-34
 zustaendigeRolle: ''
 beteiligte:

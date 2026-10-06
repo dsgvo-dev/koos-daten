@@ -1,5 +1,6 @@
 ---
 id: dstore-sicherheitsmangelmeldung
+bereich: extern
 typ: datenspeicher
 system: null
 name: Sicherheitsmangelmeldung

@@ -2,6 +2,7 @@
 id: proc-urkunde-geburtsurkunde-geburtenregister-beantragen
 titel: 'Urkunde: Geburtsurkunde/Geburtenregister beantragen'
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-31
 zustaendigeRolle: ''
 beteiligte: []

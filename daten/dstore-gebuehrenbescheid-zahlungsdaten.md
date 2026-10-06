@@ -1,5 +1,6 @@
 ---
 id: dstore-gebuehrenbescheid-zahlungsdaten
+bereich: extern
 typ: datenspeicher
 system: null
 name: Gebührenbescheid und Zahlungsdaten

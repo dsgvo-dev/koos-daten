@@ -2,6 +2,7 @@
 id: proc-baulasten-eintragung-in-das-baulastenverzeichnis
 titel: 'Baulasten: Eintragung in das Baulastenverzeichnis'
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-63
 zustaendigeRolle: ''
 beteiligte:

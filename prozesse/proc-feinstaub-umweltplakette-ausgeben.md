@@ -2,6 +2,7 @@
 id: proc-feinstaub-umweltplakette-ausgeben
 titel: Feinstaub-/Umweltplakette ausgeben
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-34
 zustaendigeRolle: ''
 beteiligte:

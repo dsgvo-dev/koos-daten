@@ -1,5 +1,6 @@
 ---
 id: dstore-geschlechtseintrag-erklaerung
+bereich: extern
 typ: datenspeicher
 system: null
 name: Geschlechtseintrag und Erklärung

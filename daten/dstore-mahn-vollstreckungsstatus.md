@@ -1,5 +1,6 @@
 ---
 id: dstore-mahn-vollstreckungsstatus
+bereich: extern
 typ: datenspeicher
 system: null
 name: Mahn- und Vollstreckungsstatus

@@ -2,6 +2,7 @@
 id: proc-bauabnahme-durchfuehren
 titel: Bauabnahme durchführen
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-63
 zustaendigeRolle: ''
 beteiligte: []

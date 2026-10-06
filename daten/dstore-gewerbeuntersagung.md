@@ -1,5 +1,6 @@
 ---
 id: dstore-gewerbeuntersagung
+bereich: extern
 typ: datenspeicher
 system: null
 name: Gewerbeuntersagung und Unzuverlässigkeit

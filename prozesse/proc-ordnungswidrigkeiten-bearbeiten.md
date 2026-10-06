@@ -2,6 +2,7 @@
 id: proc-ordnungswidrigkeiten-bearbeiten
 titel: Ordnungswidrigkeiten bearbeiten
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-32
 zustaendigeRolle: ''
 beteiligte:

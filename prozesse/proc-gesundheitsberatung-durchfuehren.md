@@ -2,6 +2,7 @@
 id: proc-gesundheitsberatung-durchfuehren
 titel: Gesundheitsberatung durchführen
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-53
 zustaendigeRolle: fachkraft
 beteiligte:

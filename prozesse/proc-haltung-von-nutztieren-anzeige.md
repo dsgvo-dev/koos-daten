@@ -2,6 +2,7 @@
 id: proc-haltung-von-nutztieren-anzeige
 titel: 'Haltung von Nutztieren: Anzeige'
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-71
 zustaendigeRolle: ''
 beteiligte:

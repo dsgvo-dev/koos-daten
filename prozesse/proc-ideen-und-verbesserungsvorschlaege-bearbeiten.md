@@ -2,6 +2,7 @@
 id: proc-ideen-und-verbesserungsvorschlaege-bearbeiten
 titel: Ideen und Verbesserungsvorschläge bearbeiten
 status: aktiv
+bereich: intern
 zustaendigeEinheit: oe-amt-10
 zustaendigeRolle: ''
 beteiligte:
@@ -13,10 +14,7 @@ daten:
   input: []
   output: []
   datenspeicher:
-  - id: dstore-beschwerde-anregungsdaten
-  - id: dstore-personenstammdaten
-  - id: dstore-kontaktdaten
-  - id: dstore-verwaltungsakte
+  - id: dstore-ideenmanagement
 regelungen:
 - Art. 6 Abs. 1 lit. e) DSGVO, § 3 NDSG - Wahrnehmung einer öffentlichen Aufgabe
 - Art. 17 GG - Petitionsrecht
@@ -25,7 +23,7 @@ regelungen:
 - Art. 14 DSGVO - Information bei Erhebung bei Dritten
 leika_id: null
 ozg_id: null
-letzte-aktualisierung: '2026-07-29'
+letzte-aktualisierung: '2026-10-06'
 ---
 
 # Ideen und Verbesserungsvorschläge bearbeiten

@@ -2,6 +2,7 @@
 id: proc-vorbescheid-zu-einer-genehmigungsbeduerftigen-anlage
 titel: Vorbescheid zu einer genehmigungsbedürftigen Anlage
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-60
 zustaendigeRolle: ''
 beteiligte: []

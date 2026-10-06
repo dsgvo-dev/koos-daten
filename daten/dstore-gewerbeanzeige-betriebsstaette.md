@@ -1,5 +1,6 @@
 ---
 id: dstore-gewerbeanzeige-betriebsstaette
+bereich: extern
 typ: datenspeicher
 system: null
 name: Gewerbeanzeige und Betriebsstätte

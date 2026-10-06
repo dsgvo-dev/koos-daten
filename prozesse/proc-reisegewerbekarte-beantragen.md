@@ -2,6 +2,7 @@
 id: proc-reisegewerbekarte-beantragen
 titel: Reisegewerbekarte beantragen
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-32
 zustaendigeRolle: ''
 beteiligte:

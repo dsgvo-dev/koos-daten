@@ -2,6 +2,7 @@
 id: proc-reisegewerbe-bewilligung-von-ausnahmen-zu-verboten
 titel: 'Reisegewerbe: Bewilligung von Ausnahmen zu Verboten'
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-32
 zustaendigeRolle: ''
 beteiligte:

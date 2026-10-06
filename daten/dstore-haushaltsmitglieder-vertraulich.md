@@ -1,5 +1,6 @@
 ---
 id: dstore-haushaltsmitglieder-vertraulich
+bereich: extern
 typ: datenspeicher
 system: null
 name: Haushaltsmitglieder und Haushaltsgröße in vertraulichen Verfahren

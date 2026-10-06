@@ -2,6 +2,7 @@
 id: proc-neubau-380-kv-freileitung-beteiligung-verfahren-begleiten
 titel: 'Neubau 380 kV Freileitung: Beteiligung/Verfahren begleiten'
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-61
 zustaendigeRolle: ''
 beteiligte:

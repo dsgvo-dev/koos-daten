@@ -2,6 +2,7 @@
 id: proc-eheschliessung-allgemein-anmeldung-bearbeitung
 titel: Eheschließung (allgemein) – Anmeldung/Bearbeitung
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-31
 zustaendigeRolle: ''
 beteiligte:

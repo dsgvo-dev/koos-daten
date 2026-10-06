@@ -2,6 +2,7 @@
 id: proc-buergertipps-bereitstellen
 titel: Bürgertipps bereitstellen
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-33
 zustaendigeRolle: ''
 beteiligte: []

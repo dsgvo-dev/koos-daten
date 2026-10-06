@@ -1,5 +1,6 @@
 ---
 id: dstore-fuehrungszeugnis
+bereich: extern
 typ: datenspeicher
 system: null
 name: Führungszeugnis

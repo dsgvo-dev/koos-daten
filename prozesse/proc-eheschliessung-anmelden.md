@@ -2,6 +2,7 @@
 id: proc-eheschliessung-anmelden
 titel: Eheschließung anmelden
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-31
 zustaendigeRolle: ''
 beteiligte:

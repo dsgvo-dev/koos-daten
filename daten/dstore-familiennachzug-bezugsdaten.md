@@ -1,5 +1,6 @@
 ---
 id: dstore-familiennachzug-bezugsdaten
+bereich: extern
 typ: datenspeicher
 system: null
 name: Familiennachzugbezug

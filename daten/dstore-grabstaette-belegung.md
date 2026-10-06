@@ -1,5 +1,6 @@
 ---
 id: dstore-grabstaette-belegung
+bereich: extern
 typ: datenspeicher
 system: null
 name: Grabstätte, Nutzungsrecht und Belegung

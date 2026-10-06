@@ -2,6 +2,7 @@
 id: proc-masernmeldung
 titel: Masernmeldung
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-53
 zustaendigeRolle: ''
 beteiligte: []

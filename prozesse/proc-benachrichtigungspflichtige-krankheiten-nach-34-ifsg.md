@@ -2,6 +2,7 @@
 id: proc-benachrichtigungspflichtige-krankheiten-nach-34-ifsg
 titel: Benachrichtigungspflichtige Krankheiten nach § 34 IfSG
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-53
 zustaendigeRolle: ''
 beteiligte: []

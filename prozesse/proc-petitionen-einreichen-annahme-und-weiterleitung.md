@@ -2,6 +2,7 @@
 id: proc-petitionen-einreichen-annahme-und-weiterleitung
 titel: 'Petitionen einreichen: Annahme und Weiterleitung'
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-1-1
 zustaendigeRolle: ''
 beteiligte: []

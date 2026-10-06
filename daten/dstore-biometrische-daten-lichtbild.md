@@ -1,5 +1,6 @@
 ---
 id: dstore-biometrische-daten-lichtbild
+bereich: extern
 typ: datenspeicher
 system: null
 name: Biometrische Daten und Lichtbild

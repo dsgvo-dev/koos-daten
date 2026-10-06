@@ -2,6 +2,7 @@
 id: proc-proben-untersuchen
 titel: Proben untersuchen
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-71
 zustaendigeRolle: ''
 beteiligte: []

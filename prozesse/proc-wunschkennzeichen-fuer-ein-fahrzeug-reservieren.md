@@ -2,6 +2,7 @@
 id: proc-wunschkennzeichen-fuer-ein-fahrzeug-reservieren
 titel: Wunschkennzeichen für ein Fahrzeug reservieren
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-34
 zustaendigeRolle: ''
 beteiligte:

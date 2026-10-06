@@ -2,6 +2,7 @@
 id: proc-stellungnahme-im-bauleitplanverfahren-abgeben
 titel: Stellungnahme im Bauleitplanverfahren abgeben
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-61
 zustaendigeRolle: ''
 beteiligte:

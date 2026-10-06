@@ -2,6 +2,7 @@
 id: proc-pfandverwertungsfrist-im-pfandleihgewerbe-verlaengern
 titel: Pfandverwertungsfrist im Pfandleihgewerbe verlängern
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-32
 zustaendigeRolle: ''
 beteiligte: []

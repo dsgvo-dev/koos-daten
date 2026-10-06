@@ -2,6 +2,7 @@
 id: proc-boden-altlasten-beratung-verfahren
 titel: 'Boden & Altlasten: Beratung/Verfahren'
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-60
 zustaendigeRolle: ''
 beteiligte:

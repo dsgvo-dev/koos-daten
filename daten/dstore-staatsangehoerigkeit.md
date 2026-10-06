@@ -1,5 +1,6 @@
 ---
 id: dstore-staatsangehoerigkeit
+bereich: extern
 typ: datenspeicher
 system: null
 name: Staatsangehörigkeit

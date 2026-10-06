@@ -2,6 +2,7 @@
 id: proc-gefaehrdungsbeurteilung
 titel: Gefährdungsbeurteilung Arbeitsplatz durchführen
 status: aktiv
+bereich: intern
 zustaendigeEinheit: oe-amt-10
 zustaendigeRolle: fachverantwortliche
 beteiligte:
@@ -19,8 +20,8 @@ beteiligte:
   aufgabe: Beratung zu Gesundheitsgefährdungen, Bildschirmarbeit
 daten:
   datenspeicher:
-  - dstore-ausbildungsnachweis-station
-  - dstore-arbeitsunfaehigkeit-krankheit
+  - dstore-gefaehrdungsbeurteilung
+  - dstore-vorsorgekartei
 regelungen:
 - §§ 3–5 Arbeitsschutzgesetz (ArbSchG)
 - Arbeitsstättenverordnung (ArbStättV)

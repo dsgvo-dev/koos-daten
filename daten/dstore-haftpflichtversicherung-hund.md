@@ -1,5 +1,6 @@
 ---
 id: dstore-haftpflichtversicherung-hund
+bereich: extern
 typ: datenspeicher
 system: null
 name: Haftpflichtversicherung Hund

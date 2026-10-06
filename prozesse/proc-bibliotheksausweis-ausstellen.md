@@ -2,6 +2,7 @@
 id: proc-bibliotheksausweis-ausstellen
 titel: Bibliotheksausweis ausstellen
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-41
 zustaendigeRolle: ''
 beteiligte: []

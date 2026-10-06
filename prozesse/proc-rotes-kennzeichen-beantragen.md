@@ -2,6 +2,7 @@
 id: proc-rotes-kennzeichen-beantragen
 titel: Rotes Kennzeichen beantragen
 status: ersetzt
+bereich: extern
 ersetzt-durch: proc-rotes-kennzeichen-07er-oldtimer-zuteilen
 zustaendigeEinheit: oe-amt-34
 zustaendigeRolle: ''

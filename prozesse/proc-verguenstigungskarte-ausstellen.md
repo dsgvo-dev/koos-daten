@@ -2,6 +2,7 @@
 id: proc-verguenstigungskarte-ausstellen
 titel: Vergünstigungskarte ausstellen
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-80
 zustaendigeRolle: ''
 beteiligte: []

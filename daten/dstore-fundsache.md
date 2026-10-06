@@ -1,5 +1,6 @@
 ---
 id: dstore-fundsache
+bereich: extern
 typ: datenspeicher
 system: null
 name: Fundsache und Fundverwaltung

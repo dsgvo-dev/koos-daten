@@ -2,6 +2,7 @@
 id: proc-aufenthaltstitel-erteilen
 titel: Aufenthaltstitel erteilen
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-47
 zustaendigeRolle: ''
 beteiligte: []

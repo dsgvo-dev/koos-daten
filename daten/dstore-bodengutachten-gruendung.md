@@ -1,5 +1,6 @@
 ---
 id: dstore-bodengutachten-gruendung
+bereich: extern
 typ: datenspeicher
 system: null
 name: Bodengutachten und Gründung

@@ -2,6 +2,7 @@
 id: proc-ein-und-ausfuhr-geschuetzter-pflanzen-und-tierarten-genehmigung
 titel: 'Ein- und Ausfuhr geschützter Pflanzen- und Tierarten: Genehmigung'
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-60
 zustaendigeRolle: ''
 beteiligte:

@@ -1,5 +1,6 @@
 ---
 id: dstore-grundstuecksdaten
+bereich: extern
 typ: datenspeicher
 system: null
 name: Grundstücksdaten

@@ -1,5 +1,6 @@
 ---
 id: dstore-ausleihvorgang-bibliothek
+bereich: extern
 typ: datenspeicher
 system: null
 name: Ausleihvorgang in der Bibliothek

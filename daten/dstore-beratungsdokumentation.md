@@ -1,5 +1,6 @@
 ---
 id: dstore-beratungsdokumentation
+bereich: extern
 typ: datenspeicher
 system: null
 name: Beratungsdokumentation

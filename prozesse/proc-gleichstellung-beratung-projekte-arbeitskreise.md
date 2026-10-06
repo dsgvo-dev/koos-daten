@@ -2,6 +2,7 @@
 id: proc-gleichstellung-beratung-projekte-arbeitskreise
 titel: 'Gleichstellung: Beratung/Projekte/Arbeitskreise'
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-1-2
 zustaendigeRolle: ''
 beteiligte:

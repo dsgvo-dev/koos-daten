@@ -2,21 +2,19 @@
 id: proc-barrierefreiheit-pruefen
 titel: Barrierefreiheit prüfen
 status: aktiv
-zustaendigeEinheit: oe-hvb
+bereich: intern
+zustaendigeEinheit: oe-amt-65
 zustaendigeRolle: ''
 beteiligte: []
 daten:
   input: []
   output: []
-  datenspeicher:
-  - id: dstore-verwaltungsakte
-  - id: dstore-bescheid
-  - id: dstore-schwerbehindertennachweis
+  datenspeicher: []
 regelungen:
 - '§§ 1-4 Behindertengleichstellungsgesetz (BGG)'
 - '§ 3 Nds. Behindertengleichstellungsgesetz (NBGG)'
 - '§ 4 BGG (Barrierefreiheit)'
-letzte-aktualisierung: 2026-04-29
+letzte-aktualisierung: '2026-10-05'
 ---
 # Barrierefreiheit prüfen
 

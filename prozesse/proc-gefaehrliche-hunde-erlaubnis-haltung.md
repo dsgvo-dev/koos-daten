@@ -2,6 +2,7 @@
 id: proc-gefaehrliche-hunde-erlaubnis-haltung
 titel: 'Gefährliche Hunde: Erlaubnis (Haltung)'
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-71
 zustaendigeRolle: ''
 beteiligte:

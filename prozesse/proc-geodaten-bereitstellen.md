@@ -2,6 +2,7 @@
 id: proc-geodaten-bereitstellen
 titel: Geodatendienstleistungen bereitstellen und abrechnen
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-60
 zustaendigeRolle: sachbearbeiter
 daten:

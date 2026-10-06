@@ -2,6 +2,7 @@
 id: proc-schoeffen-vorschlagsliste-aufstellen
 titel: Vorschlagsliste für Schöffen und ehrenamtliche Richter aufstellen
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-10
 zustaendigeRolle: ''
 beteiligte:

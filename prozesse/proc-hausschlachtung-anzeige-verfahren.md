@@ -2,6 +2,7 @@
 id: proc-hausschlachtung-anzeige-verfahren
 titel: Hausschlachtung (Anzeige/Verfahren)
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-71
 zustaendigeRolle: ''
 beteiligte:

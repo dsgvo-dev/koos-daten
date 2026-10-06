@@ -2,6 +2,7 @@
 id: proc-vorlaeufigen-personalausweis-beantragen
 titel: Vorläufigen Personalausweis beantragen
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-33
 zustaendigeRolle: ''
 beteiligte:

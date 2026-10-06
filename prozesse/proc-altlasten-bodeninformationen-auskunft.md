@@ -2,6 +2,7 @@
 id: proc-altlasten-bodeninformationen-auskunft
 titel: Altlasten-/Bodeninformationen Auskunft
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-60
 zustaendigeRolle: ''
 beteiligte: []

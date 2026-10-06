@@ -1,5 +1,6 @@
 ---
 id: dstore-loeschwasserversorgung
+bereich: extern
 typ: datenspeicher
 system: null
 name: Löschwasserversorgung

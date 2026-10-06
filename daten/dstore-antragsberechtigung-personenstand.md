@@ -1,5 +1,6 @@
 ---
 id: dstore-antragsberechtigung-personenstand
+bereich: extern
 typ: datenspeicher
 system: null
 name: Antragsberechtigung im Personenstandsrecht

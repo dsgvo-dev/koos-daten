@@ -1,5 +1,6 @@
 ---
 id: dstore-uebersetzung-apostille-legalisation
+bereich: extern
 typ: datenspeicher
 system: null
 name: Übersetzung, Apostille und Legalisation

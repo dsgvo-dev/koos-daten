@@ -2,6 +2,7 @@
 id: proc-anliegerbescheinigung-ausstellen
 titel: Anliegerbescheinigung ausstellen
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-66
 zustaendigeRolle: ''
 beteiligte:

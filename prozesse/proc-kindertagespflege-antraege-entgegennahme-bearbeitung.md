@@ -2,6 +2,7 @@
 id: proc-kindertagespflege-antraege-entgegennahme-bearbeitung
 titel: 'Kindertagespflege (Anträge): Entgegennahme/Bearbeitung'
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-51
 zustaendigeRolle: ''
 beteiligte:

@@ -1,5 +1,6 @@
 ---
 id: dstore-religionszugehoerigkeit
+bereich: extern
 typ: datenspeicher
 system: null
 name: Religionszugehörigkeit

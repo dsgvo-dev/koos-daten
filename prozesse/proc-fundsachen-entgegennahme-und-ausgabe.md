@@ -2,6 +2,7 @@
 id: proc-fundsachen-entgegennahme-und-ausgabe
 titel: 'Fundsachen: Entgegennahme und Ausgabe'
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-33
 zustaendigeRolle: ''
 beteiligte: []

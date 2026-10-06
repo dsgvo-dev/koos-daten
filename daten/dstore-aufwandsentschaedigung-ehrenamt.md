@@ -1,5 +1,6 @@
 ---
 id: dstore-aufwandsentschaedigung-ehrenamt
+bereich: extern
 typ: datenspeicher
 system: null
 name: Aufwandsentschädigung und Reisekosten im Ehrenamt

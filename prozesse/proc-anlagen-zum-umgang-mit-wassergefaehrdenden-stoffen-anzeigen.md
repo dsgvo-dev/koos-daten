@@ -2,6 +2,7 @@
 id: proc-anlagen-zum-umgang-mit-wassergefaehrdenden-stoffen-anzeigen
 titel: Anlagen zum Umgang mit wassergefährdenden Stoffen anzeigen
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-60
 zustaendigeRolle: ''
 beteiligte: []

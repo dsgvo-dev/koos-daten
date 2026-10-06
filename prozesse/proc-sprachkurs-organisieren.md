@@ -2,6 +2,7 @@
 id: proc-sprachkurs-organisieren
 titel: Sprachkurs organisieren
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-47
 zustaendigeRolle: ''
 beteiligte: []

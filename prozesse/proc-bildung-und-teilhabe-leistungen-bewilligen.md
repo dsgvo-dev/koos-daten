@@ -2,6 +2,7 @@
 id: proc-bildung-und-teilhabe-leistungen-bewilligen
 titel: 'Bildung und Teilhabe: Leistungen bewilligen'
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-50
 zustaendigeRolle: ''
 beteiligte:

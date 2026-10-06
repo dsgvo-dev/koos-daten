@@ -1,5 +1,6 @@
 ---
 id: dstore-veterinaerrechtliche-betriebsnummer
+bereich: extern
 typ: datenspeicher
 system: null
 name: Veterinärrechtliche Betriebsnummer

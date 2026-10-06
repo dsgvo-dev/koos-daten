@@ -2,6 +2,7 @@
 id: proc-veranstaltung-eines-jahr-oder-spezialmarktes-festsetzung
 titel: 'Veranstaltung eines Jahr- oder Spezialmarktes: Festsetzung'
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-32
 zustaendigeRolle: ''
 beteiligte:

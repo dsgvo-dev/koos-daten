@@ -1,5 +1,6 @@
 ---
 id: dstore-meldeschein
+bereich: extern
 typ: datenspeicher
 system: null
 name: Meldeschein

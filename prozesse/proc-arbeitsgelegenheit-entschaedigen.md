@@ -2,6 +2,7 @@
 id: proc-arbeitsgelegenheit-entschaedigen
 titel: Mehraufwandsentschädigung bei Arbeitsgelegenheiten bearbeiten
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-50
 zustaendigeRolle: sachbearbeiter
 beteiligte:

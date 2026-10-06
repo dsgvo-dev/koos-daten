@@ -2,6 +2,7 @@
 id: proc-kfz-zulassung-gebrauchtfahrzeug-aus-einem-nicht-eu-land
 titel: 'Kfz-Zulassung: Gebrauchtfahrzeug aus einem Nicht-EU-Land'
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-34
 zustaendigeRolle: ''
 beteiligte:

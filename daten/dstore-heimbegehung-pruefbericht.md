@@ -1,5 +1,6 @@
 ---
 id: dstore-heimbegehung-pruefbericht
+bereich: extern
 typ: datenspeicher
 system: null
 name: Heimbegehung und Prüfbericht

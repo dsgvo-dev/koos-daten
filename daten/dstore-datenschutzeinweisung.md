@@ -1,5 +1,6 @@
 ---
 id: dstore-datenschutzeinweisung
+bereich: intern
 name: Datenschutzeinweisung
 zuständige-einheit: oe-amt-11
 bpmn:

@@ -2,6 +2,7 @@
 id: proc-erschliessungs-strassenausbau-und-abwasserbeitraege-verwalten
 titel: Erschließungs-, Straßenausbau- und Abwasserbeiträge verwalten
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-66
 zustaendigeRolle: ''
 beteiligte:

@@ -2,6 +2,7 @@
 id: proc-auswaertige-schuelerbeitraege-erheben
 titel: Kostendeckende Beiträge für auswärtige Schüler erheben
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-40
 zustaendigeRolle: sachbearbeiter
 beteiligte:

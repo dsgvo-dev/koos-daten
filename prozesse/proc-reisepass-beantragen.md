@@ -2,6 +2,7 @@
 id: proc-reisepass-beantragen
 titel: Reisepass beantragen
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-33
 zustaendigeRolle: ''
 beteiligte:

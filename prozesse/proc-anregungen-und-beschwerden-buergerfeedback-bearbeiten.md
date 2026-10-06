@@ -2,6 +2,7 @@
 id: proc-anregungen-und-beschwerden-buergerfeedback-bearbeiten
 titel: Anregungen und Beschwerden (Bürgerfeedback) bearbeiten
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-1-1
 zustaendigeRolle: ''
 beteiligte:

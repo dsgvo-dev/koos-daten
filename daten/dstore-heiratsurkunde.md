@@ -1,5 +1,6 @@
 ---
 id: dstore-heiratsurkunde
+bereich: extern
 typ: datenspeicher
 system: null
 name: Heiratsurkunde

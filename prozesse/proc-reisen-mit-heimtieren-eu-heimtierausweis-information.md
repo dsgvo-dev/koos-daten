@@ -2,6 +2,7 @@
 id: proc-reisen-mit-heimtieren-eu-heimtierausweis-information
 titel: Reisen mit Heimtieren (EU-Heimtierausweis/Information)
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-71
 zustaendigeRolle: ''
 beteiligte:

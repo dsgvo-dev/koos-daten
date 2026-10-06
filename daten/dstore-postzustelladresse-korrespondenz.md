@@ -1,5 +1,6 @@
 ---
 id: dstore-postzustelladresse-korrespondenz
+bereich: extern
 typ: datenspeicher
 system: null
 name: Postzustelladresse und Korrespondenz

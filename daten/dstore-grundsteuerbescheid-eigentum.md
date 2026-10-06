@@ -1,5 +1,6 @@
 ---
 id: dstore-grundsteuerbescheid-eigentum
+bereich: extern
 typ: datenspeicher
 system: null
 name: Grundsteuerbescheid Eigentum

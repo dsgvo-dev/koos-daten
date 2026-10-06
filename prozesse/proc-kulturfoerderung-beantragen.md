@@ -2,6 +2,7 @@
 id: proc-kulturfoerderung-beantragen
 titel: Kulturförderung beantragen
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-41
 zustaendigeRolle: ''
 beteiligte:

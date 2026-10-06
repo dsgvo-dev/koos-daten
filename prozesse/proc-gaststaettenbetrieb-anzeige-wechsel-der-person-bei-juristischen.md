@@ -2,6 +2,7 @@
 id: proc-gaststaettenbetrieb-anzeige-wechsel-der-person-bei-juristischen
 titel: Gaststättenbetrieb Anzeige Wechsel der Person bei juristischen Personen
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-32
 zustaendigeRolle: ''
 beteiligte:

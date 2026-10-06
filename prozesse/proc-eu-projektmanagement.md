@@ -2,6 +2,7 @@
 id: proc-eu-projektmanagement
 titel: EU-Projektmanagement
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-1-1
 zustaendigeRolle: ''
 beteiligte: []
@@ -10,14 +11,13 @@ daten:
   output: []
   datenspeicher:
   - id: dstore-foerderantrag
-  - id: dstore-abrechnungsdaten
   - id: dstore-verwaltungsakte
 regelungen:
 - §§ 23-44 LHO Nds. (Zuwendungen)
 - EFRE/ESF EU-Verordnungen (Strukturfondsprogramm)
 leika_id: '99144013058000'
 ozg_id: null
-letzte-aktualisierung: '2026-07-10'
+letzte-aktualisierung: '2026-10-06'
 ---
 
 # EU-Projektmanagement

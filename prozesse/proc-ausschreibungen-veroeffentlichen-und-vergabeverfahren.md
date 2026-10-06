@@ -2,6 +2,7 @@
 id: proc-ausschreibungen-veroeffentlichen-und-vergabeverfahren
 titel: Ausschreibungen veröffentlichen und Vergabeverfahren unterstützen
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-10
 zustaendigeRolle: ''
 beteiligte:

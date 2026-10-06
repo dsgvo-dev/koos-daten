@@ -1,5 +1,6 @@
 ---
 id: dstore-tierhalterbestand-nutztiere
+bereich: extern
 typ: datenspeicher
 system: null
 name: Tierhalterbestand Nutztiere

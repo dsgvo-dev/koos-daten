@@ -2,6 +2,7 @@
 id: proc-online-rathaus-online-services-bereitstellen
 titel: 'Online-Rathaus: Online-Services bereitstellen'
 status: aktiv
+bereich: extern
 
 
 zustaendigeEinheit: oe-amt-15

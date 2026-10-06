@@ -1,5 +1,6 @@
 ---
 id: dstore-meldebestaetigung
+bereich: extern
 typ: datenspeicher
 system: null
 name: Meldebestätigung

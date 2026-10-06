@@ -2,6 +2,7 @@
 id: proc-mitarbeiterbefragung
 titel: Mitarbeiterbefragung durchführen
 status: aktiv
+bereich: intern
 zustaendigeEinheit: oe-amt-11
 zustaendigeRolle: Sachbearbeitung
 beteiligte:

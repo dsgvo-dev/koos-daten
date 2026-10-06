@@ -1,5 +1,6 @@
 ---
 id: dstore-kitadaten
+bereich: extern
 typ: datenspeicher
 system: null
 name: Kitadaten

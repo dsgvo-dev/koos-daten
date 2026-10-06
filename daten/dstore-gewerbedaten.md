@@ -1,5 +1,6 @@
 ---
 id: dstore-gewerbedaten
+bereich: extern
 typ: datenspeicher
 system: null
 name: Gewerbedaten

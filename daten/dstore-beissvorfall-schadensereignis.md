@@ -1,5 +1,6 @@
 ---
 id: dstore-beissvorfall-schadensereignis
+bereich: extern
 typ: datenspeicher
 system: null
 name: Beißvorfall und Schadensereignis

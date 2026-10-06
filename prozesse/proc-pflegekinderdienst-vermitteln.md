@@ -2,6 +2,7 @@
 id: proc-pflegekinderdienst-vermitteln
 titel: Pflegepersonen gewinnen und Pflegeverhältnisse vermitteln
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-51
 zustaendigeRolle: fallfuehrung
 beteiligte:

@@ -2,6 +2,7 @@
 id: proc-poststelle
 titel: Poststelle
 status: aktiv
+bereich: intern
 zustaendigeEinheit: oe-amt-10
 zustaendigeRolle: ''
 beteiligte: []
@@ -9,12 +10,11 @@ daten:
   input: []
   output: []
   datenspeicher:
-  - id: dstore-verwaltungsakte
-  - id: dstore-kontaktdaten
+  - id: dstore-posteingang
 regelungen:
 - '§§ 1 ff. Nds. Aktenordnung (AktO Nds.)'
 - '§ 25 VwVfG (Verfahrensgrundsätze)'
-letzte-aktualisierung: 2026-04-29
+letzte-aktualisierung: '2026-10-06'
 ---
 # Poststelle
 

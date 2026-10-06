@@ -2,6 +2,7 @@
 id: proc-dienstreise
 titel: Dienstreise durchführen (Antrag, Genehmigung, Abrechnung)
 status: aktiv
+bereich: intern
 zustaendigeEinheit: oe-amt-10
 zustaendigeRolle: sachbearbeiter
 beteiligte:
@@ -23,7 +24,7 @@ beteiligte:
 daten:
   datenspeicher:
   - dstore-urlaubs-und-abwesenheitsdaten
-  - dstore-aufwandsentschaedigung-ehrenamt
+  - dstore-reisekosten-beschaeftigte
 regelungen:
 - Landesreisekostengesetz (LRKG) / Bundesreisekostengesetz (BRKG)
 - Dienstanweisung Dienstreisen
@@ -33,7 +34,7 @@ regelungen:
 - Satzung der Stadt/Gemeinde/Landkreis
 leika_id: ''
 ozg_id: ''
-letzte-aktualisierung: '2026-08-04'
+letzte-aktualisierung: '2026-10-06'
 ---
 
 # Dienstreise durchführen

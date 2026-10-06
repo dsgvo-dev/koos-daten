@@ -1,5 +1,6 @@
 ---
 id: dstore-vergabe-auftragsbezug
+bereich: extern
 typ: datenspeicher
 system: null
 name: Vergabe- und Auftragsbezug

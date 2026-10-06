@@ -2,6 +2,7 @@
 id: proc-kindergeld
 titel: Kindergeld
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-11
 zustaendigeRolle: ''
 beteiligte: []

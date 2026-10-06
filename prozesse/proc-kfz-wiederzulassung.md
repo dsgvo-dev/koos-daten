@@ -2,6 +2,7 @@
 id: proc-kfz-wiederzulassung
 titel: 'KFZ: Wiederzulassung'
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-34
 zustaendigeRolle: ''
 beteiligte: []

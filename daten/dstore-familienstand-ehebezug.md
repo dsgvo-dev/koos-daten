@@ -1,5 +1,6 @@
 ---
 id: dstore-familienstand-ehebezug
+bereich: extern
 typ: datenspeicher
 system: null
 name: Familienstand und Ehebezug

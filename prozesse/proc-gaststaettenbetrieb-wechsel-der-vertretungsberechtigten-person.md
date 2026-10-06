@@ -2,6 +2,7 @@
 id: proc-gaststaettenbetrieb-wechsel-der-vertretungsberechtigten-person
 titel: 'Gaststättenbetrieb: Wechsel der vertretungsberechtigten Person anzeigen'
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-32
 zustaendigeRolle: ''
 beteiligte:

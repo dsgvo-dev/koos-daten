@@ -2,6 +2,7 @@
 id: proc-lebensmittelueberwachung-allgemein
 titel: Lebensmittelüberwachung (allgemein)
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-71
 zustaendigeRolle: ''
 beteiligte:

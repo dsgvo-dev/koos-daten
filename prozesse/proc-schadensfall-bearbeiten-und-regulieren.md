@@ -2,6 +2,7 @@
 id: proc-schadensfall-bearbeiten-und-regulieren
 titel: Schadensfall bearbeiten und regulieren (Amtshaftung)
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-10
 zustaendigeRolle: ''
 beteiligte:

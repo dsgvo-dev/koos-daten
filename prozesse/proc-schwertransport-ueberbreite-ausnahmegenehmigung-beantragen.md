@@ -2,6 +2,7 @@
 id: proc-schwertransport-ueberbreite-ausnahmegenehmigung-beantragen
 titel: 'Schwertransport/Überbreite: Ausnahmegenehmigung beantragen'
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-34
 zustaendigeRolle: ''
 beteiligte:

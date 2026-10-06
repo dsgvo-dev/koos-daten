@@ -2,6 +2,7 @@
 id: proc-personalausweis-mit-online-ausweisfunktion-aktivieren
 titel: Personalausweis mit Online-Ausweisfunktion aktivieren
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-33
 zustaendigeRolle: ''
 beteiligte:

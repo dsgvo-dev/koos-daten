@@ -2,6 +2,7 @@
 id: proc-hilfe-zur-pflege-beantragen
 titel: Hilfe zur Pflege beantragen
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-50
 zustaendigeRolle: ''
 beteiligte:

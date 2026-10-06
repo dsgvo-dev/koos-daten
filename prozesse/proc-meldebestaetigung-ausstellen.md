@@ -2,6 +2,7 @@
 id: proc-meldebestaetigung-ausstellen
 titel: Meldebestätigung ausstellen
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-33
 zustaendigeRolle: ''
 beteiligte:

@@ -2,6 +2,7 @@
 id: proc-abfall-unerlaubte-entsorgung-melden-hinweise-aufnehmen
 titel: 'Abfall: unerlaubte Entsorgung melden (Hinweise aufnehmen)'
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-60
 zustaendigeRolle: ''
 beteiligte:

@@ -2,6 +2,7 @@
 id: proc-fahrerlaubnis-umtausch-in-eu-kartenfuehrerschein
 titel: 'Fahrerlaubnis: Umtausch in EU-Kartenführerschein'
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-34
 zustaendigeRolle: ''
 beteiligte:

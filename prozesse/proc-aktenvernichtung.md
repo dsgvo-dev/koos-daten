@@ -2,6 +2,7 @@
 id: proc-aktenvernichtung
 titel: Akten und Datenträger vernichten (geordnete Löschung)
 status: aktiv
+bereich: intern
 zustaendigeEinheit: oe-amt-10
 zustaendigeRolle: sachbearbeiter
 beteiligte:
@@ -16,7 +17,7 @@ beteiligte:
   aufgabe: Datenträger- und Aktenvernichtung (AVV erforderlich)
 daten:
   datenspeicher:
-  - dstore-verwaltungsakte
+  - dstore-loeschprotokoll
   - dstore-disziplinarvorgang
 regelungen:
 - Art. 5 Abs. 1 lit. e DSGVO (Speicherbegrenzung)
@@ -26,7 +27,7 @@ regelungen:
 - Landesarchivgesetz (Anbietungspflicht vor Vernichtung)
 leika_id: ''
 ozg_id: ''
-letzte-aktualisierung: '2026-08-04'
+letzte-aktualisierung: '2026-10-05'
 ---
 
 # Akten und Datenträger vernichten

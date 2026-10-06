@@ -1,5 +1,6 @@
 ---
 id: dstore-adresse-vertraulich
+bereich: extern
 typ: datenspeicher
 system: null
 name: Anschrift von Personen in Verfahren, deren Zugehörigkeit selbst schutzbedürftig ist, einsc

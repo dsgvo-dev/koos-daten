@@ -2,6 +2,7 @@
 id: proc-aufenthaltstitel-beratung-antrag-entgegennehmen
 titel: 'Aufenthaltstitel: Beratung/Antrag entgegennehmen'
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-47
 zustaendigeRolle: ''
 beteiligte:

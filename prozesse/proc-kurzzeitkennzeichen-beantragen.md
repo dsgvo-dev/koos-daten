@@ -2,6 +2,7 @@
 id: proc-kurzzeitkennzeichen-beantragen
 titel: Kurzzeitkennzeichen beantragen
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-34
 zustaendigeRolle: ''
 beteiligte:

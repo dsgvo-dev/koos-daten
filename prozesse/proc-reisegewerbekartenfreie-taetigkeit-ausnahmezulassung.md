@@ -2,6 +2,7 @@
 id: proc-reisegewerbekartenfreie-taetigkeit-ausnahmezulassung
 titel: 'Reisegewerbekartenfreie Tätigkeit: Ausnahmezulassung Verkaufsveranstaltungen'
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-32
 zustaendigeRolle: ''
 beteiligte: []

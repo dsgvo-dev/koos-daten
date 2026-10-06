@@ -2,6 +2,7 @@
 id: proc-wassergefaehrdende-stoffe-gewerblicher-umgang-anzeige
 titel: 'Wassergefährdende Stoffe: gewerblicher Umgang – Anzeige'
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-60
 zustaendigeRolle: ''
 beteiligte:

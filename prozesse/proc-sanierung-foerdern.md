@@ -2,6 +2,7 @@
 id: proc-sanierung-foerdern
 titel: Sanierung fördern
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-61
 zustaendigeRolle: ''
 beteiligte: []
@@ -11,12 +12,11 @@ daten:
   datenspeicher:
   - id: dstore-foerderantrag
   - id: dstore-bauakte
-  - id: dstore-abrechnungsdaten
   - id: dstore-bescheid
 regelungen:
 - '§§ 23-44 LHO Nds. (Zuwendungen)'
 - 'EFRE/ESF EU-Verordnungen (Strukturfondsprogramm)'
-letzte-aktualisierung: 2026-04-29
+letzte-aktualisierung: '2026-10-06'
 ---
 # Sanierung fördern
 

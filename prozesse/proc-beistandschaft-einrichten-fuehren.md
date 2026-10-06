@@ -2,6 +2,7 @@
 id: proc-beistandschaft-einrichten-fuehren
 titel: Beistandschaft einrichten/führen
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-51
 zustaendigeRolle: ''
 beteiligte:

@@ -2,6 +2,7 @@
 id: proc-strom-gas-wasser-grundversorgung-information
 titel: 'Strom-, Gas-, Wasser-Grundversorgung (Information)'
 status: aktiv
+bereich: extern
 
 
 zustaendigeEinheit: oe-amt-60

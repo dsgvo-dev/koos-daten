@@ -1,5 +1,6 @@
 ---
 id: dstore-abfallbehaelter-gebuehrenobjekt
+bereich: extern
 typ: datenspeicher
 system: null
 name: Abfallbehälter und Gebührenobjekt

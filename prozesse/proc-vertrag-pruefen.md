@@ -2,20 +2,19 @@
 id: proc-vertrag-pruefen
 titel: Vertrag prüfen
 status: aktiv
+bereich: intern
 zustaendigeEinheit: oe-amt-30
 zustaendigeRolle: ''
 beteiligte: []
 daten:
   input: []
   output: []
-  datenspeicher:
-  - id: dstore-verwaltungsakte
-  - id: dstore-vergabe-auftragsbezug
+  datenspeicher: []
 regelungen:
 - '§§ 145-157 BGB (Vertragsschluss)'
 - '§§ 97-100 NKomVG'
 - '§§ 1 ff. VgV (bei öffentlichen Beschaffungen)'
-letzte-aktualisierung: 2026-04-29
+letzte-aktualisierung: '2026-10-05'
 ---
 # Vertrag prüfen
 

@@ -1,5 +1,6 @@
 ---
 id: dstore-personenstand
+bereich: extern
 typ: datenspeicher
 system: null
 name: Personenstandsdaten

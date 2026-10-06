@@ -2,6 +2,7 @@
 id: proc-gartenabfall-entsorgung
 titel: Gartenabfall Entsorgung
 status: ersetzt
+bereich: extern
 ersetzt-durch: proc-abfall-gartenabfaelle-entsorgen
 zustaendigeEinheit: oe-amt-60
 zustaendigeRolle: ''

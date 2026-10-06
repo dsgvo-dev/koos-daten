@@ -2,6 +2,7 @@
 id: proc-marktstand-vergeben
 titel: Marktstand vergeben
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-38
 zustaendigeRolle: ''
 beteiligte: []

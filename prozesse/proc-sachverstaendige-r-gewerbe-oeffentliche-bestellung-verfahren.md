@@ -2,6 +2,7 @@
 id: proc-sachverstaendige-r-gewerbe-oeffentliche-bestellung-verfahren
 titel: 'Sachverständige/r Gewerbe: öffentliche Bestellung (Verfahren)'
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-32
 zustaendigeRolle: ''
 beteiligte:

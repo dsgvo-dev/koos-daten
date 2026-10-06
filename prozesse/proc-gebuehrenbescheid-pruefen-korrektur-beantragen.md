@@ -2,6 +2,7 @@
 id: proc-gebuehrenbescheid-pruefen-korrektur-beantragen
 titel: Gebührenbescheid prüfen/Korrektur beantragen
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-22
 zustaendigeRolle: ''
 beteiligte:

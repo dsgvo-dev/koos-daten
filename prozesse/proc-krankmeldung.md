@@ -2,21 +2,22 @@
 id: proc-krankmeldung
 titel: Krankmeldung / Arbeitsunfähigkeit melden
 status: aktiv
+bereich: intern
 zustaendigeEinheit: oe-amt-10
 zustaendigeRolle: sachbearbeiter
 beteiligte:
 - rolle: fachverantwortliche
   phase: '4'
-  aufgabe: Bestätigung des Wiedereinstiegs, BEM-Einleitung bei häufigen Fehlzeiten
+  aufgabe: Bestätigung des Wiedereinstiegs
 - rolle: personalabteilung
   phase: 2,3
-  aufgabe: Entgegennahme der eAU, Führen der Fehlzeitenstatistik, Prüfung der Entgeltfortzahlung
-- rolle: betriebliches-gesundheitsmanagement
+  aufgabe: Entgegennahme der eAU, Führen der Fehlzeitenstatistik, Prüfung der Entgeltfortzahlung, Überwachung der Sechs-Wochen-Schwelle nach § 167 Abs. 2 SGB IX
+- rolle: bem-beauftragter
   phase: '4'
-  aufgabe: BEM nach § 167 SGB IX bei Fehlzeiten > 6 Wochen innerhalb 12 Monate
+  aufgabe: BEM nach § 167 Abs. 2 SGB IX (proc-bem-durchfuehren)
 daten:
   datenspeicher:
-  - dstore-arbeitsunfaehigkeit-krankheit
+  - dstore-arbeitsunfaehigkeit-beschaeftigte
   - dstore-urlaubs-und-abwesenheitsdaten
 regelungen:
 - § 5 EntgFG (Entgeltfortzahlung, eAU ab 1.1.2023)
@@ -27,7 +28,7 @@ regelungen:
 - Dienstanweisung Krankmeldung
 leika_id: ''
 ozg_id: ''
-letzte-aktualisierung: '2026-08-04'
+letzte-aktualisierung: '2026-10-05'
 ---
 
 # Krankmeldung / Arbeitsunfähigkeit melden
@@ -41,10 +42,10 @@ letzte-aktualisierung: '2026-08-04'
 *Personalabteilung ruft die elektronische Arbeitsunfähigkeitsbescheinigung (eAU) bei der Krankenkasse ab (ab 1.1.2023, § 5 EntgFG). Beschäftigte/r muss sich die ärztliche Bescheinigung aushändigen lassen, der Arbeitgeber ruft die Daten ab.*
 
 **03 Entgeltfortzahlung prüfen**  
-*Personalabteilung prüft: Anspruch auf Entgeltfortzahlung (§ 3 EntgFG, bis zu 6 Wochen). Bei längerer Erkrankung: Krankengeldanspruch (nach 6 Wochen, § 44 SGB V). Bei häufigen Kurzerkrankungen: Prüfung auf BEM oder verhaltensbedingte Kündigung.*
+*Personalabteilung prüft: Anspruch auf Entgeltfortzahlung (§ 3 EntgFG, bis zu 6 Wochen). Bei längerer Erkrankung: Krankengeldanspruch (nach 6 Wochen, § 44 SGB V). Waren Beschäftigte innerhalb von zwölf Monaten länger als sechs Wochen ununterbrochen oder wiederholt arbeitsunfähig oder teilweise arbeitsunfähig, meldet die Personalabteilung dies den BEM-Beauftragten (proc-bem-durchfuehren).*
 
 **04 Wiedereinstieg / BEM**  
-*Nach Rückkehr: Arbeitsunfähigkeitsende bestätigen. Bei Fehlzeiten > 6 Wochen innerhalb 12 Monaten: Betriebliches Eingliederungsmanagement (BEM) nach § 167 SGB IX einleiten. BEM-Gespräch anbieten (freiwillig). Wiedereingliederungsplan erstellen (stufenweise Wiedereingliederung nach § 44 SGB V).*
+*Nach Rückkehr: Arbeitsunfähigkeitsende bestätigen. Das BEM nach § 167 Abs. 2 SGB IX führen die BEM-Beauftragten in einem eigenen Verfahren (proc-bem-durchfuehren); Fachvorgesetzte sind daran nur mit Einwilligung der oder des Beschäftigten beteiligt. Stufenweise Wiedereingliederung nach § 74 SGB V bzw. § 44 SGB IX.*
 
 ---
 *Dieser Entwurf wurde mit KI-Unterstützung erstellt. Inhaltliche Prüfung durch den Menschen erforderlich.*

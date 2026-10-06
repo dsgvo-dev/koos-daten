@@ -2,6 +2,7 @@
 id: proc-teilgenehmigung-zur-errichtung-und-zum-betrieb-einer-anlage
 titel: Teilgenehmigung zur Errichtung und zum Betrieb einer Anlage
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-60
 zustaendigeRolle: ''
 beteiligte: []

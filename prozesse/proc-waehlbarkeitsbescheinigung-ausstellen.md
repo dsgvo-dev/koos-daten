@@ -2,6 +2,7 @@
 id: proc-waehlbarkeitsbescheinigung-ausstellen
 titel: Wählbarkeitsbescheinigung ausstellen
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-33
 zustaendigeRolle: ''
 beteiligte:

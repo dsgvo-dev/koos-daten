@@ -2,6 +2,7 @@
 id: proc-laermschutz-tonverstaerkungsanlagen-ausnahmegenehmigung
 titel: 'Lärmschutz: Einsatz von Tonverstärkungsanlagen – Ausnahmegenehmigung'
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-32
 zustaendigeRolle: ''
 beteiligte:

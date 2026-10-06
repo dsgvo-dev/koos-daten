@@ -1,5 +1,6 @@
 ---
 id: dstore-hiv-beratung-pseudonym
+bereich: extern
 typ: datenspeicher
 system: null
 name: Pseudonyme HIV-Beratung und -Testung

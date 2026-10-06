@@ -2,6 +2,7 @@
 id: proc-reisepass-beantragung-ausstellung
 titel: Reisepass (Beantragung/Ausstellung)
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-33
 zustaendigeRolle: ''
 beteiligte:

@@ -1,5 +1,6 @@
 ---
 id: dstore-archivgut
+bereich: extern
 typ: datenspeicher
 system: null
 name: Archivgut

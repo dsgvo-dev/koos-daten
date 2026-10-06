@@ -2,6 +2,7 @@
 id: proc-reisepass-meldung-wegen-verlust
 titel: Reisepass Meldung wegen Verlust
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-33
 zustaendigeRolle: ''
 beteiligte: []

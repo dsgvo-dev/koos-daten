@@ -1,5 +1,6 @@
 ---
 id: dstore-zuverlaessigkeitsanfrage-sicherheitsbehoerden
+bereich: extern
 typ: datenspeicher
 system: null
 name: Zuverlässigkeitsanfrage bei Sicherheitsbehörden

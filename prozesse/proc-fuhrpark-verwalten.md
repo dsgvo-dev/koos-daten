@@ -2,6 +2,7 @@
 id: proc-fuhrpark-verwalten
 titel: Fuhrpark verwalten
 status: aktiv
+bereich: intern
 zustaendigeEinheit: oe-amt-10
 zustaendigeRolle: ''
 beteiligte: []
@@ -9,12 +10,11 @@ daten:
   input: []
   output: []
   datenspeicher:
-  - id: dstore-verwaltungsakte
   - id: dstore-abrechnungsdaten
 regelungen:
 - '§§ 97-100 NKomVG (Kommunale Vermögensverwaltung)'
 - '§ 6 NBG (Fürsorge- und Treuepflichten)'
-letzte-aktualisierung: 2026-04-29
+letzte-aktualisierung: '2026-10-05'
 ---
 # Fuhrpark verwalten
 

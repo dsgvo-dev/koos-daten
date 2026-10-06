@@ -2,6 +2,7 @@
 id: proc-bauen-im-ueberschwemmungsgebiet-pruefung-genehmigung
 titel: 'Bauen im Überschwemmungsgebiet: Prüfung/Genehmigung'
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-60
 zustaendigeRolle: ''
 beteiligte: []

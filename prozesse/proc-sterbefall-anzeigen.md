@@ -2,6 +2,7 @@
 id: proc-sterbefall-anzeigen
 titel: Sterbefall anzeigen
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-31
 zustaendigeRolle: ''
 beteiligte:

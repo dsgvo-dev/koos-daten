@@ -2,6 +2,7 @@
 id: proc-hunde-anmelden
 titel: Hunde anmelden
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-32
 zustaendigeRolle: ''
 beteiligte: []

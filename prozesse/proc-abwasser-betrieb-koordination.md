@@ -2,6 +2,7 @@
 id: proc-abwasser-betrieb-koordination
 titel: 'Abwasser: Betrieb/Koordination'
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-67
 zustaendigeRolle: ''
 beteiligte:

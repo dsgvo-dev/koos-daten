@@ -1,5 +1,6 @@
 ---
 id: dstore-wohnungsgeberbestaetigung
+bereich: extern
 typ: datenspeicher
 system: null
 name: Wohnungsgeberbestätigung

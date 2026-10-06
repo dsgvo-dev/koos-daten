@@ -2,6 +2,7 @@
 id: proc-anlagen-in-oder-an-gewaessern-genehmigung
 titel: 'Anlagen in oder an Gewässern: Genehmigung'
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-60
 zustaendigeRolle: ''
 beteiligte:

@@ -2,6 +2,7 @@
 id: proc-buergermeisterin-leitungs-repraesentation
 titel: Bürgermeisterin/Bürgermeister — Leitung und Repräsentation
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-hvb
 zustaendigeRolle: Bürgermeisterin / Bürgermeister (HVB)
 

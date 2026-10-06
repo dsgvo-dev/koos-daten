@@ -1,5 +1,6 @@
 ---
 id: dstore-schulbesuch-ausbildungsstatus
+bereich: extern
 typ: datenspeicher
 system: null
 name: Schulbesuch und Ausbildungsstatus

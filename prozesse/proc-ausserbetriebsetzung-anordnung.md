@@ -2,6 +2,7 @@
 id: proc-ausserbetriebsetzung-anordnung
 titel: Außerbetriebsetzung eines Fahrzeugs — Anordnung (Zwangsstilllegung)
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-34
 zustaendigeRolle: ''
 beteiligte:

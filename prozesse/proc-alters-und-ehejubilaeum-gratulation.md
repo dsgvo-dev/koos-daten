@@ -2,6 +2,7 @@
 id: proc-alters-und-ehejubilaeum-gratulation
 titel: Alters- und Ehejubiläum — Gratulation
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-10
 zustaendigeRolle: ''
 beteiligte:

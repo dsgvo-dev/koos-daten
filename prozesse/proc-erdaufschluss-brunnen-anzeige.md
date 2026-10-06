@@ -2,6 +2,7 @@
 id: proc-erdaufschluss-brunnen-anzeige
 titel: 'Erdaufschluss (Brunnen): Anzeige'
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-60
 zustaendigeRolle: ''
 beteiligte: []

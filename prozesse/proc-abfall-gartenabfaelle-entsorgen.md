@@ -2,6 +2,7 @@
 id: proc-abfall-gartenabfaelle-entsorgen
 titel: 'Abfall: Gartenabfälle entsorgen'
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-60
 zustaendigeRolle: ''
 beteiligte:

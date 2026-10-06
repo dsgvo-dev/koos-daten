@@ -1,5 +1,6 @@
 ---
 id: dstore-sozialdaten
+bereich: extern
 typ: datenspeicher
 system: null
 name: Sozialdaten

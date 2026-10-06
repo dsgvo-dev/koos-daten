@@ -2,6 +2,7 @@
 id: proc-gebaeudesanierung-planen
 titel: Gebäudesanierung planen
 status: aktiv
+bereich: intern
 zustaendigeEinheit: oe-amt-65
 zustaendigeRolle: ''
 beteiligte: []
@@ -9,14 +10,11 @@ daten:
   input: []
   output: []
   datenspeicher:
-  - id: dstore-bauakte
   - id: dstore-abrechnungsdaten
-  - id: dstore-verwaltungsakte
-  - id: dstore-bescheid
 regelungen:
 - '§§ 92-100 NKomVG (Kommunale Liegenschaften)'
 - '§§ 1 ff. GEG (Gebäudeenergiegesetz)'
-letzte-aktualisierung: 2026-04-29
+letzte-aktualisierung: '2026-10-06'
 ---
 # Gebäudesanierung planen
 

@@ -2,6 +2,7 @@
 id: proc-abbau-von-punkten-im-fahreignungsregister
 titel: Abbau von Punkten im Fahreignungsregister
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-34
 zustaendigeRolle: ''
 beteiligte:

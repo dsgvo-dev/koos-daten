@@ -2,6 +2,7 @@
 id: proc-bebauungsplan-aendern
 titel: Bebauungsplan ändern
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-61
 zustaendigeRolle: ''
 beteiligte: []

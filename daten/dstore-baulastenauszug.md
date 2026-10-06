@@ -1,5 +1,6 @@
 ---
 id: dstore-baulastenauszug
+bereich: extern
 typ: datenspeicher
 system: null
 name: Baulastenauszug

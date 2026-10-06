@@ -1,5 +1,6 @@
 ---
 id: dstore-bankverbindung
+bereich: extern
 typ: datenspeicher
 system: null
 name: Bankverbindung

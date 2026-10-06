@@ -2,6 +2,7 @@
 id: proc-tierhaltung-melden-anzeigen-z-b-tierseuchenrecht
 titel: Tierhaltung melden/anzeigen (z. B. Tierseuchenrecht)
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-71
 zustaendigeRolle: ''
 beteiligte:

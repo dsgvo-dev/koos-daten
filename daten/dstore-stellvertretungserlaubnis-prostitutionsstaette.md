@@ -1,5 +1,6 @@
 ---
 id: dstore-stellvertretungserlaubnis-prostitutionsstaette
+bereich: extern
 typ: datenspeicher
 system: null
 name: Stellvertretungserlaubnis Prostitutionsstätte

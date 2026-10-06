@@ -1,5 +1,6 @@
 ---
 id: dstore-aufenthaltstitel
+bereich: extern
 typ: datenspeicher
 system: null
 name: Aufenthaltstitel und Aufenthaltsstatus

@@ -2,6 +2,7 @@
 id: proc-50-014-stadtpass
 titel: Stadtpass / Vergünstigungen
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-50
 zustaendigeRolle: ''
 beteiligte: []

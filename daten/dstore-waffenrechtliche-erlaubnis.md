@@ -1,5 +1,6 @@
 ---
 id: dstore-waffenrechtliche-erlaubnis
+bereich: extern
 typ: datenspeicher
 system: null
 name: Waffenrechtliche Erlaubnis und Jagdschein

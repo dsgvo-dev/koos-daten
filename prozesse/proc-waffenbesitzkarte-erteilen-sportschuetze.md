@@ -2,6 +2,7 @@
 id: proc-waffenbesitzkarte-erteilen-sportschuetze
 titel: Waffenbesitzkarte erteilen (Sportschütze)
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-32
 zustaendigeRolle: ''
 beteiligte: []

@@ -2,6 +2,7 @@
 id: proc-erlaubnis-zum-gewerbsmaessigen-waffenhandel
 titel: Erlaubnis zum gewerbsmäßigen Waffenhandel
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-32
 zustaendigeRolle: ''
 beteiligte:

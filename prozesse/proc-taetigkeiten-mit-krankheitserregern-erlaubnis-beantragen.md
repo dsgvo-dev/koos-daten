@@ -2,6 +2,7 @@
 id: proc-taetigkeiten-mit-krankheitserregern-erlaubnis-beantragen
 titel: Tätigkeiten mit Krankheitserregern — Erlaubnis beantragen
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-53
 zustaendigeRolle: ''
 beteiligte: []

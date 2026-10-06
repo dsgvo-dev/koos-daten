@@ -2,6 +2,7 @@
 id: proc-gewerbeimmobilien-standort-angebotsmanagement
 titel: 'Gewerbeimmobilien: Standort-/Angebotsmanagement'
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-80
 zustaendigeRolle: ''
 beteiligte:

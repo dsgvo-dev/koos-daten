@@ -2,6 +2,7 @@
 id: proc-abschluss-einer-haftpflichtversicherung-fuer-hundehalter-nachweis
 titel: Abschluss einer Haftpflichtversicherung für Hundehalter (Nachweis)
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-71
 zustaendigeRolle: ''
 beteiligte:

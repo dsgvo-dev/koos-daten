@@ -2,6 +2,7 @@
 id: proc-hundehaltung-sachkundepruefung-information-verfahren
 titel: 'Hundehaltung: Sachkundeprüfung (Information/Verfahren)'
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-32
 zustaendigeRolle: ''
 beteiligte:

@@ -1,5 +1,6 @@
 ---
 id: dstore-beschwerde-anregungsdaten
+bereich: extern
 typ: datenspeicher
 system: null
 name: Beschwerde- und Anregungsdaten

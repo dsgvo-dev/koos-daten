@@ -1,5 +1,6 @@
 ---
 id: dstore-schuelerbefoerderungskosten
+bereich: extern
 typ: datenspeicher
 system: null
 name: Schülerbeförderungskosten

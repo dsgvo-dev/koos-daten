@@ -2,6 +2,7 @@
 id: proc-kartenauskunft
 titel: Kartenauskunft
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-62
 zustaendigeRolle: ''
 beteiligte: []

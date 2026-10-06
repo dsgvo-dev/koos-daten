@@ -2,6 +2,7 @@
 id: proc-53-011-heimaufsicht
 titel: Heimaufsicht / Aufsicht über unterstützende Wohnformen
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-53
 zustaendigeRolle: ''
 beteiligte: []

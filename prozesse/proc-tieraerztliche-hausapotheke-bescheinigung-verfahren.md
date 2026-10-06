@@ -2,6 +2,7 @@
 id: proc-tieraerztliche-hausapotheke-bescheinigung-verfahren
 titel: Tierärztliche Hausapotheke (Bescheinigung/Verfahren)
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-71
 zustaendigeRolle: ''
 beteiligte:

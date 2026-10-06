@@ -2,6 +2,7 @@
 id: proc-eltern-schuelervertretung-organisieren
 titel: Eltern- und Schülervertretung organisieren
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-40
 zustaendigeRolle: sachbearbeiter
 beteiligte:

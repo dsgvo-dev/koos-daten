@@ -2,6 +2,7 @@
 id: proc-eingliederungshilfe-beantragen
 titel: Eingliederungshilfe beantragen
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-52
 zustaendigeRolle: ''
 beteiligte:

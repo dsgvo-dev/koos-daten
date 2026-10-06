@@ -1,5 +1,6 @@
 ---
 id: dstore-bildungs-und-teilhabebedarf
+bereich: extern
 typ: datenspeicher
 system: null
 name: Bildungs- und Teilhabebedarf

@@ -1,5 +1,6 @@
 ---
 id: dstore-tk-verbindungsdaten
+bereich: intern
 typ: datenspeicher
 system: null
 name: Verbindungsdaten Telekommunikationsanlage

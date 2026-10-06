@@ -1,5 +1,6 @@
 ---
 id: dstore-veranstalterdaten
+bereich: extern
 typ: datenspeicher
 system: null
 name: Veranstalterdaten

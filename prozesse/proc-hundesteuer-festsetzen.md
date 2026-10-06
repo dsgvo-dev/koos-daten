@@ -2,6 +2,7 @@
 id: proc-hundesteuer-festsetzen
 titel: Hundesteuer festsetzen
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-22
 zustaendigeRolle: ''
 beteiligte: []

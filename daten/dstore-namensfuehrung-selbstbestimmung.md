@@ -1,5 +1,6 @@
 ---
 id: dstore-namensfuehrung-selbstbestimmung
+bereich: extern
 typ: datenspeicher
 system: null
 name: Namensführung und Selbstbestimmung

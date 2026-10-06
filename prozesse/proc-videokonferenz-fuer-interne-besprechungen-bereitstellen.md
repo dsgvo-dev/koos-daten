@@ -2,6 +2,7 @@
 id: proc-videokonferenz-fuer-interne-besprechungen-bereitstellen
 titel: Videokonferenz für interne Besprechungen bereitstellen
 status: aktiv
+bereich: intern
 zustaendigeEinheit: oe-amt-15
 zustaendigeRolle: ''
 beteiligte:
@@ -13,8 +14,7 @@ daten:
   input: []
   output: []
   datenspeicher:
-  - id: dstore-bild-und-tonaufnahmen
-  - id: dstore-kontaktdaten
+  - id: dstore-videokonferenzdaten
 regelungen:
 - Art. 6 Abs. 1 lit. b) DSGVO bei Arbeitsverhältnissen, lit. c) bei Beamtenverhältnissen
 - Art. 6 Abs. 1 lit. e) DSGVO, § 3 NDSG - Teilnahme externer Personen
@@ -26,7 +26,7 @@ regelungen:
 - Art. 32 DSGVO - Sicherheit der Verarbeitung
 leika_id: null
 ozg_id: null
-letzte-aktualisierung: '2026-07-30'
+letzte-aktualisierung: '2026-10-05'
 ---
 
 # Videokonferenz für interne Besprechungen bereitstellen

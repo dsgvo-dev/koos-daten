@@ -2,6 +2,7 @@
 id: proc-europaeischen-feuerwaffenpass-erteilen
 titel: Europäischen Feuerwaffenpass erteilen
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-32
 zustaendigeRolle: ''
 beteiligte: []

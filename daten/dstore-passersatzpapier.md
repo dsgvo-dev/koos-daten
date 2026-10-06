@@ -1,5 +1,6 @@
 ---
 id: dstore-passersatzpapier
+bereich: extern
 typ: datenspeicher
 system: null
 name: Passersatzpapier

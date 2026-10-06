@@ -2,6 +2,7 @@
 id: proc-hundean-abmeldung-meldung-hundehaltung
 titel: Hundean- / -abmeldung (Meldung Hundehaltung)
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-22
 zustaendigeRolle: ''
 beteiligte:

@@ -2,6 +2,7 @@
 id: proc-rechnung-pruefen
 titel: Rechnung prüfen
 status: aktiv
+bereich: intern
 zustaendigeEinheit: oe-amt-10
 zustaendigeRolle: ''
 beteiligte: []
@@ -9,14 +10,12 @@ daten:
   input: []
   output: []
   datenspeicher:
-  - id: dstore-rechnungsdaten
   - id: dstore-elektronische-rechnungsstellung
   - id: dstore-debitoren-kreditorendaten
-  - id: dstore-verwaltungsakte
 regelungen:
 - '§§ 110-127 NKomVG (Haushaltswirtschaft)'
 - '§§ 1 ff. GemHKVO Nds. (Gemeindehaushalts- und -kassenverordnung)'
-letzte-aktualisierung: 2026-04-29
+letzte-aktualisierung: '2026-10-05'
 ---
 # Rechnung prüfen
 

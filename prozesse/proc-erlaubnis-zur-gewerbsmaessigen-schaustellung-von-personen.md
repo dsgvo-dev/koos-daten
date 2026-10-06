@@ -2,6 +2,7 @@
 id: proc-erlaubnis-zur-gewerbsmaessigen-schaustellung-von-personen
 titel: Erlaubnis zur gewerbsmäßigen Schaustellung von Personen
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-32
 zustaendigeRolle: ''
 beteiligte: []

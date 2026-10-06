@@ -2,6 +2,7 @@
 id: proc-grabstelle-vergeben
 titel: Grabstelle vergeben
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-65
 zustaendigeRolle: ''
 beteiligte: []

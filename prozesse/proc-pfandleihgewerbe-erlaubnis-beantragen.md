@@ -2,6 +2,7 @@
 id: proc-pfandleihgewerbe-erlaubnis-beantragen
 titel: 'Pfandleihgewerbe: Erlaubnis beantragen'
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-32
 zustaendigeRolle: ''
 beteiligte: []

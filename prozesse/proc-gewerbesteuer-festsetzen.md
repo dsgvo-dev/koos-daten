@@ -2,6 +2,7 @@
 id: proc-gewerbesteuer-festsetzen
 titel: Gewerbesteuer festsetzen
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-22
 zustaendigeRolle: ''
 beteiligte: []

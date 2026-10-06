@@ -2,6 +2,7 @@
 id: proc-standort-daten-zahlen-fakten
 titel: 'Standort: Daten, Zahlen, Fakten'
 status: aktiv
+bereich: intern
 
 
 zustaendigeEinheit: oe-amt-1-1

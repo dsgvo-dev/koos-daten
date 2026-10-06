@@ -1,5 +1,6 @@
 ---
 id: dstore-amtsaerztliches-zeugnis
+bereich: extern
 typ: datenspeicher
 system: null
 name: Amtsärztliches Zeugnis

@@ -1,5 +1,6 @@
 ---
 id: dstore-grundstuecks-pachtverhaeltnis
+bereich: extern
 typ: datenspeicher
 system: null
 name: Grundstücks- und Pachtverhältnis

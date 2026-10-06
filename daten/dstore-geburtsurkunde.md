@@ -1,5 +1,6 @@
 ---
 id: dstore-geburtsurkunde
+bereich: extern
 typ: datenspeicher
 system: null
 name: Geburtsurkunde

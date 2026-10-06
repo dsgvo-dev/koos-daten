@@ -2,6 +2,7 @@
 id: proc-beschwerde-bearbeiten
 titel: Beschwerde bearbeiten
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-1-2
 zustaendigeRolle: ''
 beteiligte: []

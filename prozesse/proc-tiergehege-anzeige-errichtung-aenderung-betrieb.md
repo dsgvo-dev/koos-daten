@@ -2,6 +2,7 @@
 id: proc-tiergehege-anzeige-errichtung-aenderung-betrieb
 titel: 'Tiergehege: Anzeige (Errichtung/Änderung/Betrieb)'
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-71
 zustaendigeRolle: ''
 beteiligte:

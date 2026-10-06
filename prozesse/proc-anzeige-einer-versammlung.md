@@ -2,6 +2,7 @@
 id: proc-anzeige-einer-versammlung
 titel: Anzeige einer Versammlung
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-32
 zustaendigeRolle: ''
 beteiligte: []

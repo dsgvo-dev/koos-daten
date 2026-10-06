@@ -1,5 +1,6 @@
 ---
 id: dstore-veranstaltungssicherheitskonzept
+bereich: extern
 typ: datenspeicher
 system: null
 name: Veranstaltungssicherheitskonzept

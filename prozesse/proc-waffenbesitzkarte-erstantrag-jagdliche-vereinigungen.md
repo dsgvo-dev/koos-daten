@@ -2,6 +2,7 @@
 id: proc-waffenbesitzkarte-erstantrag-jagdliche-vereinigungen
 titel: Waffenbesitzkarte Erstantrag (jagdliche Vereinigungen)
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-32
 zustaendigeRolle: ''
 beteiligte: []

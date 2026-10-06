@@ -2,6 +2,7 @@
 id: proc-abfallentsorgung-allgemein
 titel: Abfallentsorgung (allgemein)
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-60
 zustaendigeRolle: ''
 beteiligte:

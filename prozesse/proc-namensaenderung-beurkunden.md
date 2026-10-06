@@ -2,6 +2,7 @@
 id: proc-namensaenderung-beurkunden
 titel: Namensänderung beurkunden
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-31
 zustaendigeRolle: ''
 beteiligte: []

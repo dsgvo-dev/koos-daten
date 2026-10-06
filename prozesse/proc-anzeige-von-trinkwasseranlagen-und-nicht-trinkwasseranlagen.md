@@ -2,6 +2,7 @@
 id: proc-anzeige-von-trinkwasseranlagen-und-nicht-trinkwasseranlagen
 titel: Anzeige von Trinkwasseranlagen und Nicht-Trinkwasseranlagen
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-60
 zustaendigeRolle: ''
 beteiligte:

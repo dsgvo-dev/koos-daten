@@ -2,6 +2,7 @@
 id: proc-veranstaltungen-im-oeffentlichen-verkehrsraum-erlaubnis
 titel: 'Veranstaltungen im öffentlichen Verkehrsraum: Erlaubnis'
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-32
 zustaendigeRolle: ''
 beteiligte:

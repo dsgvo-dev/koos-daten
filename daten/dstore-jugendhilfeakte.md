@@ -1,5 +1,6 @@
 ---
 id: dstore-jugendhilfeakte
+bereich: extern
 typ: datenspeicher
 system: null
 name: Jugendhilfeakte

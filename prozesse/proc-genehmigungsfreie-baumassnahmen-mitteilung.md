@@ -2,6 +2,7 @@
 id: proc-genehmigungsfreie-baumassnahmen-mitteilung
 titel: Genehmigungsfreie Baumaßnahmen Mitteilung
 status: aktiv
+bereich: extern
 
 
 zustaendigeEinheit: oe-amt-63

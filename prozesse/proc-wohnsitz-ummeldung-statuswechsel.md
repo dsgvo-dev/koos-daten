@@ -2,6 +2,7 @@
 id: proc-wohnsitz-ummeldung-statuswechsel
 titel: Wohnsitz Ummeldung Statuswechsel
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-33
 zustaendigeRolle: ''
 beteiligte: []

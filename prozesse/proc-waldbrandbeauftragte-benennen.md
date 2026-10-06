@@ -2,6 +2,7 @@
 id: proc-waldbrandbeauftragte-benennen
 titel: Waldbrandbeauftragte benennen und betreuen
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-60
 zustaendigeRolle: sachbearbeiter
 beteiligte:

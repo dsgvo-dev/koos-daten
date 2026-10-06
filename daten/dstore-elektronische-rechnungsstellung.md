@@ -1,5 +1,6 @@
 ---
 id: dstore-elektronische-rechnungsstellung
+bereich: intern
 typ: datenspeicher
 system: null
 name: Elektronische Rechnungsstellung

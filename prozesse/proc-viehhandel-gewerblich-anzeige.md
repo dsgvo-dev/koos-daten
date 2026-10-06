@@ -2,6 +2,7 @@
 id: proc-viehhandel-gewerblich-anzeige
 titel: 'Viehhandel (gewerblich): Anzeige'
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-71
 zustaendigeRolle: ''
 beteiligte:

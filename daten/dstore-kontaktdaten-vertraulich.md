@@ -1,5 +1,6 @@
 ---
 id: dstore-kontaktdaten-vertraulich
+bereich: extern
 typ: datenspeicher
 system: null
 name: Telefonnummer, Mobilnummer und E-Mail-Adresse von Personen in Verfahren, deren Zugehörigke

@@ -2,6 +2,7 @@
 id: proc-abfall-entsorgung
 titel: Abfall Entsorgung
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-60
 zustaendigeRolle: ''
 beteiligte: []

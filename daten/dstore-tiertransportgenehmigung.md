@@ -1,5 +1,6 @@
 ---
 id: dstore-tiertransportgenehmigung
+bereich: extern
 typ: datenspeicher
 system: null
 name: Tiertransportgenehmigung

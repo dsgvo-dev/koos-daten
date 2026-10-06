@@ -1,5 +1,6 @@
 ---
 id: dstore-musikschul-kursanmeldung
+bereich: extern
 typ: datenspeicher
 system: null
 name: Musikschul- und Kursanmeldung

@@ -2,6 +2,7 @@
 id: proc-vorlaeufigen-reisepass-ausstellen
 titel: Vorläufigen Reisepass ausstellen
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-33
 zustaendigeRolle: ''
 beteiligte: []

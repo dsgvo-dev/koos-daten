@@ -2,6 +2,7 @@
 id: proc-veranstaltung-einer-messe-ausstellung-grossmarkt-festsetzung
 titel: 'Veranstaltung einer Messe/Ausstellung/Großmarkt: Festsetzung'
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-32
 zustaendigeRolle: ''
 beteiligte:

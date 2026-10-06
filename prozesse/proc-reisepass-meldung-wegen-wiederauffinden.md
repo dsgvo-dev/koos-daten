@@ -2,6 +2,7 @@
 id: proc-reisepass-meldung-wegen-wiederauffinden
 titel: Reisepass Meldung wegen Wiederauffinden
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-33
 zustaendigeRolle: ''
 beteiligte: []

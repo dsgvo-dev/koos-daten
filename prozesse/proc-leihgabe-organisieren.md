@@ -2,6 +2,7 @@
 id: proc-leihgabe-organisieren
 titel: Leihgabe organisieren
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-41
 zustaendigeRolle: ''
 beteiligte: []

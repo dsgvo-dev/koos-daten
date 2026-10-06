@@ -1,5 +1,6 @@
 ---
 id: dstore-hundehaltung
+bereich: extern
 typ: datenspeicher
 system: null
 name: Hundehaltung

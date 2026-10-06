@@ -2,6 +2,7 @@
 id: proc-tiefbaumassnahmen-planung-koordination-information
 titel: 'Tiefbaumaßnahmen: Planung/Koordination/Information'
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-66
 zustaendigeRolle: ''
 beteiligte:

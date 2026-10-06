@@ -2,6 +2,7 @@
 id: proc-baumpflege-genehmigen
 titel: Baumpflege genehmigen
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-66
 zustaendigeRolle: ''
 beteiligte: []

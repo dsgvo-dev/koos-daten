@@ -2,6 +2,7 @@
 id: proc-reisepass-meldung-wegen-diebstahl
 titel: Reisepass Meldung wegen Diebstahl
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-33
 zustaendigeRolle: ''
 beteiligte: []

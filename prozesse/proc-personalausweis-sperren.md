@@ -2,6 +2,7 @@
 id: proc-personalausweis-sperren
 titel: Personalausweis sperren
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-33
 zustaendigeRolle: ''
 beteiligte: []

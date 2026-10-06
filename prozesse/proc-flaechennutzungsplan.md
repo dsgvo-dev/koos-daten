@@ -2,6 +2,7 @@
 id: proc-flaechennutzungsplan
 titel: Flächennutzungsplan
 status: ersetzt
+bereich: extern
 ersetzt-durch: proc-flaechennutzungsplan-einsehen
 zustaendigeEinheit: oe-amt-61
 zustaendigeRolle: ''

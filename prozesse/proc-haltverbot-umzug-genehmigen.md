@@ -2,6 +2,7 @@
 id: proc-haltverbot-umzug-genehmigen
 titel: Haltverbot (Umzug) genehmigen
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-34
 zustaendigeRolle: ''
 beteiligte:

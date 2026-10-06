@@ -2,6 +2,7 @@
 id: proc-eheurkunde-beantragen
 titel: Eheurkunde beantragen
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-31
 zustaendigeRolle: ''
 beteiligte:

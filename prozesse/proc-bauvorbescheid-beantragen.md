@@ -2,6 +2,7 @@
 id: proc-bauvorbescheid-beantragen
 titel: Bauvorbescheid beantragen
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-63
 zustaendigeRolle: ''
 beteiligte: []

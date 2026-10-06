@@ -2,6 +2,7 @@
 id: proc-schuleingangsuntersuchung-organisieren
 titel: Schuleingangsuntersuchung organisieren
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-53
 zustaendigeRolle: ''
 beteiligte:

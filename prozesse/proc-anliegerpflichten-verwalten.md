@@ -2,6 +2,7 @@
 id: proc-anliegerpflichten-verwalten
 titel: Anliegerpflichten und Verkehrssicherung verwalten
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-86
 zustaendigeRolle: sachbearbeiter
 daten:

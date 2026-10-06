@@ -1,5 +1,6 @@
 ---
 id: dstore-kassenzeichen-buchungsreferenz
+bereich: extern
 typ: datenspeicher
 system: null
 name: Kassenzeichen und Buchungsreferenz

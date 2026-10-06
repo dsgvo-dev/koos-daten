@@ -1,5 +1,6 @@
 ---
 id: dstore-nachbarbeteiligung
+bereich: extern
 typ: datenspeicher
 system: null
 name: Nachbarbeteiligung

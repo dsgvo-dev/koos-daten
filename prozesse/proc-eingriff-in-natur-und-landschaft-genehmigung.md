@@ -2,6 +2,7 @@
 id: proc-eingriff-in-natur-und-landschaft-genehmigung
 titel: 'Eingriff in Natur und Landschaft: Genehmigung'
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-60
 zustaendigeRolle: ''
 beteiligte:

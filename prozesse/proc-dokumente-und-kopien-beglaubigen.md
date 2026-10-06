@@ -2,6 +2,7 @@
 id: proc-dokumente-und-kopien-beglaubigen
 titel: Dokumente und Kopien beglaubigen
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-33
 zustaendigeRolle: ''
 beteiligte: []

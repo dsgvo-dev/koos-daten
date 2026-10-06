@@ -2,6 +2,7 @@
 id: proc-artenschutzrechtliche-ausnahmegenehmigung-befreiung
 titel: Artenschutzrechtliche Ausnahmegenehmigung/Befreiung
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-60
 zustaendigeRolle: ''
 beteiligte: []

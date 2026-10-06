@@ -2,6 +2,7 @@
 id: proc-wohnsitz-anmelden
 titel: Wohnsitz anmelden
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-33
 zustaendigeRolle: ''
 beteiligte:
@@ -26,7 +27,7 @@ regelungen:
 - https://www.gesetze-im-internet.de/bmg/__23.html
 leika_id: '99115005104000'
 ozg_id: null
-letzte-aktualisierung: '2026-07-28'
+letzte-aktualisierung: '2026-10-04'
 ---
 
 # Wohnsitz anmelden
@@ -45,11 +46,11 @@ letzte-aktualisierung: '2026-07-28'
 **04 Melderegister aktualisieren**  
 *Neue Adresse eintragen*
 
-**05 Weitermeldungen**  
-*Finanzamt, Rentenversicherung*
+**05 Rückmeldung**  
+*An die bisherige Meldebehörde (§ 33 BMG)*
 
 **06 Meldebescheinigung ausstellen**  
 *Sofort oder per Post*
 
 **07 Datenübermittlung**  
-*An Bundesmeldedienst*
+*Regelmäßige Übermittlungen an Bundesstellen, u. a. Bundeszentralamt für Steuern, Datenstelle der Rentenversicherung (§ 36 BMG, 2. BMeldDÜV)*

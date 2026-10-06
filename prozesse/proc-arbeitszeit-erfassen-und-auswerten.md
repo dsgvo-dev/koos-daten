@@ -2,6 +2,7 @@
 id: proc-arbeitszeit-erfassen-und-auswerten
 titel: Arbeitszeit erfassen und auswerten
 status: aktiv
+bereich: intern
 zustaendigeEinheit: oe-amt-11
 zustaendigeRolle: ''
 beteiligte:
@@ -28,7 +29,7 @@ regelungen:
 - § 67 Abs. 1 Nr. 1, 2 NPersVG - Mitbestimmung
 - § 78 NPersVG - Dienstvereinbarung
 - § 147 AO, NKomHKVO - Aufbewahrung lohnabrechnungsrelevanter Zeitdaten
-leika_id: '99143051000000'
+leika_id: ''
 ozg_id: null
 letzte-aktualisierung: '2026-09-25'
 ---

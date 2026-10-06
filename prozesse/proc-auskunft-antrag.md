@@ -2,6 +2,7 @@
 id: proc-auskunft-antrag
 titel: Antrag auf Auskunft bearbeiten (Art. 15 DSGVO)
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-1-4
 zustaendigeRolle: datenschutzbeauftragte
 beteiligte:

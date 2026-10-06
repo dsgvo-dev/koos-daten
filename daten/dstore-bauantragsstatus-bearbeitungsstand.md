@@ -1,5 +1,6 @@
 ---
 id: dstore-bauantragsstatus-bearbeitungsstand
+bereich: extern
 typ: datenspeicher
 system: null
 name: Bauantragsstatus und Bearbeitungsstand

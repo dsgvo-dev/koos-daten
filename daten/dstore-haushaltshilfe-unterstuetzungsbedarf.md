@@ -1,5 +1,6 @@
 ---
 id: dstore-haushaltshilfe-unterstuetzungsbedarf
+bereich: extern
 typ: datenspeicher
 system: null
 name: Haushaltshilfe und Unterstützungsbedarf

@@ -2,6 +2,7 @@
 id: proc-meldepflichtige-krankheiten-nach-6-8-9-ifsg
 titel: Meldepflichtige Krankheiten nach §§ 6, 8, 9 IfSG
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-53
 zustaendigeRolle: ''
 beteiligte: []

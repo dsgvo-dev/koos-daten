@@ -2,6 +2,7 @@
 id: proc-kfz-abmeldung-ausserbetriebsetzung
 titel: 'KFZ: Abmeldung/Außerbetriebsetzung'
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-34
 zustaendigeRolle: ''
 beteiligte: []

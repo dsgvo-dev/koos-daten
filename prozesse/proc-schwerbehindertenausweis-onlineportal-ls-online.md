@@ -2,6 +2,7 @@
 id: proc-schwerbehindertenausweis-onlineportal-ls-online
 titel: 'Schwerbehindertenausweis: Onlineportal (LS Online)'
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-50
 zustaendigeRolle: ''
 beteiligte: []

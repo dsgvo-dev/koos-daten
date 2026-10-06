@@ -1,5 +1,6 @@
 ---
 id: dstore-vollmacht-vertretung-berechtigung
+bereich: extern
 typ: datenspeicher
 system: null
 name: Vollmacht, Vertretung und Berechtigungsnachweis

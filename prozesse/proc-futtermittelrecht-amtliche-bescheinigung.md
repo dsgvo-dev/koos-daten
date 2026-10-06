@@ -2,6 +2,7 @@
 id: proc-futtermittelrecht-amtliche-bescheinigung
 titel: 'Futtermittelrecht: Amtliche Bescheinigung'
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-71
 zustaendigeRolle: ''
 beteiligte:

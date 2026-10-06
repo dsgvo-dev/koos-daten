@@ -2,6 +2,7 @@
 id: proc-behindertenhilfe-leistungsberatung-verfahren
 titel: Behindertenhilfe (Leistungsberatung/Verfahren)
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-50
 zustaendigeRolle: ''
 beteiligte:

@@ -1,5 +1,6 @@
 ---
 id: dstore-lebenslauf-qualifikationsnachweis
+bereich: extern
 typ: datenspeicher
 system: null
 name: Lebenslauf und Qualifikationsnachweis

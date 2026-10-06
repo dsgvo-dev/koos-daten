@@ -1,5 +1,6 @@
 ---
 id: dstore-kulturdatenbank-eintrag
+bereich: extern
 typ: datenspeicher
 system: null
 name: Kulturdatenbank-Eintrag

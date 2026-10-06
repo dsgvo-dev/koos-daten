@@ -2,6 +2,7 @@
 id: proc-67-001-stadtgruen
 titel: Stadtgrün / Grünflächenverwaltung
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-67
 zustaendigeRolle: ''
 beteiligte: []

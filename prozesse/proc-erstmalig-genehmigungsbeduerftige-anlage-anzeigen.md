@@ -2,6 +2,7 @@
 id: proc-erstmalig-genehmigungsbeduerftige-anlage-anzeigen
 titel: Erstmalig genehmigungsbedürftige Anlage anzeigen
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-60
 zustaendigeRolle: ''
 beteiligte: []

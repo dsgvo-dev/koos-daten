@@ -2,6 +2,7 @@
 id: proc-spielhallen-erlaubnis
 titel: 'Spielhallen: Erlaubnis'
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-32
 zustaendigeRolle: ''
 beteiligte: []

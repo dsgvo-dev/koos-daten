@@ -2,6 +2,7 @@
 id: proc-befreiung-von-der-vorlage-des-ehefaehigkeitszeugnisses
 titel: Befreiung von der Vorlage des Ehefähigkeitszeugnisses (ausländische Staatsangehörige)
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-31
 zustaendigeRolle: ''
 beteiligte: []

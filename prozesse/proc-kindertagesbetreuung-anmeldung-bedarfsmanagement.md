@@ -2,6 +2,7 @@
 id: proc-kindertagesbetreuung-anmeldung-bedarfsmanagement
 titel: Kindertagesbetreuung (Anmeldung/Bedarfsmanagement)
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-51
 zustaendigeRolle: ''
 beteiligte:

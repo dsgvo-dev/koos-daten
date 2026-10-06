@@ -1,5 +1,6 @@
 ---
 id: dstore-antragsbegruendung-schulbezirk
+bereich: extern
 typ: datenspeicher
 system: null
 name: Begründung eines Ausnahmeantrags zum Schulbesuch

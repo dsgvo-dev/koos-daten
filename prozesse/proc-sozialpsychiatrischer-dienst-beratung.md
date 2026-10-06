@@ -2,6 +2,7 @@
 id: proc-sozialpsychiatrischer-dienst-beratung
 titel: Sozialpsychiatrischer Dienst — Beratung und Krisenintervention
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-54
 zustaendigeRolle: Fachkraft Sozialpsychiatrischer Dienst
 

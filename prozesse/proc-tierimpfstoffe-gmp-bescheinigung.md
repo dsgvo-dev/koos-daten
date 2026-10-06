@@ -2,6 +2,7 @@
 id: proc-tierimpfstoffe-gmp-bescheinigung
 titel: 'Tierimpfstoffe: GMP-Bescheinigung'
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-71
 zustaendigeRolle: ''
 beteiligte:

@@ -2,6 +2,7 @@
 id: proc-europaeischer-feuerwaffenpass
 titel: Europäischer Feuerwaffenpass
 status: ersetzt
+bereich: extern
 ersetzt-durch: proc-europaeischen-feuerwaffenpass-erteilen
 zustaendigeEinheit: oe-amt-32
 zustaendigeRolle: ''

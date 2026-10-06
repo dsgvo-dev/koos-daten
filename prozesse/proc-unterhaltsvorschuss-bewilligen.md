@@ -2,6 +2,7 @@
 id: proc-unterhaltsvorschuss-bewilligen
 titel: Unterhaltsvorschuss bewilligen
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-51
 zustaendigeRolle: ''
 beteiligte: []

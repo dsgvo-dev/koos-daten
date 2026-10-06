@@ -2,6 +2,7 @@
 id: proc-anzeige-gaststaettenbetrieb
 titel: Anzeige Gaststättenbetrieb
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-32
 zustaendigeRolle: ''
 beteiligte: []

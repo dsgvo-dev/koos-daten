@@ -2,6 +2,7 @@
 id: proc-erteilung-von-informationen-zum-personalausweis
 titel: Erteilung von Informationen zum Personalausweis
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-33
 zustaendigeRolle: ''
 beteiligte:

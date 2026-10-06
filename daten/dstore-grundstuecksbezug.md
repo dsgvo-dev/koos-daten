@@ -1,5 +1,6 @@
 ---
 id: dstore-grundstuecksbezug
+bereich: extern
 typ: datenspeicher
 system: null
 name: Grundstücksbezug

@@ -2,6 +2,7 @@
 id: proc-perspektive-innenstadt-konzept-umsetzung
 titel: 'Perspektive Innenstadt: Konzept/Umsetzung'
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-61
 zustaendigeRolle: ''
 beteiligte:

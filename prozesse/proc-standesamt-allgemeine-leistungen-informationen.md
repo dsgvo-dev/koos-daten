@@ -2,6 +2,7 @@
 id: proc-standesamt-allgemeine-leistungen-informationen
 titel: Standesamt (allgemeine Leistungen/Informationen)
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-31
 zustaendigeRolle: ''
 beteiligte:

@@ -1,5 +1,6 @@
 ---
 id: dstore-pruefungsnachweis-physiotherapie
+bereich: extern
 typ: datenspeicher
 system: null
 name: Prüfungsnachweis Physiotherapie

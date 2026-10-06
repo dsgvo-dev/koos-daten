@@ -2,6 +2,7 @@
 id: proc-gewerbe-anmelden
 titel: Gewerbe anmelden
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-32
 zustaendigeRolle: ''
 beteiligte: []

@@ -2,6 +2,7 @@
 id: proc-einstiegsgeld
 titel: Einstiegsgeld
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-50
 zustaendigeRolle: ''
 beteiligte: []

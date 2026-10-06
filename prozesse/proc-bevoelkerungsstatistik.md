@@ -2,6 +2,7 @@
 id: proc-bevoelkerungsstatistik
 titel: Bevölkerungsstatistik
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-12
 zustaendigeRolle: ''
 beteiligte: []

@@ -2,6 +2,7 @@
 id: proc-50-012-heizkostenzuschuss
 titel: Heizkostenzuschuss
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-50
 zustaendigeRolle: ''
 beteiligte: []

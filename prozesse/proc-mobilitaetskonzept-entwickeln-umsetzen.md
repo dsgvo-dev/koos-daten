@@ -2,6 +2,7 @@
 id: proc-mobilitaetskonzept-entwickeln-umsetzen
 titel: Mobilitätskonzept entwickeln/umsetzen
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-86
 zustaendigeRolle: ''
 beteiligte:

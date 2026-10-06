@@ -1,5 +1,6 @@
 ---
 id: dstore-arbeitsunfaehigkeit-krankheit
+bereich: intern
 typ: datenspeicher
 system: null
 name: Arbeitsunfähigkeit und Krankheit
@@ -23,7 +24,7 @@ klassifizierung:
     frist: prozessabhängig
     beginn: prozessabhängig
     hinweis: Aus kommunalen Serviceportaltexten abgeleiteter Datentyp; Frist und Beginn fachlich zu validieren.
-letzte-aktualisierung: '2026-08-10'
+letzte-aktualisierung: '2026-10-05'
 tags:
 - Arbeitsunfähigkeit
 - Krankheit
@@ -97,3 +98,7 @@ Geprüft im Durchgang „Register und Nachweise" vom 2026-08-04, in dem 38 Speic
 **Praktische Folge:** Für diese Speicher ist der Zugriff auf die Personen zu beschränken, die ihn zur Aufgabenerfüllung brauchen -- eine amtsärztliche Stellungnahme gehört nicht in die allgemeine Personalakte, sondern in einen gesondert geführten Teilbestand.
 
 *Sammelvermerk der Durchsicht vom 2026-08-10. In demselben Durchgang wurden 17 Speicher herabgestuft, die die Stufe D nicht trugen; dieser gehört nicht dazu.*
+
+## Abgrenzung 2026-10-05
+
+Die Arbeitsunfähigkeit der Beschäftigten der Kommune (Krankmeldung, BEM) wird seit dem 2026-10-05 in `dstore-arbeitsunfaehigkeit-beschaeftigte` (oe-amt-11) geführt. Dieser Speicher bleibt für Nachweise in Bürgerverfahren. Die Verwendung in `vvt-11-013` (Gefährdungsbeurteilung, „Behelfspeicher für die arbeitsmedizinische Komponente“) ist offen und Teil des Plans zur Trennung interner und externer Prozesse (`PLAN-2026-10-05-trennung-interne-externe-prozesse.md`).

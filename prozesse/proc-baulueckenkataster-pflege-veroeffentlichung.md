@@ -2,6 +2,7 @@
 id: proc-baulueckenkataster-pflege-veroeffentlichung
 titel: 'Baulückenkataster: Pflege/Veröffentlichung'
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-61
 zustaendigeRolle: ''
 beteiligte:

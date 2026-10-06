@@ -1,5 +1,6 @@
 ---
 id: dstore-person
+bereich: extern
 typ: datenspeicher
 system: null
 name: Person

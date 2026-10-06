@@ -2,6 +2,7 @@
 id: proc-schadensersatz-fuer-die-kommune-geltend-machen
 titel: Schadensersatz für die Kommune geltend machen
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-66
 zustaendigeRolle: ''
 beteiligte:
@@ -18,7 +19,6 @@ daten:
   - id: dstore-kfz-daten
   - id: dstore-sicherheitsmangelmeldung
   - id: dstore-rechnungsdaten
-  - id: dstore-debitoren-kreditorendaten
   - id: dstore-forderungstitel-vollstreckung
 regelungen:
 - §§ 823 ff. Bürgerliches Gesetzbuch (BGB) - deliktischer Schadensersatzanspruch
@@ -28,7 +28,7 @@ regelungen:
 - §§ 195, 199 BGB - Verjährung
 leika_id: null
 ozg_id: null
-letzte-aktualisierung: '2026-07-29'
+letzte-aktualisierung: '2026-10-06'
 ---
 
 # Schadensersatz für die Kommune geltend machen

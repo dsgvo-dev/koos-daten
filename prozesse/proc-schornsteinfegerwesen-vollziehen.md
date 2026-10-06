@@ -2,6 +2,7 @@
 id: proc-schornsteinfegerwesen-vollziehen
 titel: Schornsteinfegerwesen vollziehen
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-60
 zustaendigeRolle: sachbearbeiter
 beteiligte:

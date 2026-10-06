@@ -2,6 +2,7 @@
 id: proc-fleischgewinnung-schlachttier-und-fleischuntersuchung
 titel: 'Fleischgewinnung: Schlachttier- und Fleischuntersuchung'
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-71
 zustaendigeRolle: ''
 beteiligte:

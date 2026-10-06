@@ -2,6 +2,7 @@
 id: proc-haushaltsplaene-veroeffentlichen
 titel: Haushaltspläne veröffentlichen
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-1-1
 zustaendigeRolle: ''
 beteiligte: []

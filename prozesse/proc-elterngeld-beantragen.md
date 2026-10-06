@@ -2,6 +2,7 @@
 id: proc-elterngeld-beantragen
 titel: Elterngeld beantragen
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-51
 zustaendigeRolle: ''
 beteiligte:

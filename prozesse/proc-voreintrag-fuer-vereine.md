@@ -2,6 +2,7 @@
 id: proc-voreintrag-fuer-vereine
 titel: Voreintrag für Vereine
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-32
 zustaendigeRolle: ''
 beteiligte: []

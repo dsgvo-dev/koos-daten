@@ -1,5 +1,6 @@
 ---
 id: dstore-personenstammdaten
+bereich: extern
 typ: datenspeicher
 system: null
 name: Personenstammdaten

@@ -1,5 +1,6 @@
 ---
 id: dstore-mandatstraeger-parteizugehoerigkeit
+bereich: extern
 typ: datenspeicher
 system: null
 name: Politische Zugehörigkeit von Mandatsträgern

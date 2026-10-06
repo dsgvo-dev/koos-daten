@@ -2,6 +2,7 @@
 id: proc-tierheimaufnahme
 titel: Tierheimaufnahme
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-71
 zustaendigeRolle: ''
 beteiligte: []

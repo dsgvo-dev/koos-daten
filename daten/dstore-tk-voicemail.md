@@ -1,5 +1,6 @@
 ---
 id: dstore-tk-voicemail
+bereich: intern
 typ: datenspeicher
 system: null
 name: Voice-Mail (Sprachspeicher)

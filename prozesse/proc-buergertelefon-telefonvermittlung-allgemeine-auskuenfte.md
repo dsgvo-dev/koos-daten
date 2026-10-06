@@ -2,6 +2,7 @@
 id: proc-buergertelefon-telefonvermittlung-allgemeine-auskuenfte
 titel: Bürgertelefon / Telefonvermittlung (Allgemeine Auskünfte)
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-33
 zustaendigeRolle: ''
 beteiligte:

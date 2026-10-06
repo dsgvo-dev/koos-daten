@@ -1,5 +1,6 @@
 ---
 id: dstore-einwilligung-widerruf
+bereich: extern
 typ: datenspeicher
 system: null
 name: Einwilligung und Widerruf

@@ -1,5 +1,6 @@
 ---
 id: dstore-wohnstatus-haupt-nebenwohnung
+bereich: extern
 typ: datenspeicher
 system: null
 name: Wohnstatus Haupt- und Nebenwohnung

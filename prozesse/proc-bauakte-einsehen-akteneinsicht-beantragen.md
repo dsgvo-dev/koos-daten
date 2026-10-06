@@ -2,6 +2,7 @@
 id: proc-bauakte-einsehen-akteneinsicht-beantragen
 titel: Bauakte einsehen / Akteneinsicht beantragen
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-63
 zustaendigeRolle: ''
 beteiligte:

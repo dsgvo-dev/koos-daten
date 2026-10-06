@@ -1,5 +1,6 @@
 ---
 id: dstore-namensaenderungsnachweis
+bereich: extern
 typ: datenspeicher
 system: null
 name: Namensänderungsnachweis

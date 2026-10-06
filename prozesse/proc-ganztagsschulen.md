@@ -2,6 +2,7 @@
 id: proc-ganztagsschulen
 titel: Ganztagsschulen
 status: aktiv
+bereich: extern
 
 
 zustaendigeEinheit: oe-amt-1-1

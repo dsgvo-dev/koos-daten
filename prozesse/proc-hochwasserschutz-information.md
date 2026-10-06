@@ -2,6 +2,7 @@
 id: proc-hochwasserschutz-information
 titel: Hochwasserschutz (Information)
 status: aktiv
+bereich: extern
 
 
 zustaendigeEinheit: oe-amt-60

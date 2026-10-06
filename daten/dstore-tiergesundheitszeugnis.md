@@ -1,5 +1,6 @@
 ---
 id: dstore-tiergesundheitszeugnis
+bereich: extern
 typ: datenspeicher
 system: null
 name: Tiergesundheitszeugnis

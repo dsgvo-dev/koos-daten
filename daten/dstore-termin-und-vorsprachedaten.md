@@ -1,5 +1,6 @@
 ---
 id: dstore-termin-und-vorsprachedaten
+bereich: extern
 typ: datenspeicher
 system: null
 name: Termin- und Vorsprachedaten

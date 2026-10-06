@@ -2,6 +2,7 @@
 id: proc-wahl-organisieren-und-durchfuehren
 titel: Wahl organisieren und durchführen
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-10
 zustaendigeRolle: ''
 beteiligte:

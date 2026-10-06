@@ -2,6 +2,7 @@
 id: proc-statistik-datenerhebung-auswertung
 titel: Statistik — Datenerhebung und Auswertung
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-12
 zustaendigeRolle: Sachbearbeitung Statistik
 

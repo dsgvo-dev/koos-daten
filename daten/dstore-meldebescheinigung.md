@@ -1,5 +1,6 @@
 ---
 id: dstore-meldebescheinigung
+bereich: extern
 name: Meldebescheinigung
 zuständige-einheit: oe-amt-33
 bpmn:

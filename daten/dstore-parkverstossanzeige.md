@@ -1,5 +1,6 @@
 ---
 id: dstore-parkverstossanzeige
+bereich: extern
 typ: datenspeicher
 system: null
 name: Parkverstoßanzeige

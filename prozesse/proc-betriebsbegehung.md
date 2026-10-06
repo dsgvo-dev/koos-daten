@@ -2,6 +2,7 @@
 id: proc-betriebsbegehung
 titel: Betriebsbegehung
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-53
 zustaendigeRolle: ''
 beteiligte: []

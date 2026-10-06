@@ -2,6 +2,7 @@
 id: proc-waffenschein-beantragen
 titel: Waffenschein beantragen
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-32
 zustaendigeRolle: ''
 beteiligte:

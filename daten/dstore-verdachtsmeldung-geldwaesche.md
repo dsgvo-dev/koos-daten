@@ -1,5 +1,6 @@
 ---
 id: dstore-verdachtsmeldung-geldwaesche
+bereich: extern
 typ: datenspeicher
 system: null
 name: Verdachtsmeldung nach Geldwäschegesetz

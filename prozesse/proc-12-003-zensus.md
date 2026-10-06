@@ -2,6 +2,7 @@
 id: proc-12-003-zensus
 titel: Durchführung Zensus
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-12
 zustaendigeRolle: ''
 beteiligte: []

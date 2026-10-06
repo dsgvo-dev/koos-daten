@@ -2,6 +2,7 @@
 id: proc-gebaeudereinigung
 titel: Gebäudereinigung
 status: aktiv
+bereich: intern
 zustaendigeEinheit: oe-amt-65
 zustaendigeRolle: ''
 beteiligte: []
@@ -9,12 +10,11 @@ daten:
   input: []
   output: []
   datenspeicher:
-  - id: dstore-verwaltungsakte
   - id: dstore-abrechnungsdaten
 regelungen:
 - '§§ 97-100 NKomVG (Kommunale Gebäudewirtschaft)'
 - 'TVöD BT-K (Kommunaler Bereich)'
-letzte-aktualisierung: 2026-04-29
+letzte-aktualisierung: '2026-10-05'
 ---
 # Gebäudereinigung
 

@@ -2,6 +2,7 @@
 id: proc-amtsvormundschaft-fuehren
 titel: Amtsvormundschaft führen
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-51
 zustaendigeRolle: amtsvormund
 beteiligte:

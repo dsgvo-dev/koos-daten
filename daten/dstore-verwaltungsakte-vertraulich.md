@@ -1,5 +1,6 @@
 ---
 id: dstore-verwaltungsakte-vertraulich
+bereich: extern
 typ: datenspeicher
 system: null
 name: Vorgangsakte in Verfahren, deren Zugehörigkeit selbst schutzbedürftig ist

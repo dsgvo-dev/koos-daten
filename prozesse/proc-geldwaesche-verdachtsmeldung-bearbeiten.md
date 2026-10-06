@@ -2,6 +2,7 @@
 id: proc-geldwaesche-verdachtsmeldung-bearbeiten
 titel: Verdachtsmeldungen nach Geldwäschegesetz bearbeiten
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-32
 zustaendigeRolle: sachbearbeiter
 daten:

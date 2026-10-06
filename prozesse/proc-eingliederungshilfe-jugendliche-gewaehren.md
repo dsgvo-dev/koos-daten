@@ -2,6 +2,7 @@
 id: proc-eingliederungshilfe-jugendliche-gewaehren
 titel: Eingliederungshilfe für seelisch behinderte Kinder und Jugendliche gewähren
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-51
 zustaendigeRolle: fallfuehrung
 beteiligte:

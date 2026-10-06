@@ -2,6 +2,7 @@
 id: proc-buergerinformation
 titel: Bürgerinformation
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-13
 zustaendigeRolle: ''
 beteiligte: []

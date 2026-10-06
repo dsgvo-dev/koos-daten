@@ -2,6 +2,7 @@
 id: proc-schluesselverlust-melden
 titel: Schlüsselverlust melden
 status: aktiv
+bereich: intern
 zustaendigeEinheit: oe-amt-10
 zustaendigeRolle: Sachbearbeitung
 beteiligte:
@@ -16,7 +17,6 @@ daten:
     - Eintrag im Schlüsselverlustregister, Sperr-/Umstellungsnachweis
   datenspeicher:
     - id: dstore-schluesselverwaltung
-    - id: dstore-vollmacht-vertretung-berechtigung
 regelungen:
   - "Dienstanweisung Schlüsselverwaltung (Hausrecht)"
   - "Sicherheitsrichtlinie Gebäude (Zutrittskontrolle)"
@@ -24,7 +24,7 @@ regelungen:
   - "Art. 6 Abs. 1 lit. e DSGVO, § 3 NDSG (Aufgabenerfüllung)"
 leika_id: null
 ozg_id: null
-letzte-aktualisierung: '2026-08-22'
+letzte-aktualisierung: '2026-10-06'
 ---
 # Schlüsselverlust melden
 

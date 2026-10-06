@@ -2,6 +2,7 @@
 id: proc-eigenschaden-ksa-melden
 titel: Eigenschaden melden und an KSA weiterleiten
 status: aktiv
+bereich: intern
 zustaendigeEinheit: oe-amt-10
 zustaendigeRolle: Sachbearbeitung
 beteiligte:
@@ -17,9 +18,7 @@ daten:
   output:
     - KSA-Schadensmeldung, Regressbescheid (bei grober Fahrlässigkeit), Abschlussvermerk
   datenspeicher:
-    - id: dstore-kfz-daten
-    - id: dstore-sicherheitsmangelmeldung
-    - id: dstore-zeugenangaben-schadensfall
+    - id: dstore-eigenschaden-ksa
 regelungen:
   - "§ 90 NBG (Schadensersatzpflicht der Beamtin/des Beamten)"
   - "§ 75 BBG (Beamtenhaftung, bundesrechtlicher Hintergrund)"

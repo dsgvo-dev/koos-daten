@@ -1,5 +1,6 @@
 ---
 id: dstore-wohnraumnachweis-aufenthalt
+bereich: extern
 typ: datenspeicher
 system: null
 name: Wohnraumnachweis Aufenthalt

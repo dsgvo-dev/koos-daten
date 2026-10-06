@@ -2,6 +2,7 @@
 id: proc-haltestellen-planen
 titel: Haltestellen planen
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-86
 zustaendigeRolle: ''
 beteiligte: []

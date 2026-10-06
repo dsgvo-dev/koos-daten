@@ -1,5 +1,6 @@
 ---
 id: dstore-heilpraktikererlaubnisverfahren
+bereich: extern
 typ: datenspeicher
 system: null
 name: Heilpraktikererlaubnisverfahren

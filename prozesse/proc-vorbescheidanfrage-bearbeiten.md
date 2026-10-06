@@ -2,6 +2,7 @@
 id: proc-vorbescheidanfrage-bearbeiten
 titel: Vorbescheidanfrage bearbeiten
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-63
 zustaendigeRolle: ''
 beteiligte: []

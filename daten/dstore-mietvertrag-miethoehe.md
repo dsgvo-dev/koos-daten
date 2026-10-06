@@ -1,5 +1,6 @@
 ---
 id: dstore-mietvertrag-miethoehe
+bereich: extern
 typ: datenspeicher
 system: null
 name: Mietvertrag und Miethöhe

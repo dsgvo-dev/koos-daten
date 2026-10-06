@@ -2,6 +2,7 @@
 id: proc-bioabfalltonne-bereitstellen
 titel: Bioabfalltonne bereitstellen
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-67
 zustaendigeRolle: ''
 beteiligte: []

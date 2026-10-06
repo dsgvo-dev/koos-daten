@@ -2,6 +2,7 @@
 id: proc-auskunft-aus-dem-gewerbezentralregister-beantragen
 titel: Auskunft aus dem Gewerbezentralregister beantragen
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-32
 zustaendigeRolle: ''
 beteiligte:

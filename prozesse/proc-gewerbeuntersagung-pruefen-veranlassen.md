@@ -2,6 +2,7 @@
 id: proc-gewerbeuntersagung-pruefen-veranlassen
 titel: Gewerbeuntersagung prüfen/veranlassen
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-32
 zustaendigeRolle: ''
 beteiligte:

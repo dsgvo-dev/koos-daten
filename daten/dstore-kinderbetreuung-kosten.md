@@ -1,5 +1,6 @@
 ---
 id: dstore-kinderbetreuung-kosten
+bereich: extern
 typ: datenspeicher
 system: null
 name: Kinderbetreuungskosten

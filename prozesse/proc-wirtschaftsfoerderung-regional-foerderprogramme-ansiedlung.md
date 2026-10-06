@@ -2,6 +2,7 @@
 id: proc-wirtschaftsfoerderung-regional-foerderprogramme-ansiedlung
 titel: Wirtschaftsförderung regional (Förderprogramme/Ansiedlung)
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-80
 zustaendigeRolle: ''
 beteiligte:

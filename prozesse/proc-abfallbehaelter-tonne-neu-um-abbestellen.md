@@ -2,6 +2,7 @@
 id: proc-abfallbehaelter-tonne-neu-um-abbestellen
 titel: Abfallbehälter (Tonne) neu-/um-/abbestellen
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-60
 zustaendigeRolle: ''
 beteiligte: []

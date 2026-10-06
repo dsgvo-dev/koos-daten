@@ -2,6 +2,7 @@
 id: proc-genehmigung-zum-abbau-von-bodenschaetzen
 titel: Genehmigung zum Abbau von Bodenschätzen
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-60
 zustaendigeRolle: ''
 beteiligte: []

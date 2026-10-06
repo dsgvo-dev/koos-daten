@@ -2,6 +2,7 @@
 id: proc-stoerung-der-strassenbeleuchtung-melden
 titel: Störung der Straßenbeleuchtung melden
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-66
 zustaendigeRolle: ''
 beteiligte:

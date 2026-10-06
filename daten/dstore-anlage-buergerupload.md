@@ -1,5 +1,6 @@
 ---
 id: dstore-anlage-buergerupload
+bereich: extern
 typ: datenspeicher
 system: null
 name: Von Bürgerinnen und Bürgern hochgeladene Anlagen

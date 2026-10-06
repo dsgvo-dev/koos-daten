@@ -2,6 +2,7 @@
 id: proc-stoerung-der-strassenbeleuchtung-meldung-bearbeiten
 titel: 'Störung der Straßenbeleuchtung: Meldung bearbeiten'
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-66
 zustaendigeRolle: ''
 beteiligte:

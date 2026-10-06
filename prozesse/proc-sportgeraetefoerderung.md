@@ -2,6 +2,7 @@
 id: proc-sportgeraetefoerderung
 titel: Sportgeräteförderung
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-50
 zustaendigeRolle: ''
 beteiligte: []

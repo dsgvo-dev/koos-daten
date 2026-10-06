@@ -1,5 +1,6 @@
 ---
 id: dstore-schluesselverwaltung
+bereich: intern
 typ: datenspeicher
 system: null
 name: Schlüsselverwaltung und Schließanlagen

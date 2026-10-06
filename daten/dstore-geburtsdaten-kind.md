@@ -1,5 +1,6 @@
 ---
 id: dstore-geburtsdaten-kind
+bereich: extern
 typ: datenspeicher
 system: null
 name: Geburtsdaten eines Kindes

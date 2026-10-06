@@ -1,5 +1,6 @@
 ---
 id: dstore-identitaetsnachweis
+bereich: extern
 typ: datenspeicher
 system: null
 name: Identitätsnachweis

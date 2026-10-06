@@ -1,5 +1,6 @@
 ---
 id: dstore-unternehmens-und-registerdaten
+bereich: extern
 typ: datenspeicher
 system: null
 name: Unternehmens- und Registerdaten

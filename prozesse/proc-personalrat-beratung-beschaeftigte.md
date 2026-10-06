@@ -2,6 +2,7 @@
 id: proc-personalrat-beratung-beschaeftigte
 titel: Personalrat — Beratung der Beschäftigten
 status: aktiv
+bereich: intern
 zustaendigeEinheit: oe-personalrat
 zustaendigeRolle: Personalratsvorsitzende/r
 

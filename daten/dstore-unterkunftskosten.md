@@ -1,5 +1,6 @@
 ---
 id: dstore-unterkunftskosten
+bereich: extern
 typ: datenspeicher
 system: null
 name: Unterkunftskosten

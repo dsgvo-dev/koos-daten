@@ -2,6 +2,7 @@
 id: proc-elternbeitraege-kita-festsetzen
 titel: Elternbeiträge für Kitas festsetzen
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-51
 zustaendigeRolle: sachbearbeiter
 beteiligte:

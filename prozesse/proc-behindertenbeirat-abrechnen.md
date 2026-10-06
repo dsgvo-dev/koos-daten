@@ -2,6 +2,7 @@
 id: proc-behindertenbeirat-abrechnen
 titel: Behindertenbeirat abrechnen
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-50
 zustaendigeRolle: sachbearbeiter
 beteiligte:

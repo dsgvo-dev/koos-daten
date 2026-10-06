@@ -2,6 +2,7 @@
 id: proc-notbetreuung-einleiten
 titel: Betreuung in Notsituationen einleiten
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-51
 zustaendigeRolle: fachkraft
 beteiligte:

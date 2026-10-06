@@ -1,5 +1,6 @@
 ---
 id: dstore-abrechnungsdaten
+bereich: intern
 typ: datenspeicher
 system: null
 name: Abrechnungsdaten

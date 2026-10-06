@@ -2,6 +2,7 @@
 id: proc-fahrzeug-abschleppen
 titel: Fahrzeug abschleppen lassen
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-32
 zustaendigeRolle: sachbearbeiter
 daten:

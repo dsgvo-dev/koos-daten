@@ -2,6 +2,7 @@
 id: proc-bauvoranfrage
 titel: Bauvoranfrage
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-63
 zustaendigeRolle: ''
 beteiligte:

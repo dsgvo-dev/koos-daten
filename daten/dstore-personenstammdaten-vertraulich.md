@@ -1,5 +1,6 @@
 ---
 id: dstore-personenstammdaten-vertraulich
+bereich: extern
 typ: datenspeicher
 system: null
 name: Identifikations- und Zuordnungsdaten natürlicher Personen in Verfahren, deren Zugehörigkei

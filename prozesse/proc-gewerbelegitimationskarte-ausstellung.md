@@ -2,6 +2,7 @@
 id: proc-gewerbelegitimationskarte-ausstellung
 titel: Gewerbelegitimationskarte Ausstellung
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-32
 zustaendigeRolle: ''
 beteiligte: []

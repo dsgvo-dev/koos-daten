@@ -1,5 +1,6 @@
 ---
 id: dstore-kontaktdaten
+bereich: extern
 typ: datenspeicher
 system: null
 name: Kontaktdaten

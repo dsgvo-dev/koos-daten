@@ -2,6 +2,7 @@
 id: proc-versteigerergewerbe-erlaubnis-beantragen
 titel: 'Versteigerergewerbe: Erlaubnis beantragen'
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-32
 zustaendigeRolle: ''
 beteiligte: []

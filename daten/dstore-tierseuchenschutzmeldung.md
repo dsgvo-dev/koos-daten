@@ -1,5 +1,6 @@
 ---
 id: dstore-tierseuchenschutzmeldung
+bereich: extern
 typ: datenspeicher
 system: null
 name: Tierseuchenschutzmeldung

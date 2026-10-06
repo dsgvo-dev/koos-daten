@@ -1,5 +1,6 @@
 ---
 id: dstore-hunderasse-gefaehrlichkeit
+bereich: extern
 typ: datenspeicher
 system: null
 name: Hunderasse und Gefährlichkeitsbezug

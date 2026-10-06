@@ -1,5 +1,6 @@
 ---
 id: dstore-personalakte
+bereich: intern
 typ: datenspeicher
 system: null
 name: Personalakte

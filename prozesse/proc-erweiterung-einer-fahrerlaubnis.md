@@ -2,6 +2,7 @@
 id: proc-erweiterung-einer-fahrerlaubnis
 titel: Erweiterung einer Fahrerlaubnis
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-34
 zustaendigeRolle: ''
 beteiligte:

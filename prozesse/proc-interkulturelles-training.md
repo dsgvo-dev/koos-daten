@@ -2,6 +2,7 @@
 id: proc-interkulturelles-training
 titel: Interkulturelles Training
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-47
 zustaendigeRolle: ''
 beteiligte: []

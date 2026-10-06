@@ -2,6 +2,7 @@
 id: proc-anzeigefrist-einer-versteigerung-verkuerzen
 titel: Anzeigefrist einer Versteigerung verkürzen
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-32
 zustaendigeRolle: ''
 beteiligte: []

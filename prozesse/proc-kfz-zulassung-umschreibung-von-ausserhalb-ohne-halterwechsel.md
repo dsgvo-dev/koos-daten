@@ -2,6 +2,7 @@
 id: proc-kfz-zulassung-umschreibung-von-ausserhalb-ohne-halterwechsel
 titel: 'Kfz-Zulassung: Umschreibung von außerhalb ohne Halterwechsel'
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-34
 zustaendigeRolle: ''
 beteiligte:

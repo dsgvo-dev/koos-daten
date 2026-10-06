@@ -2,6 +2,7 @@
 id: proc-it-einfuehrung
 titel: IT-Verfahren einführen (Beschaffung, Prüfung, Freigabe, Produktivbetrieb)
 status: aktiv
+bereich: intern
 zustaendigeEinheit: oe-amt-10
 zustaendigeRolle: fachverantwortliche
 beteiligte:
@@ -27,7 +28,7 @@ daten:
   datenspeicher:
   - dstore-it-berechtigungsantrag
   - dstore-datenschutzeinweisung
-  - dstore-vergabe-auftragsbezug
+  - dstore-beschaffungsvorgang
 regelungen:
 - Art. 5 DSGVO (Grundsätze)
 - Art. 25 DSGVO (Privacy by Design/Default)
@@ -40,7 +41,7 @@ regelungen:
 - Vergabeordnung (UVgO/VgV)
 leika_id: ''
 ozg_id: ''
-letzte-aktualisierung: '2026-08-04'
+letzte-aktualisierung: '2026-10-05'
 ---
 
 # IT-Verfahren einführen

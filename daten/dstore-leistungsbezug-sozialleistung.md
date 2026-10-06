@@ -1,5 +1,6 @@
 ---
 id: dstore-leistungsbezug-sozialleistung
+bereich: extern
 typ: datenspeicher
 system: null
 name: Leistungsbezug Sozialleistung

@@ -1,5 +1,6 @@
 ---
 id: dstore-verpflichtungserklaerung
+bereich: extern
 typ: datenspeicher
 system: null
 name: Verpflichtungserklärung

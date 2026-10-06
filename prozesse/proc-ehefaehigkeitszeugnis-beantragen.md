@@ -2,6 +2,7 @@
 id: proc-ehefaehigkeitszeugnis-beantragen
 titel: Ehefähigkeitszeugnis beantragen
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-31
 zustaendigeRolle: ''
 beteiligte:

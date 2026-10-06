@@ -2,6 +2,7 @@
 id: proc-bauberatung-bauen-wirtschaft
 titel: Bauberatung (Bauen & Wirtschaft)
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-63
 zustaendigeRolle: ''
 beteiligte:

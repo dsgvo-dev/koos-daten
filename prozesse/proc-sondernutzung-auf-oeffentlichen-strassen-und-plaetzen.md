@@ -2,6 +2,7 @@
 id: proc-sondernutzung-auf-oeffentlichen-strassen-und-plaetzen
 titel: Sondernutzung auf öffentlichen Straßen und Plätzen
 status: ersetzt
+bereich: extern
 ersetzt-durch: proc-sondernutzungserlaubnis-oeffentliche-flaechen-beantragen
 zustaendigeEinheit: oe-amt-32
 zustaendigeRolle: ''

@@ -2,6 +2,7 @@
 id: proc-kennzeichenverlust-melden
 titel: Kennzeichenverlust melden
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-34
 zustaendigeRolle: ''
 beteiligte: []

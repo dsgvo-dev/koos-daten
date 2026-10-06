@@ -2,6 +2,7 @@
 id: proc-erlaubnis-zum-betrieb-einer-schiessstaette-beantragen
 titel: Erlaubnis zum Betrieb einer Schießstätte beantragen
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-32
 zustaendigeRolle: ''
 beteiligte:

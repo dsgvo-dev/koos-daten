@@ -2,6 +2,7 @@
 id: proc-direkteinleitung-von-niederschlagswasser-erlaubnis
 titel: 'Direkteinleitung von Niederschlagswasser: Erlaubnis'
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-60
 zustaendigeRolle: ''
 beteiligte: []

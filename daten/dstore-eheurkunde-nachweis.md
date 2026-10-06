@@ -1,5 +1,6 @@
 ---
 id: dstore-eheurkunde-nachweis
+bereich: extern
 typ: datenspeicher
 system: null
 name: Eheurkunde als Nachweis

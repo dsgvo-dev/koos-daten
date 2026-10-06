@@ -2,6 +2,7 @@
 id: proc-container-bestellen
 titel: Container bestellen
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-60
 zustaendigeRolle: ''
 beteiligte: []

@@ -2,6 +2,7 @@
 id: proc-sprengstoff-gewerbsmaessiger-umgang-erlaubnis
 titel: 'Sprengstoff: gewerbsmäßiger Umgang – Erlaubnis'
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-32
 zustaendigeRolle: ''
 beteiligte:

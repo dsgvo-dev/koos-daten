@@ -2,6 +2,7 @@
 id: proc-prostituiertenschutz-anmelden-beraten
 titel: Prostituiertenschutz — Anmeldung und gesundheitliche Beratung
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-53
 zustaendigeRolle: sachbearbeiter
 beteiligte:

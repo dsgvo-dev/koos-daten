@@ -2,6 +2,7 @@
 id: proc-brandsicherheitsdienst
 titel: Brandsicherheitsdienst
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-37
 zustaendigeRolle: ''
 beteiligte: []

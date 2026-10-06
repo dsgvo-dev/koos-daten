@@ -2,6 +2,7 @@
 id: proc-waffenbesitzkarte-erteilen-waffen-oder-munitionssammler
 titel: Waffenbesitzkarte erteilen (Waffen- oder Munitionssammler/Sachverständige)
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-32
 zustaendigeRolle: ''
 beteiligte: []

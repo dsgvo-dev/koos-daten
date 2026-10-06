@@ -2,6 +2,7 @@
 id: proc-gesundheitszeugnis-belehrung-nach-infektionsschutzgesetz
 titel: Gesundheitszeugnis / Belehrung nach Infektionsschutzgesetz
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-53
 zustaendigeRolle: ''
 beteiligte:
@@ -14,14 +15,14 @@ daten:
   - id: dstore-gesundheitszeugnis-heilpraktiker
   - id: dstore-lebensmittelhygienekontrolle
   - id: dstore-infektionsschutzdaten
-  - id: dstore-arbeitsunfaehigkeit-krankheit
+  - id: dstore-gesundheitszeugnis
   - id: dstore-personenstammdaten
   - id: dstore-amtsaerztliches-zeugnis
 regelungen:
 - § 43 Absatz 1 Infektionsschutzgesetz (IfSG)
 leika_id: '99003002022000'
 ozg_id: null
-letzte-aktualisierung: '2026-07-10'
+letzte-aktualisierung: '2026-10-06'
 ---
 
 # Gesundheitszeugnis / Belehrung nach Infektionsschutzgesetz

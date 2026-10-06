@@ -2,6 +2,7 @@
 id: proc-53-012-verhuetungsmittel
 titel: Kostenübernahme Verhütungsmittel
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-53
 zustaendigeRolle: ''
 beteiligte: []

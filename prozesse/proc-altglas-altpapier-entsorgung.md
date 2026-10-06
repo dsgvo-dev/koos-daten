@@ -2,6 +2,7 @@
 id: proc-altglas-altpapier-entsorgung
 titel: Altglas/Altpapier Entsorgung
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-60
 zustaendigeRolle: ''
 beteiligte: []

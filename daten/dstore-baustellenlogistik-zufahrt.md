@@ -1,5 +1,6 @@
 ---
 id: dstore-baustellenlogistik-zufahrt
+bereich: extern
 typ: datenspeicher
 system: null
 name: Baustellenlogistik und Zufahrt

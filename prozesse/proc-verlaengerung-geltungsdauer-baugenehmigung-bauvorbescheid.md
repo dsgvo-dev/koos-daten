@@ -2,6 +2,7 @@
 id: proc-verlaengerung-geltungsdauer-baugenehmigung-bauvorbescheid
 titel: Verlängerung der Geltungsdauer von Baugenehmigung/Teilbaugenehmigung/Bauvorbescheid
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-63
 zustaendigeRolle: ''
 beteiligte: []

@@ -2,6 +2,7 @@
 id: proc-bauleitplanung-bauleitplaene-satzungen
 titel: Bauleitplanung (Bauleitpläne & Satzungen)
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-61
 zustaendigeRolle: ''
 beteiligte:

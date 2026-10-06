@@ -1,5 +1,6 @@
 ---
 id: dstore-einbuergerungszusicherung
+bereich: extern
 typ: datenspeicher
 system: null
 name: Einbürgerungszusicherung

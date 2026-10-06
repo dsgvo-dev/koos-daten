@@ -1,5 +1,6 @@
 ---
 id: dstore-lebenslauf-qualifikationsnachweis-vertraulich
+bereich: extern
 typ: datenspeicher
 system: null
 name: Lebenslauf und Qualifikationsnachweise in Verfahren, deren Zugehörigkeit selbst schutzbedü
@@ -37,7 +38,7 @@ klassifizierung:
     beginn: mit Abschluss des Verfahrens
     hinweis: >-
       Die Frist richtet sich nach dem Verfahren, in dem der Speicher gefuehrt wird, nicht nach der Datenart.
-letzte-aktualisierung: '2026-08-10'
+letzte-aktualisierung: '2026-10-06'
 tags:
 - Kontextvariante
 - Allgemeinplatz

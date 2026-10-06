@@ -2,6 +2,7 @@
 id: proc-eheschliessung-bei-deutscher-staatsangehoerigkeit
 titel: Eheschließung bei deutscher Staatsangehörigkeit
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-31
 zustaendigeRolle: ''
 beteiligte:

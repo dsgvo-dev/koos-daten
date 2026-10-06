@@ -2,6 +2,7 @@
 id: proc-kfz-zulassungsbescheinigung-teil-ii-fahrzeugbrief-ersetzen
 titel: Kfz-Zulassungsbescheinigung Teil II (Fahrzeugbrief) ersetzen
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-34
 zustaendigeRolle: ''
 beteiligte:

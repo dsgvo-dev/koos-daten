@@ -2,6 +2,7 @@
 id: proc-jagd-jagdschein-erteilung-verlaengerung
 titel: 'Jagd: Jagdschein (Erteilung/Verlängerung)'
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-82
 zustaendigeRolle: ''
 beteiligte:

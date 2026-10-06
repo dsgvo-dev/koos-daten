@@ -1,5 +1,6 @@
 ---
 id: dstore-bauzeichnungen
+bereich: extern
 typ: datenspeicher
 system: null
 name: Bauzeichnungen und Baubeschreibung

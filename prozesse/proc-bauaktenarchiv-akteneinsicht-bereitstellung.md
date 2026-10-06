@@ -2,6 +2,7 @@
 id: proc-bauaktenarchiv-akteneinsicht-bereitstellung
 titel: 'Bauaktenarchiv: Akteneinsicht/Bereitstellung'
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-63
 zustaendigeRolle: ''
 beteiligte:

@@ -2,6 +2,7 @@
 id: proc-marktfestsetzung-beantragen
 titel: Marktfestsetzung beantragen
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-32
 zustaendigeRolle: ''
 beteiligte:

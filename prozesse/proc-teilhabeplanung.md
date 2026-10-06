@@ -2,6 +2,7 @@
 id: proc-teilhabeplanung
 titel: Teilhabeplanung
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-hvb
 zustaendigeRolle: ''
 beteiligte: []

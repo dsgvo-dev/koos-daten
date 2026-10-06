@@ -1,5 +1,6 @@
 ---
 id: dstore-wohnberechtigung
+bereich: extern
 typ: datenspeicher
 system: null
 name: Wohnberechtigung

@@ -1,5 +1,6 @@
 ---
 id: dstore-geburtsanzeige-unterlagenpaket
+bereich: extern
 typ: datenspeicher
 system: null
 name: Unterlagenpaket zur Geburtsanzeige

@@ -2,6 +2,7 @@
 id: proc-wasserversorgung-betrieb-koordination
 titel: 'Wasserversorgung: Betrieb/Koordination'
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-67
 zustaendigeRolle: ''
 beteiligte:

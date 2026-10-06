@@ -1,1 +1,1226 @@
-[]
+[
+  {
+    "id": "dstore-arbeitsunfaehigkeit-beschaeftigte",
+    "name": "Arbeitsunfähigkeit der Beschäftigten",
+    "einheit": "oe-amt-11",
+    "schutzstufe": "D",
+    "schutzbedarf": "hoch",
+    "vertraulichkeitsklasse": "vertraulich",
+    "bsi-vertraulichkeit": "hoch",
+    "bsi-integritaet": "normal",
+    "bsi-verfuegbarkeit": "normal",
+    "bsi-schutzbedarf": "hoch",
+    "datenschutz_geprueft": false,
+    "bsi_geprueft": false,
+    "verwendungen": 3,
+    "beschreibung": "Zeiten der Arbeitsunfähigkeit und der teilweisen Arbeitsunfähigkeit von Beschäftigten der Kommune (Beamtinnen und Beamte, Tarifbeschäftigte, Auszubildende), wie sie die Personalstelle aus dem eAU-Abruf nach § 109 SGB IV oder aus vorgelegten Bescheinigungen führt. Dient der Entgeltfortzahlung, der Abwesenheitsverwaltung und der Ermittlung der Sechs-Wochen-Schwelle für das betriebliche Eingliederungsmanagement.",
+    "felder": [
+      "Personalnummer und Name",
+      "Organisationseinheit",
+      "Beginn der Arbeitsunfähigkeit",
+      "voraussichtliches und tatsächliches Ende der Arbeitsunfähigkeit",
+      "Datum der ärztlichen Feststellung",
+      "Erst- oder Folgebescheinigung",
+      "Kennzeichen Arbeitsunfall oder sonstiger Unfall",
+      "teilweise Arbeitsunfähigkeit mit Stufe (25 / 50 / 75 %; Feststellung ab 01.01.2028)",
+      "Nachweisart (eAU-Abruf, vorgelegte Bescheinigung)"
+    ],
+    "rechtsgrundlagen": [
+      {
+        "gesetz": "DSGVO",
+        "artikel": "Art. 6 Abs. 1 lit. b und lit. c"
+      },
+      {
+        "gesetz": "DSGVO",
+        "artikel": "Art. 9 Abs. 2 lit. b"
+      },
+      {
+        "gesetz": "NDSG",
+        "artikel": "§ 12 Abs. 1"
+      },
+      {
+        "gesetz": "NBG",
+        "artikel": "§ 88, § 94 Abs. 2"
+      },
+      {
+        "gesetz": "EFZG",
+        "artikel": "§ 5"
+      },
+      {
+        "gesetz": "SGB IV",
+        "artikel": "§ 109"
+      },
+      {
+        "gesetz": "SGB IX",
+        "artikel": "§ 167 Abs. 2"
+      },
+      {
+        "gesetz": "SGB V",
+        "artikel": "§ 44 (teilweise Arbeitsunfähigkeit ab 01.01.2028)"
+      }
+    ],
+    "verwendet_in": [
+      "vvt-11-002",
+      "vvt-11-008",
+      "vvt-11-009"
+    ]
+  },
+  {
+    "id": "dstore-beihilfeakte",
+    "name": "Beihilfeakte",
+    "einheit": "oe-amt-11",
+    "schutzstufe": "D",
+    "schutzbedarf": "hoch",
+    "vertraulichkeitsklasse": "streng vertraulich",
+    "bsi-vertraulichkeit": "hoch",
+    "bsi-integritaet": "normal",
+    "bsi-verfuegbarkeit": "normal",
+    "bsi-schutzbedarf": "hoch",
+    "datenschutz_geprueft": false,
+    "bsi_geprueft": false,
+    "verwendungen": 1,
+    "beschreibung": "Beihilfeunterlagen der Beihilfeberechtigten (Beamtinnen und Beamte, Versorgungsempfangende) und ihrer berücksichtigungsfähigen Angehörigen. Nach § 89 NBG stets als Teilakte geführt und von der übrigen Personalakte getrennt aufbewahrt; Bearbeitung in einer getrennten Organisationseinheit, Zugang nur für deren Beschäftigte.",
+    "felder": [
+      "beihilfeberechtigte Person (Verweis auf Personalnummer)",
+      "berücksichtigungsfähige Angehörige",
+      "Bemessungssatz",
+      "Anträge mit Arzt-, Apotheken- und sonstigen Rechnungen",
+      "aus den Belegen erkennbare Diagnosen und Behandlungen",
+      "private Kranken- und Pflegeversicherung (Tarif, Leistungen)",
+      "Beihilfebescheide und Erstattungsbeträge"
+    ],
+    "rechtsgrundlagen": [
+      {
+        "gesetz": "DSGVO",
+        "artikel": "Art. 9 Abs. 2 lit. b"
+      },
+      {
+        "gesetz": "NDSG",
+        "artikel": "§ 12 Abs. 1"
+      },
+      {
+        "gesetz": "NBG",
+        "artikel": "§ 88, § 89, § 94 Abs. 2"
+      },
+      {
+        "gesetz": "NBhVO",
+        "artikel": "Niedersächsische Beihilfeverordnung"
+      }
+    ],
+    "verwendet_in": [
+      "vvt-11-014"
+    ]
+  },
+  {
+    "id": "dstore-bem-verfahrensdaten",
+    "name": "Betriebliches Eingliederungsmanagement (BEM) — Verfahrensdaten",
+    "einheit": "oe-amt-11",
+    "schutzstufe": "D",
+    "schutzbedarf": "hoch",
+    "vertraulichkeitsklasse": "streng vertraulich",
+    "bsi-vertraulichkeit": "hoch",
+    "bsi-integritaet": "normal",
+    "bsi-verfuegbarkeit": "normal",
+    "bsi-schutzbedarf": "hoch",
+    "datenschutz_geprueft": false,
+    "bsi_geprueft": false,
+    "verwendungen": 2,
+    "beschreibung": "Verfahrensbezogene Daten des betrieblichen Eingliederungsmanagements nach § 167 Abs. 2 SGB IX. Umfasst die Dokumentation des BEM-Angebots, der Einwilligung der beschäftigten Person, der BEM-Gespräche und der vereinbarten Maßnahmen.",
+    "felder": [
+      "BEM-Angebot (Datum, Unterrichtungsschreiben)",
+      "Antwort im Ankreuzverfahren (nach BVerwG 6 P 8.09 und LfD Niedersachsen): Zustimmung mit oder ohne Beteiligung von Personalrat/Schwerbehindertenvertretung, Ablehnung, Einwilligung in die Beteiligung weiterer Personen, Wunsch nach späterem Angebot",
+      "Widerruf (Datum)",
+      "Wiedervorlage für ein erneutes Angebot",
+      "Abschlussvermerk (Datum, Beendigungsgrund; keine Gesundheitsdaten)",
+      "Einwilligungen in die Beteiligung Dritter (Personalrat, Schwerbehindertenvertretung, Betriebsarzt, Vertrauensperson, Fachvorgesetzte, externe Stellen)",
+      "BEM-Gesprächsdokumentation (Datum, Teilnehmer, Inhalte)",
+      "Maßnahmenplan (vereinbarte Maßnahmen, Wiedereingliederung, Arbeitsplatzanpassung) und Ergebnis",
+      "Zugriffsprotokoll (wer hat wann auf die BEM-Akte zugegriffen)"
+    ],
+    "rechtsgrundlagen": [],
+    "verwendet_in": [
+      "vvt-11-002",
+      "vvt-11-009"
+    ]
+  },
+  {
+    "id": "dstore-beschaeftigungsnachweis",
+    "name": "Beschäftigungsnachweis",
+    "einheit": "oe-amt-50",
+    "schutzstufe": "D",
+    "schutzbedarf": "hoch",
+    "vertraulichkeitsklasse": "vertraulich",
+    "bsi-vertraulichkeit": "hoch",
+    "bsi-integritaet": "normal",
+    "bsi-verfuegbarkeit": "normal",
+    "bsi-schutzbedarf": "hoch",
+    "datenschutz_geprueft": false,
+    "bsi_geprueft": false,
+    "verwendungen": 2,
+    "beschreibung": "Angaben und Nachweise über die Beschäftigung von Bürgerinnen und Bürgern bei Dritten, soweit ein Verwaltungsverfahren sie voraussetzt (etwa Fahrerbescheinigung, Grundsicherung für Arbeitsuchende).",
+    "felder": [
+      "Person",
+      "Arbeitgeber",
+      "Art der Beschäftigung",
+      "Beginn und Ende",
+      "Arbeitszeit",
+      "Beschäftigungs- oder Verdienstnachweis"
+    ],
+    "rechtsgrundlagen": [
+      {
+        "gesetz": "DSGVO",
+        "artikel": "Art. 6 Abs. 1 lit. c und lit. e"
+      },
+      {
+        "gesetz": "NDSG",
+        "artikel": "§ 3"
+      },
+      {
+        "gesetz": "SGB X",
+        "artikel": "§ 67 ff. (soweit Sozialdaten)"
+      },
+      {
+        "gesetz": "SGB II",
+        "artikel": "§ 60"
+      }
+    ],
+    "verwendet_in": [
+      "vvt-32-005",
+      "vvt-50-010"
+    ]
+  },
+  {
+    "id": "dstore-beschaffungsvorgang",
+    "name": "Beschaffungsvorgang",
+    "einheit": "oe-amt-10",
+    "schutzstufe": "B",
+    "schutzbedarf": "normal",
+    "vertraulichkeitsklasse": "intern",
+    "bsi-vertraulichkeit": "normal",
+    "bsi-integritaet": "normal",
+    "bsi-verfuegbarkeit": "normal",
+    "bsi-schutzbedarf": "normal",
+    "datenschutz_geprueft": false,
+    "bsi_geprueft": false,
+    "verwendungen": 3,
+    "beschreibung": "Interne Bestell- und Beschaffungsvorgänge der Kommune von der Bestellanforderung bis zum Auftrag.",
+    "felder": [
+      "anfordernde Person und Organisationseinheit",
+      "Bestellposten",
+      "Kostenstelle und Haushaltsstelle",
+      "Lieferant und Ansprechperson",
+      "Auftrag oder Vertragsbezug",
+      "Freigabevermerk"
+    ],
+    "rechtsgrundlagen": [
+      {
+        "gesetz": "DSGVO",
+        "artikel": "Art. 6 Abs. 1 lit. b und lit. e"
+      },
+      {
+        "gesetz": "NDSG",
+        "artikel": "§ 3"
+      },
+      {
+        "gesetz": "NKomVG",
+        "artikel": "§ 110 (Haushaltsgrundsätze)"
+      },
+      {
+        "gesetz": "KomHKVO",
+        "artikel": "Belege und Aufbewahrung"
+      }
+    ],
+    "verwendet_in": [
+      "vvt-10-025",
+      "vvt-15-004",
+      "vvt-20-004"
+    ]
+  },
+  {
+    "id": "dstore-brandschutzorganisation",
+    "name": "Brandschutzorganisation",
+    "einheit": "oe-amt-10",
+    "schutzstufe": "B",
+    "schutzbedarf": "normal",
+    "vertraulichkeitsklasse": "intern",
+    "bsi-vertraulichkeit": "normal",
+    "bsi-integritaet": "normal",
+    "bsi-verfuegbarkeit": "normal",
+    "bsi-schutzbedarf": "normal",
+    "datenschutz_geprueft": false,
+    "bsi_geprueft": false,
+    "verwendungen": 1,
+    "beschreibung": "Organisation des betrieblichen Brandschutzes und der Evakuierung in den Dienstgebäuden.",
+    "felder": [
+      "Brandschutzbeauftragte und Evakuierungshelfende (Name, Kontaktdaten)",
+      "Unterweisungsnachweise der Beschäftigten",
+      "Evakuierungs- und Räumungsübungsprotokolle",
+      "Brandschutzordnung"
+    ],
+    "rechtsgrundlagen": [
+      {
+        "gesetz": "DSGVO",
+        "artikel": "Art. 6 Abs. 1 lit. c"
+      },
+      {
+        "gesetz": "NDSG",
+        "artikel": "§ 12 Abs. 1"
+      },
+      {
+        "gesetz": "ArbSchG",
+        "artikel": "§ 10"
+      },
+      {
+        "gesetz": "ArbStättV",
+        "artikel": "§ 4 Abs. 4"
+      },
+      {
+        "gesetz": "DGUV Vorschrift 1",
+        "artikel": "§ 22"
+      }
+    ],
+    "verwendet_in": [
+      "vvt-10-026"
+    ]
+  },
+  {
+    "id": "dstore-dienstwagennutzung",
+    "name": "Dienstwagennutzung",
+    "einheit": "oe-amt-10",
+    "schutzstufe": "C",
+    "schutzbedarf": "normal",
+    "vertraulichkeitsklasse": "intern",
+    "bsi-vertraulichkeit": "normal",
+    "bsi-integritaet": "normal",
+    "bsi-verfuegbarkeit": "normal",
+    "bsi-schutzbedarf": "normal",
+    "datenschutz_geprueft": false,
+    "bsi_geprueft": false,
+    "verwendungen": 1,
+    "beschreibung": "Buchung und Nutzung von Pool- und Sonderfahrzeugen durch Beschäftigte.",
+    "felder": [
+      "Name, Vorname, Personalnummer",
+      "Fahrzeug",
+      "Buchungszeitraum",
+      "Fahrtenbuch (Fahrten, Ziele, Kilometer)",
+      "Tankbelege",
+      "Fahrberechtigung"
+    ],
+    "rechtsgrundlagen": [
+      {
+        "gesetz": "DSGVO",
+        "artikel": "Art. 6 Abs. 1 lit. b und lit. e"
+      },
+      {
+        "gesetz": "NDSG",
+        "artikel": "§ 12 Abs. 1"
+      }
+    ],
+    "verwendet_in": [
+      "vvt-11-011"
+    ]
+  },
+  {
+    "id": "dstore-eigenschaden-ksa",
+    "name": "Eigenschaden und KSA-Meldung",
+    "einheit": "oe-amt-10",
+    "schutzstufe": "D",
+    "schutzbedarf": "hoch",
+    "vertraulichkeitsklasse": "vertraulich",
+    "bsi-vertraulichkeit": "hoch",
+    "bsi-integritaet": "normal",
+    "bsi-verfuegbarkeit": "normal",
+    "bsi-schutzbedarf": "hoch",
+    "datenschutz_geprueft": false,
+    "bsi_geprueft": false,
+    "verwendungen": 1,
+    "beschreibung": "Schäden, die Beschäftigte der Kommune in Ausübung ihres Dienstes verursachen (Dienstfahrzeug, Dienstgerät, städtisches Eigentum), deren Meldung an den Kommunalen Schadenausgleich (KSA) Hannover, dessen Regulierung und die Prüfung eines Regresses bei grober Fahrlässigkeit.",
+    "felder": [
+      "schadenverursachende beschäftigte Person (Name, Dienststelle)",
+      "Stellungnahme der beschäftigten Person",
+      "Hergang, Ort, Zeit, Schadenshöhe, Fotos",
+      "Fahrzeug oder Gerät (Kennzeichen, Gerätenummer, Versicherungsdaten)",
+      "Zeuginnen und Zeugen",
+      "Schadensmeldung an den KSA",
+      "Regulierungsentscheidung des KSA",
+      "Prüfung des Verschuldensgrads",
+      "Regressbescheid und Zahlungseingang"
+    ],
+    "rechtsgrundlagen": [
+      {
+        "gesetz": "DSGVO",
+        "artikel": "Art. 6 Abs. 1 lit. b und lit. e"
+      },
+      {
+        "gesetz": "NDSG",
+        "artikel": "§ 12 Abs. 1"
+      },
+      {
+        "gesetz": "NBG",
+        "artikel": "§ 90"
+      },
+      {
+        "gesetz": "BGB",
+        "artikel": "§ 280, § 619a, § 199"
+      },
+      {
+        "gesetz": "KSA-Satzung",
+        "artikel": "Haftpflicht, Verrechnungsgrundsätze"
+      }
+    ],
+    "verwendet_in": [
+      "vvt-10-030"
+    ]
+  },
+  {
+    "id": "dstore-fuehrungszeugnis-bewerbende",
+    "name": "Führungszeugnis der Bewerbenden",
+    "einheit": "oe-amt-11",
+    "schutzstufe": "D",
+    "schutzbedarf": "hoch",
+    "vertraulichkeitsklasse": "vertraulich",
+    "bsi-vertraulichkeit": "hoch",
+    "bsi-integritaet": "normal",
+    "bsi-verfuegbarkeit": "normal",
+    "bsi-schutzbedarf": "hoch",
+    "datenschutz_geprueft": false,
+    "bsi_geprueft": false,
+    "verwendungen": 1,
+    "beschreibung": "Vermerk über die Einsichtnahme in ein Führungszeugnis, das Bewerbende für eine Stelle vorlegen, für die es erforderlich ist (etwa Kassenbefugnis oder Tätigkeit mit Kindern und Jugendlichen). Das Führungszeugnis selbst wird eingesehen und zurückgegeben; aufbewahrt wird nur der Vermerk (Entscheidung Martin 05.10.2026, Option A).",
+    "felder": [
+      "Name der bewerbenden Person",
+      "Stelle",
+      "Grund der Anforderung (Rechtsgrundlage für die Stelle)",
+      "Datum des Führungszeugnisses",
+      "Datum der Einsichtnahme",
+      "Ergebnis: Einträge ja/nein; Erheblichkeit für die Stelle",
+      "einsehende Person"
+    ],
+    "rechtsgrundlagen": [
+      {
+        "gesetz": "DSGVO",
+        "artikel": "Art. 10"
+      },
+      {
+        "gesetz": "NDSG",
+        "artikel": "§ 12 Abs. 1"
+      },
+      {
+        "gesetz": "NBG",
+        "artikel": "§ 88 Abs. 1"
+      },
+      {
+        "gesetz": "BZRG",
+        "artikel": "§ 30"
+      },
+      {
+        "gesetz": "SGB VIII",
+        "artikel": "§ 72a (bei Tätigkeiten mit Kindern und Jugendlichen)"
+      }
+    ],
+    "verwendet_in": [
+      "vvt-11-001"
+    ]
+  },
+  {
+    "id": "dstore-gefaehrdungsbeurteilung",
+    "name": "Gefährdungsbeurteilung",
+    "einheit": "oe-amt-11",
+    "schutzstufe": "C",
+    "schutzbedarf": "normal",
+    "vertraulichkeitsklasse": "intern",
+    "bsi-vertraulichkeit": "normal",
+    "bsi-integritaet": "normal",
+    "bsi-verfuegbarkeit": "normal",
+    "bsi-schutzbedarf": "normal",
+    "datenschutz_geprueft": false,
+    "bsi_geprueft": false,
+    "verwendungen": 1,
+    "beschreibung": "Gefährdungsbeurteilungen nach § 5 ArbSchG für Arbeitsplätze und Tätigkeiten der Kommune mit Maßnahmen und Wirksamkeitskontrolle, dokumentiert nach § 6 ArbSchG.",
+    "felder": [
+      "Arbeitsplatz oder Tätigkeit",
+      "dort tätige Beschäftigte (Namen)",
+      "ermittelte Gefährdungen (physisch, psychisch, biologisch, chemisch)",
+      "Beurteilungsergebnis",
+      "Maßnahmen mit Termin und verantwortlicher Person",
+      "Wirksamkeitskontrolle und Fortschreibung",
+      "Beteiligung von Fachkraft für Arbeitssicherheit, Betriebsärztin oder Betriebsarzt und Personalrat"
+    ],
+    "rechtsgrundlagen": [
+      {
+        "gesetz": "DSGVO",
+        "artikel": "Art. 6 Abs. 1 lit. c und lit. e"
+      },
+      {
+        "gesetz": "NDSG",
+        "artikel": "§ 12 Abs. 1"
+      },
+      {
+        "gesetz": "ArbSchG",
+        "artikel": "§ 5, § 6"
+      },
+      {
+        "gesetz": "ArbStättV",
+        "artikel": "§ 3"
+      },
+      {
+        "gesetz": "DGUV Vorschrift 1",
+        "artikel": "§ 3"
+      }
+    ],
+    "verwendet_in": [
+      "vvt-11-013"
+    ]
+  },
+  {
+    "id": "dstore-gesundheitliche-eignung",
+    "name": "Gesundheitliche Eignung",
+    "einheit": "oe-amt-11",
+    "schutzstufe": "D",
+    "schutzbedarf": "hoch",
+    "vertraulichkeitsklasse": "vertraulich",
+    "bsi-vertraulichkeit": "hoch",
+    "bsi-integritaet": "normal",
+    "bsi-verfuegbarkeit": "normal",
+    "bsi-schutzbedarf": "hoch",
+    "datenschutz_geprueft": false,
+    "bsi_geprueft": false,
+    "verwendungen": 2,
+    "beschreibung": "Ergebnis ärztlicher Untersuchungen der gesundheitlichen Eignung von Bewerbenden und Auszubildenden (geeignet, nicht geeignet, geeignet mit Einschränkungen). Befunde bleiben bei der untersuchenden Ärztin oder dem untersuchenden Arzt.",
+    "felder": [
+      "Name der untersuchten Person",
+      "Anlass (Einstellung, Ausbildung, Verbeamtung)",
+      "untersuchende Stelle",
+      "Datum",
+      "Ergebnis der Eignung",
+      "Einschränkungen, soweit für den Einsatz erheblich"
+    ],
+    "rechtsgrundlagen": [
+      {
+        "gesetz": "DSGVO",
+        "artikel": "Art. 9 Abs. 2 lit. b"
+      },
+      {
+        "gesetz": "NDSG",
+        "artikel": "§ 12 Abs. 1"
+      },
+      {
+        "gesetz": "NBG",
+        "artikel": "§ 88 Abs. 1, § 94"
+      },
+      {
+        "gesetz": "BeamtStG",
+        "artikel": "§ 9"
+      }
+    ],
+    "verwendet_in": [
+      "vvt-11-001",
+      "vvt-11-006"
+    ]
+  },
+  {
+    "id": "dstore-ideenmanagement",
+    "name": "Ideenmanagement",
+    "einheit": "oe-amt-10",
+    "schutzstufe": "B",
+    "schutzbedarf": "normal",
+    "vertraulichkeitsklasse": "intern",
+    "bsi-vertraulichkeit": "normal",
+    "bsi-integritaet": "normal",
+    "bsi-verfuegbarkeit": "normal",
+    "bsi-schutzbedarf": "normal",
+    "datenschutz_geprueft": false,
+    "bsi_geprueft": false,
+    "verwendungen": 1,
+    "beschreibung": "Verbesserungsvorschläge der Beschäftigten, ihre Bewertung, Prämierung und Umsetzung.",
+    "felder": [
+      "einreichende Person und Organisationseinheit",
+      "Vorschlag",
+      "Bewertung und Gutachten",
+      "Entscheidung und Prämie",
+      "Umsetzung"
+    ],
+    "rechtsgrundlagen": [
+      {
+        "gesetz": "DSGVO",
+        "artikel": "Art. 6 Abs. 1 lit. b und lit. e"
+      },
+      {
+        "gesetz": "NDSG",
+        "artikel": "§ 12 Abs. 1"
+      }
+    ],
+    "verwendet_in": [
+      "vvt-10-032"
+    ]
+  },
+  {
+    "id": "dstore-it-sicherheitsvorfall",
+    "name": "IT-Sicherheitsvorfall",
+    "einheit": "oe-amt-15",
+    "schutzstufe": "D",
+    "schutzbedarf": "hoch",
+    "vertraulichkeitsklasse": "streng vertraulich",
+    "bsi-vertraulichkeit": "hoch",
+    "bsi-integritaet": "hoch",
+    "bsi-verfuegbarkeit": "normal",
+    "bsi-schutzbedarf": "hoch",
+    "datenschutz_geprueft": false,
+    "bsi_geprueft": false,
+    "verwendungen": 1,
+    "beschreibung": "Dokumentation von IT-Sicherheitsvorfällen von der Meldung über Analyse und Eindämmung bis zur Nachbereitung.",
+    "felder": [
+      "meldende Person (Name, System, Symptome, Zeitpunkt)",
+      "betroffene Systeme und Konten",
+      "Protokolldaten, IP-Adressen, Dateisysteminformationen",
+      "forensische Daten (Arbeitsspeicher-Abbilder, Festplatten-Images)",
+      "Schadsoftware-Muster",
+      "Maßnahmen und Ergebnis",
+      "Meldung an Datenschutzbeauftragte oder Aufsicht, soweit erforderlich"
+    ],
+    "rechtsgrundlagen": [
+      {
+        "gesetz": "DSGVO",
+        "artikel": "Art. 5 Abs. 2, Art. 32, Art. 33"
+      },
+      {
+        "gesetz": "NDSG",
+        "artikel": "§ 12 Abs. 1"
+      },
+      {
+        "gesetz": "NDIG",
+        "artikel": "IT-Sicherheit"
+      }
+    ],
+    "verwendet_in": [
+      "vvt-15-008"
+    ]
+  },
+  {
+    "id": "dstore-loeschprotokoll",
+    "name": "Löschprotokoll",
+    "einheit": "oe-amt-10",
+    "schutzstufe": "B",
+    "schutzbedarf": "normal",
+    "vertraulichkeitsklasse": "intern",
+    "bsi-vertraulichkeit": "normal",
+    "bsi-integritaet": "hoch",
+    "bsi-verfuegbarkeit": "normal",
+    "bsi-schutzbedarf": "hoch",
+    "datenschutz_geprueft": false,
+    "bsi_geprueft": false,
+    "verwendungen": 1,
+    "beschreibung": "Nachweis über die Vernichtung von Akten und Datenträgern und die Löschung von Daten nach Ablauf der Aufbewahrungsfrist.",
+    "felder": [
+      "Aktenzeichen oder Bezeichnung des Bestands",
+      "Art des Datenträgers",
+      "Datum der Vernichtung oder Löschung",
+      "Verfahren (Aktenvernichter, Dienstleister, Löschwerkzeug)",
+      "ausführende Person oder Dienstleister",
+      "Vernichtungs- oder Löschprotokoll, ggf. Zertifikat des Dienstleisters"
+    ],
+    "rechtsgrundlagen": [
+      {
+        "gesetz": "DSGVO",
+        "artikel": "Art. 5 Abs. 2, Art. 17"
+      },
+      {
+        "gesetz": "NDSG",
+        "artikel": "§ 3"
+      },
+      {
+        "gesetz": "NArchG",
+        "artikel": "Anbietungspflicht vor Vernichtung"
+      }
+    ],
+    "verwendet_in": [
+      "vvt-10-024"
+    ]
+  },
+  {
+    "id": "dstore-mietbewerbung-beschaeftigte",
+    "name": "Mietbewerbung Beschäftigte",
+    "einheit": "oe-amt-23",
+    "schutzstufe": "D",
+    "schutzbedarf": "hoch",
+    "vertraulichkeitsklasse": "vertraulich",
+    "bsi-vertraulichkeit": "hoch",
+    "bsi-integritaet": "normal",
+    "bsi-verfuegbarkeit": "normal",
+    "bsi-schutzbedarf": "hoch",
+    "datenschutz_geprueft": false,
+    "bsi_geprueft": false,
+    "verwendungen": 1,
+    "beschreibung": "Bewerbungen von Beschäftigten um eine Wohnung der Kommune und die Vergabeentscheidung. Die Kommune vermietet nur an Beschäftigte (Martin, 05.10.2026).",
+    "felder": [
+      "bewerbende beschäftigte Person (Name, Anschrift, Kontaktdaten)",
+      "Haushaltsgröße und -zusammensetzung",
+      "bisherige Wohnsituation und Wohnungswunsch",
+      "Einkommensangaben, soweit für die Vergabe erheblich",
+      "Wohnberechtigungsschein, soweit vorgelegt",
+      "Vergabeentscheidung und Auswahldokumentation"
+    ],
+    "rechtsgrundlagen": [
+      {
+        "gesetz": "DSGVO",
+        "artikel": "Art. 6 Abs. 1 lit. b"
+      },
+      {
+        "gesetz": "NDSG",
+        "artikel": "§ 12 Abs. 1"
+      },
+      {
+        "gesetz": "AGG",
+        "artikel": "§ 19, § 21 Abs. 5, § 22"
+      }
+    ],
+    "verwendet_in": [
+      "vvt-23-004"
+    ]
+  },
+  {
+    "id": "dstore-personalstammdaten-beschaeftigte",
+    "name": "Personalstammdaten der Beschäftigten",
+    "einheit": "oe-amt-11",
+    "schutzstufe": "D",
+    "schutzbedarf": "hoch",
+    "vertraulichkeitsklasse": "vertraulich",
+    "bsi-vertraulichkeit": "hoch",
+    "bsi-integritaet": "hoch",
+    "bsi-verfuegbarkeit": "normal",
+    "bsi-schutzbedarf": "hoch",
+    "datenschutz_geprueft": false,
+    "bsi_geprueft": false,
+    "verwendungen": 3,
+    "beschreibung": "Grunddaten der Beschäftigten der Kommune (Beamtinnen und Beamte, Tarifbeschäftigte, Auszubildende, Praktikantinnen und Praktikanten, Bundesfreiwilligendienst), wie sie die Personalstelle für Bezüge, Steuer- und Sozialversicherungsmeldungen und die Beihilfe führt. Beschäftigtenspeicher nach Entscheidung D1 vom 05.10.2026.",
+    "felder": [
+      "Personalnummer",
+      "Name, Vorname, Geburtsdatum",
+      "Anschrift",
+      "private Kontaktdaten",
+      "Familienstand",
+      "Kinder (Familienzuschlag, Kinderkomponente)",
+      "Bankverbindung für die Bezüge",
+      "Steuer-Identifikationsnummer",
+      "Sozialversicherungsnummer"
+    ],
+    "rechtsgrundlagen": [
+      {
+        "gesetz": "DSGVO",
+        "artikel": "Art. 6 Abs. 1 lit. b und lit. c, Art. 88"
+      },
+      {
+        "gesetz": "NDSG",
+        "artikel": "§ 12 Abs. 1"
+      },
+      {
+        "gesetz": "NBG",
+        "artikel": "§ 88 Abs. 1, § 94 Abs. 1"
+      },
+      {
+        "gesetz": "EStG",
+        "artikel": "§ 39e"
+      },
+      {
+        "gesetz": "SGB IV",
+        "artikel": "§ 28a"
+      }
+    ],
+    "verwendet_in": [
+      "vvt-11-002",
+      "vvt-11-006",
+      "vvt-11-014"
+    ]
+  },
+  {
+    "id": "dstore-pflichtenbelehrung-ehrenamt",
+    "name": "Pflichtenbelehrung Ehrenamt",
+    "einheit": "oe-amt-10",
+    "schutzstufe": "B",
+    "schutzbedarf": "normal",
+    "vertraulichkeitsklasse": "intern",
+    "bsi-vertraulichkeit": "normal",
+    "bsi-integritaet": "normal",
+    "bsi-verfuegbarkeit": "normal",
+    "bsi-schutzbedarf": "normal",
+    "datenschutz_geprueft": false,
+    "bsi_geprueft": false,
+    "verwendungen": 1,
+    "beschreibung": "Nachweis, dass ehrenamtlich Tätige nach § 43 NKomVG auf die gewissenhafte Erfüllung ihrer Pflichten und die Amtsverschwiegenheit (§ 40 NKomVG) hingewiesen wurden.",
+    "felder": [
+      "Name der ehrenamtlich tätigen Person",
+      "ehrenamtliche Funktion",
+      "Datum der Belehrung",
+      "belehrende Person",
+      "Unterschrift oder Bestätigung"
+    ],
+    "rechtsgrundlagen": [
+      {
+        "gesetz": "DSGVO",
+        "artikel": "Art. 6 Abs. 1 lit. c"
+      },
+      {
+        "gesetz": "NDSG",
+        "artikel": "§ 3"
+      },
+      {
+        "gesetz": "NKomVG",
+        "artikel": "§ 40, § 43"
+      }
+    ],
+    "verwendet_in": [
+      "vvt-10-011"
+    ]
+  },
+  {
+    "id": "dstore-posteingang",
+    "name": "Posteingang",
+    "einheit": "oe-amt-10",
+    "schutzstufe": "C",
+    "schutzbedarf": "normal",
+    "vertraulichkeitsklasse": "vertraulich",
+    "bsi-vertraulichkeit": "normal",
+    "bsi-integritaet": "normal",
+    "bsi-verfuegbarkeit": "normal",
+    "bsi-schutzbedarf": "normal",
+    "datenschutz_geprueft": false,
+    "bsi_geprueft": false,
+    "verwendungen": 0,
+    "beschreibung": "Daten, die beim Durchlauf von Post durch die Poststelle anfallen: Papierpost und elektronische Post an das zentrale Postfach, bis zur Weiterleitung an die zuständige Organisationseinheit; Postausgang. Es wird kein Posteingangsbuch geführt.",
+    "felder": [
+      "Absender (Name, Anschrift oder E-Mail-Adresse)",
+      "zuständige Organisationseinheit",
+      "Eingangsdatum",
+      "Art des Eingangs (Brief, E-Mail an das zentrale Postfach, sonstiger elektronischer Zugang)",
+      "Scan oder E-Mail im zentralen Postfach bis zur Weiterleitung",
+      "Weiterleitungsvermerk",
+      "Postausgang: Empfänger, Versanddatum"
+    ],
+    "rechtsgrundlagen": [
+      {
+        "gesetz": "DSGVO",
+        "artikel": "Art. 6 Abs. 1 lit. e"
+      },
+      {
+        "gesetz": "NDSG",
+        "artikel": "§ 3"
+      },
+      {
+        "gesetz": "NVwVfG",
+        "artikel": "§ 1 i. V. m. § 3a VwVfG (elektronischer Zugang)"
+      }
+    ],
+    "verwendet_in": []
+  },
+  {
+    "id": "dstore-prozessaudit",
+    "name": "Prozessaudit",
+    "einheit": "oe-amt-1-1",
+    "schutzstufe": "C",
+    "schutzbedarf": "normal",
+    "vertraulichkeitsklasse": "vertraulich",
+    "bsi-vertraulichkeit": "normal",
+    "bsi-integritaet": "normal",
+    "bsi-verfuegbarkeit": "normal",
+    "bsi-schutzbedarf": "normal",
+    "datenschutz_geprueft": false,
+    "bsi_geprueft": false,
+    "verwendungen": 1,
+    "beschreibung": "Unterlagen von Prozessaudits und Organisationsuntersuchungen in der Verwaltung: Befragungen der Beschäftigten, Auditbericht und Maßnahmenplan.",
+    "felder": [
+      "auditierte Organisationseinheit und Auditbereich",
+      "befragte Beschäftigte (Name, Funktion)",
+      "Befragungsnotizen und Ablaufbeschreibungen",
+      "Auditbericht mit Stärken und Schwächen",
+      "Maßnahmenplan mit Verantwortlichen und Terminen",
+      "Umsetzungsstand"
+    ],
+    "rechtsgrundlagen": [
+      {
+        "gesetz": "DSGVO",
+        "artikel": "Art. 6 Abs. 1 lit. e, Art. 88"
+      },
+      {
+        "gesetz": "NDSG",
+        "artikel": "§ 12 Abs. 1"
+      },
+      {
+        "gesetz": "NBG",
+        "artikel": "§ 88 Abs. 1"
+      },
+      {
+        "gesetz": "NKomVG",
+        "artikel": "§ 62 (Organisationshoheit)"
+      }
+    ],
+    "verwendet_in": [
+      "vvt-1-1-008"
+    ]
+  },
+  {
+    "id": "dstore-raumbuchung",
+    "name": "Raumbuchung",
+    "einheit": "oe-amt-10",
+    "schutzstufe": "B",
+    "schutzbedarf": "normal",
+    "vertraulichkeitsklasse": "intern",
+    "bsi-vertraulichkeit": "normal",
+    "bsi-integritaet": "normal",
+    "bsi-verfuegbarkeit": "normal",
+    "bsi-schutzbedarf": "normal",
+    "datenschutz_geprueft": false,
+    "bsi_geprueft": false,
+    "verwendungen": 1,
+    "beschreibung": "Buchungen von Sitzungszimmern und Besprechungsräumen durch Beschäftigte.",
+    "felder": [
+      "buchende Person und dienstliche Kontaktdaten",
+      "Raum",
+      "Datum und Uhrzeit",
+      "Teilnehmerzahl",
+      "gewünschte Ausstattung",
+      "Buchungsbestätigung"
+    ],
+    "rechtsgrundlagen": [
+      {
+        "gesetz": "DSGVO",
+        "artikel": "Art. 6 Abs. 1 lit. e"
+      },
+      {
+        "gesetz": "NDSG",
+        "artikel": "§ 12 Abs. 1"
+      }
+    ],
+    "verwendet_in": [
+      "vvt-15-006"
+    ]
+  },
+  {
+    "id": "dstore-rechtsberatung-intern",
+    "name": "Rechtsberatung intern",
+    "einheit": "oe-amt-30",
+    "schutzstufe": "C",
+    "schutzbedarf": "normal",
+    "vertraulichkeitsklasse": "vertraulich",
+    "bsi-vertraulichkeit": "normal",
+    "bsi-integritaet": "normal",
+    "bsi-verfuegbarkeit": "normal",
+    "bsi-schutzbedarf": "normal",
+    "datenschutz_geprueft": false,
+    "bsi_geprueft": false,
+    "verwendungen": 1,
+    "beschreibung": "Anfragen der Ämter an das Rechtsamt und deren Beantwortung.",
+    "felder": [
+      "anfragende Person und Amt (dienstliche Kontaktdaten)",
+      "Sachverhalt und Fragestellung",
+      "beigezogene Unterlagen",
+      "rechtliche Prüfung",
+      "Stellungnahme oder Empfehlung",
+      "Wiedervorlage und Abschluss"
+    ],
+    "rechtsgrundlagen": [
+      {
+        "gesetz": "DSGVO",
+        "artikel": "Art. 6 Abs. 1 lit. e"
+      },
+      {
+        "gesetz": "NDSG",
+        "artikel": "§ 3, § 12 Abs. 1"
+      }
+    ],
+    "verwendet_in": [
+      "vvt-30-003"
+    ]
+  },
+  {
+    "id": "dstore-reisekosten-beschaeftigte",
+    "name": "Reisekosten der Beschäftigten",
+    "einheit": "oe-amt-10",
+    "schutzstufe": "C",
+    "schutzbedarf": "normal",
+    "vertraulichkeitsklasse": "vertraulich",
+    "bsi-vertraulichkeit": "normal",
+    "bsi-integritaet": "normal",
+    "bsi-verfuegbarkeit": "normal",
+    "bsi-schutzbedarf": "normal",
+    "datenschutz_geprueft": false,
+    "bsi_geprueft": false,
+    "verwendungen": 1,
+    "beschreibung": "Dienstreisen der Beschäftigten von Antrag und Genehmigung bis zur Abrechnung der Reisekostenvergütung.",
+    "felder": [
+      "Name, Vorname, Personalnummer",
+      "Reiseziel, -dauer, -zweck",
+      "Genehmigungsvermerk",
+      "Fahrt-, Übernachtungs- und Nebenkosten mit Belegen",
+      "Tagegeld",
+      "Erstattungsbetrag",
+      "Bankverbindung (Verweis auf Personalstammdaten)"
+    ],
+    "rechtsgrundlagen": [
+      {
+        "gesetz": "DSGVO",
+        "artikel": "Art. 6 Abs. 1 lit. b und lit. c"
+      },
+      {
+        "gesetz": "NDSG",
+        "artikel": "§ 12 Abs. 1"
+      },
+      {
+        "gesetz": "NBG",
+        "artikel": "§ 84, § 94 Abs. 2"
+      },
+      {
+        "gesetz": "NRKVO",
+        "artikel": "Niedersächsische Reisekostenverordnung"
+      },
+      {
+        "gesetz": "TVöD",
+        "artikel": "tarifliche Verweisung auf das Reisekostenrecht der Beamtinnen und Beamten"
+      }
+    ],
+    "verwendet_in": [
+      "vvt-11-010"
+    ]
+  },
+  {
+    "id": "dstore-schwerbehinderung-beschaeftigte",
+    "name": "Schwerbehinderung der Beschäftigten",
+    "einheit": "oe-amt-11",
+    "schutzstufe": "D",
+    "schutzbedarf": "hoch",
+    "vertraulichkeitsklasse": "vertraulich",
+    "bsi-vertraulichkeit": "hoch",
+    "bsi-integritaet": "normal",
+    "bsi-verfuegbarkeit": "normal",
+    "bsi-schutzbedarf": "hoch",
+    "datenschutz_geprueft": false,
+    "bsi_geprueft": false,
+    "verwendungen": 2,
+    "beschreibung": "Anerkannte Schwerbehinderung oder Gleichstellung von Beschäftigten der Kommune, soweit die Personalstelle sie für Zusatzurlaub, Beteiligung der Schwerbehindertenvertretung und die Anzeige zur Beschäftigungsquote benötigt.",
+    "felder": [
+      "Name und Personalnummer",
+      "Grad der Behinderung",
+      "Merkzeichen",
+      "Gültigkeit des Nachweises",
+      "Gleichstellung nach § 2 Abs. 3 SGB IX",
+      "daraus folgende Ansprüche (Zusatzurlaub, Arbeitsplatzausstattung)",
+      "Datum der Vorlage",
+      "Beteiligung der Schwerbehindertenvertretung"
+    ],
+    "rechtsgrundlagen": [
+      {
+        "gesetz": "DSGVO",
+        "artikel": "Art. 9 Abs. 2 lit. b"
+      },
+      {
+        "gesetz": "NDSG",
+        "artikel": "§ 12 Abs. 1"
+      },
+      {
+        "gesetz": "NBG",
+        "artikel": "§ 88 Abs. 1, § 94 Abs. 1"
+      },
+      {
+        "gesetz": "SGB IX",
+        "artikel": "§ 2 Abs. 3, § 163, § 178, § 208"
+      }
+    ],
+    "verwendet_in": [
+      "vvt-11-002",
+      "vvt-11-003"
+    ]
+  },
+  {
+    "id": "dstore-sicherheitsakte",
+    "name": "Sicherheitsakte",
+    "einheit": "oe-amt-10",
+    "schutzstufe": "D",
+    "schutzbedarf": "hoch",
+    "vertraulichkeitsklasse": "streng vertraulich",
+    "bsi-vertraulichkeit": "hoch",
+    "bsi-integritaet": "hoch",
+    "bsi-verfuegbarkeit": "normal",
+    "bsi-schutzbedarf": "hoch",
+    "datenschutz_geprueft": false,
+    "bsi_geprueft": false,
+    "verwendungen": 1,
+    "beschreibung": "Sicherheitsakte der zuständigen Stelle nach § 15 Abs. 1 Nds. SÜG über Personen, die mit einer sicherheitsempfindlichen Tätigkeit betraut werden sollen. Zu führen von einer von der Personalverwaltung personell und organisatorisch getrennten Stelle (§ 6 Abs. 2 Nds. SÜG).",
+    "felder": [
+      "betroffene Person (Stammdaten)",
+      "Art der Überprüfung und sicherheitsempfindliche Tätigkeit",
+      "Sicherheitserklärung",
+      "Verlauf und Abschluss der Überprüfung",
+      "Mitteilungen nach § 13 Abs. 2 Satz 2 Nds. SÜG (Umsetzung, Versetzung, Ausscheiden; Änderungen von Familienstand, Name, Wohnsitz, Staatsangehörigkeit; Anhaltspunkte für Abhängigkeiten oder Überschuldung; Straf- und Disziplinarsachen)"
+    ],
+    "rechtsgrundlagen": [
+      {
+        "gesetz": "DSGVO",
+        "artikel": "Art. 6 Abs. 1 lit. c, Art. 9 Abs. 2 lit. g, Art. 10"
+      },
+      {
+        "gesetz": "Nds. SÜG",
+        "artikel": "§ 6 Abs. 2, § 13 Abs. 2, § 15 Abs. 1, § 16 Abs. 1"
+      }
+    ],
+    "verwendet_in": [
+      "vvt-10-029"
+    ]
+  },
+  {
+    "id": "dstore-stiftungsleistung",
+    "name": "Stiftungsleistung",
+    "einheit": "oe-amt-20",
+    "schutzstufe": "C",
+    "schutzbedarf": "normal",
+    "vertraulichkeitsklasse": "intern",
+    "bsi-vertraulichkeit": "normal",
+    "bsi-integritaet": "normal",
+    "bsi-verfuegbarkeit": "normal",
+    "bsi-schutzbedarf": "normal",
+    "datenschutz_geprueft": false,
+    "bsi_geprueft": false,
+    "verwendungen": 1,
+    "beschreibung": "Leistungen kommunaler Stiftungen an Empfängerinnen und Empfänger nach dem Stiftungszweck.",
+    "felder": [
+      "Empfängerin oder Empfänger",
+      "Stiftungszweck und Bewilligungsgrund",
+      "Höhe der Zuwendung",
+      "Auszahlung und Bankverbindung",
+      "Verwendungsnachweis"
+    ],
+    "rechtsgrundlagen": [
+      {
+        "gesetz": "DSGVO",
+        "artikel": "Art. 6 Abs. 1 lit. b und lit. e"
+      },
+      {
+        "gesetz": "NDSG",
+        "artikel": "§ 3"
+      },
+      {
+        "gesetz": "NStiftG",
+        "artikel": "Niedersächsisches Stiftungsgesetz"
+      },
+      {
+        "gesetz": "AO",
+        "artikel": "§ 147"
+      }
+    ],
+    "verwendet_in": [
+      "vvt-20-007"
+    ]
+  },
+  {
+    "id": "dstore-stoerungsmeldung-intern",
+    "name": "Störungsmeldung intern",
+    "einheit": "oe-amt-10",
+    "schutzstufe": "B",
+    "schutzbedarf": "normal",
+    "vertraulichkeitsklasse": "intern",
+    "bsi-vertraulichkeit": "normal",
+    "bsi-integritaet": "normal",
+    "bsi-verfuegbarkeit": "normal",
+    "bsi-schutzbedarf": "normal",
+    "datenschutz_geprueft": false,
+    "bsi_geprueft": false,
+    "verwendungen": 2,
+    "beschreibung": "Meldungen von Beschäftigten über Störungen der Haustechnik (Heizung, Licht, Sanitär, Aufzug) und der IT (Hardware, Software, Zugang, Netzwerk) und deren Bearbeitung.",
+    "felder": [
+      "meldende Person und dienstliche Kontaktdaten",
+      "Art, Ort und Umfang der Störung",
+      "betroffene Systeme oder Anlagen",
+      "Bearbeitung und Lösung",
+      "Zeitpunkte von Meldung und Erledigung"
+    ],
+    "rechtsgrundlagen": [
+      {
+        "gesetz": "DSGVO",
+        "artikel": "Art. 6 Abs. 1 lit. e"
+      },
+      {
+        "gesetz": "NDSG",
+        "artikel": "§ 12 Abs. 1"
+      }
+    ],
+    "verwendet_in": [
+      "vvt-10-028",
+      "vvt-15-005"
+    ]
+  },
+  {
+    "id": "dstore-videokonferenzdaten",
+    "name": "Videokonferenzdaten",
+    "einheit": "oe-amt-15",
+    "schutzstufe": "C",
+    "schutzbedarf": "normal",
+    "vertraulichkeitsklasse": "vertraulich",
+    "bsi-vertraulichkeit": "normal",
+    "bsi-integritaet": "normal",
+    "bsi-verfuegbarkeit": "normal",
+    "bsi-schutzbedarf": "normal",
+    "datenschutz_geprueft": false,
+    "bsi_geprueft": false,
+    "verwendungen": 1,
+    "beschreibung": "Daten, die bei Videokonferenzen der Verwaltung mit Beschäftigten und externen Teilnehmenden entstehen.",
+    "felder": [
+      "Teilnehmende (Name, Organisationseinheit)",
+      "Bild und Ton während der Konferenz",
+      "Chat- und Textnachrichten",
+      "Inhalte der Bildschirmfreigabe",
+      "technische Verbindungsdaten",
+      "ausnahmsweise Aufzeichnung mit Einwilligungen und Widerrufen"
+    ],
+    "rechtsgrundlagen": [
+      {
+        "gesetz": "DSGVO",
+        "artikel": "Art. 6 Abs. 1 lit. e, Art. 6 Abs. 1 lit. a (Aufzeichnung)"
+      },
+      {
+        "gesetz": "NDSG",
+        "artikel": "§ 12 Abs. 1"
+      }
+    ],
+    "verwendet_in": [
+      "vvt-15-001"
+    ]
+  },
+  {
+    "id": "dstore-vorsorgekartei",
+    "name": "Vorsorgekartei (arbeitsmedizinische Vorsorge)",
+    "einheit": "oe-amt-11",
+    "schutzstufe": "D",
+    "schutzbedarf": "hoch",
+    "vertraulichkeitsklasse": "vertraulich",
+    "bsi-vertraulichkeit": "hoch",
+    "bsi-integritaet": "normal",
+    "bsi-verfuegbarkeit": "normal",
+    "bsi-schutzbedarf": "hoch",
+    "datenschutz_geprueft": false,
+    "bsi_geprueft": false,
+    "verwendungen": 1,
+    "beschreibung": "Vorsorgekartei des Arbeitgebers nach § 3 Abs. 4 ArbMedVV mit Angaben, dass, wann und aus welchen Anlässen arbeitsmedizinische Vorsorge stattgefunden hat.",
+    "felder": [
+      "Name und Personalnummer",
+      "Anlass der Vorsorge (Pflicht-, Angebots- oder Wunschvorsorge; Tätigkeit)",
+      "Datum der Vorsorge",
+      "Datum der nächsten Vorsorge",
+      "Vorsorgebescheinigung (nur Teilnahme, kein Befund)"
+    ],
+    "rechtsgrundlagen": [
+      {
+        "gesetz": "DSGVO",
+        "artikel": "Art. 6 Abs. 1 lit. c, Art. 9 Abs. 2 lit. b"
+      },
+      {
+        "gesetz": "NDSG",
+        "artikel": "§ 12 Abs. 1"
+      },
+      {
+        "gesetz": "ArbMedVV",
+        "artikel": "§ 3 Abs. 4"
+      }
+    ],
+    "verwendet_in": [
+      "vvt-11-013"
+    ]
+  }
+]

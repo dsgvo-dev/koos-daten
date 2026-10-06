@@ -2,6 +2,7 @@
 id: proc-grundstuecksverkauf
 titel: Grundstücksverkauf
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-23
 zustaendigeRolle: ''
 beteiligte: []

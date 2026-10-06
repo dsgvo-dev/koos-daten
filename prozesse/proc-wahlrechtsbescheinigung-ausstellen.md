@@ -2,6 +2,7 @@
 id: proc-wahlrechtsbescheinigung-ausstellen
 titel: Wahlrechtsbescheinigung ausstellen
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-33
 zustaendigeRolle: ''
 beteiligte:

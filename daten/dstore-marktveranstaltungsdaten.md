@@ -1,5 +1,6 @@
 ---
 id: dstore-marktveranstaltungsdaten
+bereich: extern
 typ: datenspeicher
 system: null
 name: Marktveranstaltungsdaten

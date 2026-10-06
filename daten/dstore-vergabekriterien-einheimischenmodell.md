@@ -1,5 +1,6 @@
 ---
 id: dstore-vergabekriterien-einheimischenmodell
+bereich: extern
 typ: datenspeicher
 system: null
 name: Vergabekriterien Wohnbaugrundstücke (Einheimischenmodell)

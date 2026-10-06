@@ -2,6 +2,7 @@
 id: proc-einleitung-von-abwasser-in-oeffentliche-abwasseranlagen
 titel: 'Einleitung von Abwasser in öffentliche Abwasseranlagen: Genehmigung'
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-67
 zustaendigeRolle: ''
 beteiligte:

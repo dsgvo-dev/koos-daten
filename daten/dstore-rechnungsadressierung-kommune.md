@@ -1,5 +1,6 @@
 ---
 id: dstore-rechnungsadressierung-kommune
+bereich: intern
 typ: datenspeicher
 system: null
 name: Rechnungsadressierung Kommune

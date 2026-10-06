@@ -1,5 +1,6 @@
 ---
 id: dstore-bebauungsplan
+bereich: extern
 typ: datenspeicher
 system: null
 name: Bebauungsplan / Flächennutzungsplan

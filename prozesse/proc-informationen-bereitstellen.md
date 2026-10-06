@@ -2,6 +2,7 @@
 id: proc-informationen-bereitstellen
 titel: Informationen bereitstellen
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-10
 zustaendigeRolle: ''
 beteiligte: []

@@ -1,5 +1,6 @@
 ---
 id: dstore-videoueberwachungsaufzeichnung
+bereich: extern
 typ: datenspeicher
 system: null
 name: Videoüberwachungsaufzeichnung

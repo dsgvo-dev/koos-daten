@@ -84,7 +84,7 @@
     "bsi-schutzbedarf": "hoch",
     "datenschutz_geprueft": true,
     "bsi_geprueft": true,
-    "verwendungen": 3,
+    "verwendungen": 2,
     "beschreibung": "Gehalts- und Lohnabrechnungsdaten von Mitarbeitern.",
     "felder": [
       "Personalnummer",
@@ -135,7 +135,7 @@
     "bsi-schutzbedarf": "normal",
     "datenschutz_geprueft": true,
     "bsi_geprueft": true,
-    "verwendungen": 21,
+    "verwendungen": 22,
     "beschreibung": "Wohn- oder Geschäftsadresse: Straße, Hausnummer, PLZ, Ort.",
     "felder": [
       "Straße",
@@ -337,6 +337,33 @@
     ]
   },
   {
+    "id": "dstore-arbeitsunfaehigkeit-beschaeftigte",
+    "name": "Arbeitsunfähigkeit der Beschäftigten",
+    "einheit": "oe-amt-11",
+    "schutzstufe": "D",
+    "schutzbedarf": "hoch",
+    "vertraulichkeitsklasse": "vertraulich",
+    "bsi-vertraulichkeit": "hoch",
+    "bsi-integritaet": "normal",
+    "bsi-verfuegbarkeit": "normal",
+    "bsi-schutzbedarf": "hoch",
+    "datenschutz_geprueft": false,
+    "bsi_geprueft": false,
+    "verwendungen": 3,
+    "beschreibung": "Zeiten der Arbeitsunfähigkeit und der teilweisen Arbeitsunfähigkeit von Beschäftigten der Kommune (Beamtinnen und Beamte, Tarifbeschäftigte, Auszubildende), wie sie die Personalstelle aus dem eAU-Abruf nach § 109 SGB IV oder aus vorgelegten Bescheinigungen führt. Dient der Entgeltfortzahlung, der Abwesenheitsverwaltung und der Ermittlung der Sechs-Wochen-Schwelle für das betriebliche Eingliederungsmanagement.",
+    "felder": [
+      "Personalnummer und Name",
+      "Organisationseinheit",
+      "Beginn der Arbeitsunfähigkeit",
+      "voraussichtliches und tatsächliches Ende der Arbeitsunfähigkeit",
+      "Datum der ärztlichen Feststellung",
+      "Erst- oder Folgebescheinigung",
+      "Kennzeichen Arbeitsunfall oder sonstiger Unfall",
+      "teilweise Arbeitsunfähigkeit mit Stufe (25 / 50 / 75 %; Feststellung ab 01.01.2028)",
+      "Nachweisart (eAU-Abruf, vorgelegte Bescheinigung)"
+    ]
+  },
+  {
     "id": "dstore-arbeitsunfaehigkeit-krankheit",
     "name": "Arbeitsunfähigkeit und Krankheit",
     "einheit": "oe-amt-53",
@@ -349,7 +376,7 @@
     "bsi-schutzbedarf": "hoch",
     "datenschutz_geprueft": true,
     "bsi_geprueft": true,
-    "verwendungen": 3,
+    "verwendungen": 0,
     "beschreibung": "Nachweise über krankheitsbedingte Arbeitsunfähigkeit oder gesundheitliche Einschränkungen, soweit sie verfahrensrelevant sind.",
     "felder": [
       "Beginn Arbeitsunfähigkeit",
@@ -373,7 +400,7 @@
     "bsi-schutzbedarf": "normal",
     "datenschutz_geprueft": true,
     "bsi_geprueft": true,
-    "verwendungen": 9,
+    "verwendungen": 7,
     "beschreibung": "Daten zu bestehenden oder früheren Beschäftigungsverhältnissen für Leistungs- und Antragsverfahren.",
     "felder": [
       "Arbeitgeber",
@@ -520,7 +547,7 @@
     "bsi-schutzbedarf": "hoch",
     "datenschutz_geprueft": true,
     "bsi_geprueft": true,
-    "verwendungen": 3,
+    "verwendungen": 2,
     "beschreibung": "Unterlagen der Ausbildungsstelle über eine bei ihr abgeleistete Ausbildungsstation, insbesondere der Ausbildungsnachweis und das Stationszeugnis.",
     "felder": [
       "Name der auszubildenden Person",
@@ -617,7 +644,7 @@
     "bsi-schutzbedarf": "hoch",
     "datenschutz_geprueft": true,
     "bsi_geprueft": true,
-    "verwendungen": 1,
+    "verwendungen": 2,
     "beschreibung": "Genehmigungsdaten für Ausnahmen vom Verkehrsrecht bei Schwer- oder Großraumverkehr.",
     "felder": [
       "Antragsteller/in",
@@ -688,7 +715,7 @@
     "bsi-schutzbedarf": "hoch",
     "datenschutz_geprueft": true,
     "bsi_geprueft": true,
-    "verwendungen": 23,
+    "verwendungen": 22,
     "beschreibung": "Zahlungs- und Kontodaten für Auszahlungen, Erstattungen oder Lastschriften.",
     "felder": [
       "Kontoinhaber",
@@ -712,7 +739,7 @@
     "bsi-schutzbedarf": "hoch",
     "datenschutz_geprueft": true,
     "bsi_geprueft": true,
-    "verwendungen": 7,
+    "verwendungen": 5,
     "beschreibung": "Kontoverbindung von Personen in Verfahren, deren Zugehörigkeit selbst schutzbedürftig ist -- insbesondere bei Auszahlung von Sozialleistungen und bei Vollstreckung.",
     "felder": [
       "Kontoinhaberin oder Kontoinhaber",
@@ -1006,6 +1033,31 @@
     ]
   },
   {
+    "id": "dstore-beihilfeakte",
+    "name": "Beihilfeakte",
+    "einheit": "oe-amt-11",
+    "schutzstufe": "D",
+    "schutzbedarf": "hoch",
+    "vertraulichkeitsklasse": "streng vertraulich",
+    "bsi-vertraulichkeit": "hoch",
+    "bsi-integritaet": "normal",
+    "bsi-verfuegbarkeit": "normal",
+    "bsi-schutzbedarf": "hoch",
+    "datenschutz_geprueft": false,
+    "bsi_geprueft": false,
+    "verwendungen": 1,
+    "beschreibung": "Beihilfeunterlagen der Beihilfeberechtigten (Beamtinnen und Beamte, Versorgungsempfangende) und ihrer berücksichtigungsfähigen Angehörigen. Nach § 89 NBG stets als Teilakte geführt und von der übrigen Personalakte getrennt aufbewahrt; Bearbeitung in einer getrennten Organisationseinheit, Zugang nur für deren Beschäftigte.",
+    "felder": [
+      "beihilfeberechtigte Person (Verweis auf Personalnummer)",
+      "berücksichtigungsfähige Angehörige",
+      "Bemessungssatz",
+      "Anträge mit Arzt-, Apotheken- und sonstigen Rechnungen",
+      "aus den Belegen erkennbare Diagnosen und Behandlungen",
+      "private Kranken- und Pflegeversicherung (Tarif, Leistungen)",
+      "Beihilfebescheide und Erstattungsbeträge"
+    ]
+  },
+  {
     "id": "dstore-beissvorfall-schadensereignis",
     "name": "Beißvorfall und Schadensereignis",
     "einheit": "oe-amt-32",
@@ -1054,6 +1106,33 @@
     ]
   },
   {
+    "id": "dstore-bem-verfahrensdaten",
+    "name": "Betriebliches Eingliederungsmanagement (BEM) — Verfahrensdaten",
+    "einheit": "oe-amt-11",
+    "schutzstufe": "D",
+    "schutzbedarf": "hoch",
+    "vertraulichkeitsklasse": "streng vertraulich",
+    "bsi-vertraulichkeit": "hoch",
+    "bsi-integritaet": "normal",
+    "bsi-verfuegbarkeit": "normal",
+    "bsi-schutzbedarf": "hoch",
+    "datenschutz_geprueft": false,
+    "bsi_geprueft": false,
+    "verwendungen": 2,
+    "beschreibung": "Verfahrensbezogene Daten des betrieblichen Eingliederungsmanagements nach § 167 Abs. 2 SGB IX. Umfasst die Dokumentation des BEM-Angebots, der Einwilligung der beschäftigten Person, der BEM-Gespräche und der vereinbarten Maßnahmen.",
+    "felder": [
+      "BEM-Angebot (Datum, Unterrichtungsschreiben)",
+      "Antwort im Ankreuzverfahren (nach BVerwG 6 P 8.09 und LfD Niedersachsen): Zustimmung mit oder ohne Beteiligung von Personalrat/Schwerbehindertenvertretung, Ablehnung, Einwilligung in die Beteiligung weiterer Personen, Wunsch nach späterem Angebot",
+      "Widerruf (Datum)",
+      "Wiedervorlage für ein erneutes Angebot",
+      "Abschlussvermerk (Datum, Beendigungsgrund; keine Gesundheitsdaten)",
+      "Einwilligungen in die Beteiligung Dritter (Personalrat, Schwerbehindertenvertretung, Betriebsarzt, Vertrauensperson, Fachvorgesetzte, externe Stellen)",
+      "BEM-Gesprächsdokumentation (Datum, Teilnehmer, Inhalte)",
+      "Maßnahmenplan (vereinbarte Maßnahmen, Wiedereingliederung, Arbeitsplatzanpassung) und Ergebnis",
+      "Zugriffsprotokoll (wer hat wann auf die BEM-Akte zugegriffen)"
+    ]
+  },
+  {
     "id": "dstore-beratungsdokumentation",
     "name": "Beratungsdokumentation",
     "einheit": "oe-amt-53",
@@ -1066,7 +1145,7 @@
     "bsi-schutzbedarf": "hoch",
     "datenschutz_geprueft": true,
     "bsi_geprueft": true,
-    "verwendungen": 10,
+    "verwendungen": 9,
     "beschreibung": "Dokumentation von Beratungsgesprächen ohne eigenes Verwaltungsverfahren: Anlass, Inhalt und Ergebnis der Beratung.",
     "felder": [
       "Ratsuchende Person",
@@ -1075,6 +1154,54 @@
       "Inhalt der Beratung",
       "Weiterverweisung",
       "beratende Fachkraft"
+    ]
+  },
+  {
+    "id": "dstore-beschaeftigungsnachweis",
+    "name": "Beschäftigungsnachweis",
+    "einheit": "oe-amt-50",
+    "schutzstufe": "D",
+    "schutzbedarf": "hoch",
+    "vertraulichkeitsklasse": "vertraulich",
+    "bsi-vertraulichkeit": "hoch",
+    "bsi-integritaet": "normal",
+    "bsi-verfuegbarkeit": "normal",
+    "bsi-schutzbedarf": "hoch",
+    "datenschutz_geprueft": false,
+    "bsi_geprueft": false,
+    "verwendungen": 2,
+    "beschreibung": "Angaben und Nachweise über die Beschäftigung von Bürgerinnen und Bürgern bei Dritten, soweit ein Verwaltungsverfahren sie voraussetzt (etwa Fahrerbescheinigung, Grundsicherung für Arbeitsuchende).",
+    "felder": [
+      "Person",
+      "Arbeitgeber",
+      "Art der Beschäftigung",
+      "Beginn und Ende",
+      "Arbeitszeit",
+      "Beschäftigungs- oder Verdienstnachweis"
+    ]
+  },
+  {
+    "id": "dstore-beschaffungsvorgang",
+    "name": "Beschaffungsvorgang",
+    "einheit": "oe-amt-10",
+    "schutzstufe": "B",
+    "schutzbedarf": "normal",
+    "vertraulichkeitsklasse": "intern",
+    "bsi-vertraulichkeit": "normal",
+    "bsi-integritaet": "normal",
+    "bsi-verfuegbarkeit": "normal",
+    "bsi-schutzbedarf": "normal",
+    "datenschutz_geprueft": false,
+    "bsi_geprueft": false,
+    "verwendungen": 3,
+    "beschreibung": "Interne Bestell- und Beschaffungsvorgänge der Kommune von der Bestellanforderung bis zum Auftrag.",
+    "felder": [
+      "anfordernde Person und Organisationseinheit",
+      "Bestellposten",
+      "Kostenstelle und Haushaltsstelle",
+      "Lieferant und Ansprechperson",
+      "Auftrag oder Vertragsbezug",
+      "Freigabevermerk"
     ]
   },
   {
@@ -1137,7 +1264,7 @@
     "bsi-schutzbedarf": "hoch",
     "datenschutz_geprueft": true,
     "bsi_geprueft": true,
-    "verwendungen": 10,
+    "verwendungen": 9,
     "beschreibung": "Daten zu Eingaben, Beschwerden, Lob oder Anregungen an die Verwaltung.",
     "felder": [
       "Eingebende Person",
@@ -1192,7 +1319,10 @@
       "Lebenslauf",
       "Zeugnisse",
       "Anschreiben",
-      "Eingangsdatum"
+      "Eingangsdatum",
+      "Name, Vorname, Geburtsdatum und -ort, Anschrift, Kontaktdaten (Stammdaten der Bewerbenden, D1)",
+      "Staatsangehörigkeit, soweit für das Beamtenverhältnis erheblich (§ 7 BeamtStG)",
+      "Schwerbehinderung oder Gleichstellung, soweit zur bevorzugten Berücksichtigung angegeben (§ 165 SGB IX)"
     ]
   },
   {
@@ -1235,7 +1365,7 @@
     "bsi-schutzbedarf": "hoch",
     "datenschutz_geprueft": true,
     "bsi_geprueft": true,
-    "verwendungen": 1,
+    "verwendungen": 2,
     "beschreibung": "Antrags- und Bedarfsdaten zu Leistungen des Bildungs- und Teilhabepakets.",
     "felder": [
       "Leistungsbereich",
@@ -1305,7 +1435,7 @@
     "bsi-schutzbedarf": "hoch",
     "datenschutz_geprueft": true,
     "bsi_geprueft": true,
-    "verwendungen": 2,
+    "verwendungen": 1,
     "beschreibung": "Nachweisdaten zu brandschutzrechtlichen Anforderungen eines Bauvorhabens.",
     "felder": [
       "Brandschutzkonzept",
@@ -1314,6 +1444,28 @@
       "Gebäudeklasse",
       "Maßnahmen",
       "Unterlagenverweis"
+    ]
+  },
+  {
+    "id": "dstore-brandschutzorganisation",
+    "name": "Brandschutzorganisation",
+    "einheit": "oe-amt-10",
+    "schutzstufe": "B",
+    "schutzbedarf": "normal",
+    "vertraulichkeitsklasse": "intern",
+    "bsi-vertraulichkeit": "normal",
+    "bsi-integritaet": "normal",
+    "bsi-verfuegbarkeit": "normal",
+    "bsi-schutzbedarf": "normal",
+    "datenschutz_geprueft": false,
+    "bsi_geprueft": false,
+    "verwendungen": 1,
+    "beschreibung": "Organisation des betrieblichen Brandschutzes und der Evakuierung in den Dienstgebäuden.",
+    "felder": [
+      "Brandschutzbeauftragte und Evakuierungshelfende (Name, Kontaktdaten)",
+      "Unterweisungsnachweise der Beschäftigten",
+      "Evakuierungs- und Räumungsübungsprotokolle",
+      "Brandschutzordnung"
     ]
   },
   {
@@ -1401,7 +1553,7 @@
     "bsi-schutzbedarf": "normal",
     "datenschutz_geprueft": true,
     "bsi_geprueft": true,
-    "verwendungen": 3,
+    "verwendungen": 2,
     "beschreibung": "Verpflichtungserklärung und Belehrung, mit der Beschäftigte bestätigen, über die wesentlichen Anforderungen des Datenschutzes informiert worden zu sein und diese einzuhalten.",
     "felder": [
       "Belehrung zu DSGVO-Grundsätzen (Zweckbindung, Datensparsamkeit, Vertraulichkeit)",
@@ -1423,7 +1575,7 @@
     "bsi-schutzbedarf": "hoch",
     "datenschutz_geprueft": true,
     "bsi_geprueft": true,
-    "verwendungen": 4,
+    "verwendungen": 2,
     "beschreibung": "Stamm- und Buchungsdaten von Zahlungspflichtigen und Zahlungsempfängern.",
     "felder": [
       "Name oder Firma",
@@ -1431,7 +1583,32 @@
       "Anschrift",
       "Steuernummer",
       "Zahlungsbedingung",
-      "Status"
+      "Status",
+      "Bankverbindung (IBAN, BIC) — ergänzt 2026-10-05 für vvt-20-004"
+    ]
+  },
+  {
+    "id": "dstore-dienstwagennutzung",
+    "name": "Dienstwagennutzung",
+    "einheit": "oe-amt-10",
+    "schutzstufe": "C",
+    "schutzbedarf": "normal",
+    "vertraulichkeitsklasse": "intern",
+    "bsi-vertraulichkeit": "normal",
+    "bsi-integritaet": "normal",
+    "bsi-verfuegbarkeit": "normal",
+    "bsi-schutzbedarf": "normal",
+    "datenschutz_geprueft": false,
+    "bsi_geprueft": false,
+    "verwendungen": 1,
+    "beschreibung": "Buchung und Nutzung von Pool- und Sonderfahrzeugen durch Beschäftigte.",
+    "felder": [
+      "Name, Vorname, Personalnummer",
+      "Fahrzeug",
+      "Buchungszeitraum",
+      "Fahrtenbuch (Fahrten, Ziele, Kilometer)",
+      "Tankbelege",
+      "Fahrberechtigung"
     ]
   },
   {
@@ -1555,6 +1732,33 @@
     ]
   },
   {
+    "id": "dstore-eigenschaden-ksa",
+    "name": "Eigenschaden und KSA-Meldung",
+    "einheit": "oe-amt-10",
+    "schutzstufe": "D",
+    "schutzbedarf": "hoch",
+    "vertraulichkeitsklasse": "vertraulich",
+    "bsi-vertraulichkeit": "hoch",
+    "bsi-integritaet": "normal",
+    "bsi-verfuegbarkeit": "normal",
+    "bsi-schutzbedarf": "hoch",
+    "datenschutz_geprueft": false,
+    "bsi_geprueft": false,
+    "verwendungen": 1,
+    "beschreibung": "Schäden, die Beschäftigte der Kommune in Ausübung ihres Dienstes verursachen (Dienstfahrzeug, Dienstgerät, städtisches Eigentum), deren Meldung an den Kommunalen Schadenausgleich (KSA) Hannover, dessen Regulierung und die Prüfung eines Regresses bei grober Fahrlässigkeit.",
+    "felder": [
+      "schadenverursachende beschäftigte Person (Name, Dienststelle)",
+      "Stellungnahme der beschäftigten Person",
+      "Hergang, Ort, Zeit, Schadenshöhe, Fotos",
+      "Fahrzeug oder Gerät (Kennzeichen, Gerätenummer, Versicherungsdaten)",
+      "Zeuginnen und Zeugen",
+      "Schadensmeldung an den KSA",
+      "Regulierungsentscheidung des KSA",
+      "Prüfung des Verschuldensgrads",
+      "Regressbescheid und Zahlungseingang"
+    ]
+  },
+  {
     "id": "dstore-einbuergerungszusicherung",
     "name": "Einbürgerungszusicherung",
     "einheit": "oe-amt-47",
@@ -1615,7 +1819,7 @@
     "bsi-schutzbedarf": "hoch",
     "datenschutz_geprueft": true,
     "bsi_geprueft": true,
-    "verwendungen": 13,
+    "verwendungen": 15,
     "beschreibung": "Einkommensnachweise und Gehaltsdaten für Sozialleistungen und Förderungen.",
     "felder": [
       "Einkommensart",
@@ -1638,7 +1842,7 @@
     "bsi-schutzbedarf": "hoch",
     "datenschutz_geprueft": true,
     "bsi_geprueft": true,
-    "verwendungen": 8,
+    "verwendungen": 7,
     "beschreibung": "Unterlagen und Werte zu Einkommen der zum Haushalt gehörenden Personen.",
     "felder": [
       "Person im Haushalt",
@@ -1662,7 +1866,7 @@
     "bsi-schutzbedarf": "sehr hoch",
     "datenschutz_geprueft": true,
     "bsi_geprueft": true,
-    "verwendungen": 2,
+    "verwendungen": 1,
     "beschreibung": "Aufnahme eines Hilfeersuchens und Dokumentation des daraufhin geführten Einsatzes von Feuerwehr und Rettungsdienst.",
     "felder": [
       "Notrufabsetzende Person mit Rufnummer",
@@ -1786,7 +1990,7 @@
     "bsi-schutzbedarf": "hoch",
     "datenschutz_geprueft": true,
     "bsi_geprueft": true,
-    "verwendungen": 9,
+    "verwendungen": 10,
     "beschreibung": "Daten zur Zuordnung eines Kindes zu Eltern oder Sorgeberechtigten einschließlich Anerkennungs- und Sorgedokumenten.",
     "felder": [
       "Vorname Elternteil",
@@ -2009,7 +2213,8 @@
       "Expositionsstoff",
       "Expositionsdauer",
       "Konzentration",
-      "Schutzmaßnahmen"
+      "Schutzmaßnahmen",
+      "Gesundheitsangaben im Zusammenhang mit der Exposition — ergänzt 2026-10-05 für vvt-37-003 (vorher `dstore-gesundheitsdaten`)"
     ]
   },
   {
@@ -2042,7 +2247,7 @@
     "bsi-schutzbedarf": "normal",
     "datenschutz_geprueft": true,
     "bsi_geprueft": true,
-    "verwendungen": 1,
+    "verwendungen": 0,
     "beschreibung": "Erklärung, dass ein Fahrzeug dauerhaft von der antragstellenden Person genutzt wird.",
     "felder": [
       "Nutzungsberechtigte Person",
@@ -2090,7 +2295,7 @@
     "bsi-schutzbedarf": "hoch",
     "datenschutz_geprueft": true,
     "bsi_geprueft": true,
-    "verwendungen": 9,
+    "verwendungen": 8,
     "beschreibung": "Daten und Nachweise zum aktuellen oder früheren Familienstand sowie zur Ehefähigkeit.",
     "felder": [
       "Familienstand",
@@ -2099,30 +2304,6 @@
       "Ehefähigkeitszeugnis",
       "Auflösung der Lebenspartnerschaft",
       "Sterbeurkunde früherer Partner"
-    ]
-  },
-  {
-    "id": "dstore-ferienbetreuung-ferienpass",
-    "name": "Ferienbetreuung und Ferienpass",
-    "einheit": "oe-amt-51",
-    "schutzstufe": "D",
-    "schutzbedarf": "hoch",
-    "vertraulichkeitsklasse": "streng vertraulich",
-    "bsi-vertraulichkeit": "hoch",
-    "bsi-integritaet": "hoch",
-    "bsi-verfuegbarkeit": "normal",
-    "bsi-schutzbedarf": "hoch",
-    "datenschutz_geprueft": true,
-    "bsi_geprueft": true,
-    "verwendungen": 0,
-    "beschreibung": "Daten zur Anmeldung für Ferienbetreuung oder Ferienpass-Angebote.",
-    "felder": [
-      "Kind",
-      "Sorgeberechtigte",
-      "Zeitraum",
-      "Angebot",
-      "Gesundheitsangaben",
-      "Zahlungsstatus"
     ]
   },
   {
@@ -2138,7 +2319,7 @@
     "bsi-schutzbedarf": "hoch",
     "datenschutz_geprueft": true,
     "bsi_geprueft": true,
-    "verwendungen": 1,
+    "verwendungen": 0,
     "beschreibung": "Daten zu Zufahrten und Flächen für Feuerwehrfahrzeuge.",
     "felder": [
       "Objekt",
@@ -2331,7 +2512,7 @@
     "bsi-schutzbedarf": "sehr hoch",
     "datenschutz_geprueft": true,
     "bsi_geprueft": true,
-    "verwendungen": 0,
+    "verwendungen": 1,
     "beschreibung": "Der vor einer Namens- oder Geschlechtseintragsänderung geführte Name einer Person sowie die Verknüpfung dieses Namens mit dem heutigen Namen. Ausgegliedert aus `dstore-personenstammdaten` am 2026-08-10.",
     "felder": [
       "Früher geführter Vorname",
@@ -2378,13 +2559,38 @@
     "bsi-schutzbedarf": "hoch",
     "datenschutz_geprueft": true,
     "bsi_geprueft": true,
-    "verwendungen": 16,
+    "verwendungen": 14,
     "beschreibung": "Polizeiliches Führungszeugnis zum Nachweis der Unbescholtenheit.",
     "felder": [
       "Antragsteller",
       "Verwendungszweck",
       "Ausstellungsdatum",
       "Inhalt"
+    ]
+  },
+  {
+    "id": "dstore-fuehrungszeugnis-bewerbende",
+    "name": "Führungszeugnis der Bewerbenden",
+    "einheit": "oe-amt-11",
+    "schutzstufe": "D",
+    "schutzbedarf": "hoch",
+    "vertraulichkeitsklasse": "vertraulich",
+    "bsi-vertraulichkeit": "hoch",
+    "bsi-integritaet": "normal",
+    "bsi-verfuegbarkeit": "normal",
+    "bsi-schutzbedarf": "hoch",
+    "datenschutz_geprueft": false,
+    "bsi_geprueft": false,
+    "verwendungen": 1,
+    "beschreibung": "Vermerk über die Einsichtnahme in ein Führungszeugnis, das Bewerbende für eine Stelle vorlegen, für die es erforderlich ist (etwa Kassenbefugnis oder Tätigkeit mit Kindern und Jugendlichen). Das Führungszeugnis selbst wird eingesehen und zurückgegeben; aufbewahrt wird nur der Vermerk (Entscheidung Martin 05.10.2026, Option A).",
+    "felder": [
+      "Name der bewerbenden Person",
+      "Stelle",
+      "Grund der Anforderung (Rechtsgrundlage für die Stelle)",
+      "Datum des Führungszeugnisses",
+      "Datum der Einsichtnahme",
+      "Ergebnis: Einträge ja/nein; Erheblichkeit für die Stelle",
+      "einsehende Person"
     ]
   },
   {
@@ -2450,7 +2656,7 @@
     "bsi-schutzbedarf": "hoch",
     "datenschutz_geprueft": true,
     "bsi_geprueft": true,
-    "verwendungen": 16,
+    "verwendungen": 17,
     "beschreibung": "Bescheid- und Zahlungsdaten zu Gebühren im Verwaltungsverfahren.",
     "felder": [
       "Gebührenart",
@@ -2557,6 +2763,31 @@
     ]
   },
   {
+    "id": "dstore-gefaehrdungsbeurteilung",
+    "name": "Gefährdungsbeurteilung",
+    "einheit": "oe-amt-11",
+    "schutzstufe": "C",
+    "schutzbedarf": "normal",
+    "vertraulichkeitsklasse": "intern",
+    "bsi-vertraulichkeit": "normal",
+    "bsi-integritaet": "normal",
+    "bsi-verfuegbarkeit": "normal",
+    "bsi-schutzbedarf": "normal",
+    "datenschutz_geprueft": false,
+    "bsi_geprueft": false,
+    "verwendungen": 1,
+    "beschreibung": "Gefährdungsbeurteilungen nach § 5 ArbSchG für Arbeitsplätze und Tätigkeiten der Kommune mit Maßnahmen und Wirksamkeitskontrolle, dokumentiert nach § 6 ArbSchG.",
+    "felder": [
+      "Arbeitsplatz oder Tätigkeit",
+      "dort tätige Beschäftigte (Namen)",
+      "ermittelte Gefährdungen (physisch, psychisch, biologisch, chemisch)",
+      "Beurteilungsergebnis",
+      "Maßnahmen mit Termin und verantwortlicher Person",
+      "Wirksamkeitskontrolle und Fortschreibung",
+      "Beteiligung von Fachkraft für Arbeitssicherheit, Betriebsärztin oder Betriebsarzt und Personalrat"
+    ]
+  },
+  {
     "id": "dstore-gemeinschaftliche-mittagsverpflegung",
     "name": "Gemeinschaftliche Mittagsverpflegung",
     "einheit": "oe-amt-40",
@@ -2569,7 +2800,7 @@
     "bsi-schutzbedarf": "hoch",
     "datenschutz_geprueft": true,
     "bsi_geprueft": true,
-    "verwendungen": 1,
+    "verwendungen": 2,
     "beschreibung": "Daten zur Teilnahme an gemeinschaftlicher Mittagsverpflegung in Schule oder Kita.",
     "felder": [
       "Einrichtung",
@@ -2593,7 +2824,7 @@
     "bsi-schutzbedarf": "hoch",
     "datenschutz_geprueft": true,
     "bsi_geprueft": true,
-    "verwendungen": 5,
+    "verwendungen": 6,
     "beschreibung": "Behördliche Genehmigung für eine beantragte Tätigkeit oder Maßnahme.",
     "felder": [
       "Genehmigungsnummer",
@@ -2656,6 +2887,30 @@
     ]
   },
   {
+    "id": "dstore-gesundheitliche-eignung",
+    "name": "Gesundheitliche Eignung",
+    "einheit": "oe-amt-11",
+    "schutzstufe": "D",
+    "schutzbedarf": "hoch",
+    "vertraulichkeitsklasse": "vertraulich",
+    "bsi-vertraulichkeit": "hoch",
+    "bsi-integritaet": "normal",
+    "bsi-verfuegbarkeit": "normal",
+    "bsi-schutzbedarf": "hoch",
+    "datenschutz_geprueft": false,
+    "bsi_geprueft": false,
+    "verwendungen": 2,
+    "beschreibung": "Ergebnis ärztlicher Untersuchungen der gesundheitlichen Eignung von Bewerbenden und Auszubildenden (geeignet, nicht geeignet, geeignet mit Einschränkungen). Befunde bleiben bei der untersuchenden Ärztin oder dem untersuchenden Arzt.",
+    "felder": [
+      "Name der untersuchten Person",
+      "Anlass (Einstellung, Ausbildung, Verbeamtung)",
+      "untersuchende Stelle",
+      "Datum",
+      "Ergebnis der Eignung",
+      "Einschränkungen, soweit für den Einsatz erheblich"
+    ]
+  },
+  {
     "id": "dstore-gesundheitsdaten",
     "name": "Gesundheitsdaten",
     "einheit": "oe-amt-33",
@@ -2668,7 +2923,7 @@
     "bsi-schutzbedarf": "hoch",
     "datenschutz_geprueft": true,
     "bsi_geprueft": true,
-    "verwendungen": 33,
+    "verwendungen": 34,
     "beschreibung": "Besondere Kategorie personenbezogener Daten gemäß Art. 9 DSGVO: Diagnosen, Gutachten, Impfstatus.",
     "felder": [
       "Diagnose",
@@ -3359,6 +3614,29 @@
     ]
   },
   {
+    "id": "dstore-ideenmanagement",
+    "name": "Ideenmanagement",
+    "einheit": "oe-amt-10",
+    "schutzstufe": "B",
+    "schutzbedarf": "normal",
+    "vertraulichkeitsklasse": "intern",
+    "bsi-vertraulichkeit": "normal",
+    "bsi-integritaet": "normal",
+    "bsi-verfuegbarkeit": "normal",
+    "bsi-schutzbedarf": "normal",
+    "datenschutz_geprueft": false,
+    "bsi_geprueft": false,
+    "verwendungen": 1,
+    "beschreibung": "Verbesserungsvorschläge der Beschäftigten, ihre Bewertung, Prämierung und Umsetzung.",
+    "felder": [
+      "einreichende Person und Organisationseinheit",
+      "Vorschlag",
+      "Bewertung und Gutachten",
+      "Entscheidung und Prämie",
+      "Umsetzung"
+    ]
+  },
+  {
     "id": "dstore-identitaetsnachweis",
     "name": "Identitätsnachweis",
     "einheit": "oe-amt-33",
@@ -3371,7 +3649,7 @@
     "bsi-schutzbedarf": "hoch",
     "datenschutz_geprueft": true,
     "bsi_geprueft": true,
-    "verwendungen": 8,
+    "verwendungen": 10,
     "beschreibung": "Daten aus amtlichen Identitätsdokumenten zur Legitimation der antragstellenden, vertretenen oder erklärenden Person.",
     "felder": [
       "Dokumentart",
@@ -3453,6 +3731,31 @@
     ]
   },
   {
+    "id": "dstore-it-sicherheitsvorfall",
+    "name": "IT-Sicherheitsvorfall",
+    "einheit": "oe-amt-15",
+    "schutzstufe": "D",
+    "schutzbedarf": "hoch",
+    "vertraulichkeitsklasse": "streng vertraulich",
+    "bsi-vertraulichkeit": "hoch",
+    "bsi-integritaet": "hoch",
+    "bsi-verfuegbarkeit": "normal",
+    "bsi-schutzbedarf": "hoch",
+    "datenschutz_geprueft": false,
+    "bsi_geprueft": false,
+    "verwendungen": 1,
+    "beschreibung": "Dokumentation von IT-Sicherheitsvorfällen von der Meldung über Analyse und Eindämmung bis zur Nachbereitung.",
+    "felder": [
+      "meldende Person (Name, System, Symptome, Zeitpunkt)",
+      "betroffene Systeme und Konten",
+      "Protokolldaten, IP-Adressen, Dateisysteminformationen",
+      "forensische Daten (Arbeitsspeicher-Abbilder, Festplatten-Images)",
+      "Schadsoftware-Muster",
+      "Maßnahmen und Ergebnis",
+      "Meldung an Datenschutzbeauftragte oder Aufsicht, soweit erforderlich"
+    ]
+  },
+  {
     "id": "dstore-jugendgerichtshilfe-tatvorwurf",
     "name": "Tatvorwurf in der Jugendgerichtshilfe",
     "einheit": "oe-amt-51",
@@ -3491,7 +3794,7 @@
     "bsi-schutzbedarf": "sehr hoch",
     "datenschutz_geprueft": true,
     "bsi_geprueft": true,
-    "verwendungen": 7,
+    "verwendungen": 14,
     "beschreibung": "Dokumentation von Jugendhilfemaßnahmen nach SGB VIII.",
     "felder": [
       "Kind/Jugendlicher",
@@ -3611,7 +3914,7 @@
     "bsi-schutzbedarf": "hoch",
     "datenschutz_geprueft": true,
     "bsi_geprueft": true,
-    "verwendungen": 13,
+    "verwendungen": 15,
     "beschreibung": "Daten zur Kfz-Zulassung: Fahrzeughalter, Kennzeichen, Fahrzeugdaten.",
     "felder": [
       "Kennzeichen",
@@ -3635,7 +3938,7 @@
     "bsi-schutzbedarf": "hoch",
     "datenschutz_geprueft": true,
     "bsi_geprueft": true,
-    "verwendungen": 0,
+    "verwendungen": 1,
     "beschreibung": "Kosten- und Nachweisdaten für Betreuung von Kindern in Einrichtungen oder Tagespflege.",
     "felder": [
       "Einrichtung",
@@ -3754,7 +4057,7 @@
     "bsi-schutzbedarf": "normal",
     "datenschutz_geprueft": true,
     "bsi_geprueft": true,
-    "verwendungen": 47,
+    "verwendungen": 44,
     "beschreibung": "Kontaktinformationen einer Person oder Organisation: Telefon, E-Mail, Mobilnummer.",
     "felder": [
       "Telefonnummer",
@@ -3776,7 +4079,7 @@
     "bsi-schutzbedarf": "hoch",
     "datenschutz_geprueft": true,
     "bsi_geprueft": true,
-    "verwendungen": 19,
+    "verwendungen": 21,
     "beschreibung": "Telefonnummer, Mobilnummer und E-Mail-Adresse von Personen in Verfahren, deren Zugehörigkeit selbst schutzbedürftig ist.",
     "felder": [
       "Telefonnummer",
@@ -3799,7 +4102,7 @@
     "bsi-schutzbedarf": "hoch",
     "datenschutz_geprueft": true,
     "bsi_geprueft": true,
-    "verwendungen": 2,
+    "verwendungen": 1,
     "beschreibung": "Beitragsdaten zur Krankenversicherung für Leistungs- oder Zuschussverfahren.",
     "felder": [
       "Krankenversicherung",
@@ -3869,7 +4172,7 @@
     "bsi-schutzbedarf": "normal",
     "datenschutz_geprueft": true,
     "bsi_geprueft": true,
-    "verwendungen": 15,
+    "verwendungen": 13,
     "beschreibung": "Angaben zum beruflichen Werdegang und zu Qualifikationen im Erlaubnisverfahren.",
     "felder": [
       "tabellarischer Lebenslauf",
@@ -3893,7 +4196,7 @@
     "bsi-schutzbedarf": "hoch",
     "datenschutz_geprueft": true,
     "bsi_geprueft": true,
-    "verwendungen": 4,
+    "verwendungen": 2,
     "beschreibung": "Lebenslauf und Qualifikationsnachweise in Verfahren, deren Zugehörigkeit selbst schutzbedürftig ist -- insbesondere im Bewerbungsverfahren und bei Eignungsprüfungen.",
     "felder": [
       "Beruflicher Werdegang mit Zeiträumen",
@@ -4061,7 +4364,7 @@
     "bsi-schutzbedarf": "hoch",
     "datenschutz_geprueft": true,
     "bsi_geprueft": true,
-    "verwendungen": 0,
+    "verwendungen": 1,
     "beschreibung": "Daten und Stellungnahmen zum Bedarf einer ergänzenden Lernförderung.",
     "felder": [
       "Fach",
@@ -4070,6 +4373,30 @@
       "Schulbestätigung",
       "Förderzeitraum",
       "Begründung"
+    ]
+  },
+  {
+    "id": "dstore-loeschprotokoll",
+    "name": "Löschprotokoll",
+    "einheit": "oe-amt-10",
+    "schutzstufe": "B",
+    "schutzbedarf": "normal",
+    "vertraulichkeitsklasse": "intern",
+    "bsi-vertraulichkeit": "normal",
+    "bsi-integritaet": "hoch",
+    "bsi-verfuegbarkeit": "normal",
+    "bsi-schutzbedarf": "hoch",
+    "datenschutz_geprueft": false,
+    "bsi_geprueft": false,
+    "verwendungen": 1,
+    "beschreibung": "Nachweis über die Vernichtung von Akten und Datenträgern und die Löschung von Daten nach Ablauf der Aufbewahrungsfrist.",
+    "felder": [
+      "Aktenzeichen oder Bezeichnung des Bestands",
+      "Art des Datenträgers",
+      "Datum der Vernichtung oder Löschung",
+      "Verfahren (Aktenvernichter, Dienstleister, Löschwerkzeug)",
+      "ausführende Person oder Dienstleister",
+      "Vernichtungs- oder Löschprotokoll, ggf. Zertifikat des Dienstleisters"
     ]
   },
   {
@@ -4308,6 +4635,30 @@
     ]
   },
   {
+    "id": "dstore-mietbewerbung-beschaeftigte",
+    "name": "Mietbewerbung Beschäftigte",
+    "einheit": "oe-amt-23",
+    "schutzstufe": "D",
+    "schutzbedarf": "hoch",
+    "vertraulichkeitsklasse": "vertraulich",
+    "bsi-vertraulichkeit": "hoch",
+    "bsi-integritaet": "normal",
+    "bsi-verfuegbarkeit": "normal",
+    "bsi-schutzbedarf": "hoch",
+    "datenschutz_geprueft": false,
+    "bsi_geprueft": false,
+    "verwendungen": 1,
+    "beschreibung": "Bewerbungen von Beschäftigten um eine Wohnung der Kommune und die Vergabeentscheidung. Die Kommune vermietet nur an Beschäftigte (Martin, 05.10.2026).",
+    "felder": [
+      "bewerbende beschäftigte Person (Name, Anschrift, Kontaktdaten)",
+      "Haushaltsgröße und -zusammensetzung",
+      "bisherige Wohnsituation und Wohnungswunsch",
+      "Einkommensangaben, soweit für die Vergabe erheblich",
+      "Wohnberechtigungsschein, soweit vorgelegt",
+      "Vergabeentscheidung und Auswahldokumentation"
+    ]
+  },
+  {
     "id": "dstore-mietschulden-wohnraumsicherung",
     "name": "Mietschulden und Wohnraumsicherung",
     "einheit": "oe-amt-64",
@@ -4439,7 +4790,7 @@
     "bsi-schutzbedarf": "normal",
     "datenschutz_geprueft": true,
     "bsi_geprueft": true,
-    "verwendungen": 1,
+    "verwendungen": 2,
     "beschreibung": "Daten zur Anmeldung für Musik-, Kunst- oder Kulturkurse.",
     "felder": [
       "Teilnehmer/in",
@@ -4812,6 +5163,33 @@
     ]
   },
   {
+    "id": "dstore-personalstammdaten-beschaeftigte",
+    "name": "Personalstammdaten der Beschäftigten",
+    "einheit": "oe-amt-11",
+    "schutzstufe": "D",
+    "schutzbedarf": "hoch",
+    "vertraulichkeitsklasse": "vertraulich",
+    "bsi-vertraulichkeit": "hoch",
+    "bsi-integritaet": "hoch",
+    "bsi-verfuegbarkeit": "normal",
+    "bsi-schutzbedarf": "hoch",
+    "datenschutz_geprueft": false,
+    "bsi_geprueft": false,
+    "verwendungen": 3,
+    "beschreibung": "Grunddaten der Beschäftigten der Kommune (Beamtinnen und Beamte, Tarifbeschäftigte, Auszubildende, Praktikantinnen und Praktikanten, Bundesfreiwilligendienst), wie sie die Personalstelle für Bezüge, Steuer- und Sozialversicherungsmeldungen und die Beihilfe führt. Beschäftigtenspeicher nach Entscheidung D1 vom 05.10.2026.",
+    "felder": [
+      "Personalnummer",
+      "Name, Vorname, Geburtsdatum",
+      "Anschrift",
+      "private Kontaktdaten",
+      "Familienstand",
+      "Kinder (Familienzuschlag, Kinderkomponente)",
+      "Bankverbindung für die Bezüge",
+      "Steuer-Identifikationsnummer",
+      "Sozialversicherungsnummer"
+    ]
+  },
+  {
     "id": "dstore-personenstammdaten",
     "name": "Personenstammdaten",
     "einheit": "oe-amt-33",
@@ -4824,7 +5202,7 @@
     "bsi-schutzbedarf": "hoch",
     "datenschutz_geprueft": true,
     "bsi_geprueft": true,
-    "verwendungen": 120,
+    "verwendungen": 124,
     "beschreibung": "Grundlegende Identifikations- und Zuordnungsdaten natürlicher Personen, wie sie in Personenstands-, Melde- und Ausweisverfahren wiederkehrend verarbeitet werden.",
     "felder": [
       "Vorname",
@@ -4850,7 +5228,7 @@
     "bsi-schutzbedarf": "hoch",
     "datenschutz_geprueft": true,
     "bsi_geprueft": true,
-    "verwendungen": 64,
+    "verwendungen": 67,
     "beschreibung": "Identifikations- und Zuordnungsdaten natürlicher Personen in Verfahren, deren Zugehörigkeit selbst schutzbedürftig ist. Inhaltlich identisch mit den allgemeinen Personenstammdaten.",
     "felder": [
       "Vorname",
@@ -4957,6 +5335,29 @@
     ]
   },
   {
+    "id": "dstore-pflichtenbelehrung-ehrenamt",
+    "name": "Pflichtenbelehrung Ehrenamt",
+    "einheit": "oe-amt-10",
+    "schutzstufe": "B",
+    "schutzbedarf": "normal",
+    "vertraulichkeitsklasse": "intern",
+    "bsi-vertraulichkeit": "normal",
+    "bsi-integritaet": "normal",
+    "bsi-verfuegbarkeit": "normal",
+    "bsi-schutzbedarf": "normal",
+    "datenschutz_geprueft": false,
+    "bsi_geprueft": false,
+    "verwendungen": 1,
+    "beschreibung": "Nachweis, dass ehrenamtlich Tätige nach § 43 NKomVG auf die gewissenhafte Erfüllung ihrer Pflichten und die Amtsverschwiegenheit (§ 40 NKomVG) hingewiesen wurden.",
+    "felder": [
+      "Name der ehrenamtlich tätigen Person",
+      "ehrenamtliche Funktion",
+      "Datum der Belehrung",
+      "belehrende Person",
+      "Unterschrift oder Bestätigung"
+    ]
+  },
+  {
     "id": "dstore-polizeiliche-verlustmeldung",
     "name": "Polizeiliche Verlustmeldung",
     "einheit": "oe-amt-33",
@@ -4978,6 +5379,31 @@
       "Meldedatum",
       "Sachverhalt",
       "betroffenes Dokument"
+    ]
+  },
+  {
+    "id": "dstore-posteingang",
+    "name": "Posteingang",
+    "einheit": "oe-amt-10",
+    "schutzstufe": "C",
+    "schutzbedarf": "normal",
+    "vertraulichkeitsklasse": "vertraulich",
+    "bsi-vertraulichkeit": "normal",
+    "bsi-integritaet": "normal",
+    "bsi-verfuegbarkeit": "normal",
+    "bsi-schutzbedarf": "normal",
+    "datenschutz_geprueft": false,
+    "bsi_geprueft": false,
+    "verwendungen": 0,
+    "beschreibung": "Daten, die beim Durchlauf von Post durch die Poststelle anfallen: Papierpost und elektronische Post an das zentrale Postfach, bis zur Weiterleitung an die zuständige Organisationseinheit; Postausgang. Es wird kein Posteingangsbuch geführt.",
+    "felder": [
+      "Absender (Name, Anschrift oder E-Mail-Adresse)",
+      "zuständige Organisationseinheit",
+      "Eingangsdatum",
+      "Art des Eingangs (Brief, E-Mail an das zentrale Postfach, sonstiger elektronischer Zugang)",
+      "Scan oder E-Mail im zentralen Postfach bis zur Weiterleitung",
+      "Weiterleitungsvermerk",
+      "Postausgang: Empfänger, Versanddatum"
     ]
   },
   {
@@ -5029,6 +5455,30 @@
     ]
   },
   {
+    "id": "dstore-prozessaudit",
+    "name": "Prozessaudit",
+    "einheit": "oe-amt-1-1",
+    "schutzstufe": "C",
+    "schutzbedarf": "normal",
+    "vertraulichkeitsklasse": "vertraulich",
+    "bsi-vertraulichkeit": "normal",
+    "bsi-integritaet": "normal",
+    "bsi-verfuegbarkeit": "normal",
+    "bsi-schutzbedarf": "normal",
+    "datenschutz_geprueft": false,
+    "bsi_geprueft": false,
+    "verwendungen": 1,
+    "beschreibung": "Unterlagen von Prozessaudits und Organisationsuntersuchungen in der Verwaltung: Befragungen der Beschäftigten, Auditbericht und Maßnahmenplan.",
+    "felder": [
+      "auditierte Organisationseinheit und Auditbereich",
+      "befragte Beschäftigte (Name, Funktion)",
+      "Befragungsnotizen und Ablaufbeschreibungen",
+      "Auditbericht mit Stärken und Schwächen",
+      "Maßnahmenplan mit Verantwortlichen und Terminen",
+      "Umsetzungsstand"
+    ]
+  },
+  {
     "id": "dstore-pruefstatik-statikfreigabe",
     "name": "Prüfstatik und Statikfreigabe",
     "einheit": "oe-amt-63",
@@ -5077,6 +5527,30 @@
     ]
   },
   {
+    "id": "dstore-raumbuchung",
+    "name": "Raumbuchung",
+    "einheit": "oe-amt-10",
+    "schutzstufe": "B",
+    "schutzbedarf": "normal",
+    "vertraulichkeitsklasse": "intern",
+    "bsi-vertraulichkeit": "normal",
+    "bsi-integritaet": "normal",
+    "bsi-verfuegbarkeit": "normal",
+    "bsi-schutzbedarf": "normal",
+    "datenschutz_geprueft": false,
+    "bsi_geprueft": false,
+    "verwendungen": 1,
+    "beschreibung": "Buchungen von Sitzungszimmern und Besprechungsräumen durch Beschäftigte.",
+    "felder": [
+      "buchende Person und dienstliche Kontaktdaten",
+      "Raum",
+      "Datum und Uhrzeit",
+      "Teilnehmerzahl",
+      "gewünschte Ausstattung",
+      "Buchungsbestätigung"
+    ]
+  },
+  {
     "id": "dstore-rechnungsadressierung-kommune",
     "name": "Rechnungsadressierung Kommune",
     "einheit": "oe-amt-20",
@@ -5113,7 +5587,7 @@
     "bsi-schutzbedarf": "hoch",
     "datenschutz_geprueft": true,
     "bsi_geprueft": true,
-    "verwendungen": 7,
+    "verwendungen": 4,
     "beschreibung": "Rechnungen und Buchungsdaten der Kommunalverwaltung.",
     "felder": [
       "Rechnungsnummer",
@@ -5149,6 +5623,30 @@
     ]
   },
   {
+    "id": "dstore-rechtsberatung-intern",
+    "name": "Rechtsberatung intern",
+    "einheit": "oe-amt-30",
+    "schutzstufe": "C",
+    "schutzbedarf": "normal",
+    "vertraulichkeitsklasse": "vertraulich",
+    "bsi-vertraulichkeit": "normal",
+    "bsi-integritaet": "normal",
+    "bsi-verfuegbarkeit": "normal",
+    "bsi-schutzbedarf": "normal",
+    "datenschutz_geprueft": false,
+    "bsi_geprueft": false,
+    "verwendungen": 1,
+    "beschreibung": "Anfragen der Ämter an das Rechtsamt und deren Beantwortung.",
+    "felder": [
+      "anfragende Person und Amt (dienstliche Kontaktdaten)",
+      "Sachverhalt und Fragestellung",
+      "beigezogene Unterlagen",
+      "rechtliche Prüfung",
+      "Stellungnahme oder Empfehlung",
+      "Wiedervorlage und Abschluss"
+    ]
+  },
+  {
     "id": "dstore-register-und-zuverlaessigkeitsauskuenfte",
     "name": "Register- und Zuverlässigkeitsauskünfte",
     "einheit": "oe-amt-32",
@@ -5161,7 +5659,7 @@
     "bsi-schutzbedarf": "hoch",
     "datenschutz_geprueft": true,
     "bsi_geprueft": true,
-    "verwendungen": 11,
+    "verwendungen": 10,
     "beschreibung": "Behördliche Auskünfte und Registerauszüge zur Prüfung persönlicher oder gewerberechtlicher Zuverlässigkeit.",
     "felder": [
       "Führungszeugnis",
@@ -5217,6 +5715,31 @@
       "Gültigkeit",
       "Zuverlässigkeitsprüfung",
       "Gebühren"
+    ]
+  },
+  {
+    "id": "dstore-reisekosten-beschaeftigte",
+    "name": "Reisekosten der Beschäftigten",
+    "einheit": "oe-amt-10",
+    "schutzstufe": "C",
+    "schutzbedarf": "normal",
+    "vertraulichkeitsklasse": "vertraulich",
+    "bsi-vertraulichkeit": "normal",
+    "bsi-integritaet": "normal",
+    "bsi-verfuegbarkeit": "normal",
+    "bsi-schutzbedarf": "normal",
+    "datenschutz_geprueft": false,
+    "bsi_geprueft": false,
+    "verwendungen": 1,
+    "beschreibung": "Dienstreisen der Beschäftigten von Antrag und Genehmigung bis zur Abrechnung der Reisekostenvergütung.",
+    "felder": [
+      "Name, Vorname, Personalnummer",
+      "Reiseziel, -dauer, -zweck",
+      "Genehmigungsvermerk",
+      "Fahrt-, Übernachtungs- und Nebenkosten mit Belegen",
+      "Tagegeld",
+      "Erstattungsbetrag",
+      "Bankverbindung (Verweis auf Personalstammdaten)"
     ]
   },
   {
@@ -5326,7 +5849,7 @@
     "bsi-schutzbedarf": "hoch",
     "datenschutz_geprueft": true,
     "bsi_geprueft": true,
-    "verwendungen": 1,
+    "verwendungen": 2,
     "beschreibung": "Daten zur Verwaltung von Schlüsseln und Schließanlagen in der Kommunalverwaltung: Wer hat welchen Schlüssel zu welchen Räumen, wann wurde er ausgegeben, wann zurückgegeben, und wann als verloren gemeldet. Dokumentiert Zugangsberechtigungen, nicht die ausgeführten Zugänge.",
     "felder": [
       "Schlüsselempfängerin/Schlüsselempfänger (Name, Kontaktdaten)",
@@ -5374,7 +5897,7 @@
     "bsi-schutzbedarf": "hoch",
     "datenschutz_geprueft": true,
     "bsi_geprueft": true,
-    "verwendungen": 0,
+    "verwendungen": 1,
     "beschreibung": "Daten zu schulischen Ausflügen und mehrtägigen Klassenfahrten.",
     "felder": [
       "Schule",
@@ -5398,7 +5921,7 @@
     "bsi-schutzbedarf": "hoch",
     "datenschutz_geprueft": true,
     "bsi_geprueft": true,
-    "verwendungen": 0,
+    "verwendungen": 1,
     "beschreibung": "Bedarfsdaten zu persönlichem Schulbedarf und Lernmaterialien.",
     "felder": [
       "Schuljahr",
@@ -5422,7 +5945,7 @@
     "bsi-schutzbedarf": "normal",
     "datenschutz_geprueft": true,
     "bsi_geprueft": true,
-    "verwendungen": 8,
+    "verwendungen": 11,
     "beschreibung": "Daten zum Schulbesuch oder Ausbildungsstatus von Kindern, Jugendlichen oder jungen Erwachsenen.",
     "felder": [
       "Schule oder Ausbildungseinrichtung",
@@ -5470,7 +5993,7 @@
     "bsi-schutzbedarf": "hoch",
     "datenschutz_geprueft": true,
     "bsi_geprueft": true,
-    "verwendungen": 6,
+    "verwendungen": 3,
     "beschreibung": "Nachweis einer anerkannten Schwerbehinderung einschließlich Grad der Behinderung und Merkzeichen.",
     "felder": [
       "Ausweisnummer",
@@ -5479,6 +6002,32 @@
       "Gültigkeit",
       "Ausstellende Behörde",
       "Inhaber/in"
+    ]
+  },
+  {
+    "id": "dstore-schwerbehinderung-beschaeftigte",
+    "name": "Schwerbehinderung der Beschäftigten",
+    "einheit": "oe-amt-11",
+    "schutzstufe": "D",
+    "schutzbedarf": "hoch",
+    "vertraulichkeitsklasse": "vertraulich",
+    "bsi-vertraulichkeit": "hoch",
+    "bsi-integritaet": "normal",
+    "bsi-verfuegbarkeit": "normal",
+    "bsi-schutzbedarf": "hoch",
+    "datenschutz_geprueft": false,
+    "bsi_geprueft": false,
+    "verwendungen": 2,
+    "beschreibung": "Anerkannte Schwerbehinderung oder Gleichstellung von Beschäftigten der Kommune, soweit die Personalstelle sie für Zusatzurlaub, Beteiligung der Schwerbehindertenvertretung und die Anzeige zur Beschäftigungsquote benötigt.",
+    "felder": [
+      "Name und Personalnummer",
+      "Grad der Behinderung",
+      "Merkzeichen",
+      "Gültigkeit des Nachweises",
+      "Gleichstellung nach § 2 Abs. 3 SGB IX",
+      "daraus folgende Ansprüche (Zusatzurlaub, Arbeitsplatzausstattung)",
+      "Datum der Vorlage",
+      "Beteiligung der Schwerbehindertenvertretung"
     ]
   },
   {
@@ -5530,6 +6079,29 @@
     ]
   },
   {
+    "id": "dstore-sicherheitsakte",
+    "name": "Sicherheitsakte",
+    "einheit": "oe-amt-10",
+    "schutzstufe": "D",
+    "schutzbedarf": "hoch",
+    "vertraulichkeitsklasse": "streng vertraulich",
+    "bsi-vertraulichkeit": "hoch",
+    "bsi-integritaet": "hoch",
+    "bsi-verfuegbarkeit": "normal",
+    "bsi-schutzbedarf": "hoch",
+    "datenschutz_geprueft": false,
+    "bsi_geprueft": false,
+    "verwendungen": 1,
+    "beschreibung": "Sicherheitsakte der zuständigen Stelle nach § 15 Abs. 1 Nds. SÜG über Personen, die mit einer sicherheitsempfindlichen Tätigkeit betraut werden sollen. Zu führen von einer von der Personalverwaltung personell und organisatorisch getrennten Stelle (§ 6 Abs. 2 Nds. SÜG).",
+    "felder": [
+      "betroffene Person (Stammdaten)",
+      "Art der Überprüfung und sicherheitsempfindliche Tätigkeit",
+      "Sicherheitserklärung",
+      "Verlauf und Abschluss der Überprüfung",
+      "Mitteilungen nach § 13 Abs. 2 Satz 2 Nds. SÜG (Umsetzung, Versetzung, Ausscheiden; Änderungen von Familienstand, Name, Wohnsitz, Staatsangehörigkeit; Anhaltspunkte für Abhängigkeiten oder Überschuldung; Straf- und Disziplinarsachen)"
+    ]
+  },
+  {
     "id": "dstore-sicherheitserkenntnisse",
     "name": "Sicherheitserkenntnisse (Sicherheitsüberprüfung)",
     "einheit": "oe-amt-10",
@@ -5565,7 +6137,7 @@
     "bsi-schutzbedarf": "hoch",
     "datenschutz_geprueft": true,
     "bsi_geprueft": true,
-    "verwendungen": 9,
+    "verwendungen": 5,
     "beschreibung": "Hinweis- oder Meldedaten zu Sicherheitsmängeln im öffentlichen Raum.",
     "felder": [
       "Ort",
@@ -5707,7 +6279,7 @@
     "bsi-schutzbedarf": "sehr hoch",
     "datenschutz_geprueft": true,
     "bsi_geprueft": true,
-    "verwendungen": 15,
+    "verwendungen": 18,
     "beschreibung": "Personenbezogene Daten im Rahmen von Sozialleistungsverfahren nach SGB.",
     "felder": [
       "Leistungsart",
@@ -5779,7 +6351,7 @@
     "bsi-schutzbedarf": "hoch",
     "datenschutz_geprueft": true,
     "bsi_geprueft": true,
-    "verwendungen": 10,
+    "verwendungen": 9,
     "beschreibung": "Staatsangehörigkeit und Aufenthaltsstatus einer Person.",
     "felder": [
       "Staatsangehörigkeit",
@@ -5920,7 +6492,7 @@
     "bsi-schutzbedarf": "sehr hoch",
     "datenschutz_geprueft": true,
     "bsi_geprueft": true,
-    "verwendungen": 6,
+    "verwendungen": 5,
     "beschreibung": "Steuerrelevante Daten für kommunale Steuern: Grundsteuer, Gewerbesteuer, Hundesteuer.",
     "felder": [
       "Steuernummer",
@@ -5928,6 +6500,52 @@
       "Bemessungsgrundlage",
       "Steuerbescheid",
       "Fälligkeit"
+    ]
+  },
+  {
+    "id": "dstore-stiftungsleistung",
+    "name": "Stiftungsleistung",
+    "einheit": "oe-amt-20",
+    "schutzstufe": "C",
+    "schutzbedarf": "normal",
+    "vertraulichkeitsklasse": "intern",
+    "bsi-vertraulichkeit": "normal",
+    "bsi-integritaet": "normal",
+    "bsi-verfuegbarkeit": "normal",
+    "bsi-schutzbedarf": "normal",
+    "datenschutz_geprueft": false,
+    "bsi_geprueft": false,
+    "verwendungen": 1,
+    "beschreibung": "Leistungen kommunaler Stiftungen an Empfängerinnen und Empfänger nach dem Stiftungszweck.",
+    "felder": [
+      "Empfängerin oder Empfänger",
+      "Stiftungszweck und Bewilligungsgrund",
+      "Höhe der Zuwendung",
+      "Auszahlung und Bankverbindung",
+      "Verwendungsnachweis"
+    ]
+  },
+  {
+    "id": "dstore-stoerungsmeldung-intern",
+    "name": "Störungsmeldung intern",
+    "einheit": "oe-amt-10",
+    "schutzstufe": "B",
+    "schutzbedarf": "normal",
+    "vertraulichkeitsklasse": "intern",
+    "bsi-vertraulichkeit": "normal",
+    "bsi-integritaet": "normal",
+    "bsi-verfuegbarkeit": "normal",
+    "bsi-schutzbedarf": "normal",
+    "datenschutz_geprueft": false,
+    "bsi_geprueft": false,
+    "verwendungen": 2,
+    "beschreibung": "Meldungen von Beschäftigten über Störungen der Haustechnik (Heizung, Licht, Sanitär, Aufzug) und der IT (Hardware, Software, Zugang, Netzwerk) und deren Bearbeitung.",
+    "felder": [
+      "meldende Person und dienstliche Kontaktdaten",
+      "Art, Ort und Umfang der Störung",
+      "betroffene Systeme oder Anlagen",
+      "Bearbeitung und Lösung",
+      "Zeitpunkte von Meldung und Erledigung"
     ]
   },
   {
@@ -5994,7 +6612,7 @@
     "bsi-schutzbedarf": "hoch",
     "datenschutz_geprueft": true,
     "bsi_geprueft": true,
-    "verwendungen": 0,
+    "verwendungen": 1,
     "beschreibung": "Daten zu sozialer und kultureller Teilhabe von Kindern und Jugendlichen.",
     "felder": [
       "Aktivität",
@@ -6018,7 +6636,7 @@
     "bsi-schutzbedarf": "hoch",
     "datenschutz_geprueft": true,
     "bsi_geprueft": true,
-    "verwendungen": 6,
+    "verwendungen": 4,
     "beschreibung": "Daten zur Terminvereinbarung und persönlichen Vorsprache in Verwaltungsverfahren.",
     "felder": [
       "Terminart",
@@ -6174,6 +6792,78 @@
     ]
   },
   {
+    "id": "dstore-tk-teilnehmerdaten",
+    "name": "Teilnehmerdaten Telekommunikationsanlage",
+    "einheit": "oe-amt-15",
+    "schutzstufe": "B",
+    "schutzbedarf": "normal",
+    "vertraulichkeitsklasse": "intern",
+    "bsi-vertraulichkeit": "normal",
+    "bsi-integritaet": "normal",
+    "bsi-verfuegbarkeit": "normal",
+    "bsi-schutzbedarf": "normal",
+    "datenschutz_geprueft": true,
+    "bsi_geprueft": false,
+    "verwendungen": 1,
+    "beschreibung": "Zuordnung der Beschäftigten zu ihren Nebenstellen. Grundlage des internen Teilnehmerverzeichnisses, das die Telefonzentrale pflegt (Prozess Schritt 05).",
+    "felder": [
+      "Name",
+      "Vorname",
+      "Nebenstellennummer",
+      "Kostenstelle",
+      "Organisationszugehörigkeit"
+    ]
+  },
+  {
+    "id": "dstore-tk-verbindungsdaten",
+    "name": "Verbindungsdaten Telekommunikationsanlage",
+    "einheit": "oe-amt-15",
+    "schutzstufe": "C",
+    "schutzbedarf": "hoch",
+    "vertraulichkeitsklasse": "vertraulich",
+    "bsi-vertraulichkeit": "hoch",
+    "bsi-integritaet": "normal",
+    "bsi-verfuegbarkeit": "normal",
+    "bsi-schutzbedarf": "hoch",
+    "datenschutz_geprueft": true,
+    "bsi_geprueft": false,
+    "verwendungen": 1,
+    "beschreibung": "Daten über dienstliche Verbindungen der Telekommunikationsanlage, einschließlich der Betriebs- und Revisionsdaten (Störungsmeldungen, Zugriffsprotokolle). Private Nutzung ist nicht gestattet (DV § 6 Abs. 2); private Verbindungsdaten entstehen deshalb nicht. Für Sonderanschlüsse (Personalrat, Schwerbehindertenvertretung, Datenschutzbeauftragter) werden keine Verbindungsdaten gespeichert (DV § 6 Abs. 4).",
+    "felder": [
+      "Kostenstelle",
+      "Rufnummer des rufenden Nebenanschlusses",
+      "angewählte Rufnummer",
+      "Datum und Uhrzeit (Gesprächsbeginn)",
+      "Gesprächsdauer",
+      "Gebühreneinheiten und Gebührenbetrag",
+      "Art der Verbindung (direkt, umgeleitet, Konferenz)",
+      "Störungsmeldungen",
+      "Zugriffsprotokoll: Datum, Uhrzeit, zugreifende Person, Anlass, Umfang"
+    ]
+  },
+  {
+    "id": "dstore-tk-voicemail",
+    "name": "Voice-Mail (Sprachspeicher)",
+    "einheit": "oe-amt-15",
+    "schutzstufe": "D",
+    "schutzbedarf": "hoch",
+    "vertraulichkeitsklasse": "vertraulich",
+    "bsi-vertraulichkeit": "hoch",
+    "bsi-integritaet": "normal",
+    "bsi-verfuegbarkeit": "normal",
+    "bsi-schutzbedarf": "hoch",
+    "datenschutz_geprueft": true,
+    "bsi_geprueft": false,
+    "verwendungen": 1,
+    "beschreibung": "Im Sprachspeicher der Telekommunikationsanlage hinterlassene Nachrichten von internen und externen Anrufenden. Es sind Kommunikationsinhalte.",
+    "felder": [
+      "Sprachnachricht (Audio)",
+      "Rufnummer der anrufenden Person, soweit übermittelt",
+      "Datum und Uhrzeit des Eingangs",
+      "Ziel-Nebenstelle"
+    ]
+  },
+  {
     "id": "dstore-todesbescheinigung",
     "name": "Todesbescheinigung",
     "einheit": "oe-amt-53",
@@ -6257,7 +6947,7 @@
     "bsi-schutzbedarf": "hoch",
     "datenschutz_geprueft": false,
     "bsi_geprueft": true,
-    "verwendungen": 7,
+    "verwendungen": 8,
     "beschreibung": "Daten zu Umweltschutzmaßnahmen: Naturschutz, Immissionsschutz, Gewässerschutz.",
     "felder": [
       "Schutzgebiet",
@@ -6548,7 +7238,7 @@
     "bsi-schutzbedarf": "hoch",
     "datenschutz_geprueft": true,
     "bsi_geprueft": true,
-    "verwendungen": 6,
+    "verwendungen": 3,
     "beschreibung": "Daten zum Bezug einer Rechnung oder Zahlung auf Vergabe- und Auftragsvorgänge.",
     "felder": [
       "Vergabenummer",
@@ -6597,7 +7287,7 @@
     "bsi-schutzbedarf": "hoch",
     "datenschutz_geprueft": true,
     "bsi_geprueft": true,
-    "verwendungen": 3,
+    "verwendungen": 2,
     "beschreibung": "Unterlagen zu öffentlichen Ausschreibungen und Vergabeverfahren.",
     "felder": [
       "Ausschreibungsnummer",
@@ -6768,7 +7458,7 @@
     "bsi-schutzbedarf": "hoch",
     "datenschutz_geprueft": true,
     "bsi_geprueft": true,
-    "verwendungen": 9,
+    "verwendungen": 10,
     "beschreibung": "Interne Vorgangsakte einer Behörde zu einem Verwaltungsvorgang.",
     "felder": [
       "Aktenzeichen",
@@ -6852,6 +7542,30 @@
     ]
   },
   {
+    "id": "dstore-videokonferenzdaten",
+    "name": "Videokonferenzdaten",
+    "einheit": "oe-amt-15",
+    "schutzstufe": "C",
+    "schutzbedarf": "normal",
+    "vertraulichkeitsklasse": "vertraulich",
+    "bsi-vertraulichkeit": "normal",
+    "bsi-integritaet": "normal",
+    "bsi-verfuegbarkeit": "normal",
+    "bsi-schutzbedarf": "normal",
+    "datenschutz_geprueft": false,
+    "bsi_geprueft": false,
+    "verwendungen": 1,
+    "beschreibung": "Daten, die bei Videokonferenzen der Verwaltung mit Beschäftigten und externen Teilnehmenden entstehen.",
+    "felder": [
+      "Teilnehmende (Name, Organisationseinheit)",
+      "Bild und Ton während der Konferenz",
+      "Chat- und Textnachrichten",
+      "Inhalte der Bildschirmfreigabe",
+      "technische Verbindungsdaten",
+      "ausnahmsweise Aufzeichnung mit Einwilligungen und Widerrufen"
+    ]
+  },
+  {
     "id": "dstore-videoueberwachungsaufzeichnung",
     "name": "Videoüberwachungsaufzeichnung",
     "einheit": "oe-amt-23",
@@ -6920,6 +7634,29 @@
       "Umfang der Vollmacht (Aufgabenkreise)",
       "Bestellungsbeschluss des Betreuungsgerichts",
       "Datum und Unterschrift"
+    ]
+  },
+  {
+    "id": "dstore-vorsorgekartei",
+    "name": "Vorsorgekartei (arbeitsmedizinische Vorsorge)",
+    "einheit": "oe-amt-11",
+    "schutzstufe": "D",
+    "schutzbedarf": "hoch",
+    "vertraulichkeitsklasse": "vertraulich",
+    "bsi-vertraulichkeit": "hoch",
+    "bsi-integritaet": "normal",
+    "bsi-verfuegbarkeit": "normal",
+    "bsi-schutzbedarf": "hoch",
+    "datenschutz_geprueft": false,
+    "bsi_geprueft": false,
+    "verwendungen": 1,
+    "beschreibung": "Vorsorgekartei des Arbeitgebers nach § 3 Abs. 4 ArbMedVV mit Angaben, dass, wann und aus welchen Anlässen arbeitsmedizinische Vorsorge stattgefunden hat.",
+    "felder": [
+      "Name und Personalnummer",
+      "Anlass der Vorsorge (Pflicht-, Angebots- oder Wunschvorsorge; Tätigkeit)",
+      "Datum der Vorsorge",
+      "Datum der nächsten Vorsorge",
+      "Vorsorgebescheinigung (nur Teilnahme, kein Befund)"
     ]
   },
   {
@@ -7008,7 +7745,7 @@
     "bsi-schutzbedarf": "hoch",
     "datenschutz_geprueft": true,
     "bsi_geprueft": true,
-    "verwendungen": 2,
+    "verwendungen": 1,
     "beschreibung": "Prüf- und Anspruchsdaten für die Erteilung eines Wohnberechtigungsscheins.",
     "felder": [
       "Antragsteller",
@@ -7174,7 +7911,7 @@
     "bsi-schutzbedarf": "normal",
     "datenschutz_geprueft": true,
     "bsi_geprueft": true,
-    "verwendungen": 1,
+    "verwendungen": 0,
     "beschreibung": "Technisches oder organisatorisches Merkmal zur eindeutigen Zuordnung einer Wohnung im Meldeverfahren.",
     "felder": [
       "Zuordnungsmerkmal",
@@ -7221,7 +7958,7 @@
     "bsi-schutzbedarf": "hoch",
     "datenschutz_geprueft": true,
     "bsi_geprueft": true,
-    "verwendungen": 2,
+    "verwendungen": 1,
     "beschreibung": "Angaben von Personen, die einen Schaden an einer öffentlichen Straße oder dessen Verursachung beobachtet haben.",
     "felder": [
       "Zeugin oder Zeuge mit Name und Kontaktdaten",
@@ -7244,7 +7981,7 @@
     "bsi-schutzbedarf": "hoch",
     "datenschutz_geprueft": true,
     "bsi_geprueft": true,
-    "verwendungen": 4,
+    "verwendungen": 3,
     "beschreibung": "Auskünfte der Polizei und der Verfassungsschutzbehörde, die im Rahmen einer gesetzlich angeordneten Zuverlässigkeitsprüfung eingeholt werden.",
     "felder": [
       "Betroffene Person",

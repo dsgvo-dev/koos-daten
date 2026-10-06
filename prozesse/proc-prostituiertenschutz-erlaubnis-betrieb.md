@@ -2,6 +2,7 @@
 id: proc-prostituiertenschutz-erlaubnis-betrieb
 titel: Prostituiertenschutzgesetz — Erlaubnis Betrieb und Stellvertretung
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-32
 zustaendigeRolle: Sachbearbeitung Ordnung und Gewerbe
 beteiligte: []

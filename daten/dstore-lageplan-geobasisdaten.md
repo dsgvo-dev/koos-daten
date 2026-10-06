@@ -1,5 +1,6 @@
 ---
 id: dstore-lageplan-geobasisdaten
+bereich: extern
 typ: datenspeicher
 system: null
 name: Lageplan und Geobasisdaten

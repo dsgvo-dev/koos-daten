@@ -1,5 +1,6 @@
 ---
 id: dstore-unterbringung-npsychkg
+bereich: extern
 typ: datenspeicher
 system: null
 name: Unterbringungsverfahren nach NPsychKG

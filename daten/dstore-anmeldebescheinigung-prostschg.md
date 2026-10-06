@@ -1,5 +1,6 @@
 ---
 id: dstore-anmeldebescheinigung-prostschg
+bereich: extern
 typ: datenspeicher
 system: null
 name: Anmeldebescheinigung und Aliasname nach ProstSchG

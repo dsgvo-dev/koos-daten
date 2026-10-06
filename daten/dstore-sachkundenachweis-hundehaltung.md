@@ -1,5 +1,6 @@
 ---
 id: dstore-sachkundenachweis-hundehaltung
+bereich: extern
 typ: datenspeicher
 system: null
 name: Sachkundenachweis Hundehaltung

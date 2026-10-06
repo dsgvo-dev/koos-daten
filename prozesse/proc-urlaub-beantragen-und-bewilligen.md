@@ -2,6 +2,7 @@
 id: proc-urlaub-beantragen-und-bewilligen
 titel: Urlaub beantragen und bewilligen
 status: aktiv
+bereich: intern
 zustaendigeEinheit: oe-amt-11
 zustaendigeRolle: ''
 beteiligte:
@@ -14,7 +15,7 @@ daten:
   - id: dstore-urlaubs-und-abwesenheitsdaten
   - id: dstore-personalakte
   - id: dstore-arbeitsverhaeltnis-beschaeftigung
-  - id: dstore-schwerbehindertennachweis
+  - id: dstore-schwerbehinderung-beschaeftigte
 regelungen:
 - Art. 6 Abs. 1 lit. b) DSGVO - Arbeitsverhältnisse
 - Art. 6 Abs. 1 lit. c) DSGVO - Beamtenverhältnisse

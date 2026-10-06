@@ -1,5 +1,6 @@
 ---
 id: dstore-hunderegisterdaten
+bereich: extern
 typ: datenspeicher
 system: null
 name: Hunderegisterdaten

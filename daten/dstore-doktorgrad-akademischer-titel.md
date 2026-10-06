@@ -1,5 +1,6 @@
 ---
 id: dstore-doktorgrad-akademischer-titel
+bereich: extern
 typ: datenspeicher
 system: null
 name: Doktorgrad und akademischer Titel

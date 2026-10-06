@@ -1,5 +1,6 @@
 ---
 id: dstore-erwerbseinkommen-bemessungszeitraum
+bereich: extern
 typ: datenspeicher
 system: null
 name: Erwerbseinkommen im Bemessungszeitraum

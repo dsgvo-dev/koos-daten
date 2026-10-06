@@ -2,6 +2,7 @@
 id: proc-sterbefall-anzeigen-sterbefallbeurkundung
 titel: Sterbefall anzeigen (Sterbefallbeurkundung)
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-31
 zustaendigeRolle: ''
 beteiligte:

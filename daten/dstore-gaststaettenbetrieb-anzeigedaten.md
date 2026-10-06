@@ -1,5 +1,6 @@
 ---
 id: dstore-gaststaettenbetrieb-anzeigedaten
+bereich: extern
 typ: datenspeicher
 system: null
 name: Gaststättenbetrieb Anzeigedaten

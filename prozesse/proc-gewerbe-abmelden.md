@@ -2,6 +2,7 @@
 id: proc-gewerbe-abmelden
 titel: Gewerbe abmelden
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-32
 zustaendigeRolle: ''
 beteiligte: []

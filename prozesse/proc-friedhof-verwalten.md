@@ -2,6 +2,7 @@
 id: proc-friedhof-verwalten
 titel: Friedhof und Krematorium verwalten
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-66
 zustaendigeRolle: sachbearbeiter
 daten:

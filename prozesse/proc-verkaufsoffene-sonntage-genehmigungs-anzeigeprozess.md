@@ -2,6 +2,7 @@
 id: proc-verkaufsoffene-sonntage-genehmigungs-anzeigeprozess
 titel: Verkaufsoffene Sonntage (Genehmigungs-/Anzeigeprozess)
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-32
 zustaendigeRolle: ''
 beteiligte:

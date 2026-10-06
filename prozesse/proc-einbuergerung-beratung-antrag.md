@@ -2,6 +2,7 @@
 id: proc-einbuergerung-beratung-antrag
 titel: 'Einbürgerung: Beratung/Antrag'
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-47
 zustaendigeRolle: ''
 beteiligte:

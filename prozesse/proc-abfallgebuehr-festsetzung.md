@@ -2,6 +2,7 @@
 id: proc-abfallgebuehr-festsetzung
 titel: Abfallgebühr Festsetzung
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-22
 zustaendigeRolle: ''
 beteiligte:

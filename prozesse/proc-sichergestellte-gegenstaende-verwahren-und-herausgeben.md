@@ -2,6 +2,7 @@
 id: proc-sichergestellte-gegenstaende-verwahren-und-herausgeben
 titel: Sichergestellte Gegenstände verwahren und herausgeben
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-20
 zustaendigeRolle: ''
 beteiligte:

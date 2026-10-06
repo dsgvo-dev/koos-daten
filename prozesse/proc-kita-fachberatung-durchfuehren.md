@@ -2,6 +2,7 @@
 id: proc-kita-fachberatung-durchfuehren
 titel: Fachberatung für Kindertageseinrichtungen durchführen
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-51
 zustaendigeRolle: fachberatung
 beteiligte:

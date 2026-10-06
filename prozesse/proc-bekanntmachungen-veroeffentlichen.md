@@ -2,6 +2,7 @@
 id: proc-bekanntmachungen-veroeffentlichen
 titel: Bekanntmachungen veröffentlichen
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-1-1
 zustaendigeRolle: ''
 beteiligte:

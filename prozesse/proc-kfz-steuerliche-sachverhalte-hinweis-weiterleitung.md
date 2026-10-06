@@ -2,6 +2,7 @@
 id: proc-kfz-steuerliche-sachverhalte-hinweis-weiterleitung
 titel: Kfz-Steuerliche Sachverhalte (Hinweis/Weiterleitung)
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-22
 zustaendigeRolle: ''
 beteiligte:

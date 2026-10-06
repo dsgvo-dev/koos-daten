@@ -1,5 +1,6 @@
 ---
 id: dstore-social-media-interaktion
+bereich: extern
 typ: datenspeicher
 system: null
 name: Social-Media-Interaktion und Seiten-Insights

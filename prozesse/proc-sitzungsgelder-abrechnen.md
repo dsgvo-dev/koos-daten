@@ -2,6 +2,7 @@
 id: proc-sitzungsgelder-abrechnen
 titel: Sitzungsgelder und Entschädigungen der Vertretung abrechnen
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-10
 zustaendigeRolle: ''
 beteiligte:
@@ -17,7 +18,7 @@ daten:
   - id: dstore-kontaktdaten
   - id: dstore-bankverbindung
   - id: dstore-steuerdaten
-  - id: dstore-abrechnungsdaten
+  - id: dstore-aufwandsentschaedigung-ehrenamt
   - id: dstore-sitzungsprotokoll
   - id: dstore-ehrenamtsdaten
 regelungen:
@@ -31,7 +32,7 @@ regelungen:
 - § 147 AO und NKomHKVO - Aufbewahrung
 leika_id: null
 ozg_id: null
-letzte-aktualisierung: '2026-07-29'
+letzte-aktualisierung: '2026-10-06'
 ---
 
 # Sitzungsgelder und Entschädigungen der Vertretung abrechnen

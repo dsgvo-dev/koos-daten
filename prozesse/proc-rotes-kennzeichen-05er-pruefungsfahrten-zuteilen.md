@@ -2,6 +2,7 @@
 id: proc-rotes-kennzeichen-05er-pruefungsfahrten-zuteilen
 titel: Rotes Fahrzeugkennzeichen (05er) für Prüfungsfahrten zuteilen
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-34
 zustaendigeRolle: ''
 beteiligte:

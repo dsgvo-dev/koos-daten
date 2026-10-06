@@ -2,6 +2,7 @@
 id: proc-waffenbesitzkarte-fuer-waffen-und-munitionssachverstaendige
 titel: Waffenbesitzkarte für Waffen- und Munitionssachverständige
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-32
 zustaendigeRolle: ''
 beteiligte:

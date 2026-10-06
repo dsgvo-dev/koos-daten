@@ -2,6 +2,7 @@
 id: proc-neuzulassung-eines-kraftfahrzeugs-aus-einem-eu-land
 titel: Neuzulassung eines Kraftfahrzeugs aus einem EU-Land
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-34
 zustaendigeRolle: ''
 beteiligte:

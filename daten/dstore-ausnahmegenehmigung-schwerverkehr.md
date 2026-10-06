@@ -1,5 +1,6 @@
 ---
 id: dstore-ausnahmegenehmigung-schwerverkehr
+bereich: extern
 typ: datenspeicher
 system: null
 name: Ausnahmegenehmigung Schwerverkehr

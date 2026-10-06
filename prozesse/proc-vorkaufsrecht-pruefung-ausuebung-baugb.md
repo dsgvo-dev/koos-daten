@@ -2,6 +2,7 @@
 id: proc-vorkaufsrecht-pruefung-ausuebung-baugb
 titel: 'Vorkaufsrecht: Prüfung/Ausübung (BauGB)'
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-61
 zustaendigeRolle: ''
 beteiligte:

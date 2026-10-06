@@ -1,5 +1,6 @@
 ---
 id: dstore-steuerdaten
+bereich: extern
 typ: datenspeicher
 system: null
 name: Steuerdaten

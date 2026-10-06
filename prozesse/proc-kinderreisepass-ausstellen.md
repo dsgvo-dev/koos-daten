@@ -2,6 +2,7 @@
 id: proc-kinderreisepass-ausstellen
 titel: Kinderreisepass ausstellen
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-33
 zustaendigeRolle: ''
 beteiligte: []

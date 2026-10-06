@@ -2,6 +2,7 @@
 id: proc-ablieferungsfrist-ueberschuesse-aus-pfandverwertung-verlaengern
 titel: Ablieferungsfrist Überschüsse aus Pfandverwertung verlängern
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-32
 zustaendigeRolle: ''
 beteiligte: []

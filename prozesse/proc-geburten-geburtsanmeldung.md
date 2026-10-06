@@ -2,6 +2,7 @@
 id: proc-geburten-geburtsanmeldung
 titel: Geburten, Geburtsanmeldung
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-31
 zustaendigeRolle: ''
 beteiligte:

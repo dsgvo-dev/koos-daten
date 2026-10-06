@@ -1,5 +1,6 @@
 ---
 id: dstore-ausweisdokument
+bereich: extern
 typ: datenspeicher
 system: null
 name: Ausweisdokument

@@ -2,6 +2,7 @@
 id: proc-uebermittlungssperre-beantragen
 titel: Übermittlungssperre beantragen
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-33
 zustaendigeRolle: ''
 beteiligte: []

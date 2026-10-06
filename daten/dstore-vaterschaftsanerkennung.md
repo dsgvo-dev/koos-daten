@@ -1,5 +1,6 @@
 ---
 id: dstore-vaterschaftsanerkennung
+bereich: extern
 typ: datenspeicher
 system: null
 name: Vaterschaftsanerkennung

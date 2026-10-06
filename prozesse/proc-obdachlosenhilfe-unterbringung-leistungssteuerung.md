@@ -2,6 +2,7 @@
 id: proc-obdachlosenhilfe-unterbringung-leistungssteuerung
 titel: Obdachlosenhilfe (Unterbringung/Leistungssteuerung)
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-50
 zustaendigeRolle: ''
 beteiligte:

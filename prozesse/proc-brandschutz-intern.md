@@ -2,6 +2,7 @@
 id: proc-brandschutz-intern
 titel: Brandschutz und Evakuierung organisieren (intern)
 status: aktiv
+bereich: intern
 zustaendigeEinheit: oe-amt-10
 zustaendigeRolle: brandschutzbeauftragte
 beteiligte:
@@ -19,8 +20,7 @@ beteiligte:
   aufgabe: Freistellung für Unterweisungen, Benennung Brandschutzhelfer
 daten:
   datenspeicher:
-  - dstore-brandschutznachweis
-  - dstore-feuerwehrzufahrt-aufstellflaechen
+  - dstore-brandschutzorganisation
 regelungen:
 - ArbStättV §§ 10–12 (Fluchtwege, Brandschutz)
 - DGUV Vorschrift 1 (Prävention)
@@ -28,7 +28,7 @@ regelungen:
 - NBrandSchG / Landesfeuerwehrgesetz
 leika_id: ''
 ozg_id: ''
-letzte-aktualisierung: '2026-08-04'
+letzte-aktualisierung: '2026-10-05'
 ---
 
 # Brandschutz und Evakuierung organisieren

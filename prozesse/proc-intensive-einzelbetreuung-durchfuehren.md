@@ -2,6 +2,7 @@
 id: proc-intensive-einzelbetreuung-durchfuehren
 titel: Intensive sozialpädagogische Einzelbetreuung durchführen
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-51
 zustaendigeRolle: fallfuehrung
 beteiligte:

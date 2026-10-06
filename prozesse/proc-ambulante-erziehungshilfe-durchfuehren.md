@@ -2,6 +2,7 @@
 id: proc-ambulante-erziehungshilfe-durchfuehren
 titel: Ambulante Erziehungshilfe durchführen
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-51
 zustaendigeRolle: fallfuehrung
 beteiligte:

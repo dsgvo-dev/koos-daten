@@ -2,6 +2,7 @@
 id: proc-satzung-erlassen
 titel: Satzung erlassen
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-1-1
 zustaendigeRolle: ''
 beteiligte:

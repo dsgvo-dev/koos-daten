@@ -2,6 +2,7 @@
 id: proc-reisegewerbe-anmelden
 titel: Reisegewerbe anmelden
 status: ersetzt
+bereich: extern
 ersetzt-durch: proc-reisegewerbekarte-beantragen
 zustaendigeEinheit: oe-amt-38
 zustaendigeRolle: ''

@@ -2,6 +2,7 @@
 id: proc-kassenpruefung-durchfuehren
 titel: Kassenprüfung durchführen
 status: aktiv
+bereich: intern
 zustaendigeEinheit: oe-amt-20
 zustaendigeRolle: ''
 beteiligte: []
@@ -11,13 +12,11 @@ daten:
   datenspeicher:
   - id: dstore-abrechnungsdaten
   - id: dstore-debitoren-kreditorendaten
-  - id: dstore-kassenzeichen-buchungsreferenz
-  - id: dstore-verwaltungsakte
 regelungen:
 - '§§ 110-124 NKomVG (Haushaltswirtschaft)'
 - '§ 113 NKomVG (Haushaltsplan)'
 - '§§ 1 ff. Gemeindehaushalts- und -kassenverordnung Nds. (GemHKVO)'
-letzte-aktualisierung: 2026-04-29
+letzte-aktualisierung: '2026-10-05'
 ---
 # Kassenprüfung durchführen
 

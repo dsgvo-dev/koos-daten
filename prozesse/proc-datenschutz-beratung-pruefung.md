@@ -2,6 +2,7 @@
 id: proc-datenschutz-beratung-pruefung
 titel: Datenschutzberatung und Verfahrensprüfung
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-1-4
 zustaendigeRolle: Datenschutzbeauftragte/r
 
@@ -14,8 +15,7 @@ daten:
     - Datenschutzgutachten und Stellungnahmen
     - Meldungen an die Aufsichtsbehörde (LfD)
     - Datenschutzeinweisungen
-  datenspeicher:
-    - id: dstore-datenschutzeinweisung
+  datenspeicher: []
 
 regelungen:
   - DSGVO (Datenschutz-Grundverordnung)
@@ -23,7 +23,7 @@ regelungen:
   - NDSG (Niedersächsisches Datenschutzgesetz)
   - NKomVG §7 (Gemeindliche Selbstverwaltung, Datenschutz)
 
-letzte-aktualisierung: 2026-04-23
+letzte-aktualisierung: '2026-10-06'
 ---
 # Datenschutzberatung und Verfahrensprüfung
 

@@ -2,6 +2,7 @@
 id: proc-fahrverbot-sonn-und-feiertagsfahrverbot-ausnahmegenehmigung
 titel: 'Fahrverbot (Sonn- und Feiertagsfahrverbot): Ausnahmegenehmigung'
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-34
 zustaendigeRolle: ''
 beteiligte: []

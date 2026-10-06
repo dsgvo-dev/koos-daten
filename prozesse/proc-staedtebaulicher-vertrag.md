@@ -2,6 +2,7 @@
 id: proc-staedtebaulicher-vertrag
 titel: Städtebaulicher Vertrag
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-61
 zustaendigeRolle: ''
 beteiligte: []

@@ -3,7 +3,8 @@ id: proc-telefonie-einrichten-und-betreiben
 titel: Telekommunikationsanlage einrichten und betreiben
 typ: Prozess
 status: aktiv
-zustaendigeEinheit: oe-amt-1-5
+bereich: intern
+zustaendigeEinheit: oe-amt-15
 beteiligte:
   - einheit: oe-amt-1-4
     aufgabe: >-

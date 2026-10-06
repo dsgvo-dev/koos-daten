@@ -1,5 +1,6 @@
 ---
 id: dstore-umweltdaten
+bereich: extern
 typ: datenspeicher
 system: null
 name: Umweltdaten

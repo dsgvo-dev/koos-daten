@@ -1,5 +1,6 @@
 ---
 id: dstore-polizeiliche-verlustmeldung
+bereich: extern
 typ: datenspeicher
 system: null
 name: Polizeiliche Verlustmeldung

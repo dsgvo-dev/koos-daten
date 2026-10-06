@@ -2,6 +2,7 @@
 id: proc-stoerung-haustechnik
 titel: Störung der Haustechnik melden (Heizung, Licht, Sanitär, Aufzug)
 status: aktiv
+bereich: intern
 zustaendigeEinheit: oe-amt-10
 zustaendigeRolle: sachbearbeiter
 beteiligte:
@@ -13,8 +14,7 @@ beteiligte:
   aufgabe: Freigabe von Sofortmaßnahmen außerhalb der Dienstzeit
 daten:
   datenspeicher:
-  - dstore-sicherheitsmangelmeldung
-  - dstore-beschwerde-anregungsdaten
+  - dstore-stoerungsmeldung-intern
 regelungen:
 - Dienstanweisung Gebäudemanagement
 - Arbeitsstättenverordnung (ArbStättV)
@@ -23,7 +23,7 @@ regelungen:
 - Wartungsverträge der Fachfirmen
 leika_id: ''
 ozg_id: ''
-letzte-aktualisierung: '2026-08-04'
+letzte-aktualisierung: '2026-10-05'
 ---
 
 # Störung der Haustechnik melden

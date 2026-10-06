@@ -2,6 +2,7 @@
 id: proc-gewerbesteuer-bezahlen
 titel: Gewerbesteuer bezahlen
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-32
 zustaendigeRolle: ''
 beteiligte:

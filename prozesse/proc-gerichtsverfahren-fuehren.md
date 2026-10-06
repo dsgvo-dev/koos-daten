@@ -2,6 +2,7 @@
 id: proc-gerichtsverfahren-fuehren
 titel: Gerichtsverfahren führen
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-30
 zustaendigeRolle: ''
 beteiligte: []

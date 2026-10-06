@@ -2,6 +2,7 @@
 id: proc-erlaubnis-zum-verbringen-von-schusswaffen-oder-munition
 titel: Erlaubnis zum Verbringen von Schusswaffen oder Munition
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-32
 zustaendigeRolle: ''
 beteiligte:

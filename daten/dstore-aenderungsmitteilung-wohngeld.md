@@ -1,5 +1,6 @@
 ---
 id: dstore-aenderungsmitteilung-wohngeld
+bereich: extern
 typ: datenspeicher
 system: null
 name: Änderungsmitteilung Wohngeld

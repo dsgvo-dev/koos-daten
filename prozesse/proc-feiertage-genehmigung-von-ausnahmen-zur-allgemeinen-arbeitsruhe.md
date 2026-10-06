@@ -2,6 +2,7 @@
 id: proc-feiertage-genehmigung-von-ausnahmen-zur-allgemeinen-arbeitsruhe
 titel: 'Feiertage: Genehmigung von Ausnahmen zur allgemeinen Arbeitsruhe'
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-32
 zustaendigeRolle: ''
 beteiligte:

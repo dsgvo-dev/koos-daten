@@ -2,6 +2,7 @@
 id: proc-leistungsvereinbarung-jugendhilfe-schliessen
 titel: Leistungsvereinbarungen mit freien Trägern schließen
 status: aktiv
+bereich: extern
 zustaendigeEinheit: oe-amt-51
 zustaendigeRolle: sachbearbeiter
 beteiligte:
