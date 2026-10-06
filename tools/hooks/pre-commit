@@ -1,0 +1,55 @@
+#!/bin/bash
+# pre-commit — KOOS-Bestand: kein Commit mit ungültigem YAML (Claude, 03.10.2026, Freigabe Martin)
+# Prüft die zum Commit vorgemerkte Fassung (Index) jeder .md-Datei mit Frontmatter
+# und jeder .yaml/.yml-Datei. Bei einem Fehler bricht der Commit ab.
+# Neu 06.10.2026: P4 — bereich-Feld in Prozessen und Datenspeichern.
+cd "$(git rev-parse --show-toplevel)" || exit 1
+PY="../_server/.venv/bin/python"
+[ -x "$PY" ] || PY="python3"
+DATEIEN=$(git diff --cached --name-only --diff-filter=ACMR -- '*.md' '*.yaml' '*.yml')
+[ -z "$DATEIEN" ] && exit 0
+printf '%s\n' $DATEIEN | "$PY" -c '
+import re, subprocess, sys
+try:
+    import yaml
+except ImportError:
+    sys.exit("pre-commit: pyyaml fehlt — Commit abgebrochen (pip install pyyaml)")
+fehler = []
+p4_fehler = []
+for pfad in sys.stdin.read().split():
+    text = subprocess.run(["git", "show", ":" + pfad], capture_output=True, text=True).stdout
+    if pfad.endswith((".yaml", ".yml")):
+        teil = text
+    else:
+        m = re.match(r"^---\n(.*?)\n---[ \t]*(\n|$)", text, re.S)
+        if not m:
+            continue
+        teil = m.group(1)
+    try:
+        meta = yaml.safe_load(teil)
+    except Exception as e:
+        mark = getattr(e, "problem_mark", None)
+        zeile = (mark.line + 1 + (0 if pfad.endswith((".yaml", ".yml")) else 1)) if mark else "?"
+        grund = getattr(e, "problem", None) or str(e).splitlines()[0]
+        fehler.append(f"  {pfad}, Zeile {zeile}: {grund}")
+        continue
+
+    # P4: bereich in Prozessen und Datenspeichern (neu 06.10.2026)
+    if pfad.startswith("prozesse/proc-") or pfad.startswith("daten/dstore-"):
+        b = meta.get("bereich")
+        if b is None:
+            p4_fehler.append(f"  {pfad}: Feld bereich fehlt")
+        elif b not in ("intern", "extern"):
+            p4_fehler.append(f"  {pfad}: bereich={b!r} (erwartet intern|extern)")
+
+if fehler:
+    print("pre-commit: ungültiges YAML — Commit abgebrochen:")
+    print("\n".join(fehler))
+    print("Werte mit Doppelpunkt in Anführungszeichen setzen: hinweis: \x27… NBG: …\x27")
+    sys.exit(1)
+if p4_fehler:
+    print("pre-commit P4: Bereich fehlt oder ungültig — Commit abgebrochen:")
+    print("\n".join(p4_fehler))
+    print("Jeder Prozess und Datenspeicher braucht bereich: intern oder extern.")
+    sys.exit(1)
+'

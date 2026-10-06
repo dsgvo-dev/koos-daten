@@ -4,6 +4,9 @@ Ein dateibasiertes Wissensystem für Kommunalverwaltungen.
 
 > **Datenformat-Repo.** Die Referenzimplementierung (Server + Browser-Oberfläche) liegt unter
 > [github.com/dsgvo-dev/koos-server](https://github.com/dsgvo-dev/koos-server).
+>
+> **Pre-Commit-Hook:** YAML- und P4-Prüfung (`tools/hooks/pre-commit`).
+> Nach `git clone`: `git config core.hooksPath tools/hooks` setzen.
 
 ---
 
