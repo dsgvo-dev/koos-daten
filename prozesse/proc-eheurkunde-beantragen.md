@@ -1,6 +1,6 @@
 ---
 id: proc-eheurkunde-beantragen
-titel: Eheurkunde beantragen
+titel: Eheurkunde ausstellen
 status: aktiv
 bereich: extern
 zustaendigeEinheit: oe-amt-31
@@ -8,6 +8,8 @@ zustaendigeRolle: ''
 beteiligte:
 - einheit: oe-amt-20
   aufgabe: ''
+- rolle: antragstellende-person
+  aufgabe: Initiator und Ergebnisempfänger
 daten:
   input: []
   output: []
@@ -26,30 +28,35 @@ regelungen:
 - § 50 Absatz 1 Personenstandsverordnung (PStV)
 leika_id: '99059004012000'
 ozg_id: null
-letzte-aktualisierung: '2026-07-10'
+letzte-aktualisierung: '2026-10-07'
 ---
 
-# Eheurkunde beantragen
+# Eheurkunde ausstellen
 
 ## Prozessschritte
 
-**01 Voraussetzungen klären**  
-*Persönliche und rechtliche Voraussetzungen für die beantragte Leistung prüfen*
+**01 Antrag stellen**  
+*Antragstellende Person: Urkunde beantragen, Berechtigung nachweisen (§ 62 PStG)*
 
-**02 Unterlagen zusammenstellen**  
-*Alle erforderlichen Dokumente, Nachweise und Formulare zusammenstellen*
+**02 Antragseingang prüfen**  
+*Vollständigkeit der Unterlagen*
 
-**03 Antrag stellen**  
-*Antrag vollständig ausgefüllt und mit Unterlagen bei zuständiger Stelle einreichen*
+**03 Eheregister abgleichen**  
+*Eintrag existiert?*
 
-**04 Vollständigkeitsprüfung**  
-*Behörde prüft Vollständigkeit des Antrags; ggf. Nachforderung fehlender Unterlagen*
+**04 Berechtigung prüfen**  
+*Rechtsgrundlage: § 62 PStG*
 
-**05 Sachprüfung**  
-*Inhaltliche Prüfung der Antragsvoraussetzungen durch zuständige Sachbearbeitung*
+**05 Urkunde erstellen**  
+*Amtliche Form, Stempel, Unterschrift (§ 57 PStG)*
 
-**06 Bescheid**  
-*Bewilligung oder Ablehnung mit Begründung und Rechtsmittelbelehrung*
+**06 Gebühren berechnen**  
+*Je nach Anzahl der Exemplare*
 
+**07 Aushändigung**  
+*Persönlich oder per Post*
 
-*Quelle: Allgemeine Verwaltungspraxis*
+**08 Urkunde erhalten**  
+*Antragstellende Person*
+
+*Zusammengeführt am 07.10.2026 mit `proc-urkunde-eheurkunde-beantragen` (ein Prozess je Leistung, FIM-Leistungsschlüssel 99059004012000; Titel-Kandidat T2, Entscheidung Martin 07.10.2026).*

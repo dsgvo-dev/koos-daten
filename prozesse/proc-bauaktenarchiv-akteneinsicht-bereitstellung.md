@@ -1,6 +1,6 @@
 ---
 id: proc-bauaktenarchiv-akteneinsicht-bereitstellung
-titel: 'Bauaktenarchiv: Akteneinsicht/Bereitstellung'
+titel: Einsicht in Bauakten gewähren
 status: aktiv
 bereich: extern
 zustaendigeEinheit: oe-amt-63
@@ -10,6 +10,10 @@ beteiligte:
   aufgabe: ''
 - einheit: oe-amt-15
   aufgabe: ''
+- einheit: oe-amt-30
+  aufgabe: ''
+- rolle: antragstellende-person
+  aufgabe: Initiator und Ergebnisempfänger
 daten:
   input: []
   output: []
@@ -18,29 +22,32 @@ daten:
   - id: dstore-grundstuecksbezug
   - id: dstore-lageplan-geobasisdaten
 regelungen:
-- '§ 1 Nds. Informationszugangsgesetz (NDIG)'
-- '§ 29 VwVfG (Akteneinsicht)'
-- '§§ 59 ff. NBauO'
-letzte-aktualisierung: 2026-04-06
+- § 1 Nds. Informationszugangsgesetz (NDIG)
+- § 29 VwVfG (Akteneinsicht)
+- §§ 59 ff. NBauO
+letzte-aktualisierung: '2026-10-07'
 ---
-# Bauaktenarchiv: Akteneinsicht/Bereitstellung
+
+# Einsicht in Bauakten gewähren
 
 ## Prozessschritte
 
-**01 Inhalt aufbereiten**  
-*Relevante Informationen aus Fachabteilungen zusammenstellen und aufbereiten*
+**01 Antrag stellen**  
+*Antragstellende Person: Grundstück benennen; Eigentum, Vollmacht der Eigentümerin oder des Eigentümers oder berechtigtes Interesse darlegen*
 
-**02 Aktualität prüfen**  
-*Vollständigkeit und Aktualität der Inhalte sicherstellen*
+**02 Berechtigung prüfen**  
+*Eigentum, Vollmacht oder berechtigtes Interesse*
 
-**03 Freigabe einholen**  
-*Inhalte durch zuständige Stellen freigeben lassen*
+**03 Akte heraussuchen**  
+*Bauaktenarchiv*
 
-**04 Veröffentlichen**  
-*Informationen über geeignete Kanäle (Website, Aushang, Verteiler) bereitstellen*
+**04 Einsicht gewähren oder Kopien bereitstellen**  
+*Vor Ort oder digital*
 
-**05 Pflege / Aktualisierung**  
-*Regelmäßige Überprüfung und Aktualisierung der Inhalte sicherstellen*
+**05 Gebühren erheben**  
+*Nach Gebührensatzung*
 
+**06 Einsicht erhalten**  
+*Antragstellende Person*
 
-*Quelle: Allgemeine Verwaltungspraxis*
+*Zusammengeführt am 07.10.2026 mit `proc-bauaktenarchiv-akteneinsicht-beantragen` (ein Prozess je Leistung; Titel-Kandidat T6, Entscheidung Martin 07.10.2026).*

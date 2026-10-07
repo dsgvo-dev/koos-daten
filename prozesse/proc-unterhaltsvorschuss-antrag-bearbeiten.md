@@ -1,6 +1,6 @@
 ---
 id: proc-unterhaltsvorschuss-antrag-bearbeiten
-titel: Unterhaltsvorschuss (Antrag bearbeiten)
+titel: Unterhaltsvorschuss bewilligen
 status: aktiv
 bereich: extern
 zustaendigeEinheit: oe-amt-51
@@ -10,6 +10,8 @@ beteiligte:
   aufgabe: ''
 - einheit: oe-amt-20
   aufgabe: ''
+- rolle: antragstellende-person
+  aufgabe: Initiator und Ergebnisempfänger
 daten:
   input: []
   output: []
@@ -25,30 +27,33 @@ regelungen:
 - § 1612a Absatz 1 Satz 3 Nummer 1, 2 oder 3 Bürgerliches Gesetzbuch (BGB)
 leika_id: '99107021017000'
 ozg_id: '10035'
-letzte-aktualisierung: '2026-07-10'
+letzte-aktualisierung: '2026-10-06'
 ---
 
-# Unterhaltsvorschuss (Antrag bearbeiten)
+# Unterhaltsvorschuss bewilligen
 
 ## Prozessschritte
 
-**01 Voraussetzungen klären**  
-*Persönliche und rechtliche Voraussetzungen für die beantragte Leistung prüfen*
+**01 Antrag stellen**  
+*Antragstellende Person: alleinerziehender Elternteil für das Kind, mit Nachweisen*
 
-**02 Unterlagen zusammenstellen**  
-*Alle erforderlichen Dokumente, Nachweise und Formulare zusammenstellen*
+**02 Vollständigkeitsprüfung**  
+*Eingang und Vollständigkeit der Unterlagen; ggf. Nachforderung*
 
-**03 Antrag stellen**  
-*Antrag vollständig ausgefüllt und mit Unterlagen bei zuständiger Stelle einreichen*
+**03 Voraussetzungen prüfen**  
+*Rechtsgrundlage: § 1 UVG; Unterhaltsleistungen des anderen Elternteils*
 
-**04 Vollständigkeitsprüfung**  
-*Behörde prüft Vollständigkeit des Antrags; ggf. Nachforderung fehlender Unterlagen*
+**04 Bescheid erteilen**  
+*Bewilligung oder Ablehnung mit Rechtsbehelfsbelehrung (§ 9 UVG)*
 
-**05 Sachprüfung**  
-*Inhaltliche Prüfung der Antragsvoraussetzungen durch zuständige Sachbearbeitung*
+**05 Bescheid erhalten**  
+*Antragstellende Person*
 
-**06 Bescheid**  
-*Bewilligung oder Ablehnung mit Begründung und Rechtsmittelbelehrung*
+**06 Leistung auszahlen**  
+*Monatlich*
+
+**07 Rückgriff**  
+*Übergegangenen Unterhaltsanspruch gegenüber dem anderen Elternteil geltend machen (§ 7 UVG)*
 
 
-*Quelle: Allgemeine Verwaltungspraxis*
+*Zusammengeführt am 06.10.2026 mit `proc-unterhaltsvorschuss-beantragen`, `proc-unterhaltsvorschuss-bewilligen` (ein Prozess je Leistung, FIM-Leistungsschlüssel 99107021017000; Entscheidung Martin 06.10.2026, Gruppe 30).*

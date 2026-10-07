@@ -1,6 +1,6 @@
 ---
 id: proc-veranstaltung-eines-jahr-oder-spezialmarktes-festsetzung
-titel: 'Veranstaltung eines Jahr- oder Spezialmarktes: Festsetzung'
+titel: Veranstaltung festsetzen (Messe, Ausstellung, Großmarkt, Wochen-, Jahr- und Spezialmarkt)
 status: aktiv
 bereich: extern
 zustaendigeEinheit: oe-amt-32
@@ -8,6 +8,8 @@ zustaendigeRolle: ''
 beteiligte:
 - einheit: oe-amt-38
   aufgabe: ''
+- rolle: antragstellende-person
+  aufgabe: Initiator und Ergebnisempfänger
 daten:
   input: []
   output: []
@@ -23,32 +25,42 @@ regelungen:
 - § 65 Gewerbeordnung (GewO)
 - § 66 Gewerbeordnung (GewO)
 - § 67 Gewerbeordnung (GewO)
+- § 68 GewO (Jahrmärkte/Volksfeste)
+- Nds. kommunale Marktsatzung
 leika_id: '99050032002000'
 ozg_id: null
-letzte-aktualisierung: '2026-07-10'
+letzte-aktualisierung: '2026-10-06'
 ---
 
-# Veranstaltung eines Jahr- oder Spezialmarktes: Festsetzung
+# Veranstaltung festsetzen (Messe, Ausstellung, Großmarkt, Wochen-, Jahr- und Spezialmarkt)
 
 ## Prozessschritte
 
-**01 Anfrage / Antrag aufnehmen**  
-*Anliegen zum Thema 'Veranstaltung eines Jahr- oder Spezialmarktes: Festsetzung' entgegennehmen und Zuständigkeit klären*
+**01 Festsetzung beantragen**  
+*Antragstellende Person: veranstaltende Person beantragt die Festsetzung nach Gegenstand, Zeit, Öffnungszeiten und Platz (§ 69 GewO)*
 
-**02 Unterlagen prüfen**  
+**02 Anfrage / Antrag aufnehmen**  
+*Anliegen entgegennehmen und Zuständigkeit klären*
+
+**03 Unterlagen prüfen**  
 *Vollständigkeit und Richtigkeit der eingereichten Unterlagen und Angaben prüfen*
 
-**03 Sachbearbeitung**  
-*Fachliche Bearbeitung gemäß geltenden Rechtsgrundlagen und Verwaltungsvorschriften*
+**04 Sachbearbeitung**  
+*Voraussetzungen der §§ 64 bis 68 GewO und Versagungsgründe nach § 69a GewO prüfen*
 
-**04 Abstimmung**  
-*Ggf. interne oder externe Abstimmung mit beteiligten Stellen*
+**05 Abstimmung**  
+*Ggf. Abstimmung mit beteiligten Stellen*
 
-**05 Ergebnis / Bescheid**  
-*Abschließende Entscheidung treffen und Ergebnis schriftlich mitteilen*
+**06 Ergebnis / Bescheid**  
+*Festsetzung oder Ablehnung schriftlich mitteilen*
 
-**06 Dokumentation**  
-*Vorgang vollständig in der Akte dokumentieren und Fristen nachhalten*
+**07 Dokumentation**  
+*Vorgang in der Akte dokumentieren und Fristen nachhalten*
+
+**08 Festsetzungsbescheid erhalten**  
+*Antragstellende Person*
 
 
-*Quelle: Allgemeine Verwaltungspraxis*
+*Quelle der Musterschritte: Allgemeine Verwaltungspraxis*
+
+*Zusammengeführt am 06.10.2026 mit `proc-veranstaltung-einer-messe-ausstellung-grossmarkt-festsetzung` (ein Prozess je Leistung, FIM-Leistungsschlüssel 99050032002000; Entscheidung Martin 06.10.2026, Gruppe 17).*

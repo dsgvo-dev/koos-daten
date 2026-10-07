@@ -23,7 +23,7 @@ regelungen:
 - Art. 6 Abs. 1 lit. c) und lit. e) DSGVO, § 3 NDSG
 leika_id: null
 ozg_id: null
-letzte-aktualisierung: '2026-07-30'
+letzte-aktualisierung: '2026-10-07'
 ---
 
 # Sichergestellte Gegenstände verwahren und herausgeben
@@ -50,7 +50,7 @@ Verwahrung von Gegenständen, die nach § 26 NPOG sichergestellt wurden, bis zu 
 *Ist eine Herausgabe nicht möglich, kommen Verwertung oder Vernichtung nach § 28 NPOG in Betracht. Der Erlös tritt an die Stelle der Sache und wird nach § 29 NPOG an die berechtigte Person ausgekehrt.*
 
 **06 Kosten erheben**
-*Die Kosten der Sicherstellung, Verwahrung und Verwertung werden nach § 29 NPOG geltend gemacht. Für die Beitreibung gilt das Vollstreckungsverfahren; die dortige Verarbeitung führt `vvt-22-003`.*
+*Die Kosten der Sicherstellung, Verwahrung und Verwertung werden nach § 29 NPOG geltend gemacht. Für die Beitreibung gilt das Vollstreckungsverfahren; die dortige Verarbeitung führt `vvt-21-001`.*
 
 **07 Löschen**
 *Der Verwahrvorgang wird drei Jahre nach Rückgabe oder Verwertung gelöscht -- Festlegung des Trägers, angelehnt an die regelmäßige Verjährung des Kostenerstattungsanspruchs. Ist ein Streit über Herausgabe oder Kosten anhängig, wird bis zum rechtskräftigen Abschluss aufbewahrt.*

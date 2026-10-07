@@ -1,6 +1,6 @@
 ---
 id: proc-auskunft-aus-dem-gewerbezentralregister-beantragen
-titel: Auskunft aus dem Gewerbezentralregister beantragen
+titel: Antrag auf Auskunft aus dem Gewerbezentralregister entgegennehmen und weiterleiten
 status: aktiv
 bereich: extern
 zustaendigeEinheit: oe-amt-32
@@ -8,6 +8,8 @@ zustaendigeRolle: ''
 beteiligte:
 - einheit: oe-amt-20
   aufgabe: ''
+- rolle: antragstellende-person
+  aufgabe: Initiator und Ergebnisempfänger
 daten:
   input: []
   output: []
@@ -22,33 +24,31 @@ regelungen:
 - § 150e Gewerbeordnung (GewO) - Elektronische Antragstellung
 leika_id: '99052002109000'
 ozg_id: '10565'
-letzte-aktualisierung: '2026-08-03'
+letzte-aktualisierung: '2026-10-06'
 ---
 
-# Auskunft aus dem Gewerbezentralregister beantragen
+# Antrag auf Auskunft aus dem Gewerbezentralregister entgegennehmen und weiterleiten
 
 ## Prozessschritte
 
-**01 Voraussetzungen klären**  
-*Persönliche und rechtliche Voraussetzungen für die beantragte Leistung prüfen*
+**01 Antrag stellen**  
+*Antragstellende Person: persönlich oder schriftlich mit Identitätsnachweis; alternativ online beim Bundesamt für Justiz (§ 150e GewO)*
 
-**02 Unterlagen zusammenstellen**  
-*Alle erforderlichen Dokumente, Nachweise und Formulare zusammenstellen*
+**02 Antrag entgegennehmen**  
+*Vollständigkeit prüfen*
 
-**03 Antrag stellen**  
-*Antrag vollständig ausgefüllt und mit Unterlagen bei zuständiger Stelle einreichen*
+**03 Identität prüfen**  
+*Amtlicher Lichtbildausweis*
 
-**04 Vollständigkeitsprüfung**  
-*Behörde prüft Vollständigkeit des Antrags; ggf. Nachforderung fehlender Unterlagen*
+**04 Gebühr erheben**  
+*Nach Justizverwaltungskostengesetz*
 
-**05 Sachprüfung**  
-*Inhaltliche Prüfung der Antragsvoraussetzungen durch zuständige Sachbearbeitung*
+**05 Antrag an das Bundesamt für Justiz übermitteln**  
+*Rechtsgrundlage: § 150 GewO*
 
-**06 Bescheid**  
-*Bewilligung oder Ablehnung mit Begründung und Rechtsmittelbelehrung*
+**06 Auskunft erhalten**  
+*Antragstellende Person: vom Bundesamt für Justiz*
 
-
-*Quelle: Allgemeine Verwaltungspraxis*
 
 ## Korrektur 2026-08-03
 
@@ -56,3 +56,5 @@ Englischsprachige Dubletten aus der Regelungsliste entfernt. Es handelt sich um 
 - Section 150 of the Trade Regulation (GewO) (information at the request of the data subject)
 - Section 150a of the Trade Regulation [Gewerbeordnung (GewO)] (information for authorities)
 - Section 150e of the Trade Regulation (GewO) (submitting an electronic request)
+
+*Zusammengeführt am 06.10.2026 mit `proc-gewerbezentralregister-auskunft-beantragen` (ein Prozess je Leistung, FIM-Leistungsschlüssel 99052002109000; Entscheidung Martin 06.10.2026, Gruppe 21).*

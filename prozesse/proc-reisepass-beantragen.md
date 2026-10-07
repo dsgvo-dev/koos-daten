@@ -1,6 +1,6 @@
 ---
 id: proc-reisepass-beantragen
-titel: Reisepass beantragen
+titel: Reisepass ausstellen
 status: aktiv
 bereich: extern
 zustaendigeEinheit: oe-amt-33
@@ -8,6 +8,10 @@ zustaendigeRolle: ''
 beteiligte:
 - einheit: oe-amt-20
   aufgabe: ''
+- einheit: oe-amt-15
+  aufgabe: ''
+- rolle: antragstellende-person
+  aufgabe: Initiator und Ergebnisempfänger
 daten:
   input: []
   output: []
@@ -20,35 +24,42 @@ daten:
   - id: dstore-bankverbindung
   - id: dstore-meldeadresse-wohnsitz
 regelungen:
-- §§ 1-5 Personalausweisgesetz (PAuswG)
+- § 6 Passgesetz (PassG)
+- § 7 Passgesetz (PassG) (Passversagung)
 - §§ 1-4 Passgesetz (PassG)
-- § 6 PAuswG (Ausweispflicht)
+- §§ 1, 27 Passverordnung (PassV)
 leika_id: '99085001012000'
 ozg_id: '10177'
-letzte-aktualisierung: '2026-07-10'
+letzte-aktualisierung: '2026-10-06'
 ---
 
-# Reisepass beantragen
+# Reisepass ausstellen
 
 ## Prozessschritte
 
-**01 Antragsformular prüfen**  
-*Vollständigkeit*
+**01 Antrag stellen**  
+*Antragstellende Person: persönlich vorsprechen, Lichtbild und bisheriges Dokument vorlegen*
 
-**02 Biometrische Daten aufnehmen**  
-*Foto gemäß ICAO*
+**02 Antrag und Identität prüfen**  
+*Vollständigkeit, Identitätsnachweis*
 
-**03 Sicherheitsüberprüfung**  
-*Bei Erstausstellung*
+**03 Lichtbild und Fingerabdrücke erfassen**  
+*Lichtbild nach ICAO-Vorgaben, Fingerabdrücke (PassG)*
 
-**04 Pass fertigen lassen**  
-*Bundesdruckerei*
+**04 Passversagungsgründe prüfen**  
+*Rechtsgrundlage: § 7 PassG*
 
 **05 Gebühren erheben**  
-*Je nach Gültigkeitsdauer*
+*Nach Passverordnung, je nach Gültigkeitsdauer*
 
-**06 Abholung organisieren**  
-*Persönliche Übergabe*
+**06 Pass fertigen lassen**  
+*Bundesdruckerei*
 
-**07 Alten Pass entgegennehmen**  
-*Bei Verlängerung*
+**07 Pass aushändigen**  
+*Persönliche Übergabe; alten Pass entgegennehmen und entwerten*
+
+**08 Pass erhalten**  
+*Antragstellende Person*
+
+
+*Zusammengeführt am 06.10.2026 mit `proc-reisepass-beantragung-ausstellung` (ein Prozess je Leistung, FIM-Leistungsschlüssel 99085001012000; Entscheidung Martin 06.10.2026, Gruppe 23).*

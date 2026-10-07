@@ -1,6 +1,6 @@
 ---
 id: proc-erlaubnis-zum-verkauf-von-waren-auf-messen-festen-und-zu
-titel: Erlaubnis zum Verkauf von Waren auf Messen, Festen und zu besonderen Anlässen
+titel: Erlaubnis zum Feilbieten von Waren auf Messen, Festen und aus besonderem Anlass erteilen
 status: aktiv
 bereich: extern
 zustaendigeEinheit: oe-amt-32
@@ -10,6 +10,8 @@ beteiligte:
   aufgabe: ''
 - einheit: oe-amt-20
   aufgabe: ''
+- rolle: antragstellende-person
+  aufgabe: Initiator und Ergebnisempfänger
 daten:
   input: []
   output: []
@@ -19,20 +21,20 @@ daten:
   - id: dstore-marktveranstaltungsdaten
   - id: dstore-gewerbedaten
 regelungen:
-- '§ 55a Absatz 1 Nummer 1 Gewerbeordnung (GewO)'
-- '§ 55a GewO - Einzelnorm (gesetze-im-internet.de)'
-- '§ 56 Gewerbeordnung'
-letzte-aktualisierung: 2026-04-06
+- § 55a Absatz 1 Nummer 1 Gewerbeordnung (GewO)
+- § 56 Gewerbeordnung
+letzte-aktualisierung: '2026-10-07'
 ---
-# Erlaubnis zum Verkauf von Waren auf Messen, Festen und zu besonderen Anlässen
+
+# Erlaubnis zum Feilbieten von Waren auf Messen, Festen und aus besonderem Anlass erteilen
 
 ## Prozessschritte
 
 **01 Antrag vorbereiten**  
-*Prüfen ob Genehmigung/Erlaubnis erforderlich ist; Antragsformular und Unterlagen zusammenstellen*
+*Antragstellende Person: prüfen, ob eine Erlaubnis erforderlich ist; Antragsformular und Unterlagen zusammenstellen*
 
 **02 Antrag einreichen**  
-*Vollständigen Antrag mit allen Nachweisen bei der zuständigen Stelle einreichen*
+*Antragstellende Person: vollständigen Antrag mit allen Nachweisen bei der zuständigen Stelle einreichen*
 
 **03 Vollständigkeitsprüfung**  
 *Zuständige Stelle prüft Eingang und Vollständigkeit der Unterlagen; ggf. Nachforderung*
@@ -46,8 +48,12 @@ letzte-aktualisierung: 2026-04-06
 **06 Bescheid erteilen**  
 *Genehmigung oder Ablehnungsbescheid mit Begründung und Rechtsbehelfsbelehrung*
 
-**07 Auflagen überwachen**  
-*Bei erteilter Genehmigung: Einhaltung von Auflagen und Bedingungen kontrollieren*
+**07 Erlaubnis erhalten**  
+*Antragstellende Person*
 
+**08 Auflagen überwachen**  
+*Einhaltung von Auflagen und Bedingungen kontrollieren*
 
-*Quelle: Allgemeine Verwaltungspraxis*
+*Quelle der Musterschritte: Allgemeine Verwaltungspraxis*
+
+*Zusammengeführt am 07.10.2026 mit `proc-erlaubnis-verkauf-von-waren-auf-messen-festen-anlaessen` (ein Prozess je Leistung; Titel-Kandidat T7, Entscheidung Martin 07.10.2026).*

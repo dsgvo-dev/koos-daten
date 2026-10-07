@@ -1,6 +1,6 @@
 ---
 id: proc-personalausweis-mit-online-ausweisfunktion-aktivieren
-titel: Personalausweis mit Online-Ausweisfunktion aktivieren
+titel: Online-Ausweisfunktion aktivieren und PIN neu setzen
 status: aktiv
 bereich: extern
 zustaendigeEinheit: oe-amt-33
@@ -8,6 +8,8 @@ zustaendigeRolle: ''
 beteiligte:
 - einheit: oe-amt-15
   aufgabe: ''
+- rolle: antragstellende-person
+  aufgabe: Initiator und Ergebnisempfänger
 daten:
   input: []
   output: []
@@ -17,36 +19,45 @@ daten:
   - id: dstore-personenstammdaten
   - id: dstore-ausweisdokument
   - id: dstore-meldeadresse-wohnsitz
+  - id: dstore-servicekonto-nutzeridentitaet
 regelungen:
-- §§ 1-5 Personalausweisgesetz (PAuswG)
-- §§ 1-4 Passgesetz (PassG)
-- § 6 PAuswG (Ausweispflicht)
+- §§ 10-15 Personalausweisgesetz (PAuswG) (Online-Ausweisfunktion)
+- §§ 1 ff. Onlinezugangsgesetz (OZG)
+- § 1 Nds. E-Government-Gesetz (NEGG)
 leika_id: '99008004180000'
 ozg_id: null
-letzte-aktualisierung: '2026-07-10'
+letzte-aktualisierung: '2026-10-07'
 ---
 
-# Personalausweis mit Online-Ausweisfunktion aktivieren
+# Online-Ausweisfunktion aktivieren und PIN neu setzen
 
 ## Prozessschritte
 
-**01 Antrag prüfen**  
+**01 Aktivierung beantragen**  
+*Antragstellende Person: persönlich mit Personalausweis vorsprechen*
+
+**02 Antrag prüfen**  
 *Mit PIN-Brief*
 
-**02 Identität prüfen**  
+**03 Identität prüfen**  
 *Vor persönlicher Vorsprache*
 
-**03 Aktivierung durchführen**  
+**04 Aktivierung durchführen**  
 *Am Lesegerät*
 
-**04 Belehrung**  
+**05 Belehrung**  
 *Sicherheitshinweise geben*
 
-**05 Bestätigung**  
+**06 Bestätigung**  
 *Erfolgreiche Aktivierung*
 
-**06 PIN-Änderung**  
+**07 PIN-Änderung**  
 *Bei Bedarf ermöglichen*
 
-**07 Dokumentation**  
+**08 Dokumentation**  
 *In Personalausweisakte*
+
+**09 Aktivierte Online-Ausweisfunktion erhalten**  
+*Antragstellende Person*
+
+*Zusammengeführt am 07.10.2026 mit `proc-online-ausweis-aktivieren`, `proc-online-ausweisfunktion-aktivieren`, `proc-online-ausweis-aktivierung-pin-zuruecksetzen` (ein Prozess je Leistung, FIM-Leistungsschlüssel 99008004180000; Titel-Kandidat T9, Entscheidung Martin 07.10.2026).*

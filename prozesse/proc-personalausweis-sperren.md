@@ -1,11 +1,13 @@
 ---
 id: proc-personalausweis-sperren
-titel: Personalausweis sperren
+titel: Verlust des Personalausweises melden und Ausweis sperren
 status: aktiv
 bereich: extern
 zustaendigeEinheit: oe-amt-33
 zustaendigeRolle: ''
-beteiligte: []
+beteiligte:
+- rolle: antragstellende-person
+  aufgabe: Initiator und Ergebnisempfänger
 daten:
   input: []
   output: []
@@ -16,6 +18,7 @@ daten:
   - id: dstore-polizeiliche-verlustmeldung
   - id: dstore-identitaetsnachweis
   - id: dstore-meldeadresse-wohnsitz
+  - id: dstore-biometrische-daten-lichtbild
 regelungen:
 - § 27 Abs. 1 Nr. 3 Gesetz über Personalausweise und den elektronischen Identitätsnachweis (PAuswG)
 - §§ 1-5 Personalausweisgesetz (PAuswG)
@@ -23,30 +26,39 @@ regelungen:
 - § 6 PAuswG (Ausweispflicht)
 leika_id: '99008001014002'
 ozg_id: '10119'
-letzte-aktualisierung: '2026-07-28'
+letzte-aktualisierung: '2026-10-06'
 ---
 
-# Personalausweis sperren
+# Verlust des Personalausweises melden und Ausweis sperren
 
 ## Prozessschritte
 
-**01 Verlustmeldung entgegennehmen**  
+**01 Verlust melden**  
+*Antragstellende Person: Verlust persönlich, schriftlich oder telefonisch anzeigen*
+
+**02 Verlustmeldung entgegennehmen**  
 *Formular oder telefonisch*
 
-**02 Identität prüfen**  
+**03 Identität prüfen**  
 *Zur Sicherheit*
 
-**03 Sperrung veranlassen**  
+**04 Sperrung veranlassen**  
 *Bei Bundesdruckerei*
 
-**04 Bestätigung ausstellen**  
+**05 Bestätigung ausstellen**  
 *Sperrbescheinigung*
 
-**05 Gebühren erheben**  
+**06 Gebühren erheben**  
 *Für Ersatzausweis*
 
-**06 Neubeantragung**  
+**07 Neubeantragung**  
 *Wenn gewünscht einleiten*
 
-**07 Dokumentation**  
+**08 Dokumentation**  
 *Für Statistik*
+
+**09 Sperrbescheinigung erhalten**  
+*Antragstellende Person*
+
+
+*Zusammengeführt am 06.10.2026 mit `proc-personalausweis-verlust-melden`, `proc-verlust-des-eigenen-personalausweises-melden` (ein Prozess je Leistung, FIM-Leistungsschlüssel 99008001014002; Entscheidung Martin 06.10.2026, Gruppe 5).*

@@ -1,6 +1,6 @@
 ---
 id: proc-wiederzulassung-eines-fahrzeugs-beantragen
-titel: Wiederzulassung eines Fahrzeugs beantragen
+titel: Wiederzulassung eines Fahrzeugs auf denselben Halter erteilen
 status: aktiv
 bereich: extern
 zustaendigeEinheit: oe-amt-34
@@ -8,6 +8,10 @@ zustaendigeRolle: ''
 beteiligte:
 - einheit: oe-amt-20
   aufgabe: ''
+- einheit: oe-amt-33
+  aufgabe: ''
+- rolle: antragstellende-person
+  aufgabe: Initiator und Ergebnisempfänger
 daten:
   input: []
   output: []
@@ -17,36 +21,40 @@ daten:
   - id: dstore-identitaetsnachweis
   - id: dstore-personenstammdaten
 regelungen:
-- '§§ 3-6 Fahrzeug-Zulassungsverordnung (FZV) (Zulassung)'
-- '§ 6 Straßenverkehrsgesetz (StVG) (Fahrzeugregister)'
-- '§§ 11-14 FZV (Kennzeichen)'
+- §§ 3-6 Fahrzeug-Zulassungsverordnung (FZV) (Zulassung)
+- § 6 Straßenverkehrsgesetz (StVG) (Fahrzeugregister)
+- §§ 11-14 FZV (Kennzeichen)
 leika_id: '99036047001000'
-letzte-aktualisierung: 2026-04-06
+letzte-aktualisierung: '2026-10-06'
 ---
-# Wiederzulassung eines Fahrzeugs beantragen
+
+# Wiederzulassung eines Fahrzeugs auf denselben Halter erteilen
 
 ## Prozessschritte
 
-**01 Antrag vorbereiten**  
-*Prüfen ob Genehmigung/Erlaubnis erforderlich ist; Antragsformular und Unterlagen zusammenstellen*
+**01 Antrag stellen**  
+*Antragstellende Person: Antrag mit Zulassungsbescheinigung Teil I und II, Versicherungsbestätigung, vor Ort oder online*
 
-**02 Antrag einreichen**  
-*Vollständigen Antrag mit allen Nachweisen bei der zuständigen Stelle einreichen*
+**02 Antrag und Unterlagen entgegennehmen**  
+*Identität und Zulassungsbescheinigungen prüfen*
 
-**03 Vollständigkeitsprüfung**  
-*Zuständige Stelle prüft Eingang und Vollständigkeit der Unterlagen; ggf. Nachforderung*
+**03 Außerbetriebsetzung und Fahrzeugdaten prüfen**  
+*Eintrag im Fahrzeugregister, Fahrzeugidentifikation*
 
-**04 Sachprüfung**  
-*Inhaltliche Prüfung des Antrags anhand der rechtlichen Voraussetzungen*
+**04 Versicherungsnachweis und Hauptuntersuchung prüfen**  
+*Rechtsgrundlage: § 23 FZV; § 29 StVZO*
 
-**05 Anhörung / Beteiligung**  
-*Ggf. Beteiligung von Fachbehörden, Trägern öffentlicher Belange oder Betroffenen*
+**05 Kennzeichen zuteilen und stempeln**  
+*Bisheriges Kennzeichen oder neues Kennzeichen*
 
-**06 Bescheid erteilen**  
-*Genehmigung oder Ablehnungsbescheid mit Begründung und Rechtsbehelfsbelehrung*
+**06 Zulassungsbescheinigung Teil I ausstellen**  
+*Rechtsgrundlage: § 11 FZV*
 
-**07 Auflagen überwachen**  
-*Bei erteilter Genehmigung: Einhaltung von Auflagen und Bedingungen kontrollieren*
+**07 Gebühren erheben**  
+*Nach Gebührenordnung für Maßnahmen im Straßenverkehr (GebOSt)*
+
+**08 Zulassung erhalten**  
+*Antragstellende Person: Zulassungsbescheinigung und gestempelte Kennzeichen*
 
 
-*Quelle: Allgemeine Verwaltungspraxis*
+*Zusammengeführt am 06.10.2026 mit `proc-kfz-wiederzulassung`, `proc-wiederzulassung-eines-ausser-betrieb-gesetzten-kfz` (ein Prozess je Leistung, FIM-Leistungsschlüssel 99036047001000; Entscheidung Martin 06.10.2026, Gruppe 13).*

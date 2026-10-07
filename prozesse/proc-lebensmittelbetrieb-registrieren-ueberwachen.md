@@ -1,6 +1,6 @@
 ---
 id: proc-lebensmittelbetrieb-registrieren-ueberwachen
-titel: Lebensmittelbetrieb registrieren/überwachen
+titel: Lebensmittelbetriebe registrieren und überwachen
 status: aktiv
 bereich: extern
 zustaendigeEinheit: oe-amt-71
@@ -16,13 +16,15 @@ daten:
   - id: dstore-lebensmittelhygienekontrolle
   - id: dstore-tierhalterbestand-nutztiere
   - id: dstore-personenstammdaten
+  - id: dstore-verwaltungsakte
 regelungen:
-- '§§ 38-40 Lebensmittel- und Futtermittelgesetzbuch (LFGB)'
-- '§ 40 LFGB (Öffentliche Warnung)'
-- 'EU-Verordnung (EG) Nr. 178/2002 (Basisverordnung Lebensmittel)'
-letzte-aktualisierung: 2026-04-06
+- §§ 38-40 Lebensmittel- und Futtermittelgesetzbuch (LFGB)
+- § 40 LFGB (Öffentliche Warnung)
+- EU-Verordnung (EG) Nr. 178/2002 (Basisverordnung Lebensmittel)
+letzte-aktualisierung: '2026-10-07'
 ---
-# Lebensmittelbetrieb registrieren/überwachen
+
+# Lebensmittelbetriebe registrieren und überwachen
 
 ## Prozessschritte
 
@@ -47,4 +49,4 @@ letzte-aktualisierung: 2026-04-06
 **07 Kontrollbericht erstellen**  
 *Für Akte*
 
-
+*Zusammengeführt am 07.10.2026 mit `proc-lebensmittelbetrieb-ueberwachen` (ein Prozess je Leistung; Kandidat U2, Entscheidung Martin 07.10.2026).*

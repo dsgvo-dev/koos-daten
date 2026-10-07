@@ -1,11 +1,17 @@
 ---
 id: proc-hundesteuer-festsetzen
-titel: Hundesteuer festsetzen
+titel: Hundesteuer festsetzen und erheben
 status: aktiv
 bereich: extern
 zustaendigeEinheit: oe-amt-22
 zustaendigeRolle: ''
-beteiligte: []
+beteiligte:
+- einheit: oe-amt-33
+  aufgabe: ''
+- einheit: oe-amt-20
+  aufgabe: ''
+- rolle: antragstellende-person
+  aufgabe: Initiator und Ergebnisempfänger
 daten:
   input: []
   output: []
@@ -15,35 +21,45 @@ daten:
   - id: dstore-steuerdaten
   - id: dstore-gebuehrenbescheid-zahlungsdaten
   - id: dstore-bescheid
+  - id: dstore-hunderegisterdaten
 regelungen:
 - §§ 1-5 NKAG (Kommunalabgaben/Steuern)
 - Kommunale Hundesteuersatzung i.V.m. NKAG
 leika_id: '99102013002000'
 ozg_id: null
-letzte-aktualisierung: '2026-07-10'
+letzte-aktualisierung: '2026-10-06'
 ---
 
-# Hundesteuer festsetzen
+# Hundesteuer festsetzen und erheben
 
 ## Prozessschritte
 
-**01 Hundeanmeldung prüfen**  
+**01 Hund anmelden**  
+*Antragstellende Person: Anmeldung des Hundes bei der Kommune*
+
+**02 Hundeanmeldung prüfen**  
 *Rasse, Größe*
 
-**02 Steuersatz anwenden**  
+**03 Steuersatz anwenden**  
 *Nach Hundesteuersatzung*
 
-**03 Steuerbescheid erstellen**  
-*Jahresbescheid*
+**04 Steuerbescheid erstellen**  
+*Jahresbescheid, Hundesteuermarke ausgeben*
 
-**04 Zustellung**  
+**05 Zustellung**  
 *An Hundehalter*
 
-**05 Änderungen erfassen**  
+**06 Steuerbescheid und Hundesteuermarke erhalten**  
+*Antragstellende Person*
+
+**07 Änderungen erfassen**  
 *Zugang, Abgang, Umzug*
 
-**06 Vollziehung**  
+**08 Vollziehung**  
 *Bei Nichtzahlung*
 
-**07 Statistik**  
+**09 Statistik**  
 *Hundebestand erfassen*
+
+
+*Zusammengeführt am 06.10.2026 mit `proc-hundesteuer-festsetzung-erhebung` (ein Prozess je Leistung, FIM-Leistungsschlüssel 99102013002000; Entscheidung Martin 06.10.2026, Gruppe 28).*

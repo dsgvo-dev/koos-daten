@@ -1,0 +1,56 @@
+---
+id: proc-wunschkennzeichen-fuer-ein-fahrzeug-reservieren
+titel: Wunschkennzeichen für ein Fahrzeug reservieren
+status: ersetzt
+bereich: extern
+ersetzt-durch: proc-wunschkennzeichen-reservieren-zuteilen
+zustaendigeEinheit: oe-amt-34
+zustaendigeRolle: ''
+beteiligte:
+- einheit: oe-amt-33
+  aufgabe: ''
+- einheit: oe-amt-15
+  aufgabe: ''
+daten:
+  input: []
+  output: []
+  datenspeicher:
+  - id: dstore-kfz-daten
+  - id: dstore-fahrzeugnutzungserklaerung
+  - id: dstore-personenstammdaten
+  - id: dstore-identitaetsnachweis
+regelungen:
+- § 8 Fahrzeug-Zulassungsverordnung (FZV) (Kennzeichen)
+leika_id: '99036049069000'
+letzte-aktualisierung: '2026-10-06'
+---
+# Wunschkennzeichen für ein Fahrzeug reservieren
+
+## Prozessschritte
+
+**01 Anfrage / Antrag aufnehmen**  
+*Anliegen zum Thema 'Wunschkennzeichen für ein Fahrzeug reservieren' entgegennehmen und Zuständigkeit klären*
+
+**02 Unterlagen prüfen**  
+*Vollständigkeit und Richtigkeit der eingereichten Unterlagen und Angaben prüfen*
+
+**03 Sachbearbeitung**  
+*Fachliche Bearbeitung gemäß geltenden Rechtsgrundlagen und Verwaltungsvorschriften*
+
+**04 Abstimmung**  
+*Ggf. interne oder externe Abstimmung mit beteiligten Stellen*
+
+**05 Ergebnis / Bescheid**  
+*Abschließende Entscheidung treffen und Ergebnis schriftlich mitteilen*
+
+**06 Dokumentation**  
+*Vorgang vollständig in der Akte dokumentieren und Fristen nachhalten*
+
+
+*Quelle: Allgemeine Verwaltungspraxis*
+
+## Korrektur 2026-08-03
+
+Regelungsliste bereinigt. Der Eintrag trug an die Fundstelle die Überschrift „Zulassung in der Bundesrepublik Deutschland nach vorheriger Zulassung in einem anderen Staat" angehängt -- die gehört zu einer anderen Vorschrift und hat mit der Reservierung eines Wunschkennzeichens nichts zu tun. Überschrift korrigiert.
+
+> **Ersetzt am 06.10.2026** durch `proc-wunschkennzeichen-reservieren-zuteilen` (ein Prozess je Leistung, FIM-Leistungsschlüssel 99036049069000; Entscheidung Martin 06.10.2026, Gruppe 15).

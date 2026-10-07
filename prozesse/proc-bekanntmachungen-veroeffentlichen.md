@@ -1,6 +1,6 @@
 ---
 id: proc-bekanntmachungen-veroeffentlichen
-titel: Bekanntmachungen veröffentlichen
+titel: Öffentliche Bekanntmachungen veröffentlichen und Ortsrecht verkünden
 status: aktiv
 bereich: extern
 zustaendigeEinheit: oe-amt-1-1
@@ -17,31 +17,28 @@ daten:
   - id: dstore-verwaltungsakte
   - id: dstore-bescheid
 regelungen:
-- '§ 11 NKomVG (Bekanntmachungspflicht)'
-- 'Nds. Bekanntmachungsverordnung (NBekanntmV)'
-letzte-aktualisierung: 2026-04-06
+- § 11 NKomVG (Bekanntmachungspflicht)
+- Nds. Bekanntmachungsverordnung (NBekanntmV)
+letzte-aktualisierung: '2026-10-07'
 ---
-# Bekanntmachungen veröffentlichen
+
+# Öffentliche Bekanntmachungen veröffentlichen und Ortsrecht verkünden
 
 ## Prozessschritte
 
-**01 Anfrage / Antrag aufnehmen**  
-*Anliegen zum Thema 'Bekanntmachungen veröffentlichen' entgegennehmen und Zuständigkeit klären*
+**01 Bekanntmachung vorbereiten**  
+*Text, Anlagen, Fristen; bei Ortsrecht die beschlossene Fassung*
 
-**02 Unterlagen prüfen**  
-*Vollständigkeit und Richtigkeit der eingereichten Unterlagen und Angaben prüfen*
+**02 Freigabe einholen**  
+*Durch die Hauptverwaltungsbeamtin oder den Hauptverwaltungsbeamten bzw. die beauftragte Stelle*
 
-**03 Sachbearbeitung**  
-*Fachliche Bearbeitung gemäß geltenden Rechtsgrundlagen und Verwaltungsvorschriften*
+**03 Veröffentlichen**  
+*Nach § 11 NKomVG und der Bekanntmachungsregelung der Hauptsatzung (Amtsblatt oder Internet)*
 
-**04 Abstimmung**  
-*Ggf. interne oder externe Abstimmung mit beteiligten Stellen*
+**04 Bekanntmachung nachweisen**  
+*Datum und Fundstelle festhalten (Wirksamwerden, Fristbeginn)*
 
-**05 Ergebnis / Bescheid**  
-*Abschließende Entscheidung treffen und Ergebnis schriftlich mitteilen*
+**05 Dokumentation**  
+*Vorgang in der Akte ablegen*
 
-**06 Dokumentation**  
-*Vorgang vollständig in der Akte dokumentieren und Fristen nachhalten*
-
-
-*Quelle: Allgemeine Verwaltungspraxis*
+*Zusammengeführt am 07.10.2026 mit `proc-amtliche-bekanntmachungen-veroeffentlichen` (ein Prozess je Leistung; Kandidat U4, Entscheidung Martin 07.10.2026).*

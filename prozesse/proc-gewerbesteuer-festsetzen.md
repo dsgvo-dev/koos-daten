@@ -1,16 +1,22 @@
 ---
 id: proc-gewerbesteuer-festsetzen
-titel: Gewerbesteuer festsetzen
+titel: Gewerbesteuer festsetzen und erheben
 status: aktiv
 bereich: extern
 zustaendigeEinheit: oe-amt-22
 zustaendigeRolle: ''
-beteiligte: []
+beteiligte:
+- rolle: antragstellende-person
+  aufgabe: Initiator und Ergebnisempfänger
 daten:
   input: []
   output: []
   datenspeicher:
   - id: dstore-verwaltungsakte
+  - id: dstore-unternehmens-und-registerdaten
+  - id: dstore-gebuehrenbescheid-zahlungsdaten
+  - id: dstore-personenstammdaten
+  - id: dstore-identitaetsnachweis
 regelungen:
 - §§ 7 bis 9 Gewerbesteuergesetz (GewStG)
 - § 11 Gewerbesteuergesetz (GewStG)
@@ -18,30 +24,33 @@ regelungen:
 - § 25 Gewerbesteuer-Durchführungsverordnung (GewStDV)
 leika_id: '99102010002000'
 ozg_id: '10364'
-letzte-aktualisierung: '2026-07-10'
+letzte-aktualisierung: '2026-10-06'
 ---
 
-# Gewerbesteuer festsetzen
+# Gewerbesteuer festsetzen und erheben
 
 ## Prozessschritte
 
-**01 Steuererklärung prüfen**  
-*Vollständigkeit*
+**01 Messbescheid übernehmen**  
+*Gewerbesteuermessbescheid des Finanzamts (§ 14 GewStG)*
 
-**02 Gewerbeertrag ermitteln**  
-*Nach GewStG*
+**02 Hebesatz anwenden**  
+*Rechtsgrundlage: § 16 GewStG, Hebesatzsatzung der Kommune*
 
-**03 Hebesatz anwenden**  
-*Kommune*
+**03 Steuerbescheid erstellen**  
+*Festsetzung mit Zahlungsfrist*
 
-**04 Steuermessbetrag**  
-*Berechnung*
+**04 Vorauszahlungen festsetzen**  
+*Rechtsgrundlage: § 19 GewStG*
 
-**05 Steuerbescheid erstellen**  
-*Mit Zahlungsfrist*
-
-**06 Zustellung**  
+**05 Zustellung**  
 *An Steuerpflichtigen*
 
-**07 Vollziehung**  
-*Einziehung überwachen*
+**06 Steuerbescheid erhalten und zahlen**  
+*Antragstellende Person*
+
+**07 Zahlung überwachen**  
+*Einziehung, ggf. Vollstreckung*
+
+
+*Zusammengeführt am 06.10.2026 mit `proc-gewerbesteuer-bezahlen` (ein Prozess je Leistung, FIM-Leistungsschlüssel 99102010002000; Entscheidung Martin 06.10.2026, Gruppe 27).*

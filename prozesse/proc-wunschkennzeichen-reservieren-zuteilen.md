@@ -1,6 +1,6 @@
 ---
 id: proc-wunschkennzeichen-reservieren-zuteilen
-titel: Wunschkennzeichen reservieren/zuteilen
+titel: Wunschkennzeichen reservieren und zuteilen
 status: aktiv
 bereich: extern
 zustaendigeEinheit: oe-amt-34
@@ -10,6 +10,10 @@ beteiligte:
   aufgabe: ''
 - einheit: oe-amt-20
   aufgabe: ''
+- einheit: oe-amt-33
+  aufgabe: ''
+- rolle: antragstellende-person
+  aufgabe: Initiator und Ergebnisempfänger
 daten:
   input: []
   output: []
@@ -17,34 +21,37 @@ daten:
   - id: dstore-kfz-daten
   - id: dstore-personenstammdaten
   - id: dstore-identitaetsnachweis
+  - id: dstore-fahrzeugnutzungserklaerung
 regelungen:
-- '§§ 3-6 Fahrzeug-Zulassungsverordnung (FZV) (Zulassung)'
-- '§ 6 Straßenverkehrsgesetz (StVG) (Fahrzeugregister)'
-- '§§ 11-14 FZV (Kennzeichen)'
+- §§ 3-6 Fahrzeug-Zulassungsverordnung (FZV) (Zulassung)
+- § 6 Straßenverkehrsgesetz (StVG) (Fahrzeugregister)
+- §§ 11-14 FZV (Kennzeichen)
+- § 8 Fahrzeug-Zulassungsverordnung (FZV) (Kennzeichen)
 leika_id: '99036049069000'
-letzte-aktualisierung: 2026-04-06
+letzte-aktualisierung: '2026-10-06'
 ---
-# Wunschkennzeichen reservieren/zuteilen
+
+# Wunschkennzeichen reservieren und zuteilen
 
 ## Prozessschritte
 
-**01 Anfrage / Antrag aufnehmen**  
-*Anliegen zum Thema 'Wunschkennzeichen reservieren/zuteilen' entgegennehmen und Zuständigkeit klären*
+**01 Wunschkennzeichen beantragen**  
+*Antragstellende Person: Kennzeichenkombination online oder vor Ort wählen*
 
-**02 Unterlagen prüfen**  
-*Vollständigkeit und Richtigkeit der eingereichten Unterlagen und Angaben prüfen*
+**02 Verfügbarkeit prüfen**  
+*Kombination im Zulassungsbezirk frei*
 
-**03 Sachbearbeitung**  
-*Fachliche Bearbeitung gemäß geltenden Rechtsgrundlagen und Verwaltungsvorschriften*
+**03 Kennzeichen reservieren**  
+*Befristete Reservierung bis zur Zulassung*
 
-**04 Abstimmung**  
-*Ggf. interne oder externe Abstimmung mit beteiligten Stellen*
+**04 Kennzeichen bei der Zulassung zuteilen**  
+*Rechtsgrundlage: § 8 FZV*
 
-**05 Ergebnis / Bescheid**  
-*Abschließende Entscheidung treffen und Ergebnis schriftlich mitteilen*
+**05 Gebühr erheben**  
+*Nach Gebührenordnung für Maßnahmen im Straßenverkehr (GebOSt)*
 
-**06 Dokumentation**  
-*Vorgang vollständig in der Akte dokumentieren und Fristen nachhalten*
+**06 Wunschkennzeichen erhalten**  
+*Antragstellende Person*
 
 
-*Quelle: Allgemeine Verwaltungspraxis*
+*Zusammengeführt am 06.10.2026 mit `proc-wunschkennzeichen-fuer-ein-fahrzeug-reservieren` (ein Prozess je Leistung, FIM-Leistungsschlüssel 99036049069000; Entscheidung Martin 06.10.2026, Gruppe 15).*

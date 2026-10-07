@@ -1,11 +1,15 @@
 ---
 id: proc-grundsicherung-im-alter-und-bei-erwerbsminderung-sozialhilfe
-titel: Grundsicherung im Alter und bei Erwerbsminderung (Sozialhilfe)
+titel: Grundsicherung im Alter und bei Erwerbsminderung bewilligen
 status: aktiv
 bereich: extern
 zustaendigeEinheit: oe-amt-50
 zustaendigeRolle: ''
-beteiligte: []
+beteiligte:
+- einheit: oe-amt-20
+  aufgabe: ''
+- rolle: antragstellende-person
+  aufgabe: Initiator und Ergebnisempfänger
 daten:
   input: []
   output: []
@@ -15,14 +19,18 @@ daten:
   - id: dstore-einkommensnachweise-haushalt
   - id: dstore-unterkunftskosten
   - id: dstore-personenstammdaten
+  - id: dstore-einkommensdaten
+  - id: dstore-erwerbseinkommen-bezugszeitraum
+  - id: dstore-haushaltsmitglieder
+  - id: dstore-krankenversicherungsbeitraege
 regelungen:
 - Viertes Kapitel Zwölftes Buch Sozialgesetzbuch (SGB XII)
 leika_id: '99107009017000'
 ozg_id: '10084'
-letzte-aktualisierung: '2026-07-10'
+letzte-aktualisierung: '2026-10-06'
 ---
 
-# Grundsicherung im Alter und bei Erwerbsminderung (Sozialhilfe)
+# Grundsicherung im Alter und bei Erwerbsminderung bewilligen
 
 ## Zweck
 
@@ -34,17 +42,23 @@ Vorlesen Die Leistungen der Grundsicherung im Alter und bei Erwerbsminderung sin
 
 ## Prozessschritte
 
-**01 Antrag entgegennehmen und Unterlagen prüfen**
+**01 Antrag stellen**  
+*Antragstellende Person*
+
+**02 Antrag entgegennehmen und Unterlagen prüfen**  
 *Rechtsgrundlage: §§ 41, 44 SGB XII*
 
-**02 Einkommens- und Vermögensverhältnisse ermitteln**
+**03 Einkommens- und Vermögensverhältnisse ermitteln**  
 *Rechtsgrundlage: §§ 82–90 SGB XII*
 
-**03 Bedarf berechnen und Hilfebedürftigkeit feststellen**
+**04 Bedarf berechnen und Hilfebedürftigkeit feststellen**  
 *(Sachverhalt beurteilen/entscheiden ohne Spielraum)*
 
-**04 Leistungsbescheid erlassen und Auszahlung veranlassen**
+**05 Leistungsbescheid erlassen und Auszahlung veranlassen**  
 *Rechtsgrundlage: § 44 SGB XII*
+
+**06 Bescheid und Leistung erhalten**  
+*Antragstellende Person*
 
 
 ## Hinweise
@@ -71,3 +85,5 @@ Deutsche Rentenversicherung: Fragen und Antworten zur Grundsicherung
 
 Gegen die Bescheide der zuständigen Träger der Sozialhilfe kann innerhalb eines Monats nach der Bekanntgabe Widerspruch erhoben werden.
 Nach Abschluss des Widerspruchverfahrens durch einen Widerspruchbescheid kann innerhalb eines Monats nach der Bekanntgabe Klage vor dem Sozialgericht erhoben werden.
+
+*Zusammengeführt am 06.10.2026 mit `proc-grundsicherung-im-alter-und-bei-erwerbsminderung-beantragen` (ein Prozess je Leistung, FIM-Leistungsschlüssel 99107009017000; Entscheidung Martin 06.10.2026, Gruppe 29).*

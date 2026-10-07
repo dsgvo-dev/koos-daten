@@ -1,6 +1,6 @@
 ---
 id: proc-abfall-sperrmuell-organisation-abholung
-titel: 'Abfall: Sperrmüll (Organisation/Abholung)'
+titel: Sperrmüll entsorgen (Abholung)
 status: aktiv
 bereich: extern
 zustaendigeEinheit: oe-amt-60
@@ -8,6 +8,8 @@ zustaendigeRolle: ''
 beteiligte:
 - einheit: oe-amt-66
   aufgabe: ''
+- rolle: antragstellende-person
+  aufgabe: Initiator und Ergebnisempfänger
 daten:
   input: []
   output: []
@@ -20,30 +22,39 @@ regelungen:
 - §§ 11-12 Nds. Abfallgesetz (NAbfG)
 leika_id: '99001009004000'
 ozg_id: null
-letzte-aktualisierung: '2026-07-28'
+letzte-aktualisierung: '2026-10-06'
 ---
 
-# Sperrmüll abholen
+# Sperrmüll entsorgen (Abholung)
 
 ## Prozessschritte
 
-**01 Anmeldung entgegennehmen**  
+**01 Sperrmüll anmelden**  
+*Antragstellende Person: Anmeldung mit Terminwunsch*
+
+**02 Anmeldung entgegennehmen**  
 *Terminwunsch*
 
-**02 Termin vergeben**  
+**03 Termin vergeben**  
 *Nach Kapazität*
 
-**03 Gebühren berechnen**  
+**04 Gebühren berechnen**  
 *Nach Umfang*
 
-**04 Abholung organisieren**  
+**05 Abholung organisieren**  
 *Team, Fahrzeug*
 
-**05 Durchführung überwachen**  
+**06 Durchführung überwachen**  
 *Vor Ort*
 
-**06 Abrechnung**  
+**07 Abrechnung**  
 *Gebühren einziehen*
 
-**07 Statistik**  
+**08 Statistik**  
 *Mengenerfassung*
+
+**09 Abholung und Gebührenbescheid erhalten**  
+*Antragstellende Person*
+
+
+*Zusammengeführt am 06.10.2026 mit `proc-sperrmuell-anmelden` (ein Prozess je Leistung, FIM-Leistungsschlüssel 99001009004000; Entscheidung Martin 06.10.2026, Gruppe 1).*
